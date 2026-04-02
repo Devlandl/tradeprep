@@ -1,1 +1,2522 @@
-[]
+[
+  {
+    "id": "hvac-heating-b-001",
+    "question": "What does HVAC stand for?",
+    "options": [
+      "High Voltage Alternating Current",
+      "Hydraulic Vacuum Air Control",
+      "Heating, Ventilation, and Air Conditioning",
+      "Hot Vent and Cooling"
+    ],
+    "correctIndex": 2,
+    "explanation": "HVAC stands for Heating, Ventilation, and Air Conditioning. It covers all the systems used to control temperature, humidity, and air quality in buildings.",
+    "chapter": "heating",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-heating-b-002",
+    "question": "What fuel does a gas furnace typically burn to produce heat?",
+    "options": [
+      "Diesel fuel",
+      "Kerosene",
+      "Natural gas or propane",
+      "Heating oil only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gas furnaces burn natural gas or propane (LP gas). Natural gas is delivered through utility pipes, while propane is stored in tanks on the property. Furnaces can be converted between the two with a conversion kit.",
+    "chapter": "heating",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-heating-b-003",
+    "question": "What is the purpose of a heat exchanger in a furnace?",
+    "options": [
+      "To transfer heat from combustion gases to room air without mixing them",
+      "To filter the air before it enters the ductwork",
+      "To store fuel for later use",
+      "To circulate refrigerant through the system"
+    ],
+    "correctIndex": 0,
+    "explanation": "The heat exchanger is a metal chamber where hot combustion gases pass through. Room air blows over the outside of the heat exchanger, absorbing the heat without ever touching the combustion gases. This keeps carbon monoxide out of the living space.",
+    "chapter": "heating",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-heating-b-004",
+    "question": "What type of heating system uses water heated by a boiler and circulated through radiators or baseboard heaters?",
+    "options": [
+      "Forced air heating",
+      "Electric resistance heating",
+      "Hydronic heating",
+      "Geothermal heating"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hydronic heating systems use a boiler to heat water, which is then circulated through pipes to radiators, baseboard heaters, or radiant floor tubing. The hot water releases heat into the rooms as it flows through.",
+    "chapter": "heating",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-heating-b-005",
+    "question": "What is a heat pump?",
+    "options": [
+      "A pump that circulates hot water through radiators",
+      "A backup heater for a furnace",
+      "A fan that blows hot air through ductwork",
+      "A system that can both heat and cool by moving heat from one place to another"
+    ],
+    "correctIndex": 3,
+    "explanation": "A heat pump moves heat rather than generating it. In cooling mode, it moves heat from inside to outside like an air conditioner. In heating mode, it reverses to move heat from outside air into the home, making it very energy efficient.",
+    "chapter": "heating",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-heating-b-006",
+    "question": "What is the function of a thermostat in a heating system?",
+    "options": [
+      "To sense the room temperature and signal the heating system to turn on or off",
+      "To filter the air",
+      "To ignite the furnace burner directly",
+      "To control the gas pressure to the burner"
+    ],
+    "correctIndex": 0,
+    "explanation": "A thermostat is a temperature-sensing control device. When the room temperature drops below the set point, the thermostat sends a signal (usually 24V) to the furnace or heat pump to start the heating cycle.",
+    "chapter": "heating",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-heating-b-007",
+    "question": "What is a BTU?",
+    "options": [
+      "A unit of electrical current",
+      "A type of furnace filter",
+      "The amount of heat needed to raise one pound of water by one degree Fahrenheit",
+      "A measurement of air pressure"
+    ],
+    "correctIndex": 2,
+    "explanation": "BTU stands for British Thermal Unit. It is the amount of heat energy required to raise the temperature of one pound of water by one degree Fahrenheit. Furnaces and heating systems are rated in BTUs per hour to indicate their heating capacity.",
+    "chapter": "heating",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-heating-b-008",
+    "question": "What component in a gas furnace lights the burner in most modern systems?",
+    "options": [
+      "A standing pilot light",
+      "An electric spark from the blower motor",
+      "A match held by the technician",
+      "A hot surface igniter"
+    ],
+    "correctIndex": 3,
+    "explanation": "Most modern gas furnaces use a hot surface igniter (HSI) made of silicon carbide or silicon nitride. It glows red-hot when energized and ignites the gas. Older systems used standing pilot lights, but these waste gas and are rarely installed today.",
+    "chapter": "heating",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-heating-b-009",
+    "question": "What does AFUE stand for in furnace ratings?",
+    "options": [
+      "Annual Fuel Utilization Efficiency",
+      "Air Flow Unit Equivalent",
+      "Average Furnace Upgrade Estimate",
+      "Adjusted Flame Usage Energy"
+    ],
+    "correctIndex": 0,
+    "explanation": "AFUE stands for Annual Fuel Utilization Efficiency. It measures what percentage of fuel is converted to usable heat. A 96% AFUE furnace converts 96 cents of every dollar spent on fuel into heat, with only 4 cents lost up the flue.",
+    "chapter": "heating",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-heating-b-010",
+    "question": "What is radiant floor heating?",
+    "options": [
+      "A system that blows hot air through floor vents",
+      "A system that uses electric baseboards mounted at floor level",
+      "A system where heated water or electric elements are embedded in or under the floor to warm the space from below",
+      "A system that reflects sunlight through the floor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Radiant floor heating uses either hot water tubing (hydronic) or electric heating cables embedded in or under the floor. Heat radiates upward from the floor surface, warming occupants and objects directly. It provides very even, comfortable heat.",
+    "chapter": "heating",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-heating-i-001",
+    "question": "A customer reports the furnace blows cold air for a minute before warm air comes out. What is the most likely explanation?",
+    "options": [
+      "The heat exchanger is cracked",
+      "The blower motor is faulty",
+      "The fan delay or fan-on timing is normal - the blower waits for the heat exchanger to warm up before turning on",
+      "The thermostat is wired incorrectly"
+    ],
+    "correctIndex": 2,
+    "explanation": "Most furnaces have a fan delay feature. The blower does not turn on immediately when the burners ignite. It waits until the heat exchanger is warm enough to deliver comfortable air, usually 30-90 seconds. This is normal operation, not a fault.",
+    "chapter": "heating",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-heating-i-002",
+    "question": "What safety device shuts down a gas furnace if the heat exchanger overheats?",
+    "options": [
+      "The thermostat",
+      "The gas valve",
+      "The high-limit switch",
+      "The blower capacitor"
+    ],
+    "correctIndex": 2,
+    "explanation": "The high-limit switch is a safety control mounted on or near the heat exchanger. If the temperature exceeds a safe threshold (often around 200 degrees F), it opens and shuts off the gas valve. Common causes of tripping include a dirty filter or failed blower motor.",
+    "chapter": "heating",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-heating-i-003",
+    "question": "In a two-stage furnace, what is the advantage of the low-fire stage?",
+    "options": [
+      "It heats faster than high-fire",
+      "It is only used for cooling mode",
+      "It uses less energy and provides more even heating during mild weather",
+      "It provides better humidity removal"
+    ],
+    "correctIndex": 2,
+    "explanation": "A two-stage furnace runs at a lower firing rate (typically 60-70% capacity) most of the time. This lower stage runs longer, distributing heat more evenly, reducing temperature swings, and using less fuel. High-fire kicks in only on the coldest days.",
+    "chapter": "heating",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-heating-i-004",
+    "question": "What is the purpose of the flame sensor in a gas furnace?",
+    "options": [
+      "To ignite the gas",
+      "To measure the flue gas temperature",
+      "To prove the burner flame is present and shut off gas if it is not",
+      "To regulate gas pressure"
+    ],
+    "correctIndex": 2,
+    "explanation": "The flame sensor is a metal rod that sits in the burner flame. It detects a small microamp DC current caused by flame rectification. If no flame is detected within a few seconds after the gas valve opens, the control board shuts off gas flow to prevent a dangerous gas buildup.",
+    "chapter": "heating",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-heating-i-005",
+    "question": "A condensing furnace has a white PVC pipe exiting the side of the house. What is this pipe for?",
+    "options": [
+      "Venting flue gases and possibly combustion air intake",
+      "Fresh air intake only",
+      "Condensate drainage",
+      "Refrigerant piping"
+    ],
+    "correctIndex": 0,
+    "explanation": "Condensing furnaces (90%+ AFUE) produce flue gases cool enough to vent through PVC pipe instead of a metal chimney. Many installations use two PVC pipes - one for exhaust and one for combustion air intake (direct vent). The cool exhaust allows PVC because temperatures stay below 150 degrees F.",
+    "chapter": "heating",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-heating-i-006",
+    "question": "What does a cracked heat exchanger in a gas furnace pose a risk of?",
+    "options": [
+      "Refrigerant leak",
+      "Water damage",
+      "Carbon monoxide leaking into the living space",
+      "Electrical shock"
+    ],
+    "correctIndex": 2,
+    "explanation": "A cracked heat exchanger can allow combustion gases, including carbon monoxide (CO), to mix with the conditioned air blown into the home. CO is colorless and odorless, making it extremely dangerous. A cracked heat exchanger typically requires furnace replacement.",
+    "chapter": "heating",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-heating-i-007",
+    "question": "When performing combustion analysis on a gas furnace, what is the ideal range for carbon monoxide (CO) in the flue gas?",
+    "options": [
+      "Under 100 ppm in air-free conditions",
+      "200-400 ppm",
+      "500-1000 ppm",
+      "CO is not measured in combustion analysis"
+    ],
+    "correctIndex": 0,
+    "explanation": "During combustion analysis, CO levels in the flue gas should ideally be under 100 ppm on an air-free basis. Levels above 100 ppm indicate incomplete combustion and require investigation. Common causes include a dirty burner, cracked heat exchanger, or improper gas pressure.",
+    "chapter": "heating",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-heating-i-008",
+    "question": "What type of oil furnace component atomizes the fuel oil into a fine mist for combustion?",
+    "options": [
+      "The oil pump",
+      "The barometric damper",
+      "The cad cell",
+      "The nozzle"
+    ],
+    "correctIndex": 3,
+    "explanation": "The oil burner nozzle sprays fuel oil at high pressure (typically 100-150 PSI) in a fine cone-shaped mist pattern. The nozzle is rated by GPH (gallons per hour), spray angle, and spray pattern. Proper nozzle selection is critical for clean, efficient combustion.",
+    "chapter": "heating",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-heating-i-009",
+    "question": "In a boiler system, what device prevents the water pressure from exceeding safe levels?",
+    "options": [
+      "The circulator pump",
+      "The expansion tank",
+      "The pressure relief valve",
+      "The aquastat"
+    ],
+    "correctIndex": 2,
+    "explanation": "The pressure relief valve (also called a safety relief valve) is required on all boilers. It opens automatically if water pressure exceeds a set point (typically 30 PSI for residential boilers), releasing water to prevent a dangerous pressure buildup or explosion.",
+    "chapter": "heating",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-heating-i-010",
+    "question": "What does the term 'short cycling' mean when referring to a furnace?",
+    "options": [
+      "The furnace runs too long without shutting off",
+      "The furnace only runs in low-fire mode",
+      "The furnace turns on and off rapidly without completing a full heating cycle",
+      "The blower runs at reduced speed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Short cycling means the furnace starts up, runs briefly (often just a few minutes), shuts off, and then starts again repeatedly. Common causes include an oversized furnace, dirty filter, blocked vents, or a faulty flame sensor. It wastes energy and accelerates wear on components.",
+    "chapter": "heating",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-heating-a-001",
+    "question": "A gas furnace has an input rating of 100,000 BTU/h and an AFUE of 96%. What is its output rating?",
+    "options": [
+      "100,000 BTU/h",
+      "104,000 BTU/h",
+      "96,000 BTU/h",
+      "80,000 BTU/h"
+    ],
+    "correctIndex": 2,
+    "explanation": "Output = Input x AFUE. So 100,000 x 0.96 = 96,000 BTU/h. The remaining 4,000 BTU/h is lost through the flue. This is why high-efficiency condensing furnaces with 96%+ AFUE deliver significantly more usable heat per dollar than 80% AFUE standard furnaces.",
+    "chapter": "heating",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-heating-a-002",
+    "question": "A technician measures 8.5% CO2 in the flue of a natural gas furnace. The ideal range is 8.5-9.5%. What should the technician check if CO2 drops to 5%?",
+    "options": [
+      "The heat exchanger for cracks allowing dilution air",
+      "The gas valve for over-firing",
+      "The thermostat calibration",
+      "The blower speed setting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Low CO2 readings in flue gas often indicate excess air being introduced into the combustion stream. A common cause is a cracked heat exchanger allowing room air (dilution air) to enter the flue gas path. Other causes include a loose flue connection or over-firing, but a significant drop usually points to heat exchanger issues.",
+    "chapter": "heating",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-heating-a-003",
+    "question": "A home has 65,000 BTU/h heat loss. If selecting a furnace with 80% AFUE, what minimum input rating is needed?",
+    "options": [
+      "65,000 BTU/h",
+      "52,000 BTU/h",
+      "81,250 BTU/h",
+      "72,000 BTU/h"
+    ],
+    "correctIndex": 2,
+    "explanation": "To find the required input: divide the heat loss by the AFUE. 65,000 / 0.80 = 81,250 BTU/h input. This ensures the furnace delivers at least 65,000 BTU/h of usable heat to the space after accounting for efficiency losses up the flue.",
+    "chapter": "heating",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-heating-a-004",
+    "question": "During combustion analysis of a natural gas furnace, a technician reads a stack temperature of 350 degrees F with an O2 reading of 9%. What does the high O2 indicate?",
+    "options": [
+      "Too much excess air - the furnace is under-firing or has air leaks",
+      "Perfect combustion conditions",
+      "Dangerous CO levels",
+      "The furnace is over-firing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ideal O2 levels in natural gas flue gas are typically 4-9%. An O2 reading at the high end (9%) combined with a high stack temperature suggests too much excess air is diluting the combustion. This reduces efficiency. Causes include undersized gas orifices, low gas pressure, or air leaks in the heat exchanger.",
+    "chapter": "heating",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-heating-a-005",
+    "question": "A modulating gas furnace can fire between 40% and 100% capacity. In a home with a 60,000 BTU/h heat loss at design conditions, at what approximate percentage would the furnace run on a day when the actual heat loss is only 30,000 BTU/h?",
+    "options": [
+      "40% (minimum fire)",
+      "100%",
+      "75%",
+      "50%"
+    ],
+    "correctIndex": 3,
+    "explanation": "30,000 / 60,000 = 50% of capacity. Since 50% falls within the modulating range (40-100%), the furnace would modulate to approximately 50% firing rate. This means longer, steadier run times with less temperature swing compared to a single-stage unit cycling on and off.",
+    "chapter": "heating",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-heating-a-006",
+    "question": "When sizing a gas line to a furnace, a technician must consider pipe length, number of fittings, and gas demand in CFH. If a furnace has an input of 100,000 BTU/h, what is the approximate CFH demand for natural gas (1,000 BTU per cubic foot)?",
+    "options": [
+      "50 CFH",
+      "200 CFH",
+      "100 CFH",
+      "1,000 CFH"
+    ],
+    "correctIndex": 2,
+    "explanation": "CFH = BTU/h divided by the heating value of the gas. For natural gas at approximately 1,000 BTU per cubic foot: 100,000 / 1,000 = 100 CFH. This value is used with pipe sizing charts to determine the correct pipe diameter for adequate gas flow at acceptable pressure drop.",
+    "chapter": "heating",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-heating-a-007",
+    "question": "A dual-fuel heat pump system switches from heat pump to gas furnace heating. At what condition does this switchover typically occur?",
+    "options": [
+      "When the outdoor temperature drops to the economic balance point where gas heating is cheaper than heat pump operation",
+      "When indoor humidity exceeds 60%",
+      "When the thermostat batteries are low",
+      "When the blower motor overheats"
+    ],
+    "correctIndex": 0,
+    "explanation": "The economic balance point is the outdoor temperature at which it becomes cheaper to run the gas furnace than the heat pump. As outdoor temps drop, the heat pump's efficiency decreases (lower COP) and it runs longer. Below the balance point, gas is more economical. This is typically between 30-40 degrees F depending on fuel costs and equipment efficiency.",
+    "chapter": "heating",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-heating-a-008",
+    "question": "An oil furnace technician performs a smoke test and gets a #3 smoke reading. What does this indicate?",
+    "options": [
+      "Clean, efficient combustion",
+      "Slightly dirty but acceptable combustion",
+      "Incomplete combustion requiring immediate service - the burner needs adjustment",
+      "The oil nozzle is the wrong size"
+    ],
+    "correctIndex": 2,
+    "explanation": "The smoke scale runs from 0 (no smoke/clean) to 9 (heavy black smoke). A reading of 0 or trace (#1) is acceptable. A #3 reading indicates significant incomplete combustion with soot production. The technician should check the nozzle, adjust the air band, check oil pressure, and inspect the combustion chamber.",
+    "chapter": "heating",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-heating-a-009",
+    "question": "A boiler's expansion tank is waterlogged. What symptom will the homeowner likely report?",
+    "options": [
+      "No heat at all",
+      "Strange noises from the radiators only",
+      "The boiler runs continuously",
+      "The pressure relief valve is frequently discharging water"
+    ],
+    "correctIndex": 3,
+    "explanation": "When an expansion tank is waterlogged (no air cushion), there is no room for the water to expand as it heats up. This causes the system pressure to rise rapidly and the pressure relief valve to open and discharge water. The fix is to replace or recharge the expansion tank with the proper air pre-charge.",
+    "chapter": "heating",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-heating-a-010",
+    "question": "When setting up a gas furnace, a technician measures the manifold gas pressure at 3.5 inches of water column (WC) for natural gas. The specification calls for 3.5 inches WC. If the technician also checks the temperature rise and finds it is 10 degrees above the rated range, what is the most likely cause?",
+    "options": [
+      "The filter is too restrictive - reduced airflow across the heat exchanger",
+      "The gas pressure is too low",
+      "The thermostat anticipator is set wrong",
+      "The flue is too large"
+    ],
+    "correctIndex": 0,
+    "explanation": "Since gas pressure is correct at 3.5 inches WC, the over-firing is not gas-related. A high temperature rise indicates insufficient airflow across the heat exchanger. Common causes include a dirty or oversized filter, blocked return air, closed registers, or incorrect blower speed setting. Inadequate airflow causes the supply air to absorb too much heat.",
+    "chapter": "heating",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-cooling-b-001",
+    "question": "What are the two main sections of a residential split-system air conditioner?",
+    "options": [
+      "The boiler and the radiator",
+      "The compressor and the thermostat",
+      "The outdoor condensing unit and the indoor evaporator coil",
+      "The ductwork and the filter"
+    ],
+    "correctIndex": 2,
+    "explanation": "A split system has an outdoor condensing unit (containing the compressor and condenser coil) and an indoor evaporator coil (mounted on or in the furnace/air handler). Refrigerant lines connect the two. This is the most common residential AC configuration.",
+    "chapter": "cooling",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-cooling-b-002",
+    "question": "What is the function of the compressor in an air conditioning system?",
+    "options": [
+      "To pump and compress refrigerant, raising its pressure and temperature",
+      "To cool the air directly",
+      "To filter contaminants from the refrigerant",
+      "To remove humidity from the air"
+    ],
+    "correctIndex": 0,
+    "explanation": "The compressor is the heart of the refrigeration cycle. It receives low-pressure refrigerant vapor from the evaporator and compresses it into high-pressure, high-temperature vapor. This allows the refrigerant to release its heat at the outdoor condenser coil.",
+    "chapter": "cooling",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-cooling-b-003",
+    "question": "Where does the condenser coil release heat in a standard split AC system?",
+    "options": [
+      "Inside the home",
+      "In the ductwork",
+      "Into the attic",
+      "Outdoors through the outdoor unit"
+    ],
+    "correctIndex": 3,
+    "explanation": "The condenser coil is located in the outdoor unit. Hot, high-pressure refrigerant flows through the condenser coil while the outdoor fan blows ambient air across it, removing heat from the refrigerant. The refrigerant condenses from a vapor into a liquid as it releases heat.",
+    "chapter": "cooling",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-cooling-b-004",
+    "question": "What does the evaporator coil do?",
+    "options": [
+      "It heats the refrigerant",
+      "It filters the indoor air",
+      "It absorbs heat from indoor air, cooling the home",
+      "It compresses refrigerant into liquid"
+    ],
+    "correctIndex": 2,
+    "explanation": "The evaporator coil is the indoor cooling component. Cold, low-pressure liquid refrigerant flows through it and evaporates into a gas, absorbing heat from the indoor air in the process. This is how the air conditioning system actually cools the home.",
+    "chapter": "cooling",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-cooling-b-005",
+    "question": "What unit of measurement is commonly used to rate air conditioner cooling capacity?",
+    "options": [
+      "Watts",
+      "CFM",
+      "Horsepower",
+      "Tons of cooling or BTU/h"
+    ],
+    "correctIndex": 3,
+    "explanation": "Residential AC capacity is rated in tons or BTU/h. One ton of cooling equals 12,000 BTU/h. A 3-ton system provides 36,000 BTU/h of cooling. The term 'ton' comes from the cooling effect of melting one ton of ice over 24 hours.",
+    "chapter": "cooling",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-cooling-b-006",
+    "question": "What is the metering device in a residential AC system that reduces refrigerant pressure before the evaporator?",
+    "options": [
+      "The compressor",
+      "The reversing valve",
+      "A thermostatic expansion valve (TXV) or fixed orifice",
+      "The accumulator"
+    ],
+    "correctIndex": 2,
+    "explanation": "The metering device (either a TXV or a fixed orifice/piston) restricts the flow of high-pressure liquid refrigerant, causing a rapid pressure drop. This drop in pressure lowers the refrigerant's boiling point so it can absorb heat in the evaporator coil.",
+    "chapter": "cooling",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-cooling-b-007",
+    "question": "What is SEER in the context of air conditioning?",
+    "options": [
+      "Seasonal Energy Efficiency Ratio - a measure of cooling efficiency over a season",
+      "Standard Electrical Energy Rating",
+      "System Evaporator Efficiency Report",
+      "Static External Energy Resistance"
+    ],
+    "correctIndex": 0,
+    "explanation": "SEER stands for Seasonal Energy Efficiency Ratio. It represents the total cooling output (BTU) divided by total electrical energy input (watt-hours) over a typical cooling season. A higher SEER means greater efficiency and lower operating costs. Current minimum standards require SEER2 ratings.",
+    "chapter": "cooling",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-cooling-b-008",
+    "question": "What type of air conditioning system contains all components (compressor, condenser, evaporator, and blower) in a single cabinet?",
+    "options": [
+      "A split system",
+      "A mini-split system",
+      "A package unit",
+      "A chiller"
+    ],
+    "correctIndex": 2,
+    "explanation": "A package unit houses all HVAC components in one outdoor cabinet, typically installed on a rooftop or concrete pad beside the building. Ductwork connects directly to the package unit. These are common on commercial buildings and some mobile homes.",
+    "chapter": "cooling",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-cooling-b-009",
+    "question": "What happens to moisture in the air as it passes over a cold evaporator coil?",
+    "options": [
+      "It evaporates and is blown outside",
+      "Nothing - the coil only affects temperature",
+      "It freezes and is periodically defrosted",
+      "It condenses on the coil surface and drains away, reducing indoor humidity"
+    ],
+    "correctIndex": 3,
+    "explanation": "When warm, humid air passes over the cold evaporator coil, moisture condenses on the coil surface (like water droplets on a cold glass). This condensate drips into a drain pan and is piped away. This dehumidification is a key benefit of air conditioning beyond just cooling.",
+    "chapter": "cooling",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-cooling-b-010",
+    "question": "What refrigerant line connects the outdoor unit to the indoor evaporator coil and carries cold refrigerant vapor back to the compressor?",
+    "options": [
+      "The suction line (larger diameter, often insulated)",
+      "The liquid line (smaller diameter)",
+      "The discharge line",
+      "The drain line"
+    ],
+    "correctIndex": 0,
+    "explanation": "The suction line is the larger-diameter insulated copper line that carries cool, low-pressure refrigerant vapor from the evaporator back to the compressor. It is insulated to prevent condensation and energy loss. The smaller uninsulated line is the liquid line carrying high-pressure liquid to the metering device.",
+    "chapter": "cooling",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-cooling-i-001",
+    "question": "A technician finds the evaporator coil is frozen solid. What is the most common cause?",
+    "options": [
+      "Overcharged refrigerant",
+      "An oversized compressor",
+      "A faulty condenser fan motor",
+      "Low refrigerant charge or restricted airflow"
+    ],
+    "correctIndex": 3,
+    "explanation": "A frozen evaporator coil is most commonly caused by insufficient airflow (dirty filter, blocked return, failed blower) or low refrigerant charge. Both conditions cause the evaporator temperature to drop below 32 degrees F, freezing the condensate on the coil. The system should be shut off to thaw before diagnosis.",
+    "chapter": "cooling",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-cooling-i-002",
+    "question": "What is superheat in the refrigeration cycle?",
+    "options": [
+      "The number of degrees a refrigerant vapor is heated above its boiling point at a given pressure",
+      "The temperature of the compressor discharge line",
+      "The heat added by the condenser fan",
+      "The difference between supply and return air temperature"
+    ],
+    "correctIndex": 0,
+    "explanation": "Superheat is the temperature increase of refrigerant vapor beyond its saturation (boiling) point at a given pressure. It is measured by subtracting the saturation temperature (from a PT chart at suction pressure) from the actual suction line temperature. Proper superheat (typically 8-14 degrees F at the evaporator) ensures only vapor enters the compressor.",
+    "chapter": "cooling",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-cooling-i-003",
+    "question": "What is subcooling in the refrigeration cycle?",
+    "options": [
+      "Cooling the compressor oil below operating temperature",
+      "Cooling the conditioned space below the thermostat set point",
+      "The number of degrees a liquid refrigerant is cooled below its condensing temperature at a given pressure",
+      "The temperature drop across the filter drier"
+    ],
+    "correctIndex": 2,
+    "explanation": "Subcooling is the temperature decrease of liquid refrigerant below its saturation (condensing) point at a given pressure. It is measured by subtracting the actual liquid line temperature from the saturation temperature at the liquid line pressure. Proper subcooling (typically 10-15 degrees F) indicates a full condenser and proper charge.",
+    "chapter": "cooling",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-cooling-i-004",
+    "question": "An AC system has good airflow but the suction pressure is low and superheat is high. What is the most likely problem?",
+    "options": [
+      "Overcharged system",
+      "Dirty condenser coil",
+      "Low refrigerant charge",
+      "Failed condenser fan motor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Low suction pressure with high superheat indicates insufficient refrigerant in the evaporator. The refrigerant boils off too quickly due to the low charge, leaving mostly vapor in the evaporator. This means there is not enough liquid refrigerant to absorb heat, so the vapor becomes superheated. A leak test should be performed before adding refrigerant.",
+    "chapter": "cooling",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-cooling-i-005",
+    "question": "What component protects the compressor from liquid refrigerant flooding back on startup?",
+    "options": [
+      "The filter drier",
+      "The service valve",
+      "The sight glass",
+      "The accumulator"
+    ],
+    "correctIndex": 3,
+    "explanation": "The accumulator is a tank installed in the suction line before the compressor. It catches any liquid refrigerant that has not fully evaporated, preventing it from entering and damaging the compressor (liquid slugging). It stores the liquid and allows it to slowly boil off before reaching the compressor.",
+    "chapter": "cooling",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-cooling-i-006",
+    "question": "A customer complains the AC is not cooling well. The technician finds the condenser coil is clogged with dirt and debris. What effect does this have on system pressures?",
+    "options": [
+      "Head pressure rises and suction pressure may drop, reducing cooling capacity",
+      "Both head and suction pressure drop",
+      "Suction pressure rises significantly",
+      "It has no effect on pressures"
+    ],
+    "correctIndex": 0,
+    "explanation": "A dirty condenser cannot reject heat efficiently. This causes head (discharge) pressure to rise as heat backs up in the system. Suction pressure may drop because the metering device sees higher pressure differential. The result is reduced cooling capacity, higher energy consumption, and potential compressor damage from overheating.",
+    "chapter": "cooling",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-cooling-i-007",
+    "question": "What is the typical temperature drop (delta T) across the evaporator coil in a properly operating residential AC system?",
+    "options": [
+      "5-10 degrees F",
+      "40-50 degrees F",
+      "25-35 degrees F",
+      "14-22 degrees F"
+    ],
+    "correctIndex": 3,
+    "explanation": "A properly operating residential AC system typically produces a 14-22 degree F temperature difference between the return air and supply air across the evaporator. If the delta T is too low, it may indicate low charge, dirty coil, or excessive airflow. If too high, it may indicate low airflow.",
+    "chapter": "cooling",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-cooling-i-008",
+    "question": "What is the purpose of a filter drier in the refrigerant circuit?",
+    "options": [
+      "To remove moisture and contaminants from the refrigerant",
+      "To filter indoor air passing over the evaporator",
+      "To regulate refrigerant flow rate",
+      "To measure refrigerant charge"
+    ],
+    "correctIndex": 0,
+    "explanation": "The filter drier is installed in the liquid line and contains a desiccant to absorb moisture and a screen to trap particulates. Moisture in the refrigerant system can form acids that damage compressor windings and cause freeze-ups at the metering device. The filter drier should always be replaced when the system is opened for service.",
+    "chapter": "cooling",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-cooling-i-009",
+    "question": "What type of compressor is most commonly used in residential split-system air conditioners today?",
+    "options": [
+      "Reciprocating piston compressor",
+      "Centrifugal compressor",
+      "Scroll compressor",
+      "Screw compressor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Scroll compressors have become the standard in residential AC and heat pump systems. They use two spiral-shaped scrolls - one stationary and one orbiting - to compress refrigerant. Scroll compressors are quieter, more efficient, more reliable, and have fewer moving parts than reciprocating compressors.",
+    "chapter": "cooling",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-cooling-i-010",
+    "question": "A TXV system shows normal superheat but low subcooling. What does this suggest?",
+    "options": [
+      "The system is overcharged",
+      "The compressor valves are leaking",
+      "The evaporator is oversized",
+      "The system is slightly low on refrigerant charge"
+    ],
+    "correctIndex": 3,
+    "explanation": "In a TXV system, the valve regulates superheat automatically. If superheat is normal but subcooling is low, it means the condenser does not have enough liquid refrigerant to fully subcool. This indicates a slightly low charge. The TXV is compensating by throttling down, maintaining proper superheat even with less refrigerant. Subcooling is the primary charging method for TXV systems.",
+    "chapter": "cooling",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-cooling-a-001",
+    "question": "A 3-ton AC system should produce approximately how many BTU/h of cooling?",
+    "options": [
+      "12,000 BTU/h",
+      "24,000 BTU/h",
+      "36,000 BTU/h",
+      "48,000 BTU/h"
+    ],
+    "correctIndex": 2,
+    "explanation": "One ton of cooling = 12,000 BTU/h. Therefore, 3 tons x 12,000 = 36,000 BTU/h. This relationship is fundamental for HVAC sizing calculations. The 'ton' measurement originates from the amount of heat absorbed by melting one ton (2,000 lbs) of ice in 24 hours.",
+    "chapter": "cooling",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-cooling-a-002",
+    "question": "A technician measures suction pressure of 118 PSIG on an R-410A system. Using a PT chart, the saturation temperature is 40 degrees F. The suction line temperature is 52 degrees F. What is the superheat?",
+    "options": [
+      "12 degrees F",
+      "6 degrees F",
+      "40 degrees F",
+      "52 degrees F"
+    ],
+    "correctIndex": 0,
+    "explanation": "Superheat = Actual suction line temperature minus saturation temperature at suction pressure. So 52 - 40 = 12 degrees F of superheat. This is within the normal range (8-14 degrees F for most systems). Superheat confirms that all liquid has boiled off in the evaporator, protecting the compressor from liquid slugging.",
+    "chapter": "cooling",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-cooling-a-003",
+    "question": "A technician measures liquid line pressure of 350 PSIG on an R-410A system. The saturation temperature at that pressure is 105 degrees F. The liquid line temperature is 92 degrees F. What is the subcooling?",
+    "options": [
+      "7 degrees F",
+      "105 degrees F",
+      "92 degrees F",
+      "13 degrees F"
+    ],
+    "correctIndex": 3,
+    "explanation": "Subcooling = Saturation temperature at liquid line pressure minus actual liquid line temperature. So 105 - 92 = 13 degrees F of subcooling. This is within the typical range of 10-15 degrees F for most systems. Proper subcooling confirms the condenser is fully condensing the refrigerant and providing a solid column of liquid to the metering device.",
+    "chapter": "cooling",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-cooling-a-004",
+    "question": "A system has high head pressure, high subcooling, low suction pressure, and low superheat. What is the most likely problem?",
+    "options": [
+      "Low refrigerant charge",
+      "Overcharged with refrigerant",
+      "Dirty evaporator coil",
+      "Restricted liquid line or metering device"
+    ],
+    "correctIndex": 3,
+    "explanation": "A restriction in the liquid line or metering device causes refrigerant to back up in the condenser (high head pressure, high subcooling) while starving the evaporator of refrigerant. The small amount that gets through flashes into vapor quickly (low suction pressure). The evaporator floods with liquid because flow is restricted (low superheat). Common restrictions include a plugged filter drier or clogged TXV screen.",
+    "chapter": "cooling",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-cooling-a-005",
+    "question": "What is the approximate sensible heat ratio (SHR) formula used to determine how much of an AC system's capacity goes to temperature reduction versus moisture removal?",
+    "options": [
+      "SHR = Total capacity / Latent capacity",
+      "SHR = Latent capacity / Total capacity",
+      "SHR = Sensible capacity / Total capacity",
+      "SHR = Total capacity / Sensible capacity"
+    ],
+    "correctIndex": 2,
+    "explanation": "SHR = Sensible capacity divided by Total capacity. Total capacity = Sensible + Latent. If a system removes 30,000 BTU/h total with 22,500 BTU/h sensible, SHR = 22,500/30,000 = 0.75. This means 75% of the capacity reduces temperature and 25% removes moisture. A lower SHR means more dehumidification, which matters in humid climates.",
+    "chapter": "cooling",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-cooling-a-006",
+    "question": "A compressor with inefficient valves would show which of the following symptoms?",
+    "options": [
+      "High suction pressure, low head pressure, and high amp draw",
+      "Low suction pressure, high head pressure, and low amp draw",
+      "High suction pressure, low head pressure, and low amp draw",
+      "Normal pressures but high superheat"
+    ],
+    "correctIndex": 2,
+    "explanation": "Worn or damaged compressor valves cannot efficiently pump refrigerant. Refrigerant leaks back through the valves, causing suction pressure to rise (un-pumped vapor) and head pressure to drop (less refrigerant compressed). Amp draw is low because the compressor is not doing as much work against lower pressure differential. Cooling capacity is significantly reduced.",
+    "chapter": "cooling",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-cooling-a-007",
+    "question": "When calculating the required airflow for a cooling system, the standard rule is approximately how many CFM per ton?",
+    "options": [
+      "400 CFM per ton",
+      "200 CFM per ton",
+      "600 CFM per ton",
+      "800 CFM per ton"
+    ],
+    "correctIndex": 0,
+    "explanation": "The standard design airflow for residential cooling is approximately 400 CFM per ton of cooling. A 3-ton system needs about 1,200 CFM. This can be adjusted: lower airflow (350 CFM/ton) improves dehumidification in humid climates, while higher airflow (450 CFM/ton) may be used in dry climates for maximum sensible cooling.",
+    "chapter": "cooling",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-cooling-a-008",
+    "question": "An inverter-driven variable speed compressor in a mini-split system provides what key advantage over a fixed-speed compressor?",
+    "options": [
+      "Lower installation cost",
+      "Elimination of the need for refrigerant",
+      "Higher maximum cooling capacity",
+      "Ability to modulate capacity to match the load, reducing cycling and improving efficiency"
+    ],
+    "correctIndex": 3,
+    "explanation": "Inverter-driven compressors can vary their speed from as low as 20% to over 100% capacity, matching output to the actual cooling load. This eliminates the constant on/off cycling of fixed-speed compressors, provides more stable temperatures, better humidity control, quieter operation, and significantly higher seasonal efficiency (SEER ratings often 20+).",
+    "chapter": "cooling",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-cooling-a-009",
+    "question": "During a compressor burnout, what contaminant is commonly found in the refrigerant system?",
+    "options": [
+      "Acid formed from decomposed refrigerant and oil reacting with moisture",
+      "Water only",
+      "Sand from the copper tubing",
+      "Carbon monoxide from combustion"
+    ],
+    "correctIndex": 0,
+    "explanation": "A compressor motor burnout exposes the refrigerant and oil to extreme heat from the electrical failure. This decomposes the oil and refrigerant, forming hydrochloric and hydrofluoric acids. These acids are highly corrosive and will damage the replacement compressor if not removed. A thorough system cleanup with filter driers, flush, and sometimes a suction line filter drier is required.",
+    "chapter": "cooling",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-cooling-a-010",
+    "question": "A technician needs to verify compressor efficiency. Using the temperature method, they measure the discharge line temperature at 220 degrees F on an R-410A system. What does this suggest?",
+    "options": [
+      "Normal operation - discharge temps of 200-225 degrees F are typical",
+      "The compressor is extremely efficient",
+      "The discharge temperature is dangerously high - normally should not exceed 200 degrees F for R-410A",
+      "The condenser fan is running too fast"
+    ],
+    "correctIndex": 2,
+    "explanation": "For R-410A systems, compressor discharge line temperatures should generally stay below 200 degrees F. Temperatures above this indicate excessive compression ratios, low suction pressure, low refrigerant charge, or a non-condensable (like air) in the system. Sustained high discharge temperatures degrade the compressor oil and shorten compressor life.",
+    "chapter": "cooling",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-ventilation-b-001",
+    "question": "What does CFM stand for in HVAC?",
+    "options": [
+      "Central Filtration Module",
+      "Cooling Factor Measurement",
+      "Condensing Fan Motor",
+      "Cubic Feet per Minute - a measure of air volume flow rate"
+    ],
+    "correctIndex": 3,
+    "explanation": "CFM stands for Cubic Feet per Minute. It measures the volume of air flowing through a duct, register, or system. For example, a 3-ton AC system typically needs about 1,200 CFM of airflow to operate properly.",
+    "chapter": "ventilation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-ventilation-b-002",
+    "question": "What is the purpose of return air ducts in an HVAC system?",
+    "options": [
+      "To carry air from the rooms back to the furnace or air handler for reconditioning",
+      "To deliver conditioned air to rooms",
+      "To exhaust stale air to the outdoors",
+      "To bring in fresh outdoor air"
+    ],
+    "correctIndex": 0,
+    "explanation": "Return air ducts pull air from the living spaces back to the furnace or air handler. This air is then filtered, heated or cooled, and sent back through the supply ducts. Without adequate return air, the system cannot maintain proper airflow, leading to pressure imbalances and comfort problems.",
+    "chapter": "ventilation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-ventilation-b-003",
+    "question": "What is the purpose of an air filter in an HVAC system?",
+    "options": [
+      "To cool the air before it enters the system",
+      "To add humidity to the air",
+      "To remove dust, dirt, and particles from the air before it passes through the equipment",
+      "To regulate airflow speed"
+    ],
+    "correctIndex": 2,
+    "explanation": "The air filter traps dust, pollen, pet dander, and other airborne particles from the return air before it reaches the evaporator coil and blower. This protects the equipment from fouling and improves indoor air quality. Filters should be checked monthly and replaced or cleaned regularly.",
+    "chapter": "ventilation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-ventilation-b-004",
+    "question": "What is a damper in an HVAC duct system?",
+    "options": [
+      "A type of air filter",
+      "A noise reduction lining",
+      "A moisture removal component",
+      "A device that regulates or blocks airflow within a duct"
+    ],
+    "correctIndex": 3,
+    "explanation": "A damper is a movable plate or valve inside a duct that controls airflow. Manual dampers have a handle on the outside of the duct for adjustment. Motorized dampers are controlled automatically by the thermostat or zone control board to direct airflow to specific areas of the building.",
+    "chapter": "ventilation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-ventilation-b-005",
+    "question": "What is static pressure in ductwork?",
+    "options": [
+      "The resistance to airflow within the duct system, measured in inches of water column",
+      "The weight of the ductwork",
+      "The temperature of the air inside the duct",
+      "The noise level produced by the air movement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Static pressure is the resistance the duct system creates against airflow, similar to blood pressure in your body. It is measured in inches of water column (WC) using a manometer. High static pressure means the blower is working harder to push air through restrictions like dirty filters, undersized ducts, or too many elbows.",
+    "chapter": "ventilation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-ventilation-b-006",
+    "question": "What shape of ductwork is most efficient for airflow?",
+    "options": [
+      "Square duct",
+      "Oval duct",
+      "Rectangular duct",
+      "Round duct"
+    ],
+    "correctIndex": 3,
+    "explanation": "Round duct is the most efficient shape for airflow because it has the least surface area per unit of air volume, creating less friction. It is also stronger structurally and less prone to leaks. Rectangular duct is common where space is limited (like between floor joists), but requires a larger cross-section to carry the same airflow.",
+    "chapter": "ventilation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-ventilation-b-007",
+    "question": "What is the MERV rating on an air filter?",
+    "options": [
+      "A measure of the filter's ability to capture particles - higher MERV means finer filtration",
+      "The filter's maximum temperature tolerance",
+      "The filter's airflow capacity in CFM",
+      "The filter's expected lifespan in months"
+    ],
+    "correctIndex": 0,
+    "explanation": "MERV stands for Minimum Efficiency Reporting Value, rated from 1 to 20. A higher MERV rating means the filter captures smaller particles. Residential systems typically use MERV 8-13 filters. Very high MERV filters (16+) restrict more airflow and may require modifications to the duct system or blower.",
+    "chapter": "ventilation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-ventilation-b-008",
+    "question": "What happens if all supply registers in a home are closed except one?",
+    "options": [
+      "The system runs more efficiently",
+      "The thermostat compensates automatically",
+      "The one open register produces more airflow without any problems",
+      "The system builds excessive static pressure, potentially damaging the ductwork and equipment"
+    ],
+    "correctIndex": 3,
+    "explanation": "Closing too many supply registers creates excessive static pressure in the duct system. The blower motor works harder, uses more energy, and can overheat. Duct leaks worsen as pressure increases. This can also cause the evaporator coil to freeze due to insufficient airflow. Generally, at least 80% of registers should remain open.",
+    "chapter": "ventilation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-ventilation-b-009",
+    "question": "What is a plenum in an HVAC system?",
+    "options": [
+      "The main air distribution box directly connected to the furnace or air handler where ductwork branches off",
+      "A type of thermostat",
+      "A noise dampener in the ductwork",
+      "The outdoor air intake hood"
+    ],
+    "correctIndex": 0,
+    "explanation": "The plenum is the large sheet metal box attached directly to the supply or return side of the furnace or air handler. The supply plenum is where conditioned air first enters before branching into individual duct runs to each room. The return plenum collects air from return ducts before it enters the filter and equipment.",
+    "chapter": "ventilation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-ventilation-b-010",
+    "question": "What is the purpose of a fresh air intake (ventilation air) in modern, tightly sealed homes?",
+    "options": [
+      "To increase cooling capacity",
+      "To reduce humidity levels",
+      "To exhaust combustion gases",
+      "To bring in controlled outdoor air to maintain indoor air quality"
+    ],
+    "correctIndex": 3,
+    "explanation": "Modern energy-efficient homes are sealed tightly, reducing natural air infiltration. A fresh air intake brings in a controlled amount of outdoor air to dilute indoor pollutants like VOCs, CO2, and moisture. This is required by building codes (ASHRAE 62.2) and is typically connected to the return duct with a motorized damper.",
+    "chapter": "ventilation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-ventilation-i-001",
+    "question": "A technician measures the total external static pressure (TESP) of a residential system at 0.85 inches WC. The equipment is rated for 0.50 inches WC maximum. What should the technician investigate?",
+    "options": [
+      "Restricted ductwork, dirty filter, undersized ducts, or too many fittings causing excessive resistance",
+      "This is normal - all systems run above rated static pressure",
+      "The blower motor is too powerful",
+      "The outdoor unit is causing back-pressure"
+    ],
+    "correctIndex": 0,
+    "explanation": "A TESP of 0.85 inches WC exceeding the 0.50 inch rating means the duct system is too restrictive. Common causes include dirty filters, undersized ducts, crushed flex duct, excessive duct length, too many elbows, or closed dampers. High static pressure reduces airflow, system capacity, efficiency, and equipment lifespan.",
+    "chapter": "ventilation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-ventilation-i-002",
+    "question": "When sizing ductwork using the equal friction method, what friction rate is commonly used for residential systems?",
+    "options": [
+      "0.01 inches WC per 100 feet",
+      "1.0 inches WC per 100 feet",
+      "0.50 inches WC per 100 feet",
+      "0.08 inches WC per 100 feet"
+    ],
+    "correctIndex": 3,
+    "explanation": "The equal friction method designs all duct branches to have the same friction rate, typically 0.08 inches WC per 100 feet of equivalent duct length for residential systems. This ensures balanced airflow throughout the system. The available static pressure is divided by the total effective duct length to determine the design friction rate.",
+    "chapter": "ventilation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-ventilation-i-003",
+    "question": "A homeowner complains that one room is always too warm in summer. The duct to that room is a long, 6-inch flex duct run with several bends. What is the most likely cause?",
+    "options": [
+      "The long duct run with bends creates too much resistance, reducing airflow to that room",
+      "The thermostat is set too high",
+      "The evaporator coil is dirty",
+      "The room has too many windows"
+    ],
+    "correctIndex": 0,
+    "explanation": "Long duct runs with multiple bends significantly increase friction and reduce airflow. Each 90-degree bend in flex duct adds the equivalent of about 15-20 feet of straight duct. The solution may include increasing duct size, reducing bends, pulling flex duct tight to reduce sag, or adding a booster fan.",
+    "chapter": "ventilation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-ventilation-i-004",
+    "question": "What is the purpose of a balancing damper in a branch duct?",
+    "options": [
+      "To completely shut off airflow to unused rooms",
+      "To reduce noise in the duct",
+      "To filter air going to that specific room",
+      "To adjust airflow volume to each room so each space receives its designed CFM"
+    ],
+    "correctIndex": 3,
+    "explanation": "Balancing dampers are installed in branch ducts to fine-tune airflow to each room. After the system is installed, a technician measures the CFM at each register and adjusts balancing dampers to match the design airflow. Rooms closer to the blower may need dampers partially closed to prevent them from stealing air from more distant rooms.",
+    "chapter": "ventilation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-ventilation-i-005",
+    "question": "What is the recommended maximum air velocity in a residential main trunk duct to minimize noise?",
+    "options": [
+      "700-900 FPM",
+      "400 FPM",
+      "1,500 FPM",
+      "2,500 FPM"
+    ],
+    "correctIndex": 0,
+    "explanation": "For residential comfort, main trunk duct velocities should typically stay between 700-900 feet per minute (FPM). Branch ducts to individual rooms should be even lower (500-700 FPM). Higher velocities create noise from air rushing through the duct and fittings. Velocity = CFM divided by duct cross-sectional area in square feet.",
+    "chapter": "ventilation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-ventilation-i-006",
+    "question": "A building has positive pressure in the HVAC system supply side and negative pressure on the return side. What can cause a building to be under significant negative pressure overall?",
+    "options": [
+      "Too many supply registers",
+      "The thermostat set to 'auto' fan",
+      "The outdoor unit running too fast",
+      "Exhaust fans, dryers, and fireplaces pulling air out without adequate makeup air"
+    ],
+    "correctIndex": 3,
+    "explanation": "Exhaust devices like kitchen range hoods, bathroom fans, clothes dryers, and fireplaces remove air from the building. If there is not enough makeup (replacement) air, the building goes negative. This can cause backdrafting of combustion appliances, difficulty opening doors, and increased infiltration of unconditioned air through cracks.",
+    "chapter": "ventilation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-ventilation-i-007",
+    "question": "What tool is used to measure static pressure in ductwork?",
+    "options": [
+      "A manometer",
+      "An anemometer",
+      "A psychrometer",
+      "A hygrometer"
+    ],
+    "correctIndex": 0,
+    "explanation": "A manometer measures pressure differences, typically displayed in inches of water column (WC). A digital manometer with static pressure tips is inserted into small holes drilled in the duct to measure the pressure at various points. The total external static pressure is measured across the air handler - one tip before the filter and one after the blower.",
+    "chapter": "ventilation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-ventilation-i-008",
+    "question": "In a zoned HVAC system, what happens when only one zone is calling for conditioning?",
+    "options": [
+      "The system runs at full capacity regardless",
+      "All dampers remain open",
+      "The compressor speed doubles",
+      "Zone dampers close off non-calling zones and a bypass damper may open to relieve excess pressure"
+    ],
+    "correctIndex": 3,
+    "explanation": "In a zoned system, motorized dampers in the ductwork close off zones not calling for conditioning. Since the blower still moves the same air volume, a bypass damper between the supply and return plenum may open to prevent high static pressure. More advanced systems use variable-speed blowers that ramp down to match the open ductwork.",
+    "chapter": "ventilation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-ventilation-i-009",
+    "question": "What is duct leakage and why is it a problem?",
+    "options": [
+      "Air escaping through gaps, holes, or disconnected joints in the duct system, wasting energy",
+      "Water leaking from the condensate pan into the ductwork",
+      "Refrigerant leaking into the duct system",
+      "Noise vibrations transmitting through duct connections"
+    ],
+    "correctIndex": 0,
+    "explanation": "Duct leakage occurs when conditioned air escapes through unsealed joints, holes, or disconnections in the ductwork. Studies show the average home loses 20-30% of conditioned air through duct leaks. Leaky ducts in unconditioned spaces (attics, crawlspaces) are especially wasteful. Duct sealing with mastic or approved tape can significantly reduce energy costs.",
+    "chapter": "ventilation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-ventilation-i-010",
+    "question": "When installing flex duct, what is the maximum amount of sag (belly) allowed between supports?",
+    "options": [
+      "No sag is acceptable",
+      "2 feet of sag is fine as long as the duct is connected",
+      "6 inches regardless of span",
+      "1/2 inch per foot of spacing between supports"
+    ],
+    "correctIndex": 3,
+    "explanation": "Flex duct should be supported at intervals of no more than 4-5 feet, and the maximum sag between supports should not exceed 1/2 inch per foot of spacing. Excessive sag creates pockets that trap air and dramatically increase friction. Flex duct should be pulled tight (but not stretched) and supported to maintain a smooth, straight run.",
+    "chapter": "ventilation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-ventilation-a-001",
+    "question": "Using Manual D principles, a duct branch needs to deliver 150 CFM at a friction rate of 0.08 in WC per 100 feet. What approximate round duct diameter is needed?",
+    "options": [
+      "5 inches",
+      "6 inches",
+      "7 inches",
+      "8 inches"
+    ],
+    "correctIndex": 2,
+    "explanation": "Using a duct calculator or friction chart at 0.08 inches WC per 100 feet and 150 CFM, a 7-inch round duct is the approximate size needed. A 6-inch duct at 150 CFM would have a friction rate of about 0.15 inches WC per 100 feet (too restrictive), while an 8-inch duct would have much lower friction than needed (oversized).",
+    "chapter": "ventilation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-ventilation-a-002",
+    "question": "A system has 0.50 inches WC available external static pressure. The filter drops 0.12 inches WC and the coil drops 0.18 inches WC. How much static pressure is available for the ductwork?",
+    "options": [
+      "0.50 inches WC",
+      "0.30 inches WC",
+      "0.20 inches WC",
+      "0.06 inches WC"
+    ],
+    "correctIndex": 2,
+    "explanation": "Available static pressure for ductwork = Total available - filter drop - coil drop. So 0.50 - 0.12 - 0.18 = 0.20 inches WC. This remaining pressure is what the duct designer has to work with for the entire supply and return duct system. Accessories like dampers, turning vanes, and grilles also consume some of this budget.",
+    "chapter": "ventilation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-ventilation-a-003",
+    "question": "A rectangular duct measures 12 inches by 8 inches. What is its equivalent round duct diameter?",
+    "options": [
+      "About 11 inches",
+      "About 10 inches",
+      "About 14 inches",
+      "About 8 inches"
+    ],
+    "correctIndex": 0,
+    "explanation": "The equivalent round duct diameter for a 12x8 rectangular duct is approximately 10.7 or about 11 inches. The formula is: De = 1.3 x ((a x b)^0.625) / ((a + b)^0.25), where a and b are the duct dimensions. You can also use published equivalent diameter tables. The round equivalent always handles the same CFM at the same friction rate.",
+    "chapter": "ventilation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-ventilation-a-004",
+    "question": "An HVAC system requires 1,600 CFM total. The main trunk duct at the plenum handles 1,600 CFM, then a branch takes off 400 CFM. What should the trunk duct be reduced to handle after the branch takeoff?",
+    "options": [
+      "1,600 CFM - the trunk stays the same size",
+      "800 CFM",
+      "400 CFM",
+      "1,200 CFM"
+    ],
+    "correctIndex": 3,
+    "explanation": "After the 400 CFM branch takes off, the remaining trunk only needs to carry 1,600 - 400 = 1,200 CFM. Using the reducing trunk method, the duct is reduced in size after each branch takeoff to maintain approximately the same air velocity and friction rate throughout. This prevents excess velocity in undersized sections and wasted material in oversized sections.",
+    "chapter": "ventilation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-ventilation-a-005",
+    "question": "A blower motor is rated at 1,200 CFM at 0.50 inches WC external static pressure. If the actual static pressure is 0.80 inches WC, what happens to the airflow?",
+    "options": [
+      "Airflow increases to 1,500 CFM",
+      "Airflow stays at 1,200 CFM",
+      "Airflow decreases significantly, possibly to 900-1,000 CFM",
+      "The motor speed doubles to compensate"
+    ],
+    "correctIndex": 2,
+    "explanation": "As static pressure increases beyond the design point, airflow decreases. A PSC or multi-speed blower running at 0.80 inches WC instead of the rated 0.50 inches would deliver significantly less CFM (the exact amount depends on the blower performance curve). ECM/variable-speed motors compensate better by increasing speed, but even they have limits.",
+    "chapter": "ventilation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-ventilation-a-006",
+    "question": "A technician uses a flow hood to measure 90 CFM at a supply register. The room requires 120 CFM based on the Manual J load calculation. What should the technician check?",
+    "options": [
+      "Check for closed dampers, crushed duct, excessive duct length, leaks, or undersized duct run serving that register",
+      "The room is receiving adequate airflow - close enough",
+      "The outdoor unit is undersized",
+      "Replace the thermostat"
+    ],
+    "correctIndex": 0,
+    "explanation": "90 CFM is only 75% of the required 120 CFM - a significant deficit. The technician should inspect the branch duct for restrictions: closed balancing damper, crushed or kinked flex duct, disconnected duct sections, excessive length or bends, undersized duct, or duct leakage. Measuring static pressure at both ends of the branch helps locate the restriction.",
+    "chapter": "ventilation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-ventilation-a-007",
+    "question": "According to ASHRAE 62.2, what is the minimum continuous ventilation rate formula for a dwelling?",
+    "options": [
+      "50 CFM per person",
+      "1 CFM per square foot of floor area",
+      "0.03 CFM per square foot of floor area plus 7.5 CFM per bedroom plus 7.5 CFM",
+      "3 air changes per hour"
+    ],
+    "correctIndex": 2,
+    "explanation": "ASHRAE 62.2 requires a minimum ventilation rate of 0.03 CFM per square foot of conditioned floor area plus 7.5 CFM times (number of bedrooms + 1). For a 2,000 sq ft home with 3 bedrooms: (0.03 x 2,000) + (7.5 x 4) = 60 + 30 = 90 CFM of continuous mechanical ventilation. This ensures adequate indoor air quality in tightly sealed homes.",
+    "chapter": "ventilation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-ventilation-a-008",
+    "question": "A duct system test shows 25% duct leakage to outdoors. On a system moving 1,200 CFM, how much conditioned air is being lost?",
+    "options": [
+      "25 CFM",
+      "120 CFM",
+      "300 CFM",
+      "600 CFM"
+    ],
+    "correctIndex": 2,
+    "explanation": "25% of 1,200 CFM = 300 CFM of conditioned air leaking into unconditioned space (attic, crawlspace, etc.). This is a massive energy waste - essentially you are paying to heat or cool air that never reaches the living space. Industry best practice targets are less than 4% leakage for new construction. Duct sealing is one of the most cost-effective energy upgrades.",
+    "chapter": "ventilation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-ventilation-a-009",
+    "question": "What is the total equivalent length of a duct run that has 20 feet of straight duct, two 90-degree elbows (each equivalent to 15 feet), and a supply register boot (equivalent to 30 feet)?",
+    "options": [
+      "20 feet",
+      "50 feet",
+      "65 feet",
+      "80 feet"
+    ],
+    "correctIndex": 3,
+    "explanation": "Total equivalent length = straight duct + all fittings. So 20 + 15 + 15 + 30 = 80 feet of total equivalent length. This value is used with friction charts to size the duct properly. Fittings create turbulence and friction that is expressed as an equivalent length of straight duct. Proper duct design accounts for every fitting in the system.",
+    "chapter": "ventilation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-ventilation-a-010",
+    "question": "An energy recovery ventilator (ERV) differs from a heat recovery ventilator (HRV) in what key way?",
+    "options": [
+      "ERVs are only for commercial buildings",
+      "ERVs do not require ductwork",
+      "HRVs are more efficient than ERVs in all climates",
+      "An ERV transfers both heat and moisture between airstreams, while an HRV transfers only heat"
+    ],
+    "correctIndex": 3,
+    "explanation": "An ERV (Energy Recovery Ventilator) uses a special core that transfers both sensible heat and moisture (latent energy) between the incoming and outgoing air streams. An HRV (Heat Recovery Ventilator) transfers only sensible heat. ERVs are preferred in humid climates to reduce indoor humidity in summer, while HRVs are often preferred in very cold climates where winter indoor humidity needs to be retained.",
+    "chapter": "ventilation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-electrical-hvac-b-001",
+    "question": "What voltage is used for the thermostat control circuit in most residential HVAC systems?",
+    "options": [
+      "120 volts AC",
+      "240 volts AC",
+      "24 volts AC",
+      "12 volts DC"
+    ],
+    "correctIndex": 2,
+    "explanation": "Most residential HVAC control circuits operate on 24 volts AC, supplied by a step-down transformer in the furnace or air handler. This low voltage makes the thermostat wiring safe and allows thin thermostat wire to be run through walls. The transformer takes 120V from the house wiring and steps it down to 24V for the control circuit.",
+    "chapter": "electrical-hvac",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-electrical-hvac-b-002",
+    "question": "What is the function of a contactor in an air conditioning system?",
+    "options": [
+      "To act as a heavy-duty relay that switches high-voltage power to the compressor and condenser fan motor",
+      "To convert AC power to DC power",
+      "To sense the room temperature",
+      "To filter electrical noise from the power supply"
+    ],
+    "correctIndex": 0,
+    "explanation": "A contactor is an electrically operated switch. When the thermostat calls for cooling, 24V energizes the contactor coil, which pulls in the contacts to connect 240V power to the compressor and condenser fan motor. When the thermostat is satisfied, the contactor de-energizes and disconnects power. Pitted or burned contacts are a common failure point.",
+    "chapter": "electrical-hvac",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-electrical-hvac-b-003",
+    "question": "What does a capacitor do for an HVAC motor?",
+    "options": [
+      "It stores and releases electrical energy to help start and/or run the motor",
+      "It converts DC to AC power",
+      "It protects against power surges",
+      "It measures the motor speed"
+    ],
+    "correctIndex": 0,
+    "explanation": "Capacitors store and release electrical energy to help motors start (start capacitor) and run efficiently (run capacitor). A start capacitor provides a large energy boost during motor startup and is disconnected once the motor is running. A run capacitor stays in the circuit continuously, improving motor efficiency and power factor.",
+    "chapter": "electrical-hvac",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-electrical-hvac-b-004",
+    "question": "What is the standard color for a common (C) wire in residential thermostat wiring?",
+    "options": [
+      "Red",
+      "White",
+      "Green",
+      "Blue"
+    ],
+    "correctIndex": 3,
+    "explanation": "In standard thermostat wiring color codes: Red (R) = 24V power, White (W) = heat, Yellow (Y) = cooling, Green (G) = fan, Blue (C) = common. The C wire completes the 24V circuit back to the transformer. Many older installations lack a C wire, which is needed for modern smart thermostats that require continuous power.",
+    "chapter": "electrical-hvac",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-electrical-hvac-b-005",
+    "question": "What tool is used to measure voltage, current, and resistance in HVAC electrical circuits?",
+    "options": [
+      "A manometer",
+      "An anemometer",
+      "A refrigerant gauge",
+      "A multimeter"
+    ],
+    "correctIndex": 3,
+    "explanation": "A multimeter (also called a VOM - Volt-Ohm-Milliammeter) is the primary electrical testing tool for HVAC technicians. It can measure AC/DC voltage, AC/DC current (amps), and resistance (ohms). Digital multimeters with a clamp-on amp feature are especially common in the trade for safely measuring current without breaking the circuit.",
+    "chapter": "electrical-hvac",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-electrical-hvac-b-006",
+    "question": "What is a relay in an HVAC system?",
+    "options": [
+      "An electrically operated switch that uses a small voltage to control a larger voltage circuit",
+      "A type of motor",
+      "A pressure sensing device",
+      "A type of fuse"
+    ],
+    "correctIndex": 0,
+    "explanation": "A relay is a switch that uses an electromagnetic coil. When a small control voltage (like 24V) energizes the coil, it mechanically closes (or opens) contacts in a separate, often higher-voltage circuit. For example, a fan relay uses the 24V thermostat signal to switch 120V or 240V power to the blower motor.",
+    "chapter": "electrical-hvac",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-electrical-hvac-b-007",
+    "question": "In thermostat wiring, what does the Y terminal control?",
+    "options": [
+      "The heating system",
+      "The blower fan",
+      "The cooling system (compressor contactor)",
+      "The humidifier"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Y terminal on a thermostat connects to the cooling contactor circuit. When the thermostat calls for cooling, it sends 24V through the Y wire to energize the contactor coil at the outdoor unit, turning on the compressor and condenser fan. Standard thermostat terminal designations: R=power, W=heat, Y=cool, G=fan, C=common.",
+    "chapter": "electrical-hvac",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-electrical-hvac-b-008",
+    "question": "What is a transformer in an HVAC system used for?",
+    "options": [
+      "To generate electricity",
+      "To increase motor speed",
+      "To convert AC to DC power",
+      "To step down 120V line voltage to 24V for the control circuit"
+    ],
+    "correctIndex": 3,
+    "explanation": "The HVAC control transformer steps down the 120V household voltage to 24V AC for the low-voltage control circuit (thermostat, gas valve, relays, contactors). It has a primary winding (120V side) and a secondary winding (24V side). Most residential transformers are rated at 40VA (volt-amps), which is their power capacity.",
+    "chapter": "electrical-hvac",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-electrical-hvac-b-009",
+    "question": "What happens if you short across the R and C terminals on a 24V transformer?",
+    "options": [
+      "The transformer burns out or the fuse/circuit breaker on the control circuit trips",
+      "Nothing - it is designed for this",
+      "The compressor starts",
+      "The blower turns on"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shorting R to C creates a direct short circuit across the transformer secondary winding. This draws excessive current and will either blow the control circuit fuse (usually a 3-5 amp fuse on the control board) or burn out the transformer if there is no fuse protection. This is one of the most common causes of 'no heat' or 'no cool' calls.",
+    "chapter": "electrical-hvac",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-electrical-hvac-b-010",
+    "question": "What is a disconnect box at an outdoor AC unit used for?",
+    "options": [
+      "To connect the thermostat wiring",
+      "To protect against lightning strikes",
+      "To regulate refrigerant pressure",
+      "To provide a means of shutting off power locally for safe service of the outdoor unit"
+    ],
+    "correctIndex": 3,
+    "explanation": "The disconnect box (also called a disconnect switch) is mounted on the wall near the outdoor unit. It contains either a pull-out block with fuses or a circuit breaker that allows a technician to disconnect power to the outdoor unit before performing service. Building codes require a disconnect within sight of the equipment for safety.",
+    "chapter": "electrical-hvac",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-electrical-hvac-i-001",
+    "question": "A technician finds 0 volts at the contactor coil when the thermostat is calling for cooling. The thermostat has 24V at the Y terminal. What should the technician check next?",
+    "options": [
+      "Check the wiring between the thermostat and the contactor coil for a break, loose connection, or tripped safety switch",
+      "Replace the compressor",
+      "Replace the thermostat",
+      "Add refrigerant"
+    ],
+    "correctIndex": 0,
+    "explanation": "If 24V is present at the thermostat Y terminal but 0V at the contactor coil, there is an open circuit in the low-voltage wiring between the two. Common causes include a broken wire, loose connection at a splice or terminal, or a safety switch in the circuit that has tripped (high-pressure switch, low-pressure switch, or time delay). Systematically check voltage at each point in the circuit.",
+    "chapter": "electrical-hvac",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-electrical-hvac-i-002",
+    "question": "A dual-run capacitor is labeled 40/5 MFD 370V. What do these ratings mean?",
+    "options": [
+      "40 watts for the compressor and 5 watts for the fan",
+      "40 seconds of start boost and 5 seconds of run boost",
+      "40 amps start capacity and 5 amps run capacity",
+      "40 microfarads for the compressor motor and 5 microfarads for the condenser fan motor, rated at 370 volts"
+    ],
+    "correctIndex": 3,
+    "explanation": "A dual-run capacitor combines two run capacitors in one can. The 40 MFD (microfarad) section is for the compressor motor (HERM terminal) and the 5 MFD section is for the condenser fan motor (FAN terminal). The COMMON terminal connects to both. The 370V rating is the maximum voltage the capacitor can handle. Always replace with matching or higher voltage rating.",
+    "chapter": "electrical-hvac",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-electrical-hvac-i-003",
+    "question": "A technician measures a run capacitor and finds it reads 32 MFD. The label says 40 MFD. Is this capacitor still good?",
+    "options": [
+      "No - it is more than 10% below rated value and should be replaced",
+      "Yes - any reading is acceptable",
+      "Yes - it only needs to be within 50% of rated value",
+      "It depends on the ambient temperature"
+    ],
+    "correctIndex": 0,
+    "explanation": "Capacitors are considered failed when their measured value is more than 5-10% from the rated value (depending on manufacturer guidelines). 32 MFD is 20% below the 40 MFD rating - well outside the acceptable range. A weak capacitor causes the motor to draw more amps, run hotter, have difficulty starting, and can lead to premature motor failure.",
+    "chapter": "electrical-hvac",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-electrical-hvac-i-004",
+    "question": "What safety device opens the control circuit if the refrigerant pressure gets dangerously high?",
+    "options": [
+      "The capacitor",
+      "The contactor",
+      "The high-pressure switch",
+      "The transformer"
+    ],
+    "correctIndex": 2,
+    "explanation": "The high-pressure switch is wired in series with the compressor contactor coil circuit. If head pressure exceeds a safe limit (typically around 600 PSIG for R-410A), the switch opens and breaks the 24V circuit to the contactor, shutting off the compressor. Common triggers include a dirty condenser, failed condenser fan, overcharge, or non-condensables in the system.",
+    "chapter": "electrical-hvac",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-electrical-hvac-i-005",
+    "question": "An ECM (electronically commutated motor) blower motor offers what primary advantage over a standard PSC motor?",
+    "options": [
+      "Lower installation cost",
+      "It does not need a control board",
+      "No electrical connections required",
+      "Variable speed operation with much higher electrical efficiency, especially at low speeds"
+    ],
+    "correctIndex": 3,
+    "explanation": "ECM motors use brushless DC technology with an internal control module that allows variable speed operation. They are significantly more efficient than PSC motors (up to 80% electrical efficiency vs 50-60% for PSC), especially at reduced speeds. They also maintain more consistent airflow despite changes in static pressure, improving system performance and comfort.",
+    "chapter": "electrical-hvac",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-electrical-hvac-i-006",
+    "question": "A technician suspects a bad contactor. With power off, they measure infinite resistance (OL) across the normally open contacts. The coil reads 20 ohms. What does this tell them?",
+    "options": [
+      "The contacts are open (normal for a de-energized NO contactor) and the coil has continuity (good) - the contactor reads normally",
+      "Both the contacts and coil are bad",
+      "The contacts are welded closed",
+      "The coil is shorted"
+    ],
+    "correctIndex": 0,
+    "explanation": "With the contactor de-energized, normally open (NO) contacts should show infinite resistance (open). The coil should show a measurable resistance (20 ohms is typical for a 24V coil - confirming the coil winding is intact). These readings are normal. To test further, energize the coil with 24V and check if the contacts close (should read near 0 ohms).",
+    "chapter": "electrical-hvac",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-electrical-hvac-i-007",
+    "question": "What is the purpose of a hard-start kit added to a compressor?",
+    "options": [
+      "To reduce the compressor speed",
+      "To bypass the run capacitor",
+      "To reduce operating noise",
+      "To provide extra starting torque by adding a start capacitor and relay to help the compressor overcome startup loads"
+    ],
+    "correctIndex": 3,
+    "explanation": "A hard-start kit consists of a start capacitor and a potential relay (or solid-state module). It provides a large boost of starting torque for compressors that have difficulty starting - often due to short-cycling, low voltage, TXV equalization issues, or aging compressors. The start capacitor is only in the circuit for 1-2 seconds during startup.",
+    "chapter": "electrical-hvac",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-electrical-hvac-i-008",
+    "question": "A furnace control board is flashing a fault code of 3 blinks. Where does the technician find what this code means?",
+    "options": [
+      "On the wiring diagram or legend on the inside of the furnace access panel",
+      "In the thermostat manual",
+      "On the outdoor unit nameplate",
+      "In the building code book"
+    ],
+    "correctIndex": 0,
+    "explanation": "Furnace manufacturers print a fault code chart on the inside of the furnace access panel (door) or near the control board. The LED on the board flashes in patterns that indicate specific faults (pressure switch, flame sensor, ignition failure, etc.). The technician matches the blink pattern to the chart to identify the problem area.",
+    "chapter": "electrical-hvac",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-electrical-hvac-i-009",
+    "question": "When measuring amperage on a compressor, the technician reads 18 amps. The nameplate RLA (Rated Load Amps) is 15 amps. What does this indicate?",
+    "options": [
+      "Normal operation",
+      "The compressor is running under light load",
+      "The compressor is drawing excessive current, indicating a problem such as high head pressure, low voltage, or mechanical issue",
+      "The multimeter is not calibrated"
+    ],
+    "correctIndex": 2,
+    "explanation": "RLA is the maximum continuous current the compressor should draw under normal conditions. Drawing 18 amps when rated for 15 (120% of RLA) indicates the compressor is working harder than designed. Common causes include high head pressure (dirty condenser, overcharge), low voltage, restricted airflow, or internal mechanical wear. Sustained overcurrent damages the compressor windings.",
+    "chapter": "electrical-hvac",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-electrical-hvac-i-010",
+    "question": "What does LRA stand for on a compressor nameplate, and when does it apply?",
+    "options": [
+      "Low Resistance Amps - during normal running",
+      "Line Rated Ampacity - the minimum wire size current rating",
+      "Load Rating Amps - the average operating current",
+      "Locked Rotor Amps - the maximum current drawn at the instant of startup before the motor reaches speed"
+    ],
+    "correctIndex": 3,
+    "explanation": "LRA stands for Locked Rotor Amps. It is the maximum current the compressor draws at the instant of startup when the rotor is stationary (locked). LRA is typically 4-6 times the RLA (Running Load Amps). The high inrush current lasts only a fraction of a second as the motor accelerates. Circuit breakers and fuses are sized to allow this brief surge without tripping.",
+    "chapter": "electrical-hvac",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-electrical-hvac-a-001",
+    "question": "A technician measures 208V at the disconnect instead of the expected 240V. The compressor nameplate says minimum voltage is 197V. Is this acceptable?",
+    "options": [
+      "Yes - 208V is above the minimum 197V nameplate rating, so it is within acceptable range",
+      "No - always require exactly 240V",
+      "No - 208V always damages compressors",
+      "It depends on the phase of the moon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Compressor nameplates list minimum and maximum operating voltages. As long as 208V is above the 197V minimum (and below the maximum, usually around 253V), the compressor can operate. However, lower voltage causes higher amperage draw. If the voltage is near the minimum, the technician should monitor amp draw to ensure it stays below the nameplate maximum. Voltage problems should be reported to the utility or electrician.",
+    "chapter": "electrical-hvac",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-electrical-hvac-a-002",
+    "question": "A technician suspects a grounded compressor winding. Using a megohmmeter (megger), they measure 0.5 megohms between a motor terminal and the compressor shell. What does this indicate?",
+    "options": [
+      "Normal insulation resistance",
+      "The compressor is simply cold",
+      "The megohmmeter is broken",
+      "The compressor winding insulation has broken down - the compressor has a ground fault and needs replacement"
+    ],
+    "correctIndex": 3,
+    "explanation": "A megohmmeter tests the insulation resistance between motor windings and ground (the compressor shell). Good insulation reads in the hundreds of megohms or higher. A reading of 0.5 megohms (500K ohms) indicates severely degraded insulation - the winding is essentially grounded to the shell. This compressor must be replaced. Readings below 1 megohm are generally considered failed.",
+    "chapter": "electrical-hvac",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-electrical-hvac-a-003",
+    "question": "A single-phase compressor has three terminals: C (Common), S (Start), and R (Run). The technician measures: C-R = 3 ohms, C-S = 8 ohms, R-S = 11 ohms. Are these readings consistent with a good compressor?",
+    "options": [
+      "No - the readings are too high",
+      "No - R-S should be lower than C-S",
+      "Yes - C-R + C-S should approximately equal R-S, and 3 + 8 = 11 checks out",
+      "No - all three readings should be equal"
+    ],
+    "correctIndex": 2,
+    "explanation": "In a single-phase compressor, the Run winding (C-R) and Start winding (C-S) are in series between the R and S terminals. Therefore, R-S resistance should approximately equal C-R + C-S. Here: 3 + 8 = 11, which matches the R-S reading of 11 ohms. This confirms the windings are intact. An open winding would read infinite, and a shorted winding would read near zero.",
+    "chapter": "electrical-hvac",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-electrical-hvac-a-004",
+    "question": "A 5kW electric heat strip operates on 240V. What is the current draw?",
+    "options": [
+      "5 amps",
+      "12 amps",
+      "20.8 amps",
+      "48 amps"
+    ],
+    "correctIndex": 2,
+    "explanation": "Using Ohm's Law / Power formula: Amps = Watts / Volts. So 5,000W / 240V = 20.83 amps. This is important for sizing the circuit breaker and wiring. Electric heat strips draw significant current, which is why they are typically on dedicated 240V circuits and why the electrical panel must have adequate capacity for the total connected heat strip load.",
+    "chapter": "electrical-hvac",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-electrical-hvac-a-005",
+    "question": "A three-phase compressor motor has a measured voltage imbalance of 5% between the three phases. What is the concern?",
+    "options": [
+      "A 5% voltage imbalance can cause approximately 25% current imbalance and significant motor overheating",
+      "No concern - this is normal",
+      "The motor will run in reverse",
+      "Only single-phase motors are affected by voltage imbalance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Voltage imbalance in a three-phase motor causes disproportionate current imbalance - roughly 5-8 times the voltage percentage. A 5% voltage imbalance could create a 25-40% current imbalance in the windings, causing one winding to overheat while others run cool. This drastically reduces motor life. Manufacturers typically recommend deration above 2% voltage imbalance and shutdown above 5%.",
+    "chapter": "electrical-hvac",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-electrical-hvac-a-006",
+    "question": "A control board receives a call for cooling. The sequence should be: contactor energizes, compressor starts, condenser fan starts. The compressor hums loudly for 5 seconds then the overload trips. Voltage and capacitor test good. What is the most likely cause?",
+    "options": [
+      "Low refrigerant charge",
+      "The condenser fan is running backwards",
+      "The thermostat is faulty",
+      "The compressor is mechanically locked up or seized"
+    ],
+    "correctIndex": 3,
+    "explanation": "A compressor that hums (indicating it is receiving power and trying to start) but cannot rotate and then trips on the overload is exhibiting signs of a mechanical lockup. The motor is drawing LRA continuously because the rotor cannot turn. Causes include a seized bearing, internal damage from liquid slugging, or loss of oil. A hard-start kit may temporarily help an aging compressor but a seized unit requires replacement.",
+    "chapter": "electrical-hvac",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-electrical-hvac-a-007",
+    "question": "A technician needs to wire a 24V circuit with two safety switches (high-pressure and low-pressure) in the cooling control circuit. How should they be wired relative to the contactor coil?",
+    "options": [
+      "In series with the contactor coil so both must be closed for the contactor to energize",
+      "In parallel with the contactor coil so either can independently power it",
+      "Across the transformer secondary as a separate circuit",
+      "They should be wired into the 240V line side"
+    ],
+    "correctIndex": 0,
+    "explanation": "Safety switches are always wired in series with the load they protect. Both the high-pressure switch and low-pressure switch must be in the closed position (safe pressures) for 24V to reach the contactor coil. If either pressure goes out of safe range, its switch opens, breaking the circuit and de-energizing the contactor to shut off the compressor.",
+    "chapter": "electrical-hvac",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-electrical-hvac-a-008",
+    "question": "A technician measures microamps on a flame sensor and reads 0.5 microamps. The minimum for reliable flame detection is typically 1.0 microamp. What should the technician do?",
+    "options": [
+      "Replace the gas valve",
+      "Increase the gas pressure",
+      "Replace the thermostat",
+      "Clean the flame sensor with fine abrasive pad - the low microamp reading indicates a dirty or oxidized sensor"
+    ],
+    "correctIndex": 3,
+    "explanation": "The flame sensor works on the principle of flame rectification, producing a small DC microamp signal (typically 2-6 microamps when clean). A reading of 0.5 microamps is below the minimum threshold, causing intermittent flame detection and lockout. Cleaning the sensor rod with fine steel wool, emery cloth, or a Scotch-Brite pad removes the oxide buildup and restores proper microamp readings. If cleaning does not help, replace the sensor.",
+    "chapter": "electrical-hvac",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-electrical-hvac-a-009",
+    "question": "What is the purpose of a crankcase heater on a compressor?",
+    "options": [
+      "To keep the compressor oil warm during off cycles so liquid refrigerant does not migrate and dilute the oil",
+      "To preheat the refrigerant for faster cooling",
+      "To increase compressor speed during cold weather",
+      "To heat the discharge line for defrost"
+    ],
+    "correctIndex": 0,
+    "explanation": "During off cycles, especially in cold weather, liquid refrigerant can migrate to the coldest point in the system - often the compressor crankcase. This liquid dilutes the oil. When the compressor starts, the sudden pressure drop causes the refrigerant to boil violently (foaming), carrying oil out of the crankcase and potentially causing bearing damage. The crankcase heater keeps the oil warm enough to prevent refrigerant migration.",
+    "chapter": "electrical-hvac",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-electrical-hvac-a-010",
+    "question": "A furnace with a 40VA transformer is powering the control board, gas valve, inducer relay, and a smart thermostat. The technician adds a powered humidifier with a 10VA solenoid valve. The transformer begins to buzz and the thermostat intermittently loses power. What is the problem?",
+    "options": [
+      "The gas valve is drawing too much power",
+      "The thermostat needs new batteries",
+      "The humidifier is wired in parallel instead of series",
+      "The transformer is overloaded - the total VA demand exceeds its 40VA capacity"
+    ],
+    "correctIndex": 3,
+    "explanation": "A 40VA transformer can only supply 40 volt-amps total (about 1.67 amps at 24V). When the total load of all connected devices exceeds this rating, voltage drops, the transformer overheats and buzzes, and devices malfunction intermittently. The solution is to upgrade to a larger transformer (often 75VA) or power the humidifier from a separate dedicated transformer.",
+    "chapter": "electrical-hvac",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-refrigerant-b-001",
+    "question": "What federal regulation governs the handling of refrigerants in the United States?",
+    "options": [
+      "EPA Section 608 of the Clean Air Act",
+      "OSHA 1910",
+      "DOT Hazmat regulations",
+      "NEC Article 440"
+    ],
+    "correctIndex": 0,
+    "explanation": "EPA Section 608 of the Clean Air Act regulates the handling, recovery, recycling, and reclamation of refrigerants. It requires technicians to be certified before purchasing or working with regulated refrigerants. Knowingly venting refrigerants to the atmosphere is prohibited with penalties of up to $44,539 per day per violation.",
+    "chapter": "refrigerant",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-refrigerant-b-002",
+    "question": "What is R-410A?",
+    "options": [
+      "A type of heating oil",
+      "An ozone-depleting refrigerant being phased out",
+      "A hydrofluorocarbon (HFC) refrigerant commonly used in modern residential AC systems",
+      "A flammable natural refrigerant"
+    ],
+    "correctIndex": 2,
+    "explanation": "R-410A (brand name Puron) is an HFC blend refrigerant that replaced R-22 in residential systems. It does not deplete the ozone layer (zero ODP) but does have a high global warming potential (GWP). It operates at significantly higher pressures than R-22 - about 50% higher - and requires equipment specifically designed for it.",
+    "chapter": "refrigerant",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-refrigerant-b-003",
+    "question": "Why was R-22 (Freon) phased out?",
+    "options": [
+      "It was too expensive to manufacture",
+      "It was flammable",
+      "It was not cold enough for modern systems",
+      "It is a hydrochlorofluorocarbon (HCFC) that depletes the ozone layer"
+    ],
+    "correctIndex": 3,
+    "explanation": "R-22 contains chlorine, which damages the ozone layer when released into the atmosphere. Under the Montreal Protocol, production and import of R-22 in the US ended on January 1, 2020. Existing systems can still be serviced with recovered or recycled R-22, but the supply is limited and prices have risen significantly.",
+    "chapter": "refrigerant",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-refrigerant-b-004",
+    "question": "What does it mean to 'recover' refrigerant?",
+    "options": [
+      "To remove refrigerant from a system and store it in an approved recovery cylinder",
+      "To add new refrigerant to a system",
+      "To vent refrigerant to the outdoors",
+      "To recycle refrigerant through a filter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Recovery means removing refrigerant from a system and storing it in an approved DOT recovery cylinder without necessarily testing or processing it. Recovery is required before any repair that opens the refrigerant circuit. The recovered refrigerant can be recycled (cleaned for reuse) or sent to a reclamation facility to be restored to AHRI 700 specifications.",
+    "chapter": "refrigerant",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-refrigerant-b-005",
+    "question": "What color is a standard DOT recovery cylinder?",
+    "options": [
+      "Light blue with green top",
+      "Pink",
+      "White",
+      "Gray with yellow top"
+    ],
+    "correctIndex": 3,
+    "explanation": "Standard DOT-approved recovery cylinders are gray with a yellow top. This color coding distinguishes them from virgin refrigerant tanks, which have various colors depending on the refrigerant type (R-410A is rose/pink, R-22 is light green). Recovery cylinders must never be filled beyond 80% capacity to allow for thermal expansion.",
+    "chapter": "refrigerant",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-refrigerant-b-006",
+    "question": "What are the four types of EPA Section 608 certification?",
+    "options": [
+      "Type I (small appliances), Type II (high-pressure), Type III (low-pressure), and Universal (all types)",
+      "Residential, commercial, industrial, and universal",
+      "Basic, intermediate, advanced, and master",
+      "Heating, cooling, refrigeration, and all-purpose"
+    ],
+    "correctIndex": 0,
+    "explanation": "EPA 608 has four certification types: Type I covers small appliances (under 5 lbs of refrigerant, like window AC and refrigerators). Type II covers high-pressure equipment (most AC and heat pump systems). Type III covers low-pressure equipment (large centrifugal chillers). Universal certification covers all three types and is what most HVAC technicians pursue.",
+    "chapter": "refrigerant",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-refrigerant-b-007",
+    "question": "What is a PT (pressure-temperature) chart used for?",
+    "options": [
+      "To determine the weight of refrigerant in a system",
+      "To find the saturation temperature of a refrigerant at a given pressure, or vice versa",
+      "To calculate electrical power consumption",
+      "To size ductwork"
+    ],
+    "correctIndex": 1,
+    "explanation": "A PT chart shows the direct relationship between a refrigerant's pressure and its boiling/condensing (saturation) temperature. HVAC technicians use it constantly - for example, if a gauge reads 118 PSIG on an R-410A system, the PT chart shows the saturation temperature is 40 degrees F. This is essential for calculating superheat and subcooling.",
+    "chapter": "refrigerant",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-refrigerant-b-008",
+    "question": "What instrument is used to detect refrigerant leaks?",
+    "options": [
+      "A manometer",
+      "An electronic leak detector",
+      "A multimeter",
+      "An anemometer"
+    ],
+    "correctIndex": 1,
+    "explanation": "An electronic leak detector senses the presence of refrigerant gas in the air around fittings, joints, and components. Different types include heated diode, infrared, and corona discharge detectors. Other leak detection methods include soap bubbles, UV dye with a blacklight, and nitrogen pressure testing with a decay test.",
+    "chapter": "refrigerant",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-refrigerant-b-009",
+    "question": "What happens if you mix R-22 and R-410A in the same system?",
+    "options": [
+      "They blend together perfectly",
+      "The system runs more efficiently",
+      "It creates a contaminated, unidentifiable mixture that damages the system and cannot be reclaimed - the entire charge must be recovered and properly disposed of",
+      "Nothing - they are interchangeable"
+    ],
+    "correctIndex": 2,
+    "explanation": "R-22 and R-410A use different oils (mineral oil vs POE oil), operate at very different pressures, and are chemically incompatible. Mixing them creates a contaminated charge that does not match any known refrigerant's pressure-temperature relationship. The system will not operate properly and the contaminated refrigerant cannot be reclaimed - it must be properly destroyed.",
+    "chapter": "refrigerant",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-refrigerant-b-010",
+    "question": "What type of oil is used with R-410A refrigerant?",
+    "options": [
+      "Mineral oil",
+      "Alkylbenzene (AB) oil",
+      "Polyolester (POE) oil",
+      "Vegetable oil"
+    ],
+    "correctIndex": 2,
+    "explanation": "R-410A requires POE (polyolester) oil because it is miscible (mixes well) with HFC refrigerants. R-22 used mineral oil, which is not compatible with R-410A. POE oil is hygroscopic - it readily absorbs moisture from the air - so systems must be properly evacuated and oil containers must be kept sealed to prevent moisture contamination.",
+    "chapter": "refrigerant",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-refrigerant-i-001",
+    "question": "A technician needs to charge an R-410A system. Since R-410A is a near-azeotropic blend, how must it be charged?",
+    "options": [
+      "As a vapor from the top of the cylinder",
+      "As a liquid from the cylinder to prevent fractionation",
+      "Either liquid or vapor - it does not matter",
+      "Only after heating the cylinder above 100 degrees F"
+    ],
+    "correctIndex": 1,
+    "explanation": "R-410A is a near-azeotropic blend of R-32 and R-125. While it behaves almost like a pure refrigerant, it must still be charged as a liquid to prevent fractionation (the components separating). Liquid is metered into the suction line slowly (to prevent liquid slugging the compressor) or into the liquid line. The cylinder should be inverted or have a dip tube.",
+    "chapter": "refrigerant",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-refrigerant-i-002",
+    "question": "Before opening a refrigerant system for repair, what must a technician do with the existing refrigerant charge?",
+    "options": [
+      "Vent it to atmosphere if it is less than 2 lbs",
+      "Recover it to the required vacuum level per EPA regulations",
+      "Leave it in the system and work quickly",
+      "Transfer it to a garbage bag"
+    ],
+    "correctIndex": 1,
+    "explanation": "EPA regulations require recovering refrigerant to specific vacuum levels before opening any system for service. For systems with more than 200 lbs of charge, higher-pressure systems must reach 0 PSIG. For smaller systems: 0 inches Hg for R-410A equipment manufactured before 11/15/93, and 10 inches Hg vacuum for most other high-pressure equipment. Intentional venting is illegal.",
+    "chapter": "refrigerant",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-refrigerant-i-003",
+    "question": "After brazing a repair on a refrigerant line, what should the technician do before charging the system?",
+    "options": [
+      "Immediately charge with refrigerant",
+      "Pressure test with dry nitrogen, then evacuate with a vacuum pump to remove air and moisture",
+      "Blow out the lines with compressed shop air",
+      "Fill the system with water to check for leaks"
+    ],
+    "correctIndex": 1,
+    "explanation": "After any repair that opens the system: (1) Pressure test with dry nitrogen (typically 300-500 PSIG depending on system rating) and hold to check for leaks. (2) Evacuate with a vacuum pump to at least 500 microns to remove all air and moisture. Air contains moisture and non-condensable gases that degrade system performance and can create acids that damage the compressor.",
+    "chapter": "refrigerant",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-refrigerant-i-004",
+    "question": "What is the purpose of evacuating a refrigerant system with a vacuum pump?",
+    "options": [
+      "To remove refrigerant from the system",
+      "To test the compressor",
+      "To remove air and moisture (water vapor) from the system by lowering the boiling point of water below ambient temperature",
+      "To create pressure for leak testing"
+    ],
+    "correctIndex": 2,
+    "explanation": "A vacuum pump removes air and, critically, moisture from the refrigerant system. At a deep vacuum (500 microns or lower), the boiling point of water drops well below room temperature, causing any moisture in the system to boil off and be pulled out by the pump. Moisture left in the system forms acids with refrigerant and oil, destroying the compressor.",
+    "chapter": "refrigerant",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-refrigerant-i-005",
+    "question": "A system has been evacuated and the vacuum gauge reads 500 microns. The technician closes the valve and watches the gauge. After 10 minutes it rises to 1,500 microns. What does this indicate?",
+    "options": [
+      "The evacuation is complete and successful",
+      "There is a leak in the system or residual moisture is still evaporating",
+      "The vacuum pump is working properly",
+      "This is normal vacuum rise"
+    ],
+    "correctIndex": 1,
+    "explanation": "After closing the valve, a properly evacuated tight system should hold at or near 500 microns. A rise to 1,500 microns indicates either a leak allowing air in or moisture still evaporating inside the system. The technician should continue pumping. If it repeatedly rises quickly, a leak test is needed. If it rises slowly, moisture is likely still present and more evacuation time is required.",
+    "chapter": "refrigerant",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-refrigerant-i-006",
+    "question": "When charging a system by weight (the manufacturer's specified charge), what tool is essential?",
+    "options": [
+      "A PT chart only",
+      "A refrigerant scale accurate to at least 0.5 oz",
+      "A thermometer",
+      "A manometer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Charging by weight requires an accurate refrigerant scale to measure the exact amount of refrigerant added. The manufacturer specifies the total system charge on the nameplate (for package units or pre-charged line sets). For split systems, the charge is based on line set length. The scale tracks the weight removed from the cylinder, ensuring the correct charge is installed.",
+    "chapter": "refrigerant",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-refrigerant-i-007",
+    "question": "What is 'fractionation' in the context of refrigerant blends?",
+    "options": [
+      "The process of mixing two refrigerants",
+      "The separation of a refrigerant blend's components due to leaking or improper charging, changing the blend's composition",
+      "The freezing of refrigerant in the metering device",
+      "The chemical breakdown of refrigerant at high temperatures"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fractionation occurs when a zeotropic blend's components leak or evaporate at different rates, changing the remaining mixture's composition. For example, if one component leaks faster, the remaining refrigerant has a different pressure-temperature relationship than the original blend. This is why blends must be charged as liquid and why leaked zeotropic blends may need to be fully recovered and recharged rather than simply topped off.",
+    "chapter": "refrigerant",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-refrigerant-i-008",
+    "question": "R-410A operates at approximately what percentage higher pressure than R-22 at the same conditions?",
+    "options": [
+      "10% higher",
+      "25% higher",
+      "50-60% higher",
+      "200% higher"
+    ],
+    "correctIndex": 2,
+    "explanation": "R-410A operates at roughly 50-60% higher pressures than R-22. For example, at 45 degrees F evaporating temperature, R-22 is about 76 PSIG while R-410A is about 124 PSIG. This is why R-410A equipment requires components rated for higher pressures, and R-22 systems cannot simply be recharged with R-410A without replacing the entire system.",
+    "chapter": "refrigerant",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-refrigerant-i-009",
+    "question": "What is a micron gauge used for during the evacuation process?",
+    "options": [
+      "To measure refrigerant charge weight",
+      "To measure the very low pressures (deep vacuum) achieved during evacuation, measured in microns of mercury",
+      "To measure ambient air temperature",
+      "To detect refrigerant leaks"
+    ],
+    "correctIndex": 1,
+    "explanation": "A micron gauge measures very low absolute pressures during system evacuation. Standard compound gauges cannot accurately read the deep vacuums needed (500 microns = 0.0197 inches Hg absolute). A micron gauge connects directly to the system (not through hoses, which add error) and provides precise readings to confirm the evacuation has removed all air and moisture.",
+    "chapter": "refrigerant",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-refrigerant-i-010",
+    "question": "When nitrogen pressure testing a system for leaks, should refrigerant be used as a trace gas with the nitrogen?",
+    "options": [
+      "No - never mix nitrogen with refrigerant for testing",
+      "Yes - a small amount of refrigerant (like R-22) mixed with nitrogen makes leaks detectable with an electronic leak detector",
+      "Only R-410A should be used as a trace gas",
+      "Refrigerant is not needed - use soap bubbles only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adding a small amount of trace refrigerant (or using a purpose-made trace gas) to dry nitrogen allows the use of an electronic leak detector to find leaks during a pressure test. Nitrogen alone is undetectable by refrigerant leak detectors. The mixture is typically 1-2% refrigerant and 98-99% nitrogen. Never use oxygen or acetylene for pressure testing as they can cause explosions.",
+    "chapter": "refrigerant",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-refrigerant-a-001",
+    "question": "A technician recovers 8 lbs of R-410A from a system. The nameplate charge is 12 lbs. The line set length matches the factory charge. What can the technician conclude?",
+    "options": [
+      "The nameplate is wrong",
+      "The system has lost approximately 4 lbs of refrigerant through a leak - a leak search is required before recharging",
+      "The recovery machine is inaccurate",
+      "8 lbs is close enough to 12 lbs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Recovering only 8 of the 12 lb nameplate charge means approximately 4 lbs (33%) has leaked out. Before recharging, the technician must find and repair the leak. A nitrogen pressure test followed by electronic leak detection should be performed. Simply adding refrigerant without fixing the leak wastes refrigerant, money, and is an EPA violation if the leak rate exceeds allowable thresholds.",
+    "chapter": "refrigerant",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-refrigerant-a-002",
+    "question": "Under EPA regulations, what is the maximum allowable annual leak rate for commercial refrigeration equipment before mandatory repair?",
+    "options": [
+      "5%",
+      "10%",
+      "20%",
+      "30%"
+    ],
+    "correctIndex": 2,
+    "explanation": "EPA regulations set trigger leak rates requiring mandatory repair: 20% per year for commercial refrigeration and industrial process refrigeration, and 30% for comfort cooling equipment. If a system leaks more than this threshold, the owner must repair the leak within 30 days or develop a retrofit/retirement plan. These rates were tightened under the AIM Act updates.",
+    "chapter": "refrigerant",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-refrigerant-a-003",
+    "question": "What is the GWP (Global Warming Potential) concern with R-410A, and what newer refrigerants are being introduced to address it?",
+    "options": [
+      "R-410A has zero GWP and no concern exists",
+      "R-410A has a GWP of 2088, and lower-GWP alternatives like R-32 (GWP 675) and R-454B (GWP 466) are being introduced",
+      "R-410A depletes the ozone layer and R-22 is the replacement",
+      "GWP only applies to natural refrigerants"
+    ],
+    "correctIndex": 1,
+    "explanation": "R-410A has a GWP of 2088, meaning it traps 2,088 times more heat than CO2 over 100 years. Under the AIM Act and Kigali Amendment, the US is phasing down HFC production. Lower-GWP alternatives include R-32 (GWP 675), R-454B (GWP 466), and R-290 (propane, GWP 3). These newer refrigerants are mildly flammable (A2L class), requiring updated safety standards and equipment.",
+    "chapter": "refrigerant",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-refrigerant-a-004",
+    "question": "A recovery machine is recovering R-410A from a system with a known compressor burnout. What precaution should the technician take?",
+    "options": [
+      "No special precautions needed",
+      "Use a filter on the recovery machine inlet to prevent acid and contaminants from damaging the recovery equipment",
+      "Recover at a faster rate to minimize exposure time",
+      "Vent the first 10 lbs and recover the rest"
+    ],
+    "correctIndex": 1,
+    "explanation": "Compressor burnout produces acid and carbon contaminants in the refrigerant and oil. These contaminants can damage the recovery machine's compressor and valves. A filter-drier or suction filter installed on the recovery machine's inlet hose protects the equipment. The recovered refrigerant from a burnout is typically too contaminated for recycling and must be sent for reclamation or proper disposal.",
+    "chapter": "refrigerant",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-refrigerant-a-005",
+    "question": "What is the required evacuation level (in microns) that the EPA mandates for high-pressure appliances using R-410A before recharging?",
+    "options": [
+      "5,000 microns",
+      "1,500 microns",
+      "500 microns",
+      "The EPA specifies vacuum in inches of mercury, not microns - 0 inches Hg for appliances manufactured after November 15, 1993, and 4 inches Hg for systems with 200+ lbs"
+    ],
+    "correctIndex": 3,
+    "explanation": "The EPA specifies required recovery/evacuation levels in inches of mercury vacuum, not microns. For high-pressure equipment (like R-410A systems) manufactured after 11/15/93 with less than 200 lbs of charge, the required level is 0 inches Hg (0 PSIG). However, industry best practice for evacuation before charging is 500 microns or lower to ensure all moisture is removed. The EPA levels are minimums for recovery before service.",
+    "chapter": "refrigerant",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-refrigerant-a-006",
+    "question": "A technician suspects non-condensable gases (air) in an R-410A system. How can they confirm this?",
+    "options": [
+      "Check the superheat only",
+      "Compare the measured liquid line pressure to the PT chart saturation pressure at the outdoor ambient temperature after the system has been off long enough to equalize - if pressure is higher than expected, non-condensables are present",
+      "Listen for unusual sounds at the compressor",
+      "Measure the suction line temperature only"
+    ],
+    "correctIndex": 1,
+    "explanation": "After the system sits off and equalizes (temperatures equalize throughout), the refrigerant pressure should match the PT chart value for the ambient temperature. If the measured pressure is significantly higher, the excess pressure is from non-condensable gases (air, nitrogen left from testing, etc.). For example, if ambient is 80 degrees F and R-410A should be 256 PSIG but the gauge reads 290 PSIG, approximately 34 PSI is from non-condensables.",
+    "chapter": "refrigerant",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-refrigerant-a-007",
+    "question": "What is the AIM Act and how does it affect HVAC refrigerants?",
+    "options": [
+      "A state-level building code for ductwork",
+      "The American Innovation and Manufacturing Act - it mandates an 85% phasedown of HFC production and consumption by 2036",
+      "A manufacturer warranty program",
+      "An EPA rule about furnace efficiency only"
+    ],
+    "correctIndex": 1,
+    "explanation": "The AIM Act (2020) directs the EPA to phase down HFC production and consumption by 85% over 15 years (by 2036), using a GWP-weighted allowance system. This drives the industry transition from high-GWP refrigerants like R-410A to lower-GWP alternatives like R-454B and R-32. Starting January 1, 2025, new residential and light commercial AC and heat pump equipment must use refrigerants with GWP of 700 or less.",
+    "chapter": "refrigerant",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-refrigerant-a-008",
+    "question": "R-454B (Opteon XL41) is classified as A2L. What does the A2L safety classification mean?",
+    "options": [
+      "Non-flammable and non-toxic",
+      "Lower toxicity and mildly flammable (lower flammability)",
+      "Highly flammable and highly toxic",
+      "Moderately toxic but non-flammable"
+    ],
+    "correctIndex": 1,
+    "explanation": "ASHRAE safety classification A2L means: 'A' = lower toxicity (OEL above 400 ppm), '2L' = lower flammability (burns slowly, burning velocity under 10 cm/s). A2L refrigerants like R-454B and R-32 can ignite under certain conditions but are much harder to ignite than A3 flammable refrigerants like propane. New equipment designs include leak detection and charge limits to ensure safety.",
+    "chapter": "refrigerant",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-refrigerant-a-009",
+    "question": "During a standing pressure test with nitrogen, a system holds at 300 PSIG for 30 minutes with no drop. The technician then applies soap bubbles to all joints. What additional test might still be warranted before charging?",
+    "options": [
+      "No further testing is needed - the system passed",
+      "An electronic leak detector test using trace refrigerant with nitrogen, as very small leaks may not show pressure drop in 30 minutes or produce visible bubbles",
+      "A water submersion test",
+      "A flame halide test only"
+    ],
+    "correctIndex": 1,
+    "explanation": "A 30-minute standing pressure test catches larger leaks but very small leaks (pinhole) may not show a measurable pressure drop in that time. Adding trace refrigerant to the nitrogen charge and using an electronic leak detector provides the highest sensitivity - capable of detecting leaks as small as 0.1 oz per year. This is especially important for systems with brazed connections and flared fittings.",
+    "chapter": "refrigerant",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-refrigerant-a-010",
+    "question": "A technician needs to top off an R-407C system that has leaked 30% of its charge. Since R-407C is a zeotropic blend, what is the correct procedure?",
+    "options": [
+      "Simply add R-407C vapor to top off the charge",
+      "Recover the entire remaining charge, repair the leak, evacuate, and recharge with a fresh weighed charge of R-407C",
+      "Add R-410A to make up the difference",
+      "Top off with R-22 since it is a similar pressure"
+    ],
+    "correctIndex": 1,
+    "explanation": "R-407C is a zeotropic blend (R-32/R-125/R-134a) with significant temperature glide. When 30% of the charge leaks, fractionation changes the composition of the remaining refrigerant - it is no longer R-407C. Topping off would create an unknown mixture. The correct procedure is to recover all remaining refrigerant, repair the leak, evacuate the system, and recharge with the full nameplate charge of virgin R-407C by weight.",
+    "chapter": "refrigerant",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-hvac-codes-b-001",
+    "question": "What is the International Mechanical Code (IMC)?",
+    "options": [
+      "A guide for electrical wiring",
+      "A model code that establishes minimum requirements for mechanical systems including HVAC, exhaust, and duct systems",
+      "A refrigerant handling regulation",
+      "A plumbing code"
+    ],
+    "correctIndex": 1,
+    "explanation": "The International Mechanical Code (IMC) is a model code published by the ICC (International Code Council) that sets minimum requirements for the design, installation, and maintenance of mechanical systems in buildings. It covers HVAC equipment, ductwork, exhaust systems, combustion air, and related mechanical components. Most states and municipalities adopt it as their mechanical code.",
+    "chapter": "hvac-codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-hvac-codes-b-002",
+    "question": "Where are carbon monoxide (CO) detectors required by code in residential buildings?",
+    "options": [
+      "Only in the furnace room",
+      "Outside each sleeping area and on every level of the dwelling that has a fuel-burning appliance or attached garage",
+      "Only in the kitchen",
+      "CO detectors are not required by code"
+    ],
+    "correctIndex": 1,
+    "explanation": "The International Residential Code (IRC) and most local codes require CO detectors outside each sleeping area and on every habitable level of a dwelling that has fuel-burning appliances (furnaces, water heaters, fireplaces) or an attached garage. CO is colorless and odorless, making detectors the only warning system for occupants.",
+    "chapter": "hvac-codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-hvac-codes-b-003",
+    "question": "What is 'combustion air' and why is it required by code?",
+    "options": [
+      "Air used to pressurize the duct system",
+      "Air that fuel-burning appliances need to support the combustion process - codes require adequate combustion air supply to prevent incomplete combustion and carbon monoxide production",
+      "Cooled air from the AC system",
+      "Air supplied to the thermostat for calibration"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fuel-burning appliances (furnaces, water heaters, boilers) need oxygen to burn fuel safely and completely. Building codes specify how much combustion air is required based on the BTU input of all appliances in the space. Inadequate combustion air causes incomplete combustion, carbon monoxide production, and potential backdrafting of flue gases into the living space.",
+    "chapter": "hvac-codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-hvac-codes-b-004",
+    "question": "What is the minimum clearance to combustible materials required for a single-wall metal vent connector (flue pipe) on a gas furnace?",
+    "options": [
+      "Zero clearance - it can touch combustibles",
+      "6 inches",
+      "1 inch",
+      "24 inches"
+    ],
+    "correctIndex": 1,
+    "explanation": "Single-wall metal vent connectors (the pipe connecting the furnace to the chimney) must maintain a minimum 6-inch clearance to combustible materials like wood framing, drywall, or stored items. Double-wall (Type B) vent pipe requires only 1-inch clearance. These clearances prevent the heat from the vent pipe from igniting nearby combustible materials.",
+    "chapter": "hvac-codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-hvac-codes-b-005",
+    "question": "Gas piping in residential buildings is typically what material?",
+    "options": [
+      "PVC plastic pipe",
+      "Copper tubing or black iron (steel) pipe",
+      "Aluminum tubing",
+      "Cast iron pipe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Residential gas piping is most commonly black iron (steel) pipe with threaded fittings, or corrugated stainless steel tubing (CSST). Copper tubing is permitted in some jurisdictions but not all. PVC is never used for gas piping. All gas piping must be tested for leaks at installation using a pressure test (typically 3 PSI for 10 minutes minimum).",
+    "chapter": "hvac-codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-hvac-codes-b-006",
+    "question": "What is a sediment trap (drip leg) on a gas line, and where is it required?",
+    "options": [
+      "A filter for the blower motor",
+      "A short section of pipe extending below the gas connection to an appliance that catches moisture and debris before it enters the gas valve",
+      "A drain for the condensate line",
+      "A trap in the vent pipe to prevent backdrafting"
+    ],
+    "correctIndex": 1,
+    "explanation": "A sediment trap (drip leg) is a tee fitting with a short capped nipple (at least 3 inches) extending downward from the gas line just before it connects to an appliance. It catches moisture, dirt, and pipe scale that could clog the gas valve. Codes require a sediment trap at every gas appliance connection unless the appliance manufacturer states otherwise.",
+    "chapter": "hvac-codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-hvac-codes-b-007",
+    "question": "What does a gas shutoff valve at each appliance allow?",
+    "options": [
+      "Remote operation of the furnace",
+      "The ability to shut off gas to an individual appliance for service or emergency without affecting other appliances",
+      "Regulation of the gas pressure",
+      "Venting of gas to the outdoors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Building codes require an accessible manual shutoff valve on the gas supply pipe within 6 feet of each gas appliance. This allows a technician or homeowner to shut off gas to a specific appliance for service, replacement, or in an emergency, without turning off gas to the entire building. The valve must be in the same room as the appliance and readily accessible.",
+    "chapter": "hvac-codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-hvac-codes-b-008",
+    "question": "What does code require for the condensate drain from a high-efficiency furnace or AC evaporator coil?",
+    "options": [
+      "No drain is needed",
+      "The condensate must be piped to an approved drain location with proper slope and a trap if required by the manufacturer",
+      "It can drain directly onto the ground outside",
+      "It must be connected to the gas vent pipe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Condensate from high-efficiency furnaces and evaporator coils must be piped to an approved drain - typically a floor drain, condensate pump, or exterior location permitted by local code. The drain line must be properly sloped (typically 1/8 inch per foot minimum), trapped if required, and sized to handle the expected condensate volume. Condensate from condensing furnaces is slightly acidic and may require neutralization in some jurisdictions.",
+    "chapter": "hvac-codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-hvac-codes-b-009",
+    "question": "What is a mechanical permit?",
+    "options": [
+      "A license to sell HVAC equipment",
+      "A permit obtained from the local building department before installing or replacing HVAC equipment, ensuring the work meets code",
+      "A certificate of completion after the work is done",
+      "A manufacturer warranty document"
+    ],
+    "correctIndex": 1,
+    "explanation": "A mechanical permit is required by most jurisdictions before installing, replacing, or significantly modifying HVAC equipment. It ensures the planned work meets building codes and standards. After the work is complete, a code inspector examines the installation. Performing work without a permit can result in fines, required removal of the work, and liability issues.",
+    "chapter": "hvac-codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-hvac-codes-b-010",
+    "question": "What minimum access space does code require around HVAC equipment for service?",
+    "options": [
+      "No access space is required",
+      "The equipment just needs to fit in the space",
+      "A minimum of 30 inches of working space on the service side of the equipment per most codes",
+      "Access is only required on the top of the unit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mechanical codes require clear working space around HVAC equipment for safe service access. Most codes specify a minimum of 30 inches in front of the service panel. Attic installations require a 24-inch wide catwalk to the unit, a 30x30 inch working platform, and a light switch at the entry point. These clearances ensure technicians can safely service, repair, and replace equipment.",
+    "chapter": "hvac-codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "hvac-hvac-codes-i-001",
+    "question": "When sizing a gas line using the longest-length method in the fuel gas code, what factors must be considered?",
+    "options": [
+      "Only the diameter of the pipe",
+      "The BTU demand of all appliances, the length of the longest run from the meter to the farthest appliance, the type of gas, and the allowable pressure drop",
+      "Only the number of appliances",
+      "Only the gas meter size"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gas pipe sizing considers: total BTU/h demand of each section, the longest pipe run from the meter (or regulator) to the farthest appliance, the allowable pressure drop (typically 0.5 inches WC for residential natural gas), specific gravity of the gas, and pipe material. Sizing tables in the fuel gas code provide the maximum BTU capacity for each pipe size at each length.",
+    "chapter": "hvac-codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-hvac-codes-i-002",
+    "question": "According to code, what is the maximum number of 90-degree elbows typically allowed in a residential dryer vent before the maximum equivalent length is exceeded?",
+    "options": [
+      "Unlimited elbows are allowed",
+      "Depends on the total equivalent length - each 90-degree elbow adds 5 feet to the equivalent length, and total cannot exceed 35 feet (or manufacturer's spec)",
+      "Exactly 2 elbows regardless of duct length",
+      "Elbows are not allowed in dryer vents"
+    ],
+    "correctIndex": 1,
+    "explanation": "The IRC limits dryer exhaust duct to 35 feet maximum equivalent length (unless the dryer manufacturer lists a different maximum). Each 90-degree elbow adds 5 feet of equivalent length, and each 45-degree elbow adds 2.5 feet. So if the straight run is 20 feet, you have 15 feet of allowance for elbows (three 90-degree elbows maximum). Exceeding the limit restricts airflow and creates a fire hazard from lint buildup.",
+    "chapter": "hvac-codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-hvac-codes-i-003",
+    "question": "What is the code requirement for CSST (Corrugated Stainless Steel Tubing) gas piping regarding bonding?",
+    "options": [
+      "No bonding is required",
+      "CSST must be bonded to the electrical grounding electrode system to protect against lightning-induced damage",
+      "CSST must be wrapped in insulation",
+      "CSST must be painted before installation"
+    ],
+    "correctIndex": 1,
+    "explanation": "CSST is vulnerable to damage from electrical energy induced by lightning strikes. Building codes require CSST to be bonded to the building's grounding electrode system (typically the ground rod or ground bus in the electrical panel) with a minimum #6 AWG copper conductor. This bonding provides a safe path for electrical energy, preventing arcing that could puncture the thin CSST wall and cause a gas leak.",
+    "chapter": "hvac-codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-hvac-codes-i-004",
+    "question": "A furnace is installed in a confined space (closet). What does code require for combustion air?",
+    "options": [
+      "Nothing special - any closet works",
+      "Two permanent openings to an adequate air source - one within 12 inches of the top and one within 12 inches of the bottom of the enclosure",
+      "A window must be installed in the closet",
+      "Only a smoke detector is needed"
+    ],
+    "correctIndex": 1,
+    "explanation": "When a fuel-burning appliance is in a confined space (room volume less than 50 cubic feet per 1,000 BTU/h input), two permanent openings are required - one near the top and one near the bottom. If drawing air from indoors, each opening must be at least 1 square inch per 1,000 BTU/h. If drawing from outdoors, each opening must be at least 1 square inch per 4,000 BTU/h. This ensures adequate oxygen for combustion and proper draft.",
+    "chapter": "hvac-codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-hvac-codes-i-005",
+    "question": "What is the minimum slope required for a horizontal section of a gravity-vented gas vent connector (Type B)?",
+    "options": [
+      "Level is acceptable",
+      "1/4 inch rise per foot of horizontal run toward the chimney or vent terminal",
+      "1 inch rise per foot",
+      "Downward slope is preferred"
+    ],
+    "correctIndex": 1,
+    "explanation": "Horizontal sections of gas vent connectors must slope upward toward the vent or chimney at a minimum of 1/4 inch per foot of horizontal run. This upward slope assists the natural draft (hot gases rise) and helps prevent condensate from pooling in the connector. Without proper slope, condensate can corrode the vent pipe and impede draft, potentially causing backdrafting.",
+    "chapter": "hvac-codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-hvac-codes-i-006",
+    "question": "What is the code requirement for a disconnect switch at an outdoor AC unit?",
+    "options": [
+      "No disconnect is required if the main panel is nearby",
+      "A readily accessible disconnect means must be located within sight of and within 50 feet of the equipment",
+      "The disconnect must be at least 100 feet away from the unit",
+      "Only a thermostat disconnect is needed"
+    ],
+    "correctIndex": 1,
+    "explanation": "The NEC (National Electrical Code) and mechanical codes require a disconnecting means for each HVAC unit, located within sight from the equipment and readily accessible. Within sight means visible and not more than 50 feet away. This ensures a technician working on the equipment can verify that power is disconnected and that no one can accidentally re-energize it. The disconnect may be a pull-out type, circuit breaker, or switch.",
+    "chapter": "hvac-codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-hvac-codes-i-007",
+    "question": "When installing a furnace in a garage, what code requirements apply to protect against ignition of gasoline vapors?",
+    "options": [
+      "No special requirements apply",
+      "The burner and ignition source must be at least 18 inches above the garage floor, and the unit must be protected from vehicle damage",
+      "The furnace must be behind a glass enclosure",
+      "Only a CO detector is required"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gasoline vapors are heavier than air and collect near the floor. Code requires that any ignition source (pilot light, burner, hot surface igniter) in a garage be elevated at least 18 inches above the floor. The furnace must also be protected from vehicle damage by bollards, barriers, or location. Sealed combustion (direct vent) furnaces are often preferred for garage installations because they draw combustion air from outside.",
+    "chapter": "hvac-codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-hvac-codes-i-008",
+    "question": "What type of vent pipe is required for a Category IV (condensing) gas furnace?",
+    "options": [
+      "Standard single-wall metal pipe",
+      "Type B double-wall vent",
+      "Special plastic (PVC, CPVC, or polypropylene) vent pipe rated for the appliance",
+      "No vent pipe - condensing furnaces do not vent"
+    ],
+    "correctIndex": 2,
+    "explanation": "Category IV furnaces produce positive flue pressure and condensing flue gases (below the dew point). The vent material must be resistant to corrosion from the acidic condensate and gas-tight to handle positive pressure. Most manufacturers specify PVC, CPVC, or polypropylene pipe. The specific pipe type and grade must match the manufacturer's installation instructions. Metal vent pipe would corrode quickly from the acidic condensate.",
+    "chapter": "hvac-codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-hvac-codes-i-009",
+    "question": "What code requirement exists for the refrigerant piping penetration through an exterior wall?",
+    "options": [
+      "No requirements exist",
+      "The penetration must be sealed to prevent moisture and air infiltration, and the opening must be properly flashed or caulked",
+      "The pipe must be insulated with fiberglass for 10 feet inside the wall",
+      "A permit is not needed for refrigerant lines"
+    ],
+    "correctIndex": 1,
+    "explanation": "All penetrations through the building envelope (walls, roof) must be properly sealed to prevent moisture infiltration, air leakage, and pest entry. Refrigerant line penetrations must be sleeved (if required by manufacturer), sealed with appropriate caulk or foam, and flashed if through a roof. This maintains the building's weather barrier integrity and energy efficiency.",
+    "chapter": "hvac-codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-hvac-codes-i-010",
+    "question": "What is the maximum length of an unprotected horizontal PVC vent pipe from a high-efficiency furnace before it must be supported?",
+    "options": [
+      "No support needed for any length",
+      "Every 4-6 feet or as specified by the manufacturer and local code",
+      "Only at the furnace connection",
+      "Every 20 feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "PVC vent pipe must be supported to prevent sagging, which can trap condensate and impede flue gas flow. Most codes and manufacturers require supports every 4-6 feet for horizontal runs. The pipe must also maintain proper slope (typically 1/4 inch per foot back toward the furnace) so condensate drains back to the furnace's condensate trap rather than pooling in the vent.",
+    "chapter": "hvac-codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "hvac-hvac-codes-a-001",
+    "question": "A contractor is installing a natural gas furnace (100,000 BTU/h) and a water heater (50,000 BTU/h) sharing a common vent (chimney). Using vent sizing tables, what total BTU input must the common vent be sized for?",
+    "options": [
+      "100,000 BTU/h (the larger appliance only)",
+      "50,000 BTU/h (the smaller appliance only)",
+      "150,000 BTU/h (the combined input of both appliances)",
+      "75,000 BTU/h (the average)"
+    ],
+    "correctIndex": 2,
+    "explanation": "When two or more appliances share a common vent, the common vent section must be sized for the combined total BTU/h input of all connected appliances. In this case: 100,000 + 50,000 = 150,000 BTU/h. The individual vent connectors from each appliance to the common vent are sized individually. Vent sizing tables in the fuel gas code provide the correct vent diameter based on total BTU input, vent height, and lateral length.",
+    "chapter": "hvac-codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-hvac-codes-a-002",
+    "question": "An orphaned water heater is left on a common vent after a furnace is replaced with a high-efficiency (Category IV) unit that has its own PVC vent. Why is this a code concern?",
+    "options": [
+      "It is not a concern",
+      "The oversized common vent may not develop adequate draft for the water heater alone, causing backdrafting and potential carbon monoxide spillage",
+      "The water heater will overheat",
+      "The PVC vent will melt"
+    ],
+    "correctIndex": 1,
+    "explanation": "When a furnace is removed from a shared vent, the remaining water heater may not produce enough heat to create adequate draft in the now-oversized chimney. The flue gases cool too quickly in the large vent, condensation increases, and backdrafting can occur - pulling CO into the building. The vent must be resized for the water heater alone, or a vent liner installed. This is a critical safety issue that must be addressed at the time of furnace replacement.",
+    "chapter": "hvac-codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-hvac-codes-a-003",
+    "question": "According to the International Fuel Gas Code, what is the standard residential natural gas supply pressure delivered by the utility, and what is the typical manifold pressure at a furnace?",
+    "options": [
+      "5 PSI supply, 1 PSI at the furnace",
+      "7 inches WC supply, 3.5 inches WC at the manifold",
+      "1/2 PSI supply, 11 inches WC at the manifold",
+      "14.7 PSI supply, 7 inches WC at the manifold"
+    ],
+    "correctIndex": 1,
+    "explanation": "Standard residential natural gas is delivered at approximately 7 inches of water column (about 1/4 PSI) from the utility meter. The gas passes through the appliance's gas valve/regulator which reduces it to the manifold pressure - typically 3.5 inches WC for natural gas furnaces. LP (propane) furnaces operate at a higher manifold pressure, typically 10-11 inches WC. Proper gas pressure is critical for safe, efficient combustion.",
+    "chapter": "hvac-codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-hvac-codes-a-004",
+    "question": "A contractor installs a furnace in an attic. What code requirements apply beyond a standard installation?",
+    "options": [
+      "No additional requirements for attic installations",
+      "A service platform, lighting, a switch at the entry, safe access (catwalk or permanent stairway), and a secondary condensate drain or float switch for cooling coils",
+      "Only additional insulation around the furnace",
+      "A fire sprinkler pointed at the furnace"
+    ],
+    "correctIndex": 1,
+    "explanation": "Attic HVAC installations require: a service platform (at least 30x30 inches), a light fixture with a switch at the attic entry, a permanent access path (24-inch wide minimum catwalk for walk-up attics, or permanent stairs), and for cooling coils, a secondary drain pan with a separate drain line or a float switch that shuts off the system if the primary drain clogs. These requirements ensure safe service access and prevent water damage.",
+    "chapter": "hvac-codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-hvac-codes-a-005",
+    "question": "What is the code requirement for makeup air when a kitchen range hood exhausts more than 400 CFM?",
+    "options": [
+      "No makeup air is needed regardless of exhaust volume",
+      "A makeup air system must be installed that provides approximately equal airflow to the exhaust to prevent depressurizing the building",
+      "The windows must be left open during cooking",
+      "Only a CO detector is required"
+    ],
+    "correctIndex": 1,
+    "explanation": "The International Mechanical Code (IMC) Section 505 requires makeup air when exhaust systems exceed 400 CFM. Without makeup air, the powerful range hood creates significant negative pressure in the building, which can backdraft combustion appliances (furnaces, water heaters), make doors difficult to open, and reduce the effectiveness of the HVAC system. The makeup air system must be interlocked with the range hood.",
+    "chapter": "hvac-codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-hvac-codes-a-006",
+    "question": "According to NFPA 54/IFGC, what pressure is a residential gas piping system tested at for a standard leak test?",
+    "options": [
+      "1/2 inch WC for 1 minute",
+      "3 PSI (or 1.5 times the working pressure, whichever is greater) for a minimum of 10 minutes",
+      "50 PSI for 30 minutes",
+      "100 PSI for 24 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "The standard residential gas piping leak test requires pressurizing the system to at least 3 PSI (which is well above the 7 inches WC operating pressure) using air or an inert gas (never the fuel gas itself). The test duration is a minimum of 10 minutes with no pressure drop. This test must be performed before any gas is turned on and before the piping is concealed behind walls. The inspector must witness the test.",
+    "chapter": "hvac-codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-hvac-codes-a-007",
+    "question": "A high-efficiency condensing furnace PVC vent terminates on the side of a building. What is the minimum clearance code requires from a window or door that can be opened?",
+    "options": [
+      "No clearance required",
+      "4 feet horizontally from any operable window or door; 12 inches above the opening if within 4 feet",
+      "12 inches from anything",
+      "10 feet from any building feature"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vent termination clearances protect occupants from flue gas exposure. Most codes (based on manufacturer requirements and IFGC) require a minimum 4-foot horizontal clearance from any operable window or door that is at the same elevation. If the vent is above the opening, 12 inches minimum. Additional clearances apply to gas meters (4 feet), inside corners (3 feet), and air intakes. Always verify with the specific manufacturer's installation instructions as they may be more restrictive.",
+    "chapter": "hvac-codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-hvac-codes-a-008",
+    "question": "What is the code requirement for combustion air in a building using the 'all air from outdoors' method for a furnace with 100,000 BTU/h input?",
+    "options": [
+      "One opening of any size",
+      "Two permanent openings - each with a minimum free area of 1 square inch per 4,000 BTU/h input for direct outdoor openings",
+      "A single 4-inch pipe",
+      "No calculation needed - one standard vent is enough"
+    ],
+    "correctIndex": 1,
+    "explanation": "Using the 'all air from outdoors' method with direct openings, two openings are required - one within 12 inches of the top and one within 12 inches of the bottom of the enclosure. Each opening must have a minimum free area of 1 sq in per 4,000 BTU/h. For 100,000 BTU/h: 100,000 / 4,000 = 25 square inches per opening minimum. If using horizontal ducts from outdoors, the ratio changes to 1 sq in per 2,000 BTU/h.",
+    "chapter": "hvac-codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-hvac-codes-a-009",
+    "question": "What are the minimum energy efficiency standards (as of 2023) for residential furnaces and air conditioners in the United States?",
+    "options": [
+      "No minimum standards exist",
+      "Furnaces: 80% AFUE (non-weatherized) or 90% AFUE (in northern states); AC: SEER2 13.4-14.3 depending on region",
+      "Furnaces: 70% AFUE; AC: SEER 10",
+      "Furnaces: 98% AFUE; AC: SEER 25"
+    ],
+    "correctIndex": 1,
+    "explanation": "DOE (Department of Energy) efficiency standards effective 2023 set regional minimums. The northern region requires 90% AFUE minimum for furnaces. All other regions require 80% AFUE minimum for non-weatherized gas furnaces. For air conditioners, SEER2 minimum is 13.4 in the northern region and 14.3 in the southern region (using the updated SEER2 testing protocol). These standards are periodically updated to improve energy conservation.",
+    "chapter": "hvac-codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "hvac-hvac-codes-a-010",
+    "question": "A building inspector rejects a furnace installation because the vent connector has too many offsets. According to the fuel gas code, what is the maximum number of offsets (elbows) allowed in a vent connector?",
+    "options": [
+      "No elbows are permitted",
+      "No more than two 90-degree elbows in the vent connector",
+      "Up to six 90-degree elbows",
+      "There is no limit on elbows"
+    ],
+    "correctIndex": 1,
+    "explanation": "The fuel gas code typically limits vent connectors to no more than two 90-degree elbows (or equivalent). Each elbow adds resistance to the natural draft and increases the equivalent length of the connector. Excessive elbows can reduce draft below the minimum needed to safely vent combustion products, causing potential spillage of CO into the building. Some manufacturers may have more restrictive limits.",
+    "chapter": "hvac-codes",
+    "difficulty": "advanced"
+  }
+]

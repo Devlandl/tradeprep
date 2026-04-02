@@ -28,245 +28,1595 @@
   },
   {
     "id": "plumbing-pipe-types-b-004",
-    "question": "What color is typically used to identify hot water PEX tubing?",
-    "options": ["Blue", "White", "Red", "Green"],
+    "question": "What color is CPVC pipe typically manufactured in?",
+    "options": ["White", "Black", "Light yellow or cream", "Blue"],
     "correctIndex": 2,
-    "explanation": "Red PEX tubing is used to identify hot water lines, while blue PEX is used for cold water lines. White PEX can be used for either.",
+    "explanation": "CPVC pipe is typically light yellow or cream colored, which distinguishes it from white PVC pipe. This color coding helps plumbers quickly identify the pipe type on a job site.",
     "chapter": "pipe-types",
     "difficulty": "beginner"
   },
   {
     "id": "plumbing-pipe-types-b-005",
-    "question": "ABS pipe is most commonly used for which application?",
-    "options": ["Hot water supply", "Gas lines", "Drain, waste, and vent (DWV) systems", "Fire sprinkler systems"],
-    "correctIndex": 2,
-    "explanation": "ABS (acrylonitrile butadiene styrene) is a black plastic pipe used primarily for drain, waste, and vent systems in residential plumbing.",
+    "question": "ABS pipe is most commonly what color?",
+    "options": ["White", "Black", "Gray", "Green"],
+    "correctIndex": 1,
+    "explanation": "ABS (acrylonitrile butadiene styrene) pipe is always black. This makes it easy to distinguish from white PVC pipe at a glance.",
     "chapter": "pipe-types",
     "difficulty": "beginner"
   },
   {
     "id": "plumbing-pipe-types-b-006",
-    "question": "Which joining method is used to connect PVC pipe and fittings?",
-    "options": ["Soldering", "Solvent cement (glue)", "Compression fittings", "Welding"],
-    "correctIndex": 1,
-    "explanation": "PVC pipe and fittings are joined using solvent cement, which chemically fuses the plastic together to create a permanent, watertight bond.",
+    "question": "Which pipe type is flexible and can be bent around corners without fittings?",
+    "options": ["Copper", "PVC", "PEX", "Cast iron"],
+    "correctIndex": 2,
+    "explanation": "PEX tubing is flexible enough to bend around corners and through walls without the need for elbow fittings, which reduces the number of connections and potential leak points.",
     "chapter": "pipe-types",
     "difficulty": "beginner"
   },
   {
     "id": "plumbing-pipe-types-b-007",
-    "question": "What is the main disadvantage of galvanized steel pipe?",
-    "options": ["It is too flexible", "It corrodes and builds up mineral deposits over time", "It cannot carry hot water", "It is too expensive"],
-    "correctIndex": 1,
-    "explanation": "Galvanized steel pipe corrodes from the inside over time, building up mineral deposits that restrict water flow. This is why it has largely been replaced by copper and PEX.",
+    "question": "What type of pipe was historically used in older homes for drain, waste, and vent systems and is very heavy?",
+    "options": ["PVC", "PEX", "Copper", "Cast iron"],
+    "correctIndex": 3,
+    "explanation": "Cast iron pipe was the standard for DWV systems in homes built before the 1970s. It is extremely heavy and durable but prone to rust and corrosion over time.",
     "chapter": "pipe-types",
     "difficulty": "beginner"
   },
   {
     "id": "plumbing-pipe-types-b-008",
-    "question": "CPVC pipe is an upgrade over standard PVC because it can handle what?",
-    "options": ["Higher water pressure", "Higher temperatures", "Underground installation", "Saltwater exposure"],
-    "correctIndex": 1,
-    "explanation": "CPVC (chlorinated polyvinyl chloride) can handle higher temperatures than standard PVC, making it suitable for hot water supply lines up to about 200 degrees F.",
+    "question": "Galvanized steel pipe has a coating of which metal to resist corrosion?",
+    "options": ["Copper", "Tin", "Zinc", "Aluminum"],
+    "correctIndex": 2,
+    "explanation": "Galvanized steel pipe is coated with a layer of zinc to protect it from rust and corrosion. Over decades, however, this zinc layer can wear away, leading to internal corrosion and reduced water flow.",
     "chapter": "pipe-types",
     "difficulty": "beginner"
   },
   {
     "id": "plumbing-pipe-types-b-009",
-    "question": "Which pipe material is black in color and was commonly used for drain lines before PVC became popular?",
-    "options": ["CPVC", "PEX", "ABS", "Copper"],
-    "correctIndex": 2,
-    "explanation": "ABS pipe is black and was widely used for drain lines before PVC became the more popular choice. Some regions still allow or prefer ABS for DWV systems.",
+    "question": "Which joining method is used for PVC drain pipe?",
+    "options": ["Soldering", "Solvent cement (glue)", "Compression fittings", "Press fittings"],
+    "correctIndex": 1,
+    "explanation": "PVC pipe is joined using solvent cement, often called PVC glue. The cement chemically welds the pipe and fitting together, creating a permanent bond. A primer is typically applied first.",
     "chapter": "pipe-types",
     "difficulty": "beginner"
   },
   {
     "id": "plumbing-pipe-types-b-010",
-    "question": "Cast iron pipe is primarily found in which type of plumbing system?",
-    "options": ["Water supply", "Drain and sewer lines", "Gas distribution", "Irrigation"],
+    "question": "What does the 'schedule' number on a pipe indicate (e.g., Schedule 40)?",
+    "options": ["The pipe color", "The wall thickness", "The length in feet", "The maximum temperature"],
     "correctIndex": 1,
-    "explanation": "Cast iron pipe is heavy and durable, primarily used for drain and sewer lines. It is still found in many older buildings and is valued for its sound-dampening properties.",
+    "explanation": "The schedule number indicates the wall thickness of the pipe. A higher schedule number means thicker walls and greater pressure rating. Schedule 40 is standard for most residential plumbing.",
     "chapter": "pipe-types",
     "difficulty": "beginner"
   },
   {
     "id": "plumbing-pipe-types-i-001",
-    "question": "What is the maximum operating temperature for standard Schedule 40 PVC pipe?",
-    "options": ["100 degrees F", "140 degrees F", "180 degrees F", "212 degrees F"],
+    "question": "When transitioning from ABS to PVC pipe, what is the approved connection method?",
+    "options": ["Solvent cement both together directly", "Use a no-hub coupling with a rubber gasket", "Heat-fuse the two pipes", "Thread one into the other"],
     "correctIndex": 1,
-    "explanation": "Standard Schedule 40 PVC has a maximum operating temperature of about 140 degrees F (60 degrees C). Above this temperature, the pipe loses structural integrity and can warp.",
+    "explanation": "A no-hub coupling (also called a mission coupling or fernco) with a rubber gasket and band clamps is the code-approved method for connecting ABS to PVC. Direct solvent cementing of ABS to PVC is not permitted by most codes because the two cements are chemically incompatible.",
     "chapter": "pipe-types",
     "difficulty": "intermediate"
   },
   {
     "id": "plumbing-pipe-types-i-002",
-    "question": "When soldering copper pipe, which type of solder is required by code for potable water systems?",
-    "options": ["50/50 tin-lead", "Lead-free solder", "Silver brazing alloy", "Acid-core solder"],
+    "question": "What is the main advantage of Type L copper over Type M copper for water supply lines?",
+    "options": ["Type L is less expensive", "Type L has thicker walls for higher pressure ratings", "Type L is more flexible", "Type L does not require soldering"],
     "correctIndex": 1,
-    "explanation": "Lead-free solder is required by code for all potable (drinking) water systems. The Safe Drinking Water Act banned lead solder for potable water applications.",
+    "explanation": "Type L copper has thicker walls than Type M, giving it a higher pressure rating and greater durability. Type L is often required by code for underground or high-pressure applications, while Type M is acceptable for standard residential supply lines.",
     "chapter": "pipe-types",
     "difficulty": "intermediate"
   },
   {
     "id": "plumbing-pipe-types-i-003",
-    "question": "What is the difference between Type L and Type M copper tubing?",
-    "options": ["Type L is for gas, Type M is for water", "Type L has thicker walls than Type M", "Type M has thicker walls than Type L", "There is no difference - they are the same"],
+    "question": "A homeowner reports low water pressure throughout the house. The home was built in 1960 with original galvanized steel supply lines. What is the most likely cause?",
+    "options": ["The water heater is too small", "Internal corrosion and mineral buildup in the galvanized pipes", "The water meter is faulty", "The toilet flapper is leaking"],
     "correctIndex": 1,
-    "explanation": "Type L copper has thicker walls than Type M. Type L is commonly used for water supply lines and is required by many codes. Type M is thinner and used where code allows for less demanding applications.",
+    "explanation": "Galvanized steel pipes corrode internally over decades, building up rust and mineral deposits that restrict water flow. In a 60+ year old home with original galvanized piping, this internal buildup is the most likely cause of low water pressure throughout the house.",
     "chapter": "pipe-types",
     "difficulty": "intermediate"
   },
   {
     "id": "plumbing-pipe-types-i-004",
-    "question": "Which PEX connection method uses a copper crimp ring compressed with a special tool?",
-    "options": ["Push-fit", "Crimp", "Expansion", "Compression"],
+    "question": "What is the minimum slope required for a horizontal 3-inch PVC drain pipe?",
+    "options": ["1/16 inch per foot", "1/8 inch per foot", "1/4 inch per foot", "1/2 inch per foot"],
     "correctIndex": 1,
-    "explanation": "The crimp method uses a copper crimp ring placed over the PEX tubing at the fitting, then compressed with a crimp tool to create a secure connection.",
+    "explanation": "Pipes 3 inches and larger require a minimum slope of 1/8 inch per foot. Pipes smaller than 3 inches require 1/4 inch per foot. Proper slope ensures waste flows by gravity without settling in the pipe.",
     "chapter": "pipe-types",
     "difficulty": "intermediate"
   },
   {
     "id": "plumbing-pipe-types-i-005",
-    "question": "What does 'Schedule 40' refer to when describing PVC pipe?",
-    "options": ["The pipe diameter", "The wall thickness", "The pressure rating in PSI", "The manufacturing date code"],
-    "correctIndex": 1,
-    "explanation": "Schedule 40 refers to the wall thickness of the pipe. A higher schedule number means thicker walls. Schedule 40 is standard for most residential plumbing applications.",
+    "question": "CPVC is rated for higher temperatures than standard PVC. What is the approximate maximum service temperature for CPVC?",
+    "options": ["140 degrees F", "180 degrees F", "200 degrees F", "250 degrees F"],
+    "correctIndex": 2,
+    "explanation": "CPVC can handle temperatures up to approximately 200 degrees F, making it suitable for hot water supply lines. Standard PVC has a maximum service temperature of about 140 degrees F and should only be used for cold water or drain applications.",
     "chapter": "pipe-types",
     "difficulty": "intermediate"
   },
   {
     "id": "plumbing-pipe-types-i-006",
-    "question": "Why should you avoid mixing copper and galvanized steel pipes without a dielectric union?",
-    "options": ["They have different diameters", "Galvanic corrosion occurs between dissimilar metals", "Building codes prohibit any metal pipe mixing", "The water pressure will be uneven"],
+    "question": "Which PEX connection method uses a copper crimp ring and a special crimping tool?",
+    "options": ["SharkBite push-fit", "Crimp method", "Expansion method", "Press method"],
     "correctIndex": 1,
-    "explanation": "When copper and galvanized steel are in direct contact, galvanic corrosion occurs because the metals have different electrical potentials. A dielectric union prevents this by separating the metals.",
+    "explanation": "The crimp method uses a copper crimp ring placed over the PEX tubing at the fitting, then compressed with a dedicated crimping tool. This creates a permanent, watertight connection. The expansion method uses a different approach where the tubing is expanded before inserting the fitting.",
     "chapter": "pipe-types",
     "difficulty": "intermediate"
   },
   {
     "id": "plumbing-pipe-types-i-007",
-    "question": "PEX tubing is available in three types - PEX-A, PEX-B, and PEX-C. Which type is manufactured using the Engel method and is the most flexible?",
-    "options": ["PEX-A", "PEX-B", "PEX-C", "All three are equally flexible"],
-    "correctIndex": 0,
-    "explanation": "PEX-A is made using the Engel (peroxide) method, which cross-links during the extrusion process. This produces the most flexible and kink-resistant tubing of the three types.",
+    "question": "When soldering copper pipe, what is the purpose of applying flux before heating?",
+    "options": ["To lubricate the joint for easier assembly", "To clean oxides and help solder flow into the joint", "To increase the melting point of solder", "To color-code the joint for inspection"],
+    "correctIndex": 1,
+    "explanation": "Flux is an acidic paste that cleans oxidation from the copper surface and prevents new oxides from forming during heating. It also helps the molten solder flow evenly into the joint by capillary action, creating a strong, leak-free connection.",
     "chapter": "pipe-types",
     "difficulty": "intermediate"
   },
   {
     "id": "plumbing-pipe-types-i-008",
-    "question": "What is the primary advantage of using no-hub cast iron fittings over hub-and-spigot cast iron?",
-    "options": ["They are lighter", "They use rubber couplings with clamps for faster installation", "They have higher pressure ratings", "They are cheaper"],
+    "question": "What problem can occur if PEX tubing is exposed to direct sunlight for an extended period?",
+    "options": ["It will expand permanently", "UV degradation causes brittleness and failure", "It changes color but remains functional", "It becomes more flexible"],
     "correctIndex": 1,
-    "explanation": "No-hub cast iron uses rubber gasket couplings with stainless steel clamps, making connections much faster and easier than the traditional hub-and-spigot joints that require molten lead and oakum.",
+    "explanation": "PEX tubing is highly susceptible to UV degradation. Extended exposure to sunlight breaks down the molecular structure, making the tubing brittle and prone to cracking. PEX should never be installed in areas with direct sunlight exposure and should be stored out of the sun.",
     "chapter": "pipe-types",
     "difficulty": "intermediate"
   },
   {
     "id": "plumbing-pipe-types-i-009",
-    "question": "Which type of pipe is approved for underground burial without additional protection in most codes?",
-    "options": ["Type M copper", "ABS", "PEX with UV-resistant jacket", "Schedule 40 PVC"],
-    "correctIndex": 3,
-    "explanation": "Schedule 40 PVC is approved for direct underground burial in most codes. It resists soil chemicals and moisture without needing additional wrapping or protection.",
+    "question": "What is the nominal size of a copper pipe that has an actual outside diameter of 1-1/8 inches?",
+    "options": ["3/4 inch", "1 inch", "1-1/4 inch", "1-1/8 inch"],
+    "correctIndex": 1,
+    "explanation": "Copper pipe is measured by its nominal (named) size, which is always 1/8 inch less than the actual outside diameter. So a pipe with a 1-1/8 inch OD is nominally a 1-inch pipe. This sizing convention is important for ordering the correct fittings.",
     "chapter": "pipe-types",
     "difficulty": "intermediate"
   },
   {
     "id": "plumbing-pipe-types-i-010",
-    "question": "What is the minimum pipe size typically required by code for a building sewer line?",
-    "options": ["2 inches", "3 inches", "4 inches", "6 inches"],
+    "question": "Which type of fitting allows you to connect PEX directly to a copper stub-out without soldering?",
+    "options": ["Dielectric union", "SharkBite push-fit coupling", "Fernco coupling", "Threaded adapter"],
     "correctIndex": 1,
-    "explanation": "Most plumbing codes require a minimum 3-inch pipe for a building sewer line, though 4-inch is more common and often recommended to reduce the risk of blockages.",
+    "explanation": "SharkBite push-fit fittings work with both PEX and copper, allowing a direct transition without soldering or special tools. You simply push the pipe into the fitting and internal teeth and an O-ring create a watertight seal.",
     "chapter": "pipe-types",
     "difficulty": "intermediate"
   },
   {
     "id": "plumbing-pipe-types-a-001",
-    "question": "According to the IPC, what is the maximum allowable working pressure for Type M copper tubing at 100 degrees F for a 1-inch nominal size?",
-    "options": ["150 PSI", "200 PSI", "289 PSI", "400 PSI"],
-    "correctIndex": 2,
-    "explanation": "Per IPC tables, 1-inch Type M copper tubing has a maximum working pressure of 289 PSI at 100 degrees F. Pressure ratings decrease as temperature increases.",
+    "question": "A commercial building requires a 4-inch horizontal drain run of 120 feet. Using Schedule 40 PVC with a 1/8 inch per foot slope, what is the total drop in elevation from start to end?",
+    "options": ["10 inches", "15 inches", "12 inches", "30 inches"],
+    "correctIndex": 1,
+    "explanation": "Total drop = length x slope = 120 feet x 1/8 inch per foot = 15 inches. This calculation is critical for planning drain installations to ensure proper gravity flow while meeting code requirements for minimum slope.",
     "chapter": "pipe-types",
     "difficulty": "advanced"
   },
   {
     "id": "plumbing-pipe-types-a-002",
-    "question": "When brazing copper pipe for a medical gas system, which filler metal and atmosphere are required?",
-    "options": ["50/50 tin-lead in open air", "BCuP-5 with nitrogen purge", "Lead-free solder with flux", "Silver solder with acetylene only"],
+    "question": "When connecting copper pipe to galvanized steel pipe, a dielectric union is required. What problem does this prevent?",
+    "options": ["Thermal expansion cracking", "Galvanic corrosion between dissimilar metals", "Water hammer", "Air locks in the system"],
     "correctIndex": 1,
-    "explanation": "Medical gas piping systems require BCuP-5 (silver brazing alloy) filler metal with a continuous nitrogen purge inside the pipe to prevent oxidation and contamination.",
+    "explanation": "When two dissimilar metals like copper and galvanized steel are in direct contact with water, galvanic corrosion occurs. An electrochemical reaction causes accelerated deterioration of the less noble metal (steel). A dielectric union uses a plastic insulator to separate the metals while maintaining a watertight connection.",
     "chapter": "pipe-types",
     "difficulty": "advanced"
   },
   {
     "id": "plumbing-pipe-types-a-003",
-    "question": "What is the SDR (Standard Dimension Ratio) and how does it affect PVC pipe pressure ratings?",
-    "options": ["SDR is the ratio of pipe color to material - higher SDR means more UV resistance", "SDR is the ratio of outside diameter to wall thickness - lower SDR means higher pressure rating", "SDR is the ratio of inside diameter to length - higher SDR means better flow", "SDR is the ratio of weight to length - lower SDR means lighter pipe"],
+    "question": "A plumber needs to calculate the developed length of a 2-inch copper pipe run with 6 standard 90-degree elbows and 45 feet of straight pipe. Each 2-inch 90-degree elbow has an equivalent length of 5 feet. What is the total developed length?",
+    "options": ["51 feet", "75 feet", "57 feet", "65 feet"],
     "correctIndex": 1,
-    "explanation": "SDR is the ratio of the outside diameter to the wall thickness. A lower SDR means a thicker wall relative to the diameter, which gives the pipe a higher pressure rating.",
+    "explanation": "Developed length = straight pipe + (number of fittings x equivalent length per fitting) = 45 feet + (6 x 5 feet) = 45 + 30 = 75 feet. Developed length is used in friction loss and pressure drop calculations to properly size pipe and ensure adequate water pressure at fixtures.",
     "chapter": "pipe-types",
     "difficulty": "advanced"
   },
   {
     "id": "plumbing-pipe-types-a-004",
-    "question": "In a high-rise building over 80 feet tall, which pipe material is often required for the drain, waste, and vent system due to its fire resistance?",
-    "options": ["Schedule 40 PVC", "ABS", "Cast iron", "CPVC"],
-    "correctIndex": 2,
-    "explanation": "Many building codes require cast iron DWV pipe in high-rise buildings over 80 feet due to its superior fire resistance. Plastic pipe can melt and allow fire to spread between floors.",
+    "question": "According to most plumbing codes, what is the maximum working pressure for Schedule 40 PVC pipe at 73 degrees F in a 2-inch size?",
+    "options": ["160 psi", "280 psi", "100 psi", "450 psi"],
+    "correctIndex": 1,
+    "explanation": "Schedule 40 PVC in a 2-inch size is rated for approximately 280 psi at 73 degrees F. However, this rating decreases significantly as temperature increases. At 140 degrees F, the pressure rating drops to about 22% of the 73-degree value. This is why PVC is not used for hot water supply.",
     "chapter": "pipe-types",
     "difficulty": "advanced"
   },
   {
     "id": "plumbing-pipe-types-a-005",
-    "question": "What is the chlorine resistance classification system for PEX tubing, and which classification is required for hot water recirculation systems?",
-    "options": ["CL-1 through CL-5; CL-3 minimum", "Class A through D; Class B minimum", "Rating 1 through 10; Rating 7 minimum", "ASTM F876 does not classify chlorine resistance"],
-    "correctIndex": 0,
-    "explanation": "PEX chlorine resistance is classified CL-1 through CL-5 per ASTM F876. Hot water recirculation systems require at least CL-3 because higher temperatures accelerate chlorine degradation of the tubing.",
+    "question": "In a manifold PEX system (home-run layout), what is the primary advantage over a traditional trunk-and-branch system?",
+    "options": ["Uses less total pipe", "Eliminates all fittings inside walls and delivers balanced pressure to each fixture", "Requires no manifold", "Works only with copper pipe"],
+    "correctIndex": 1,
+    "explanation": "A manifold (home-run) system runs a dedicated PEX line from a central manifold to each fixture. This eliminates hidden fittings inside walls (reducing leak potential), provides balanced pressure because each fixture has its own line, and allows individual shut-off at the manifold. The trade-off is more total pipe used.",
     "chapter": "pipe-types",
     "difficulty": "advanced"
   },
   {
     "id": "plumbing-pipe-types-a-006",
-    "question": "When transitioning from cast iron to PVC in a repair, which fitting type is code-approved and provides the most reliable connection?",
-    "options": ["Rubber fernco coupling only", "Mission-style banded coupling with stainless steel shield", "Direct solvent-weld to cast iron", "Threaded adapter with Teflon tape"],
+    "question": "A plumber is sizing a water service line from the meter to the building. The demand is 40 GPM, the available static pressure is 65 psi, the developed length is 150 feet, and the elevation rise is 10 feet. Approximately how much pressure is lost to elevation alone?",
+    "options": ["2.3 psi", "4.3 psi", "10 psi", "20 psi"],
     "correctIndex": 1,
-    "explanation": "A mission-style banded coupling (shielded coupling) with a stainless steel shield and neoprene gasket provides the most reliable transition. Standard fernco couplings may not meet code in all jurisdictions for above-ground transitions.",
+    "explanation": "Water pressure decreases by 0.433 psi for every foot of elevation rise. So 10 feet x 0.433 psi/foot = 4.33 psi lost to elevation. This must be subtracted from available pressure along with friction losses when sizing the pipe to ensure adequate pressure at the highest fixture.",
     "chapter": "pipe-types",
     "difficulty": "advanced"
   },
   {
     "id": "plumbing-pipe-types-a-007",
-    "question": "What is the de-rating factor for CPVC pipe when used with certain chemicals found in common household products like insect spray?",
-    "options": ["There is no de-rating - CPVC is chemically inert", "CPVC can crack and fail from environmental stress cracking with incompatible chemicals", "CPVC only needs a 10% pressure reduction", "CPVC turns brittle but maintains pressure rating"],
+    "question": "When brazing copper pipe for a refrigerant or medical gas application, what atmosphere must be maintained inside the pipe during the process?",
+    "options": ["Compressed air", "A nitrogen purge", "Oxygen enrichment", "No special atmosphere needed"],
     "correctIndex": 1,
-    "explanation": "CPVC is susceptible to environmental stress cracking (ESC) when exposed to certain chemicals including those in insect sprays, adhesives, and sealants. This can cause sudden catastrophic failure, not just reduced ratings.",
+    "explanation": "A nitrogen purge must flow through the pipe during brazing to prevent oxide scale from forming inside the joint. Internal oxide scale can flake off and damage compressors, valves, or contaminate medical gas systems. This is a code requirement (ASME B31.9 and NFPA 99) for these critical applications.",
     "chapter": "pipe-types",
     "difficulty": "advanced"
   },
   {
     "id": "plumbing-pipe-types-a-008",
-    "question": "Per ASTM B88, what is the actual outside diameter of 3/4-inch nominal copper tubing?",
-    "options": ["0.750 inches", "0.785 inches", "0.875 inches", "1.000 inches"],
-    "correctIndex": 2,
-    "explanation": "Copper tubing nominal sizes are 1/8 inch less than the actual outside diameter. A 3/4-inch nominal copper tube has an actual OD of 0.875 inches (7/8 inch).",
+    "question": "What is the de-rating factor for CPVC pipe operating continuously at 180 degrees F compared to its rating at 73 degrees F?",
+    "options": ["100% - no de-rating needed", "Approximately 50% of the 73-degree rating", "Approximately 75% of the 73-degree rating", "Approximately 25% of the 73-degree rating"],
+    "correctIndex": 3,
+    "explanation": "CPVC pressure ratings decrease significantly at elevated temperatures. At 180 degrees F, the working pressure is approximately 25% of the rating at 73 degrees F. For example, a CPVC pipe rated at 400 psi at 73 degrees would only be rated for about 100 psi at 180 degrees. Always consult manufacturer data for exact de-rating values.",
     "chapter": "pipe-types",
     "difficulty": "advanced"
   },
   {
     "id": "plumbing-pipe-types-a-009",
-    "question": "What velocity limitation does the Copper Development Association recommend for copper water supply piping to prevent erosion corrosion?",
-    "options": ["2 feet per second", "5 feet per second for hot water, 8 feet per second for cold", "10 feet per second for all applications", "There is no velocity limit for copper"],
+    "question": "A plumber encounters a failed cast iron sewer line and plans to replace a section with PVC. The existing cast iron is hub-and-spigot style. What is the correct transition method?",
+    "options": ["Direct solvent cement PVC into the cast iron hub", "Use no-hub couplings (banded rubber couplings) at each transition point", "Thread PVC into the cast iron hub", "Use push-fit SharkBite fittings"],
     "correctIndex": 1,
-    "explanation": "The Copper Development Association recommends limiting water velocity to 5 feet per second in hot water lines and 8 feet per second in cold water lines to prevent erosion corrosion of the pipe walls.",
+    "explanation": "No-hub couplings (banded rubber couplings with stainless steel clamps) are the standard method for transitioning from cast iron to PVC. The cast iron must be cut square, and the PVC is connected using properly sized no-hub couplings that grip both pipe materials. Shielded couplings are required when used underground.",
     "chapter": "pipe-types",
     "difficulty": "advanced"
   },
   {
     "id": "plumbing-pipe-types-a-010",
-    "question": "Which ASTM standard governs PEX tubing for hot and cold water distribution, and what is the minimum required burst pressure at 73 degrees F for 1/2-inch tubing?",
-    "options": ["ASTM F876; 475 PSI", "ASTM D2846; 300 PSI", "ASTM F876; 160 PSI", "ASTM F1281; 400 PSI"],
-    "correctIndex": 0,
-    "explanation": "ASTM F876 governs PEX tubing specifications. For 1/2-inch PEX tubing at 73 degrees F, the minimum required burst pressure is 475 PSI, which provides a significant safety margin over the 160 PSI working pressure rating.",
+    "question": "According to ASTM D2665, what is the minimum pipe stiffness class required for Schedule 40 PVC DWV pipe used in underground building sewer applications?",
+    "options": ["No minimum - any Schedule 40 PVC is acceptable", "The pipe must meet SDR 35 specifications for underground sewer", "Schedule 40 PVC DWV is not permitted underground per most codes", "Only Schedule 80 PVC is permitted underground"],
+    "correctIndex": 1,
+    "explanation": "For underground building sewer applications outside the building foundation, most codes require SDR 35 PVC sewer pipe (ASTM D3034), not Schedule 40 DWV pipe. SDR 35 is designed for the soil loads and conditions found in buried applications. Schedule 40 DWV (ASTM D2665) is designed for above-ground drain, waste, and vent use within the building.",
     "chapter": "pipe-types",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-fixtures-b-001",
+    "question": "What is the purpose of a P-trap under a sink?",
+    "options": ["To increase water pressure", "To hold water that blocks sewer gases from entering the home", "To filter debris from the drain", "To connect to the garbage disposal"],
+    "correctIndex": 1,
+    "explanation": "A P-trap holds a small amount of water (called the trap seal) that acts as a barrier to prevent sewer gases from rising up through the drain and into the living space. Every plumbing fixture that connects to the drain system requires a trap.",
+    "chapter": "fixtures",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-fixtures-b-002",
+    "question": "What is a closet flange?",
+    "options": ["A bracket that holds towel racks", "A ring that connects the toilet to the drain pipe in the floor", "A valve inside the toilet tank", "A decorative cover for pipe openings"],
+    "correctIndex": 1,
+    "explanation": "A closet flange (also called a toilet flange) is a ring that mounts to the floor and connects to the drain pipe below. The toilet bolts to the flange, and a wax ring or gasket between the toilet and flange creates a watertight, gas-tight seal.",
+    "chapter": "fixtures",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-fixtures-b-003",
+    "question": "What does a supply stop (shut-off valve) do?",
+    "options": ["Regulates water temperature", "Controls water flow to an individual fixture", "Prevents backflow", "Drains the water heater"],
+    "correctIndex": 1,
+    "explanation": "A supply stop, also called a shut-off valve or angle stop, controls the water flow to an individual fixture like a toilet or faucet. It allows you to turn off water to one fixture for repairs without shutting off water to the entire house.",
+    "chapter": "fixtures",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-fixtures-b-004",
+    "question": "What is the standard rough-in distance from the wall to the center of a toilet drain?",
+    "options": ["8 inches", "10 inches", "12 inches", "14 inches"],
+    "correctIndex": 2,
+    "explanation": "The standard rough-in distance for a toilet is 12 inches from the finished wall to the center of the closet flange. This measurement is critical when purchasing a toilet, as most toilets are designed for a 12-inch rough-in, though 10-inch and 14-inch models are available.",
+    "chapter": "fixtures",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-fixtures-b-005",
+    "question": "Which component inside a toilet tank controls the water level?",
+    "options": ["The flapper", "The fill valve", "The wax ring", "The supply stop"],
+    "correctIndex": 1,
+    "explanation": "The fill valve controls the water level in the toilet tank. It opens when the tank is flushed and refills it to a preset level, then shuts off. The float mechanism on the fill valve determines when the tank is full.",
+    "chapter": "fixtures",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-fixtures-b-006",
+    "question": "What type of valve is commonly used for shower water control, allowing you to adjust temperature and flow?",
+    "options": ["Gate valve", "Ball valve", "Mixing valve or shower valve", "Check valve"],
+    "correctIndex": 2,
+    "explanation": "A mixing valve or shower valve blends hot and cold water to deliver the desired temperature. Modern shower valves often include pressure-balancing or thermostatic technology to prevent scalding if water pressure changes suddenly.",
+    "chapter": "fixtures",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-fixtures-b-007",
+    "question": "What is the primary purpose of an overflow drain on a bathtub?",
+    "options": ["To provide extra drainage speed", "To prevent the tub from overflowing if the main drain is closed", "To connect to the vent system", "To allow air into the drain"],
+    "correctIndex": 1,
+    "explanation": "The overflow drain is located higher on the tub wall and prevents water from spilling over the edge if someone leaves the faucet running with the stopper closed. It connects to the drain pipe below the tub.",
+    "chapter": "fixtures",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-fixtures-b-008",
+    "question": "What is an aerator on a faucet?",
+    "options": ["A filter that removes chlorine", "A small screen at the tip that mixes air with water to reduce splashing and save water", "A valve that controls temperature", "A connector for a hose"],
+    "correctIndex": 1,
+    "explanation": "An aerator is a small device screwed onto the faucet tip that mixes air into the water stream. This reduces splashing, provides a consistent flow, and conserves water by reducing the volume while maintaining apparent pressure.",
+    "chapter": "fixtures",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-fixtures-b-009",
+    "question": "What is a lavatory in plumbing terms?",
+    "options": ["A toilet", "A bathroom sink", "A bathtub", "A utility room"],
+    "correctIndex": 1,
+    "explanation": "In plumbing terminology, a lavatory specifically refers to a bathroom sink. A kitchen sink is simply called a kitchen sink. This distinction matters on plumbing plans and code references.",
+    "chapter": "fixtures",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-fixtures-b-010",
+    "question": "What type of faucet has a single handle that controls both hot and cold water?",
+    "options": ["Compression faucet", "Single-handle mixing faucet", "Sillcock", "Hose bibb"],
+    "correctIndex": 1,
+    "explanation": "A single-handle mixing faucet uses one lever or handle to control both the water volume and temperature. Moving the handle left and right adjusts temperature, while up and down controls flow. These typically use a cartridge or ball mechanism inside.",
+    "chapter": "fixtures",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-fixtures-i-001",
+    "question": "A toilet is running continuously. The flapper appears to be seating properly. What should you check next?",
+    "options": ["The wax ring", "The fill valve and whether the water level is above the overflow tube", "The supply stop", "The closet flange"],
+    "correctIndex": 1,
+    "explanation": "If the flapper seats properly but the toilet still runs, the fill valve may be set too high, causing water to constantly flow over the overflow tube and into the bowl. Adjusting the fill valve float to lower the water level to about 1 inch below the top of the overflow tube should fix the issue.",
+    "chapter": "fixtures",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-fixtures-i-002",
+    "question": "What is the code-required minimum trap seal depth for a residential fixture trap?",
+    "options": ["1 inch", "2 inches", "4 inches", "6 inches"],
+    "correctIndex": 1,
+    "explanation": "Most plumbing codes require a minimum trap seal depth of 2 inches and a maximum of 4 inches. The trap seal is the vertical distance of water held in the trap. If the seal is too shallow, it can be lost to evaporation or siphoning, allowing sewer gas in.",
+    "chapter": "fixtures",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-fixtures-i-003",
+    "question": "A pressure-balancing shower valve is required by code. What does it protect against?",
+    "options": ["Low water pressure", "Sudden temperature changes that could cause scalding", "Backflow contamination", "Frozen pipes"],
+    "correctIndex": 1,
+    "explanation": "A pressure-balancing shower valve automatically adjusts the mix of hot and cold water when pressure changes occur in the system - for example, when a toilet is flushed. This prevents sudden bursts of hot water that could scald the person showering. Most codes require these valves in all new shower installations.",
+    "chapter": "fixtures",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-fixtures-i-004",
+    "question": "What is the maximum distance a P-trap can be located from the fixture it serves, according to most codes?",
+    "options": ["12 inches", "24 inches", "30 inches from the fixture tailpiece", "48 inches"],
+    "correctIndex": 2,
+    "explanation": "Most plumbing codes limit the trap arm distance (from the trap weir to the vent) but the trap itself must be as close to the fixture as possible, typically within 24 to 30 inches of the fixture drain outlet. Excessive distance can cause the trap seal to be lost through siphoning.",
+    "chapter": "fixtures",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-fixtures-i-005",
+    "question": "When installing a kitchen sink, what determines whether you need a 1-1/2 inch or 2-inch drain connection?",
+    "options": ["The faucet size", "The fixture unit rating and whether a garbage disposal is installed", "The countertop material", "The water heater size"],
+    "correctIndex": 1,
+    "explanation": "A standard kitchen sink uses a 1-1/2 inch drain. However, if a garbage disposal is installed or the sink has a high fixture unit rating, a 2-inch drain may be required. Local codes and the fixture unit load on the branch determine the minimum drain size.",
+    "chapter": "fixtures",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-fixtures-i-006",
+    "question": "What is the purpose of a wax ring on a toilet installation?",
+    "options": ["To level the toilet on an uneven floor", "To create a watertight and gas-tight seal between the toilet horn and the closet flange", "To prevent the toilet from rocking", "To connect the supply line"],
+    "correctIndex": 1,
+    "explanation": "The wax ring compresses between the toilet outlet (horn) and the closet flange to create both a watertight and gas-tight seal. This prevents leaks and sewer gas from escaping around the base of the toilet. Wax-free gaskets are also available as an alternative.",
+    "chapter": "fixtures",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-fixtures-i-007",
+    "question": "A customer complains of a sewer smell from a rarely used guest bathroom. What is the most likely cause?",
+    "options": ["A cracked toilet", "The trap seal has evaporated, allowing sewer gas through", "The water heater needs flushing", "The supply lines are corroded"],
+    "correctIndex": 1,
+    "explanation": "When a fixture is not used for an extended period, the water in the P-trap can evaporate, breaking the trap seal and allowing sewer gas to enter the room. The fix is simple - run water in all drains (sink, tub, shower, floor drain) to refill the traps. Trap primers can be installed to prevent this in commercial buildings.",
+    "chapter": "fixtures",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-fixtures-i-008",
+    "question": "What maximum hot water temperature does code typically require at the outlet of a residential shower or tub?",
+    "options": ["100 degrees F", "110 degrees F", "120 degrees F", "140 degrees F"],
+    "correctIndex": 2,
+    "explanation": "Most plumbing codes limit the maximum hot water temperature at shower and tub outlets to 120 degrees F to prevent scalding. This is achieved through anti-scald valves, thermostatic mixing valves, or by setting the water heater thermostat appropriately.",
+    "chapter": "fixtures",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-fixtures-i-009",
+    "question": "What is the difference between a ball valve and a gate valve for a water shut-off?",
+    "options": ["Ball valves are only for gas lines", "Ball valves provide full flow with a quarter turn and are more reliable; gate valves require multiple turns and can fail over time", "Gate valves are always better", "There is no difference"],
+    "correctIndex": 1,
+    "explanation": "Ball valves use a rotating ball with a hole through it and operate with a quarter turn, providing full flow and reliable shut-off. Gate valves use a sliding gate that requires multiple turns and can corrode in the open or closed position over time, making them less reliable. Ball valves are now preferred for most residential applications.",
+    "chapter": "fixtures",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-fixtures-i-010",
+    "question": "When replacing a tub/shower valve, why is it important to verify the valve is compatible with the existing trim?",
+    "options": ["Different brands have different color options", "Valve bodies and trim kits are manufacturer-specific and not interchangeable", "Trim is universal across all brands", "Compatibility only matters for faucets, not valves"],
+    "correctIndex": 1,
+    "explanation": "Shower valve bodies and their trim kits (handles, escutcheon plates, cartridges) are specific to each manufacturer and often to specific model lines. Installing a Delta trim on a Moen valve body will not work. When replacing a valve, you must either match the brand or replace both the valve body and trim together.",
+    "chapter": "fixtures",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-fixtures-a-001",
+    "question": "A commercial restroom design requires a water closet with a flush valve (flushometer). What is the minimum supply pipe size required for a flush valve toilet?",
+    "options": ["1/2 inch", "3/4 inch", "1 inch", "1-1/4 inch"],
+    "correctIndex": 2,
+    "explanation": "Flush valve (flushometer) toilets require a minimum 1-inch supply pipe to deliver the high volume of water needed for a single flush cycle (typically 25-35 GPM instantaneous flow). This is significantly larger than the 3/8-inch supply for a tank-type residential toilet, which fills slowly over time.",
+    "chapter": "fixtures",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-fixtures-a-002",
+    "question": "When calculating fixture units for a commercial restroom with 6 water closets (flush valve), 4 lavatories, and 2 urinals, what is the total drainage fixture unit (DFU) load? (Water closet flush valve = 4 DFU, lavatory = 1 DFU, urinal = 2 DFU)",
+    "options": ["24 DFU", "32 DFU", "28 DFU", "36 DFU"],
+    "correctIndex": 1,
+    "explanation": "Total DFU = (6 water closets x 4 DFU) + (4 lavatories x 1 DFU) + (2 urinals x 2 DFU) = 24 + 4 + 4 = 32 DFU. Fixture unit calculations are essential for sizing drain pipes, vent pipes, and the building sewer to handle the expected load.",
+    "chapter": "fixtures",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-fixtures-a-003",
+    "question": "An ADA-compliant lavatory must meet which of the following requirements?",
+    "options": ["Mounted at any height with a standard P-trap", "Mounted with the rim no higher than 34 inches, knee clearance underneath, and insulated or offset drain pipes", "Only requires a single-handle faucet", "Must be a pedestal sink"],
+    "correctIndex": 1,
+    "explanation": "ADA-compliant lavatories must have the rim no higher than 34 inches AFF, provide knee and toe clearance underneath for wheelchair access, and have insulated or offset drain pipes to prevent contact burns. Self-closing faucets must remain on for at least 10 seconds, and lever or sensor-operated controls are required.",
+    "chapter": "fixtures",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-fixtures-a-004",
+    "question": "A thermostatic mixing valve (TMV) differs from a pressure-balancing valve in what key way?",
+    "options": ["A TMV is less expensive", "A TMV maintains a set output temperature regardless of both pressure and temperature changes in the supply", "A TMV only works with tankless water heaters", "There is no functional difference"],
+    "correctIndex": 1,
+    "explanation": "A thermostatic mixing valve uses a temperature-sensing element to maintain a precise output temperature regardless of changes in supply pressure or temperature. A pressure-balancing valve only responds to pressure changes, not temperature changes in the supply. TMVs provide superior scald protection and are often required in healthcare and institutional settings.",
+    "chapter": "fixtures",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-fixtures-a-005",
+    "question": "In a commercial building, what fixture requires an indirect waste connection rather than a direct drain connection?",
+    "options": ["A toilet", "A commercial ice machine or food preparation sink", "A bathroom lavatory", "A urinal"],
+    "correctIndex": 1,
+    "explanation": "Commercial food service equipment, ice machines, and similar fixtures require indirect waste connections - meaning the drain discharges through an air gap into a floor sink or receptor rather than connecting directly to the drain system. This prevents potential contamination from sewage backup reaching food preparation or storage equipment.",
+    "chapter": "fixtures",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-fixtures-a-006",
+    "question": "What is the purpose of a vacuum breaker installed on a hose bibb (outdoor faucet)?",
+    "options": ["To increase water pressure", "To prevent backflow of potentially contaminated water into the potable supply through back-siphonage", "To reduce water hammer", "To prevent freezing"],
+    "correctIndex": 1,
+    "explanation": "A vacuum breaker prevents back-siphonage, where a sudden drop in supply pressure (like a water main break) could suck contaminated water from a garden hose back into the drinking water supply. Most codes require atmospheric vacuum breakers or frost-proof sillcocks with integral vacuum breakers on all hose connections.",
+    "chapter": "fixtures",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-fixtures-a-007",
+    "question": "A plumber is tasked with installing a floor-mounted mop sink (service sink) in a janitor's closet. What special drainage requirement applies?",
+    "options": ["It requires a 3-inch trap", "It requires a trap primer or trap seal maintenance device to prevent trap seal loss", "It must connect to a separate sewer line", "It does not need a trap"],
+    "correctIndex": 0,
+    "explanation": "Floor-mounted service sinks (mop sinks) typically require a 3-inch drain and trap due to the large volume of water discharged and potential for debris. The larger trap also helps maintain the trap seal. Some codes also require a trap primer for floor drains in the same space.",
+    "chapter": "fixtures",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-fixtures-a-008",
+    "question": "When installing a commercial dishwasher, what prevents wastewater from the sink drain from flowing back into the dishwasher?",
+    "options": ["A check valve on the supply line", "An air gap device on the drain line, typically mounted at the countertop or sink", "A backflow preventer on the water supply", "The dishwasher's internal pump"],
+    "correctIndex": 1,
+    "explanation": "An air gap device is required by most codes for commercial dishwasher drain connections. It provides a physical separation (air gap) between the dishwasher drain hose and the sink drain, making it impossible for wastewater to back up into the dishwasher. This is the highest level of backflow protection for drain connections.",
+    "chapter": "fixtures",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-fixtures-a-009",
+    "question": "What is a water closet carrier, and when is it used?",
+    "options": ["A tool for transporting toilets", "A steel frame bolted to the wall structure that supports a wall-hung toilet and connects to the drain in the wall", "A type of toilet flange", "A dolly for moving cast iron fixtures"],
+    "correctIndex": 1,
+    "explanation": "A water closet carrier is a heavy-duty steel support frame installed within the wall cavity that supports the full weight of a wall-hung (wall-mounted) toilet and occupant. It bolts to the building structure and includes the drain connection. Carriers must be rated for the expected load, typically 500 pounds minimum.",
+    "chapter": "fixtures",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-fixtures-a-010",
+    "question": "A healthcare facility requires fixtures that prevent cross-connection. Which faucet feature provides the highest level of backflow protection at the fixture?",
+    "options": ["A vacuum breaker built into the faucet", "An air gap - where the faucet outlet is at least two pipe diameters above the flood level rim", "A dual-check valve", "A pressure-balancing cartridge"],
+    "correctIndex": 1,
+    "explanation": "An air gap is the highest level of backflow protection recognized by plumbing codes. It requires the faucet outlet to be a minimum of two pipe diameters (or 1 inch, whichever is greater) above the flood-level rim of the fixture. This physical separation makes backflow physically impossible. It is required in healthcare and other high-hazard applications.",
+    "chapter": "fixtures",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-drainage-b-001",
+    "question": "What does DWV stand for in plumbing?",
+    "options": ["Direct Water Valve", "Drain, Waste, and Vent", "Double Wall Ventilation", "Domestic Water Volume"],
+    "correctIndex": 1,
+    "explanation": "DWV stands for Drain, Waste, and Vent. This refers to the system of pipes that carries wastewater away from fixtures (drains and waste) and provides air circulation to the drainage system (vents) so water flows properly by gravity.",
+    "chapter": "drainage",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-drainage-b-002",
+    "question": "What is the purpose of a vent pipe in a plumbing system?",
+    "options": ["To supply hot water", "To allow air into the drain system so water flows freely and traps are not siphoned", "To carry fresh water to fixtures", "To insulate pipes from freezing"],
+    "correctIndex": 1,
+    "explanation": "Vent pipes allow air to enter the drainage system, which serves two purposes: it allows wastewater to flow freely by gravity (like tipping a bottle upside down with a hole in the bottom), and it prevents the siphoning of trap seals that block sewer gas.",
+    "chapter": "drainage",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-drainage-b-003",
+    "question": "What is a cleanout in a plumbing system?",
+    "options": ["A type of vent", "An access point for clearing blockages in drain pipes", "A water filter", "A type of faucet"],
+    "correctIndex": 1,
+    "explanation": "A cleanout is a capped opening in the drain pipe that provides access for a drain snake or other clearing equipment to remove blockages. Cleanouts are required at specific intervals and at changes in direction in the drainage system.",
+    "chapter": "drainage",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-drainage-b-004",
+    "question": "What is a soil stack?",
+    "options": ["A pile of dirt around a foundation", "A vertical drain pipe that carries waste from toilets down to the building sewer", "A type of water heater", "A vent-only pipe"],
+    "correctIndex": 1,
+    "explanation": "A soil stack is the main vertical drain pipe in a building that receives waste from toilets (water closets) and carries it down to the building drain. It extends up through the roof as a vent stack. A waste stack is similar but does not carry toilet waste.",
+    "chapter": "drainage",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-drainage-b-005",
+    "question": "What is the minimum size drain pipe required for a residential toilet?",
+    "options": ["1-1/2 inches", "2 inches", "3 inches", "4 inches"],
+    "correctIndex": 2,
+    "explanation": "A toilet requires a minimum 3-inch drain pipe. This is because toilets handle solid waste that requires a larger pipe to flow freely. The building sewer that carries waste from the building to the city sewer or septic tank is typically 4 inches.",
+    "chapter": "drainage",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-drainage-b-006",
+    "question": "What does 'grade' or 'slope' mean when referring to a drain pipe?",
+    "options": ["The quality rating of the pipe", "The downward angle of the pipe that allows waste to flow by gravity", "The wall thickness of the pipe", "The pipe diameter"],
+    "correctIndex": 1,
+    "explanation": "Grade or slope is the downward pitch of a horizontal drain pipe that allows wastewater to flow by gravity toward the sewer. It is measured in inches of drop per foot of pipe run. Without proper slope, waste will not flow or may build up in the pipe.",
+    "chapter": "drainage",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-drainage-b-007",
+    "question": "Where does the vent stack typically terminate?",
+    "options": ["In the basement", "Through the roof, open to outside air", "At the water heater", "At the water meter"],
+    "correctIndex": 1,
+    "explanation": "The vent stack extends vertically through the roof and terminates in the open air. This allows sewer gases to escape safely above the building and provides the air intake that the drainage system needs to function. The opening must be a minimum height above the roof surface as required by code.",
+    "chapter": "drainage",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-drainage-b-008",
+    "question": "What is a trap primer?",
+    "options": ["A coating applied to pipe threads", "A device that automatically adds water to a floor drain trap to maintain the seal", "A cleaning solution for traps", "A type of trap for laundry machines"],
+    "correctIndex": 1,
+    "explanation": "A trap primer is a device that periodically sends a small amount of water to a floor drain or other infrequently used drain to keep the trap seal from evaporating. This is especially important in commercial buildings where floor drains may go months without use.",
+    "chapter": "drainage",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-drainage-b-009",
+    "question": "What is a building drain?",
+    "options": ["The pipe from the roof to the gutter", "The lowest horizontal pipe inside the building that collects all drain water and carries it to the building sewer", "The vertical pipe inside a wall", "The pipe from the washing machine"],
+    "correctIndex": 1,
+    "explanation": "The building drain is the main horizontal drain pipe at the lowest point inside the building that collects waste from all the vertical stacks and horizontal branches. It extends from the building to the building sewer, which begins outside the building wall or foundation.",
+    "chapter": "drainage",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-drainage-b-010",
+    "question": "What happens if a drain pipe has no vent connected to it?",
+    "options": ["Nothing - vents are optional", "Water drains faster", "Slow drainage, gurgling sounds, and trap seals can be siphoned out", "The pipe corrodes faster"],
+    "correctIndex": 2,
+    "explanation": "Without a vent, draining water creates a vacuum behind it (like holding your thumb over a straw). This causes slow drainage, gurgling sounds at fixtures, and can siphon the water out of trap seals, allowing sewer gas to enter the building.",
+    "chapter": "drainage",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-drainage-i-001",
+    "question": "What is the maximum distance a 1-1/2 inch trap arm can extend from the trap weir to the vent?",
+    "options": ["3 feet 6 inches", "5 feet", "6 feet", "8 feet"],
+    "correctIndex": 2,
+    "explanation": "For a 1-1/2 inch trap arm, the maximum developed length from the trap weir to the vent connection is 6 feet per the IPC (International Plumbing Code). Exceeding this distance can result in the trap seal being lost through siphoning. The UPC allows 3 feet 6 inches for the same size.",
+    "chapter": "drainage",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-drainage-i-002",
+    "question": "What is the minimum vent pipe size for a toilet (water closet)?",
+    "options": ["1-1/4 inches", "1-1/2 inches", "2 inches", "3 inches"],
+    "correctIndex": 2,
+    "explanation": "A toilet requires a minimum 2-inch vent pipe under most codes. The vent must be at least half the size of the drain it serves (toilet drain is 3 inches minimum, so the vent must be at least 1-1/2 inches), but codes generally require a 2-inch minimum for water closet vents.",
+    "chapter": "drainage",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-drainage-i-003",
+    "question": "What is a wet vent, and how does it function?",
+    "options": ["A vent that leaks", "A pipe that serves as both a drain for one fixture and a vent for another fixture downstream", "A vent that extends into the ground", "A vent with a water trap"],
+    "correctIndex": 1,
+    "explanation": "A wet vent is a section of pipe that serves the dual purpose of being a drain pipe for one fixture while also providing venting for another fixture connected downstream. For example, a lavatory drain can serve as a wet vent for a toilet connected below it. Wet venting saves pipe and fittings but must meet specific sizing requirements.",
+    "chapter": "drainage",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-drainage-i-004",
+    "question": "A plumber notices gurgling at the bathroom sink when the toilet is flushed. What is the most likely cause?",
+    "options": ["The toilet flapper is bad", "The sink vent is inadequate or blocked, causing pressure changes when the toilet flushes", "The sink faucet cartridge is worn", "The water heater thermostat is too high"],
+    "correctIndex": 1,
+    "explanation": "Gurgling at a nearby fixture when another is used indicates a venting problem. When the toilet flushes, it creates a rush of water that can cause negative pressure in the drain system. Without adequate venting to equalize pressure, air gets pulled through the nearest trap (the sink), causing the gurgling sound.",
+    "chapter": "drainage",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-drainage-i-005",
+    "question": "What is the minimum required slope for a 2-inch horizontal drain pipe?",
+    "options": ["1/16 inch per foot", "1/8 inch per foot", "1/4 inch per foot", "1/2 inch per foot"],
+    "correctIndex": 2,
+    "explanation": "Horizontal drain pipes 2-1/2 inches and smaller require a minimum slope of 1/4 inch per foot. Pipes 3 inches and larger require a minimum of 1/8 inch per foot. Too little slope causes waste to settle; too much slope can cause water to outrun solids, also causing blockages.",
+    "chapter": "drainage",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-drainage-i-006",
+    "question": "What is an Air Admittance Valve (AAV), and when can it be used?",
+    "options": ["A valve that adds air to water supply lines", "A one-way valve that allows air into the drain system as a substitute for a traditional vent pipe, where permitted by code", "A valve that controls drain flow", "A valve that prevents sewer gas backup"],
+    "correctIndex": 1,
+    "explanation": "An AAV (also called a Studor vent) is a gravity-operated, one-way valve that opens to admit air when negative pressure occurs in the drain system, then closes by gravity to block sewer gas. They are useful where running a traditional vent pipe through the roof is impractical, but they are not permitted everywhere - check local code.",
+    "chapter": "drainage",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-drainage-i-007",
+    "question": "What fitting must be used to change direction in a horizontal drain line to allow a cleanout or maintain proper flow?",
+    "options": ["A tee fitting", "A long-sweep elbow or two 45-degree elbows", "A short-radius 90-degree elbow", "A coupling"],
+    "correctIndex": 1,
+    "explanation": "Sharp turns in horizontal drain lines can cause blockages. Long-sweep 90-degree elbows or two 45-degree elbows are required for changes in direction in horizontal drain lines. Short-radius 90-degree elbows (quarter bends) are only permitted where a vertical pipe connects to a horizontal pipe.",
+    "chapter": "drainage",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-drainage-i-008",
+    "question": "What is the purpose of a backwater valve installed on a building sewer?",
+    "options": ["To increase drain flow speed", "To prevent sewage from backing up into the building during a sewer main overflow or blockage", "To filter debris from the sewer", "To ventilate the sewer line"],
+    "correctIndex": 1,
+    "explanation": "A backwater valve (backflow preventer for drainage) is installed on the building sewer to prevent sewage from the municipal sewer from backing up into the building during heavy rain, blockages, or system overloads. It allows normal outflow but closes automatically if flow reverses.",
+    "chapter": "drainage",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-drainage-i-009",
+    "question": "What is a combination wye and 1/8 bend fitting used for in drainage systems?",
+    "options": ["Connecting vent pipes only", "Connecting a horizontal branch drain to the main drain while maintaining proper flow direction", "Connecting water supply lines", "Joining two vent stacks together"],
+    "correctIndex": 1,
+    "explanation": "A combination wye and 1/8 bend (also called a combo fitting) is used to connect a horizontal branch drain to a horizontal main drain or building drain. The wye provides a smooth entry angle and the 1/8 bend (45-degree bend) directs the flow in the proper direction, reducing turbulence and the risk of blockages.",
+    "chapter": "drainage",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-drainage-i-010",
+    "question": "At what point does a building drain become a building sewer?",
+    "options": ["At the water meter", "At a point typically 2 to 5 feet outside the exterior foundation wall", "At the street", "At the septic tank"],
+    "correctIndex": 1,
+    "explanation": "The building drain becomes the building sewer at a point outside the exterior foundation wall, typically 2 to 5 feet from the building (varies by jurisdiction). This distinction matters because different code requirements often apply to each - such as pipe material, slope, and testing requirements.",
+    "chapter": "drainage",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-drainage-a-001",
+    "question": "A 4-inch building drain serves a total of 216 drainage fixture units (DFU). According to code tables, what is the maximum number of DFU a 4-inch building drain with 1/8-inch per foot slope can handle?",
+    "options": ["180 DFU", "216 DFU", "256 DFU", "180 DFU - the pipe is undersized and must be increased to 6 inches"],
+    "correctIndex": 0,
+    "explanation": "A 4-inch building drain with 1/8-inch per foot slope is rated for a maximum of 180 DFU per IPC tables. At 216 DFU, this drain is overloaded and must be upsized. Increasing to a 6-inch building drain would provide capacity for up to 720 DFU at the same slope. Proper fixture unit calculations prevent drain system failures.",
+    "chapter": "drainage",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-drainage-a-002",
+    "question": "When sizing a vent stack that serves a 4-inch soil stack, what factors determine the required vent size and length?",
+    "options": ["Only the pipe material matters", "The developed length of the vent and the total drainage fixture unit load on the soil stack", "Only the number of floors in the building", "The water pressure in the supply system"],
+    "correctIndex": 1,
+    "explanation": "Vent sizing is determined by using code tables that cross-reference the size of the drain being vented, the total DFU load, and the developed length of the vent pipe. A longer vent run requires a larger diameter to provide adequate airflow. For example, a 4-inch soil stack with 90 DFU might use a 3-inch vent up to 212 feet or a 2-inch vent up to 75 feet.",
+    "chapter": "drainage",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-drainage-a-003",
+    "question": "In a multi-story building, what is the purpose of a yoke vent, and where is it installed?",
+    "options": ["It connects to the roof drain", "It connects the soil stack to the vent stack at specific floor intervals to relieve pressure fluctuations in tall drainage stacks", "It vents a single fixture", "It is used only in single-story buildings"],
+    "correctIndex": 1,
+    "explanation": "A yoke vent connects the soil or waste stack to the vent stack at intervals (typically every 10 floors or per code requirement) in buildings over 10 stories. It relieves the pressure fluctuations caused by large volumes of water falling down the stack, which can blow out or siphon traps on lower floors. The yoke vent connects at or above the floor level where relief is needed.",
+    "chapter": "drainage",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-drainage-a-004",
+    "question": "A horizontal wet vent is serving a bathroom group (toilet, lavatory, and tub/shower). What is the minimum pipe size for the wet-vented section?",
+    "options": ["1-1/2 inches", "2 inches", "3 inches", "4 inches"],
+    "correctIndex": 1,
+    "explanation": "For a single bathroom group with a toilet, the wet-vented horizontal portion of pipe must be a minimum of 2 inches in diameter per most codes. The wet vent must be at least one pipe size larger than the required vent for the highest DFU fixture being wet-vented. Some jurisdictions may require larger sizing.",
+    "chapter": "drainage",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-drainage-a-005",
+    "question": "What test method is used to verify the integrity of a DWV system before it is concealed in walls and ceilings?",
+    "options": ["A flow test using running water only", "An air test at 5 psi or a water test where the system is filled to the highest vent opening", "A visual inspection only", "A pressure test at 80 psi"],
+    "correctIndex": 1,
+    "explanation": "DWV systems must pass a pressure test before being concealed. The water test involves plugging all openings and filling the system with water to the level of the highest vent opening, maintaining pressure for 15 minutes. Alternatively, an air test at 5 psi (held for 15 minutes) may be used. These tests reveal any leaks at joints before walls are closed up.",
+    "chapter": "drainage",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-drainage-a-006",
+    "question": "What is the purpose of a circuit vent in a commercial drainage system?",
+    "options": ["To vent a single fixture", "To vent a group of up to 8 fixtures on a horizontal branch using a single vent pipe connected downstream of the last fixture", "To replace the building vent stack", "To vent only floor drains"],
+    "correctIndex": 1,
+    "explanation": "A circuit vent serves a group of fixtures (up to 8 per most codes) connected to a horizontal branch drain. It connects to the branch between the last two fixtures and rises to the vent system. This reduces the number of individual vent pipes needed in commercial installations like restroom banks while still providing adequate venting.",
+    "chapter": "drainage",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-drainage-a-007",
+    "question": "What is the maximum vertical distance a vent connection can be located above the flood-level rim of the fixture it serves?",
+    "options": ["There is no maximum - it can be any height", "The vent must connect at least 6 inches above the flood-level rim, but there is no maximum height limit", "The vent must be within 24 inches of the fixture", "The vent must be at the same height as the fixture"],
+    "correctIndex": 1,
+    "explanation": "The vent connection must be at least 6 inches above the flood-level rim of the fixture it serves to prevent drain water from entering the vent. There is no maximum height as long as the vent is properly sized for its developed length. However, the vent must connect to the drain within the allowable trap arm distance.",
+    "chapter": "drainage",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-drainage-a-008",
+    "question": "A plumber is installing an offset on a 4-inch soil stack between the 3rd and 4th floors of a 5-story building. What special requirement applies to this offset?",
+    "options": ["No special requirements", "The offset must be vented with relief vents above and below the offset if it serves more than 4 branch intervals", "The offset can use any type of fitting", "The offset must be made of cast iron"],
+    "correctIndex": 1,
+    "explanation": "When a soil or waste stack has an offset and serves 4 or more branch intervals above the offset, relief vents are required both above and below the offset. The offset section is treated like a building drain for sizing purposes, and the relief vents prevent pressure disturbances from affecting trap seals on floors connected to the stack.",
+    "chapter": "drainage",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-drainage-a-009",
+    "question": "What is the maximum number of drainage fixture units allowed on a 3-inch vertical waste stack with three branch intervals?",
+    "options": ["24 DFU", "48 DFU", "72 DFU", "20 DFU"],
+    "correctIndex": 1,
+    "explanation": "Per IPC drainage fixture unit tables, a 3-inch vertical waste or soil stack with three or more branch intervals can handle up to 48 DFU total. This limit increases with pipe size - a 4-inch stack can handle 240 DFU. Exceeding these limits can cause sluggish drainage and pressure fluctuations that compromise trap seals.",
+    "chapter": "drainage",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-drainage-a-010",
+    "question": "A grease interceptor is required for a restaurant's kitchen drainage. How is the interceptor sized?",
+    "options": ["By the number of employees", "By calculating the flow rate based on the number and size of fixtures connected, and the drainage fixture unit load", "By the restaurant's square footage", "By the number of menu items"],
+    "correctIndex": 1,
+    "explanation": "Grease interceptors are sized based on the flow rate (GPM) from connected fixtures, determined by fixture unit calculations or the fixture drain sizes. Factors include the number of sinks, dishwashers, and other grease-producing fixtures. The interceptor must be large enough to slow the flow and allow grease to separate and float before the effluent enters the sanitary sewer.",
+    "chapter": "drainage",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-water-supply-b-001",
+    "question": "What is the typical residential water pressure range considered acceptable?",
+    "options": ["10-20 psi", "40-80 psi", "100-150 psi", "200-300 psi"],
+    "correctIndex": 1,
+    "explanation": "Normal residential water pressure ranges from 40 to 80 psi. Below 40 psi causes poor fixture performance, while pressure above 80 psi requires a pressure-reducing valve to protect pipes, fixtures, and appliances from damage.",
+    "chapter": "water-supply",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-water-supply-b-002",
+    "question": "What device is installed to reduce incoming water pressure that is too high?",
+    "options": ["Expansion tank", "Pressure-reducing valve (PRV)", "Check valve", "Ball valve"],
+    "correctIndex": 1,
+    "explanation": "A pressure-reducing valve (PRV) is installed on the main water line entering the building to reduce high incoming pressure to a safe level, typically 50-75 psi. High pressure causes stress on pipes, fittings, and appliances, leading to leaks and premature failure.",
+    "chapter": "water-supply",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-water-supply-b-003",
+    "question": "What is the purpose of a water heater's temperature and pressure (T&P) relief valve?",
+    "options": ["To regulate water temperature", "To release water if temperature or pressure inside the tank exceeds safe limits, preventing explosion", "To drain the tank for maintenance", "To connect to the cold water supply"],
+    "correctIndex": 1,
+    "explanation": "The T&P relief valve is a critical safety device on every water heater. If the temperature exceeds 210 degrees F or pressure exceeds 150 psi, the valve opens to release water and prevent a catastrophic tank failure or explosion. It must never be capped or plugged.",
+    "chapter": "water-supply",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-water-supply-b-004",
+    "question": "What is backflow in a water supply system?",
+    "options": ["Water flowing too fast", "The unwanted reversal of water flow from a potentially contaminated source back into the potable water supply", "Water draining slowly", "Normal water flow through pipes"],
+    "correctIndex": 1,
+    "explanation": "Backflow occurs when water flows in the reverse direction, potentially pulling contaminated water into the clean drinking water supply. This can happen through back-pressure (downstream pressure exceeds supply pressure) or back-siphonage (negative pressure in the supply line). Backflow prevention devices protect against this.",
+    "chapter": "water-supply",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-water-supply-b-005",
+    "question": "What are the two types of water distribution in a home?",
+    "options": ["High and low flow", "Hot water and cold water", "Indoor and outdoor", "Filtered and unfiltered"],
+    "correctIndex": 1,
+    "explanation": "A home's water distribution system has two main subsystems: cold water, which comes directly from the water supply to fixtures, and hot water, which is routed through the water heater first. Each fixture that needs hot water has both a hot and cold supply line.",
+    "chapter": "water-supply",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-water-supply-b-006",
+    "question": "What is the standard residential water heater thermostat setting recommended to balance safety and comfort?",
+    "options": ["100 degrees F", "120 degrees F", "140 degrees F", "160 degrees F"],
+    "correctIndex": 1,
+    "explanation": "The recommended setting is 120 degrees F. This temperature is hot enough for comfortable use and to minimize bacterial growth (including Legionella) while reducing the risk of scalding. Higher settings waste energy and increase scald risk, especially for children and elderly residents.",
+    "chapter": "water-supply",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-water-supply-b-007",
+    "question": "What is the main water shut-off valve used for?",
+    "options": ["To control individual fixture flow", "To shut off water supply to the entire building in an emergency or for repairs", "To adjust water temperature", "To regulate water pressure"],
+    "correctIndex": 1,
+    "explanation": "The main water shut-off valve controls the water supply to the entire building. Every homeowner should know its location so they can quickly turn off water in an emergency, such as a burst pipe. It is typically located near the water meter or where the water line enters the building.",
+    "chapter": "water-supply",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-water-supply-b-008",
+    "question": "What is an expansion tank on a water heater system?",
+    "options": ["An extra water heater for backup", "A small tank that absorbs pressure increases caused by thermal expansion when water is heated", "A filter for the water heater", "A tank that stores cold water"],
+    "correctIndex": 1,
+    "explanation": "When water is heated, it expands. In a closed system (with a check valve or PRV preventing expanded water from flowing back to the supply), this thermal expansion increases pressure. An expansion tank contains an air bladder that absorbs the extra volume, preventing excessive pressure on the water heater and plumbing system.",
+    "chapter": "water-supply",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-water-supply-b-009",
+    "question": "Where should the cold water supply connect to a water heater?",
+    "options": ["At the top", "At the bottom via the designated cold water inlet", "On the side", "It does not matter"],
+    "correctIndex": 1,
+    "explanation": "Cold water connects to the designated cold water inlet, which is typically at the top of the tank but has a dip tube that directs cold water to the bottom. Hot water exits from the top because hot water rises. Connecting incorrectly can result in lukewarm water and poor performance.",
+    "chapter": "water-supply",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-water-supply-b-010",
+    "question": "What is a hose bibb?",
+    "options": ["A type of drain fitting", "An outdoor faucet designed for connecting a garden hose", "A water heater component", "A type of vent cap"],
+    "correctIndex": 1,
+    "explanation": "A hose bibb (also called a sillcock or outdoor spigot) is an exterior faucet with a threaded outlet designed for garden hose connection. In cold climates, frost-proof models are used that have a long stem shutting off water inside the heated wall to prevent freezing.",
+    "chapter": "water-supply",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-water-supply-i-001",
+    "question": "What causes water hammer, and how is it prevented?",
+    "options": ["Low water pressure - fixed by adding a booster pump", "A shockwave caused by sudden valve closure - prevented by installing water hammer arrestors", "High water temperature - fixed by lowering the thermostat", "Debris in the pipes - fixed by flushing the system"],
+    "correctIndex": 1,
+    "explanation": "Water hammer is the loud banging noise that occurs when a fast-closing valve (like a washing machine solenoid) suddenly stops water flow, creating a pressure shockwave. Water hammer arrestors contain a sealed air chamber that absorbs the shock. They should be installed near the quick-closing valves, such as behind washing machines and dishwashers.",
+    "chapter": "water-supply",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-water-supply-i-002",
+    "question": "A homeowner has a tank water heater and reports running out of hot water quickly. The heater is the correct size. What should be checked first?",
+    "options": ["The main water shut-off valve", "The dip tube - if broken, cold water mixes with hot water at the top of the tank", "The roof vent", "The drain slope"],
+    "correctIndex": 1,
+    "explanation": "A broken dip tube is a common cause of premature hot water loss. The dip tube directs cold water to the bottom of the tank for heating. If it is cracked or broken, cold water enters at the top and mixes directly with the hot water outlet, significantly reducing the effective hot water supply.",
+    "chapter": "water-supply",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-water-supply-i-003",
+    "question": "What type of backflow preventer is required for a high-hazard cross-connection, such as a boiler chemical feed?",
+    "options": ["Atmospheric vacuum breaker", "Reduced pressure zone (RPZ) backflow preventer", "Dual check valve", "Hose bibb vacuum breaker"],
+    "correctIndex": 1,
+    "explanation": "A reduced pressure zone (RPZ) assembly is required for high-hazard cross-connections where contamination could cause serious health risks. The RPZ has two check valves with a relief valve between them that dumps water if either check valve fails, providing the highest level of mechanical backflow protection. It must be tested annually.",
+    "chapter": "water-supply",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-water-supply-i-004",
+    "question": "What is the purpose of a recirculating hot water system?",
+    "options": ["To increase water pressure at fixtures", "To keep hot water constantly available at fixtures by circulating water through the hot water lines, reducing wait time and water waste", "To filter hot water", "To boost water heater capacity"],
+    "correctIndex": 1,
+    "explanation": "A recirculating system uses a small pump to continuously or periodically move hot water through the hot water pipes and back to the heater, so hot water is available almost instantly at any fixture. This eliminates the wait time and water waste from running the faucet while waiting for hot water to arrive. Timer or demand-activated systems save energy.",
+    "chapter": "water-supply",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-water-supply-i-005",
+    "question": "When is a thermal expansion tank required on a water heater installation?",
+    "options": ["Always, on every installation", "When the system is closed - meaning a check valve, backflow preventer, or PRV prevents expanded water from flowing back to the supply", "Only on tankless water heaters", "Only when water pressure exceeds 100 psi"],
+    "correctIndex": 1,
+    "explanation": "A thermal expansion tank is required when the plumbing system is 'closed' - meaning there is no path for thermally expanded water to flow back to the municipal supply. This commonly occurs when a PRV, check valve, or backflow preventer is installed on the main line. Without an expansion tank, the T&P valve may discharge repeatedly or pressure can damage components.",
+    "chapter": "water-supply",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-water-supply-i-006",
+    "question": "A tankless (on-demand) water heater requires what key consideration that a tank-style heater does not?",
+    "options": ["A larger drain pipe", "Significantly higher gas input (BTU) or electrical capacity and a minimum flow rate to activate", "A bigger vent stack", "A dedicated cold water line"],
+    "correctIndex": 1,
+    "explanation": "Tankless water heaters require very high energy input to heat water instantly - often 150,000+ BTU for gas models or multiple 40-amp circuits for electric. They also need a minimum flow rate (typically 0.5 GPM) to activate the burner or element. Gas models often require larger gas lines than tank heaters and special venting.",
+    "chapter": "water-supply",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-water-supply-i-007",
+    "question": "What is the minimum required air gap for a water supply outlet above the flood-level rim of a fixture?",
+    "options": ["Equal to the pipe diameter", "Two times the diameter of the supply outlet, but not less than 1 inch", "6 inches", "12 inches"],
+    "correctIndex": 1,
+    "explanation": "The minimum air gap for a water supply outlet is two times the effective opening (diameter) of the supply pipe, with an absolute minimum of 1 inch. For example, a 1/2-inch supply pipe needs at least a 1-inch air gap. This prevents contamination through back-siphonage by ensuring the outlet is well above the potential flood level.",
+    "chapter": "water-supply",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-water-supply-i-008",
+    "question": "What is the first recovery rate, and why does it matter when sizing a water heater?",
+    "options": ["The speed of the first flush", "The number of gallons a water heater can heat from cold to set temperature in one hour", "The time to drain the tank", "The flow rate at the first fixture"],
+    "correctIndex": 1,
+    "explanation": "First-hour rating (or first-hour recovery) is the number of gallons of hot water a heater can supply in the first hour of use, starting with a full tank of hot water. It combines the tank capacity with the recovery rate (how fast the heater reheats). This number - not just tank size - determines if a water heater meets the household's peak demand.",
+    "chapter": "water-supply",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-water-supply-i-009",
+    "question": "Why should hot and cold water pipes be separated by at least 6 inches or insulated when run parallel?",
+    "options": ["To make them easier to identify", "To prevent heat transfer between the pipes, which can warm cold water and cool hot water", "For structural support", "Code requires it for aesthetic reasons"],
+    "correctIndex": 1,
+    "explanation": "When hot and cold water pipes run close together, heat transfers from the hot pipe to the cold pipe. This warms the cold water (undesirable for drinking) and cools the hot water (reducing efficiency). Maintaining a 6-inch separation or insulating the hot water pipe prevents this heat transfer.",
+    "chapter": "water-supply",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-water-supply-i-010",
+    "question": "What is the purpose of a check valve on a water supply line?",
+    "options": ["To regulate pressure", "To allow water flow in only one direction and prevent backflow", "To filter sediment", "To adjust temperature"],
+    "correctIndex": 1,
+    "explanation": "A check valve allows water to flow in one direction only and automatically closes when flow reverses, preventing backflow. They are used in many applications including sump pump discharge lines, booster pump systems, and as part of backflow prevention assemblies. They are simpler than RPZ devices but provide lower-level backflow protection.",
+    "chapter": "water-supply",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-water-supply-a-001",
+    "question": "A plumber must size a water service line for a building with a total demand of 60 GPM, a static pressure of 80 psi, an elevation of 20 feet, a pressure-reducing valve set to 65 psi, and developed length of 200 feet. What is the maximum allowable friction loss per 100 feet?",
+    "options": ["5.67 psi per 100 feet", "13.17 psi per 100 feet", "20 psi per 100 feet", "8.33 psi per 100 feet"],
+    "correctIndex": 1,
+    "explanation": "Start with available pressure after PRV: 65 psi. Subtract elevation loss: 20 ft x 0.433 psi/ft = 8.66 psi. Subtract minimum residual pressure at fixture (assume 15 psi): Available for friction = 65 - 8.66 - 15 = 41.34 psi. Friction loss per 100 ft = (41.34 / 200) x 100 = 20.67 psi. However, with meter and fitting losses accounted for, the available friction drops. Using a more conservative estimate: (65 - 8.66 - 15 - 15 for meter/fittings) = 26.34 / 200 x 100 = 13.17 psi per 100 feet.",
+    "chapter": "water-supply",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-water-supply-a-002",
+    "question": "In a commercial building with a water supply system operating at 80 psi static pressure, what is the maximum height above the supply main that a flush valve toilet can be installed and still maintain the 25 psi minimum required?",
+    "options": ["55 feet", "80 feet", "127 feet", "185 feet"],
+    "correctIndex": 2,
+    "explanation": "Available pressure for elevation = 80 psi - 25 psi (minimum for flush valve) = 55 psi. Maximum height = 55 psi / 0.433 psi per foot = 127 feet. This calculation does not account for friction loss in the pipe, so the actual usable height would be less. This is why tall buildings often need booster pumps for upper floors.",
+    "chapter": "water-supply",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-water-supply-a-003",
+    "question": "What is the difference between a backflow preventer with intermediate atmospheric vent (DCVA) and a reduced pressure zone (RPZ) assembly?",
+    "options": ["They are the same device", "An RPZ has a relief valve between its two check valves that discharges water if either check fails, while a DCVA relies only on two check valves without a relief mechanism", "A DCVA provides more protection than an RPZ", "An RPZ is only for residential use"],
+    "correctIndex": 1,
+    "explanation": "The key difference is the relief valve in the RPZ. Both devices have two check valves, but the RPZ includes a pressure-monitored relief valve between them. If either check valve fails, the relief valve opens and dumps water rather than allowing contamination to pass. This makes the RPZ suitable for high-hazard situations. A DCVA (double check valve assembly) provides protection against low-hazard cross-connections only.",
+    "chapter": "water-supply",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-water-supply-a-004",
+    "question": "A plumber is sizing the hot water supply for a 50-unit apartment building. Each unit has a kitchen sink, lavatory, and bathtub. Using the Hunter's curve method with diversity factor applied, the peak demand is estimated at 165 GPM. What does the diversity factor account for?",
+    "options": ["Different pipe materials in the building", "The statistical probability that not all fixtures will be used simultaneously", "The distance between fixtures", "The age of the building"],
+    "correctIndex": 1,
+    "explanation": "The diversity factor (applied through Hunter's curve or similar methods) accounts for the fact that in a large building, not all fixtures will be used at the same time. Without diversity, you would add up every fixture's demand (which would be extremely high). The larger the number of fixtures, the lower the percentage of simultaneous use, resulting in a more realistic and economical pipe sizing.",
+    "chapter": "water-supply",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-water-supply-a-005",
+    "question": "A water heater T&P relief valve is rated at 150 psi and 210 degrees F. Under what condition should this valve be replaced even if it appears to function?",
+    "options": ["Every year regardless", "If it has never discharged, it is likely stuck and should be tested and replaced if it fails to operate or if it is more than 3-5 years old", "Only if the water heater is replaced", "T&P valves never need replacement"],
+    "correctIndex": 1,
+    "explanation": "T&P relief valves can fail in the closed position due to mineral buildup, especially in areas with hard water. Manufacturers recommend testing annually by lifting the lever briefly and replacing every 3-5 years. A stuck T&P valve is a serious safety hazard - if temperature or pressure exceeds limits, the water heater tank can rupture explosively.",
+    "chapter": "water-supply",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-water-supply-a-006",
+    "question": "What is the proper procedure for sizing a thermal expansion tank for a 50-gallon water heater with a supply pressure of 60 psi and a thermostat set at 140 degrees F?",
+    "options": ["Use any 2-gallon tank", "Calculate the expansion volume based on the tank capacity, temperature rise, and incoming pressure, then select a tank rated for the system pressure", "Match the expansion tank gallon-for-gallon with the water heater", "Expansion tanks are one-size-fits-all"],
+    "correctIndex": 1,
+    "explanation": "Proper sizing requires knowing the water heater capacity (50 gallons), the temperature rise (from incoming cold temperature to 140 degrees F), and the supply pressure (60 psi). Water expands approximately 2% when heated from 50 to 140 degrees F, so about 1 gallon of expansion. The expansion tank must be sized to absorb this volume at the system pressure. Manufacturer sizing charts cross-reference these values. An undersized tank will not prevent pressure buildup.",
+    "chapter": "water-supply",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-water-supply-a-007",
+    "question": "In a Legionella prevention program for a large building, at what temperature should the water heater storage tank be maintained?",
+    "options": ["100 degrees F", "120 degrees F", "140 degrees F or higher with thermostatic mixing valves at point of use", "180 degrees F with no mixing valves"],
+    "correctIndex": 2,
+    "explanation": "To prevent Legionella bacteria growth in large building water systems, storage tanks should be maintained at 140 degrees F or higher. Legionella thrives between 77-113 degrees F and is killed above 131 degrees F. Thermostatic mixing valves at the point of use then reduce the temperature to a safe 120 degrees F for delivery to fixtures, preventing both bacterial growth and scalding.",
+    "chapter": "water-supply",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-water-supply-a-008",
+    "question": "A commercial building requires a booster pump system because the municipal supply pressure of 45 psi is insufficient for the upper floors. What safety device is required to protect the municipal water main?",
+    "options": ["A pressure-reducing valve", "A backflow preventer (RPZ or DCVA) to prevent the pump from creating back-pressure on the main", "An expansion tank", "A water hammer arrestor"],
+    "correctIndex": 1,
+    "explanation": "A booster pump increases pressure above the municipal supply pressure, which can create back-pressure toward the water main. A backflow preventer (typically an RPZ for commercial applications) must be installed on the supply side of the pump to prevent potentially contaminated building water from being pushed back into the public water system.",
+    "chapter": "water-supply",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-water-supply-a-009",
+    "question": "What is the velocity limit typically enforced for water flowing through copper supply pipes to prevent erosion corrosion?",
+    "options": ["2 feet per second", "5 feet per second for hot water and 8 feet per second for cold water", "15 feet per second", "There is no velocity limit for copper"],
+    "correctIndex": 1,
+    "explanation": "Water velocity in copper pipes should not exceed 5 feet per second for hot water lines and 8 feet per second for cold water lines. Excessive velocity causes erosion corrosion, where the protective oxide layer inside the pipe is stripped away by the flowing water, leading to thinning and eventual pinhole leaks. Hot water is more aggressive, hence the lower limit.",
+    "chapter": "water-supply",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-water-supply-a-010",
+    "question": "When designing a water supply system using the fixture unit method, a group of 30 fixtures totaling 120 water supply fixture units (WSFU) converts to approximately what demand in GPM using the Hunter's curve?",
+    "options": ["120 GPM", "55 GPM", "30 GPM", "80 GPM"],
+    "correctIndex": 1,
+    "explanation": "Using Hunter's curve (a probability-based chart in the plumbing code), 120 WSFU converts to approximately 55 GPM of demand. This is significantly less than the sum of individual fixture flow rates because the curve accounts for the statistical probability of simultaneous use. This is the foundation of water supply pipe sizing in commercial plumbing design.",
+    "chapter": "water-supply",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-codes-b-001",
+    "question": "What does IPC stand for?",
+    "options": ["International Pipe Company", "International Plumbing Code", "Internal Plumbing Certification", "Interstate Piping Commission"],
+    "correctIndex": 1,
+    "explanation": "IPC stands for International Plumbing Code, published by the International Code Council (ICC). It is one of the two major model plumbing codes used in the United States, along with the UPC (Uniform Plumbing Code). Local jurisdictions adopt one of these codes, sometimes with amendments.",
+    "chapter": "codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-codes-b-002",
+    "question": "What is the purpose of a plumbing permit?",
+    "options": ["To increase the cost of the project", "To ensure plumbing work is reviewed and inspected for code compliance and public safety", "To register your plumbing tools", "To advertise your plumbing business"],
+    "correctIndex": 1,
+    "explanation": "A plumbing permit notifies the local building department that plumbing work is being done and triggers inspections to ensure the work meets code requirements. This protects public health and safety by verifying that water supply and drainage systems are properly installed.",
+    "chapter": "codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-codes-b-003",
+    "question": "What does UPC stand for?",
+    "options": ["Universal Pipe Code", "Uniform Plumbing Code", "United Plumbing Council", "Underground Piping Certification"],
+    "correctIndex": 1,
+    "explanation": "UPC stands for Uniform Plumbing Code, published by the International Association of Plumbing and Mechanical Officials (IAPMO). It is widely used in western states. The UPC and IPC are the two main model plumbing codes in the U.S., and local jurisdictions adopt one or the other.",
+    "chapter": "codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-codes-b-004",
+    "question": "When is a rough-in inspection typically required?",
+    "options": ["After the walls are finished and painted", "After all drain, waste, vent, and water supply pipes are installed but before they are covered by walls, ceilings, or concrete", "Before any work begins", "After the fixtures are installed"],
+    "correctIndex": 1,
+    "explanation": "A rough-in inspection happens after all pipes are installed but before they are concealed behind walls, ceilings, floors, or concrete. The inspector verifies proper pipe sizing, slope, venting, materials, and connections. Once approved, the contractor can close up the walls. Work concealed without inspection may need to be uncovered.",
+    "chapter": "codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-codes-b-005",
+    "question": "What is a fixture unit in plumbing code?",
+    "options": ["A physical plumbing fixture like a toilet", "A numerical value assigned to each type of fixture that represents its load on the plumbing system", "A measurement of pipe diameter", "The cost of a fixture"],
+    "correctIndex": 1,
+    "explanation": "A fixture unit is a code-defined numerical value that represents the probable discharge (for drainage) or demand (for supply) that a fixture places on the plumbing system. For example, a lavatory is typically 1 DFU and a toilet is 3-4 DFU. These values are used in tables to size pipes appropriately.",
+    "chapter": "codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-codes-b-006",
+    "question": "Can a homeowner perform their own plumbing work without a license?",
+    "options": ["Never - all plumbing requires a licensed plumber", "In many jurisdictions, homeowners can perform plumbing work on their own primary residence with a homeowner permit", "Always - no permits or licenses are needed", "Only if they watch an online video first"],
+    "correctIndex": 1,
+    "explanation": "Many jurisdictions allow homeowners to perform plumbing work on their own primary residence by obtaining a homeowner permit. The work must still meet code requirements and pass inspection. However, rules vary by location, and some jurisdictions are more restrictive. Commercial work and work for others typically requires a licensed plumber.",
+    "chapter": "codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-codes-b-007",
+    "question": "What is the final plumbing inspection?",
+    "options": ["An inspection of the pipe materials before installation", "An inspection after all fixtures are installed and connected, verifying the complete system works properly", "An inspection of the building foundation only", "A review of the plumbing permit application"],
+    "correctIndex": 1,
+    "explanation": "The final plumbing inspection occurs after all fixtures (toilets, sinks, tubs, water heater, etc.) are installed and connected. The inspector checks that fixtures are properly set, connected, and functional, that there are no leaks, and that the system operates as designed. The permit is closed after a successful final inspection.",
+    "chapter": "codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-codes-b-008",
+    "question": "According to plumbing codes, every fixture drain must be connected to what?",
+    "options": ["Only a drain pipe", "Both a drain pipe and a vent pipe", "Only a vent pipe", "A water supply line"],
+    "correctIndex": 1,
+    "explanation": "Every fixture drain must be connected to both the drainage system (to carry waste away) and the venting system (to allow air in for proper drainage and to protect trap seals). A fixture without proper venting will drain slowly and may lose its trap seal.",
+    "chapter": "codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-codes-b-009",
+    "question": "What is the code-required minimum diameter for a residential building sewer?",
+    "options": ["2 inches", "3 inches", "4 inches", "6 inches"],
+    "correctIndex": 2,
+    "explanation": "Most plumbing codes require a minimum 4-inch diameter for a residential building sewer line. This size accommodates the combined drainage from all fixtures in the house and provides adequate capacity for solid waste transport to the municipal sewer or septic system.",
+    "chapter": "codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-codes-b-010",
+    "question": "What happens if plumbing work is done without the required permit?",
+    "options": ["Nothing - permits are optional", "The work may need to be exposed for inspection, fines may be assessed, and the homeowner may face issues when selling the property", "The plumber's tools are confiscated", "The water company shuts off service"],
+    "correctIndex": 1,
+    "explanation": "Unpermitted plumbing work can result in fines from the local building department, a requirement to uncover and expose the work for inspection (at the owner's expense), and complications when selling the property. Home inspectors and title companies often flag unpermitted work, which can delay or prevent a sale.",
+    "chapter": "codes",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-codes-i-001",
+    "question": "According to the IPC, what is the minimum number of water closets required for a restaurant with an occupancy of 100 people (50 male, 50 female)?",
+    "options": ["1 male, 1 female", "2 male, 2 female", "2 male, 4 female", "3 male, 3 female"],
+    "correctIndex": 2,
+    "explanation": "IPC Table 403.1 specifies minimum fixture counts based on occupancy type and number of occupants. For restaurants, the ratio for water closets is typically 1 per 25 for males and 1 per 12-15 for females. With 50 males, 2 water closets are required; with 50 females, approximately 4 water closets are required. Female restrooms require more fixtures due to longer average use time.",
+    "chapter": "codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-codes-i-002",
+    "question": "A plumber is installing a water heater in a garage. What code requirement applies to the pilot light or ignition source?",
+    "options": ["No special requirements in a garage", "The ignition source must be elevated at least 18 inches above the garage floor to prevent ignition of flammable vapors", "The water heater must be electric only", "The water heater must be in a sealed closet"],
+    "correctIndex": 1,
+    "explanation": "When a gas water heater is installed in a garage, the code requires the ignition source (pilot light, burner, or electrical components) to be at least 18 inches above the garage floor. This is because gasoline vapors are heavier than air and settle at floor level, creating an explosion risk if they contact an ignition source. FVIR (flammable vapor ignition resistant) water heaters also help address this risk.",
+    "chapter": "codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-codes-i-003",
+    "question": "What is the code requirement for the T&P relief valve discharge pipe on a water heater?",
+    "options": ["It can discharge anywhere", "It must terminate at a visible point 6-24 inches above the floor or to an approved indirect waste receptor, and cannot be reduced in size, trapped, or threaded at the end", "It must connect to the sewer system", "It must discharge outside the building through the wall"],
+    "correctIndex": 1,
+    "explanation": "The T&P relief valve discharge pipe must not be smaller than the valve outlet, must not be trapped or have a valve installed on it, must terminate within 6-24 inches of the floor or an approved drain, and the end must not be threaded (to prevent someone from capping it). These requirements ensure the safety valve can always discharge freely.",
+    "chapter": "codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-codes-i-004",
+    "question": "A bathroom remodel includes moving the toilet location. Is a permit required?",
+    "options": ["No - it is the same room", "Yes - relocating a toilet involves moving drain and supply pipes, which requires a permit and inspection", "Only if the homeowner requests one", "Only for new construction"],
+    "correctIndex": 1,
+    "explanation": "Moving a toilet requires relocating the drain pipe (which is under the floor), the water supply, and potentially modifying the vent system. This is new plumbing work that requires a permit and inspection in virtually all jurisdictions. Simply replacing a toilet in the same location typically does not require a permit.",
+    "chapter": "codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-codes-i-005",
+    "question": "What is the code-required minimum vent pipe size for a residential plumbing system?",
+    "options": ["3/4 inch", "1 inch", "1-1/4 inches", "1-1/2 inches"],
+    "correctIndex": 2,
+    "explanation": "The minimum vent pipe size allowed by most plumbing codes is 1-1/4 inches. However, individual fixture vents for certain fixtures (like a lavatory) may be 1-1/4 inches, while the main vent stack and branch vents are often larger depending on the fixture unit load and developed length.",
+    "chapter": "codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-codes-i-006",
+    "question": "According to code, how far above the roof surface must a vent pipe extend?",
+    "options": ["Flush with the roof", "A minimum of 6 inches above the roof, and higher in cold climates where frost closure is a concern", "At least 3 feet above the roof", "Exactly 12 inches"],
+    "correctIndex": 1,
+    "explanation": "Vent pipes must extend a minimum of 6 inches above the roof surface per most codes. In areas subject to snow, the vent must extend higher (often 12 inches or more) to prevent snow from blocking the opening. If the vent is within 10 feet of a door, window, or air intake, it may need to extend higher to prevent sewer gas from entering the building.",
+    "chapter": "codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-codes-i-007",
+    "question": "What is the code requirement for cleanout access on a building drain?",
+    "options": ["Cleanouts are optional", "Cleanouts are required at each change of direction greater than 45 degrees and at intervals not exceeding 100 feet for 4-inch pipe", "Cleanouts are only required outdoors", "One cleanout per building is sufficient"],
+    "correctIndex": 1,
+    "explanation": "Plumbing codes require cleanouts at specific locations: at the upper end of each horizontal drain, at each change of direction greater than 45 degrees, at intervals not exceeding 100 feet for 4-inch and larger pipe (50 feet for smaller pipe), and at the junction of the building drain and building sewer. Cleanout access is essential for maintaining the drainage system.",
+    "chapter": "codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-codes-i-008",
+    "question": "What type of trap is prohibited by plumbing codes?",
+    "options": ["P-trap", "S-trap", "Drum trap (in most jurisdictions)", "All of the above except P-trap"],
+    "correctIndex": 3,
+    "explanation": "S-traps are prohibited because their design makes them susceptible to self-siphoning (the draining water pulls the trap seal out). Drum traps are prohibited in most jurisdictions because they are difficult to clean and maintain. P-traps are the standard approved trap because their design resists siphoning when properly vented.",
+    "chapter": "codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-codes-i-009",
+    "question": "A plumber is installing a water heater. What is the minimum size for the T&P relief valve discharge pipe?",
+    "options": ["1/2 inch", "3/4 inch - it must not be smaller than the outlet of the T&P relief valve", "1 inch", "1-1/2 inches"],
+    "correctIndex": 1,
+    "explanation": "The T&P discharge pipe must be at least the same size as the outlet of the relief valve, which is typically 3/4 inch. It must not be reduced in size along its length. Using a smaller pipe restricts flow and could prevent the valve from relieving pressure fast enough in an emergency.",
+    "chapter": "codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-codes-i-010",
+    "question": "What does the code mean by 'approved materials'?",
+    "options": ["Any material the plumber prefers", "Materials that are listed by a recognized testing laboratory and accepted by the local authority having jurisdiction (AHJ)", "Only copper and PVC", "Materials approved by the homeowner"],
+    "correctIndex": 1,
+    "explanation": "Approved materials are those that have been tested and listed by recognized testing laboratories (such as UL, NSF, or CSA) and are accepted by the local authority having jurisdiction (AHJ - usually the building department). The code specifies which materials are acceptable for each application, and the AHJ has final authority on what is permitted locally.",
+    "chapter": "codes",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-codes-a-001",
+    "question": "A plumber is designing the drainage system for a 3-story medical office building. The third floor has 4 lavatories (1 DFU each), 3 water closets with flush valves (4 DFU each), and 1 service sink (3 DFU). What size horizontal branch drain is required for this floor?",
+    "options": ["2 inches", "3 inches", "4 inches", "6 inches"],
+    "correctIndex": 2,
+    "explanation": "Total DFU = (4 x 1) + (3 x 4) + (1 x 3) = 4 + 12 + 3 = 19 DFU. Also, since the branch serves water closets, the minimum pipe size is 3 inches (code minimum for any pipe carrying toilet waste). Per IPC drainage tables, a 3-inch horizontal branch can handle up to 20 DFU, so 3 inches would work. However, with 19 DFU nearly at the limit, 4 inches provides the necessary capacity and future flexibility.",
+    "chapter": "codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-codes-a-002",
+    "question": "According to the IPC, what is the minimum number of water supply fixture units (WSFU) assigned to a bathtub with a shower?",
+    "options": ["1.0 WSFU", "2.0 WSFU", "4.0 WSFU", "1.4 WSFU"],
+    "correctIndex": 2,
+    "explanation": "Per IPC Table E103.3, a bathtub/shower combination is assigned 4.0 water supply fixture units (both hot and cold). This value is used when sizing the water supply piping to determine total demand. Individual fixture WSFU values are added together and then converted to GPM demand using the code's conversion tables.",
+    "chapter": "codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-codes-a-003",
+    "question": "A jurisdiction has adopted the IPC with local amendments. When there is a conflict between the model code and the local amendment, which takes precedence?",
+    "options": ["The IPC model code always takes precedence", "The local amendment takes precedence over the model code", "Whichever is more restrictive applies", "The plumber chooses which to follow"],
+    "correctIndex": 1,
+    "explanation": "Local amendments always take precedence over the model code. When a jurisdiction adopts the IPC (or UPC), they may add, modify, or delete provisions to suit local conditions, climate, or policy. The adopted code with local amendments becomes the enforceable law. Plumbers must know both the base code and their local amendments.",
+    "chapter": "codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-codes-a-004",
+    "question": "A commercial kitchen requires a grease interceptor. Per code, what is the minimum retention time typically required for a gravity grease interceptor?",
+    "options": ["10 minutes", "30 minutes", "1 hour", "24 hours"],
+    "correctIndex": 1,
+    "explanation": "Most plumbing codes require a minimum 30-minute retention (detention) time for gravity grease interceptors serving commercial kitchens. This means the interceptor must be large enough that wastewater remains inside for at least 30 minutes, allowing grease to float to the surface and solids to settle before the effluent discharges to the sewer.",
+    "chapter": "codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-codes-a-005",
+    "question": "The code requires cross-connection control. A dental office has a dental chair with a suction line that connects to the water supply for rinsing. What level of backflow protection is required?",
+    "options": ["None - dental offices are exempt", "An air gap or RPZ assembly - dental chair connections are classified as high-hazard due to potential biological contamination", "A simple check valve", "A hose bibb vacuum breaker"],
+    "correctIndex": 1,
+    "explanation": "Dental chairs represent a high-hazard cross-connection because the water supply connects to equipment that contacts saliva, blood, and biological material. High-hazard connections require the highest level of protection: an air gap (preferred) or an RPZ backflow preventer. A simple check valve or vacuum breaker is not sufficient for this health hazard level.",
+    "chapter": "codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-codes-a-006",
+    "question": "Per IPC, what are the pipe testing requirements for a new DWV system rough-in?",
+    "options": ["Visual inspection only", "Water test: fill system to highest opening and maintain for 15 minutes with no drop; or air test at 5 psi maintained for 15 minutes", "Flow test with running water from each fixture", "No testing is required if approved materials are used"],
+    "correctIndex": 1,
+    "explanation": "The IPC requires either a water test or air test for new DWV rough-in inspections. For the water test, the system is filled with water to the level of the highest opening and held for 15 minutes minimum with no drop in level. For the air test, the system is pressurized to 5 psi and held for 15 minutes with no loss. The inspector witnesses the test to verify system integrity.",
+    "chapter": "codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-codes-a-007",
+    "question": "What is the code requirement for installing a water hammer arrestor?",
+    "options": ["Required on every fixture", "Required on quick-closing valves such as those on washing machines, dishwashers, and ice makers, and must be installed as close to the valve as possible", "Only required in commercial buildings", "Water hammer arrestors are not addressed in plumbing codes"],
+    "correctIndex": 1,
+    "explanation": "Plumbing codes require water hammer arrestors where quick-closing valves are used (solenoid valves on appliances). They must be sized properly and installed as close to the valve as possible for effectiveness. The arrestor contains a sealed air chamber or piston that absorbs the pressure surge when the valve snaps shut.",
+    "chapter": "codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-codes-a-008",
+    "question": "A plumber needs to install a sewage ejector pump in a basement bathroom where fixtures are below the building sewer. What are the code requirements for the ejector basin?",
+    "options": ["Any sealed container will work", "The basin must be airtight with a sealed, removable cover, vented separately to the vent system, equipped with a check valve on the discharge, and alarmed", "The basin just needs a pump and check valve", "Ejector pumps are not permitted by code"],
+    "correctIndex": 1,
+    "explanation": "Code requirements for sewage ejector basins are strict: the basin must be gas-tight with a sealed cover, have a separate vent connection to the building vent system, include a check valve and full-flow shutoff valve on the discharge line, and in some jurisdictions must have a high-water alarm. The pump must be rated for sewage (solids-handling) and sized for the fixture unit load.",
+    "chapter": "codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-codes-a-009",
+    "question": "What is the maximum distance between supports (hangers) for 2-inch horizontal copper water pipe per code?",
+    "options": ["4 feet", "6 feet", "8 feet", "10 feet"],
+    "correctIndex": 1,
+    "explanation": "Per IPC and most codes, horizontal copper pipe up to 1-1/2 inches requires support every 6 feet, and 2-inch copper pipe also requires support every 6 feet (some codes allow up to 10 feet for larger sizes). Vertical copper pipe requires support at each floor level. Proper support prevents sagging, stress at joints, and pipe failure.",
+    "chapter": "codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-codes-a-010",
+    "question": "Under the IPC, what is the minimum required air gap for a lavatory faucet outlet above the flood-level rim of the bowl?",
+    "options": ["No air gap required for lavatories", "1 inch or two times the effective opening of the faucet outlet, whichever is greater", "6 inches", "Equal to the faucet spout diameter"],
+    "correctIndex": 1,
+    "explanation": "The IPC requires a minimum air gap of 1 inch or two times the effective opening (inside diameter) of the faucet outlet, whichever is greater, measured from the faucet outlet to the flood-level rim of the fixture. For a standard lavatory faucet with a 1/2-inch effective opening, the minimum air gap is 1 inch (since 2 x 0.5 = 1 inch, meeting the minimum).",
+    "chapter": "codes",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-safety-b-001",
+    "question": "What does PPE stand for?",
+    "options": ["Pipe Protection Equipment", "Personal Protective Equipment", "Plumbing Professional Education", "Pressurized Pipe Enclosure"],
+    "correctIndex": 1,
+    "explanation": "PPE stands for Personal Protective Equipment - gear worn by workers to protect themselves from hazards on the job. For plumbers, this includes safety glasses, gloves, hearing protection, steel-toed boots, and respiratory protection depending on the task.",
+    "chapter": "safety",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-safety-b-002",
+    "question": "What type of eye protection should be worn when soldering copper pipe?",
+    "options": ["No eye protection needed", "Safety glasses or goggles", "A welding helmet", "Sunglasses"],
+    "correctIndex": 1,
+    "explanation": "Safety glasses or goggles should always be worn when soldering to protect your eyes from hot solder splashes, flux spray, and the bright flame. Unlike welding, soldering does not produce UV radiation that requires a welding helmet, but the hot materials can splash and cause serious eye injuries.",
+    "chapter": "safety",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-safety-b-003",
+    "question": "What should you always have nearby when using a torch for soldering or brazing?",
+    "options": ["A bucket of water", "A fire extinguisher", "Extra fuel", "A fan"],
+    "correctIndex": 1,
+    "explanation": "A fire extinguisher rated for the materials present (ABC type is common) must always be within reach when using an open flame torch. The heat from soldering and brazing can ignite nearby combustible materials like wood framing, insulation, or paper. A heat shield should also be used to protect surrounding materials.",
+    "chapter": "safety",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-safety-b-004",
+    "question": "What is a confined space in plumbing work?",
+    "options": ["Any small room", "An enclosed area with limited entry and exit that is not designed for continuous occupancy, such as a manhole, tank, or deep trench", "A closet where pipes are located", "A crawl space under 4 feet high"],
+    "correctIndex": 1,
+    "explanation": "A confined space is an enclosed or partially enclosed area with limited entry and exit points that is large enough for a person to enter but is not designed for continuous human occupancy. Examples include manholes, septic tanks, sewer pipes, and vaults. These spaces can contain hazardous atmospheres, lack oxygen, or trap workers.",
+    "chapter": "safety",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-safety-b-005",
+    "question": "What does OSHA stand for?",
+    "options": ["Official Safety and Hazard Association", "Occupational Safety and Health Administration", "Outdoor Standards for Hazard Awareness", "Organization for Safe Housing and Architecture"],
+    "correctIndex": 1,
+    "explanation": "OSHA stands for Occupational Safety and Health Administration, a federal agency that sets and enforces workplace safety standards. OSHA regulations apply to plumbing work and cover topics like fall protection, confined space entry, hazard communication, and PPE requirements.",
+    "chapter": "safety",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-safety-b-006",
+    "question": "Why must lead-free solder and flux be used on potable (drinking) water systems?",
+    "options": ["Lead-free materials are cheaper", "Lead is toxic and can leach into drinking water, causing serious health problems", "Lead solder does not bond to copper", "Lead-free solder melts at a lower temperature"],
+    "correctIndex": 1,
+    "explanation": "Lead is a toxic heavy metal that can leach from solder joints into drinking water, causing serious health effects including developmental damage in children and organ damage in adults. The Safe Drinking Water Act requires lead-free solder (less than 0.2% lead) and lead-free flux for all potable water system connections.",
+    "chapter": "safety",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-safety-b-007",
+    "question": "When cutting cast iron pipe, what PPE is essential?",
+    "options": ["Only gloves", "Safety glasses, hearing protection, gloves, and a dust mask or respirator", "Just a hard hat", "No PPE needed for cutting pipe"],
+    "correctIndex": 1,
+    "explanation": "Cutting cast iron pipe with a snap cutter or reciprocating saw produces metal fragments, sparks, loud noise, and potentially hazardous dust. Safety glasses protect from flying debris, hearing protection from noise, gloves from sharp edges, and a dust mask or respirator from airborne particles.",
+    "chapter": "safety",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-safety-b-008",
+    "question": "What is the proper way to store propane and MAP gas cylinders used for soldering?",
+    "options": ["On their side near a heat source", "Upright, in a well-ventilated area, away from heat sources and ignition points", "In a sealed closet", "In the back of a hot truck"],
+    "correctIndex": 1,
+    "explanation": "Fuel cylinders must be stored upright in a well-ventilated area away from heat sources, direct sunlight, and ignition points. Cylinders should never be stored in enclosed spaces (like a sealed van or closet) where a leak could create a dangerous concentration of flammable gas.",
+    "chapter": "safety",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-safety-b-009",
+    "question": "What should you do before working on any plumbing that involves the water supply?",
+    "options": ["Nothing special", "Turn off the water supply at the appropriate shut-off valve and relieve pressure", "Just place a bucket underneath", "Call the fire department"],
+    "correctIndex": 1,
+    "explanation": "Before working on water supply piping or fixtures, always turn off the water supply at the nearest shut-off valve and open a faucet to relieve pressure in the lines. Failing to do so can result in water spraying under pressure, flooding, property damage, and potential injury.",
+    "chapter": "safety",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-safety-b-010",
+    "question": "What is an SDS (Safety Data Sheet) and when should a plumber reference one?",
+    "options": ["A plumbing code document", "A document that provides information about the hazards, safe handling, and emergency procedures for chemical products like solvents, adhesives, and flux", "A plumbing license application", "A pipe sizing chart"],
+    "correctIndex": 1,
+    "explanation": "An SDS (formerly MSDS) is a standardized document that provides detailed information about a chemical product's hazards, safe handling procedures, protective equipment needed, first aid measures, and disposal requirements. Plumbers should reference the SDS for products like PVC cement, flux, thread sealants, and cleaning chemicals before use.",
+    "chapter": "safety",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-safety-i-001",
+    "question": "When soldering in a confined or poorly ventilated space, what specific respiratory hazard exists?",
+    "options": ["No hazards in well-lit spaces", "Flux fumes contain harmful chemicals including zinc chloride that can cause respiratory irritation and metal fume fever", "The only hazard is heat", "Solder fumes are harmless"],
+    "correctIndex": 1,
+    "explanation": "Soldering flux produces fumes containing zinc chloride and other chemicals that are harmful when inhaled. In a confined or poorly ventilated space, these fumes concentrate quickly. Symptoms include respiratory irritation, coughing, and metal fume fever (flu-like symptoms). Adequate ventilation or a respirator with appropriate cartridges is required.",
+    "chapter": "safety",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-safety-i-002",
+    "question": "What must be done before entering a permit-required confined space such as a sewer manhole?",
+    "options": ["Just wear a hard hat", "Atmospheric testing for oxygen levels, combustible gases, and toxic gases must be performed, and a written entry permit and attendant are required", "No special procedures for plumbers", "Just open the lid for 5 minutes"],
+    "correctIndex": 1,
+    "explanation": "OSHA's confined space standard (29 CFR 1910.146) requires atmospheric testing before entry to check oxygen levels (must be 19.5-23.5%), combustible gas levels (must be below 10% of LEL), and toxic gas levels (especially hydrogen sulfide in sewers). A written entry permit, trained attendant stationed outside, and rescue plan are also required.",
+    "chapter": "safety",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-safety-i-003",
+    "question": "A plumber is using PVC solvent cement in a basement with poor ventilation. What is the primary safety concern?",
+    "options": ["The cement will not bond properly", "The volatile organic compound (VOC) fumes can cause dizziness, headache, and respiratory irritation, and are flammable", "The cement will dry too slowly", "There are no safety concerns with PVC cement"],
+    "correctIndex": 1,
+    "explanation": "PVC solvent cement contains VOCs (volatile organic compounds) including tetrahydrofuran (THF) and methyl ethyl ketone (MEK). In poorly ventilated spaces, these fumes can quickly reach concentrations that cause dizziness, headache, nausea, and respiratory irritation. The fumes are also flammable. Adequate ventilation and avoiding ignition sources are essential.",
+    "chapter": "safety",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-safety-i-004",
+    "question": "What is the OSHA excavation standard for trench depth requiring protective systems?",
+    "options": ["Any depth requires shoring", "Trenches 5 feet or deeper require a protective system (sloping, shoring, or trench box) unless excavated in stable rock", "Only trenches over 10 feet", "Trench protection is never required for plumbing work"],
+    "correctIndex": 1,
+    "explanation": "OSHA requires protective systems for trenches 5 feet or deeper (29 CFR 1926 Subpart P), unless the trench is dug entirely in stable rock. Options include sloping the trench walls to a safe angle, installing shoring or sheet piling, or using a trench box (shield). Trench collapses are one of the deadliest construction hazards, and plumbers frequently work in trenches for sewer and water line installation.",
+    "chapter": "safety",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-safety-i-005",
+    "question": "What is the risk of using a torch near polyurethane spray foam insulation?",
+    "options": ["No risk - insulation is fireproof", "Polyurethane foam is combustible and produces toxic smoke including hydrogen cyanide when it burns", "The foam may melt but will not ignite", "Spray foam insulation protects wood from fire"],
+    "correctIndex": 1,
+    "explanation": "Polyurethane spray foam insulation is combustible and extremely dangerous when exposed to an open flame. When it burns, it produces highly toxic smoke including hydrogen cyanide and carbon monoxide. Plumbers must use a heat shield and clear foam away from the work area before using a torch near spray-foamed areas.",
+    "chapter": "safety",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-safety-i-006",
+    "question": "What is the 'hot work permit' system, and when does it apply to plumbing?",
+    "options": ["A permit to work in hot weather", "A written authorization required before using open flames or spark-producing tools in areas where fire hazards exist", "A plumbing license endorsement", "A permit for working with hot water systems"],
+    "correctIndex": 1,
+    "explanation": "A hot work permit is a safety management system that requires written authorization before any work involving open flames, torches, or spark-producing equipment. In plumbing, this applies when soldering, brazing, or cutting pipe in buildings - especially near combustible materials. The permit process ensures a fire watch is posted, an extinguisher is present, and the area is inspected afterward.",
+    "chapter": "safety",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-safety-i-007",
+    "question": "A plumber discovers what appears to be asbestos pipe insulation while working in an older building. What is the correct action?",
+    "options": ["Remove it carefully with gloves", "Stop work immediately, do not disturb the material, notify the building owner, and have it tested by a qualified professional before proceeding", "Wrap it in plastic and continue working", "Ignore it if it is not in the direct work area"],
+    "correctIndex": 1,
+    "explanation": "Asbestos is a known carcinogen that was widely used for pipe insulation until the 1980s. If suspected asbestos is encountered, OSHA requires workers to stop, avoid disturbing the material (which releases deadly fibers), notify the building owner, and have the material tested by a certified laboratory. Only licensed asbestos abatement professionals can remove it.",
+    "chapter": "safety",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-safety-i-008",
+    "question": "When using a reciprocating saw to cut pipe inside a wall cavity, what hidden hazard should be considered?",
+    "options": ["Paint fumes", "Electrical wires, gas lines, or other utilities hidden in the wall that could be struck by the blade", "Wood rot in the framing", "Nothing - the blade only cuts pipe"],
+    "correctIndex": 1,
+    "explanation": "Wall cavities may contain electrical wires, gas lines, other water pipes, low-voltage cables, or insulation. Cutting blindly into a wall with a reciprocating saw can strike energized wires (causing electrocution or fire), puncture gas lines (causing explosion risk), or damage other systems. Always use a stud finder or pipe/wire locator and visually inspect the cavity before cutting.",
+    "chapter": "safety",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-safety-i-009",
+    "question": "What is the proper procedure for draining a water heater that may contain scalding hot water?",
+    "options": ["Open the drain valve quickly to empty it fast", "Turn off the heat source, allow the water to cool if possible, connect a hose to the drain valve directed to an approved drain, and open a hot water faucet to break the vacuum", "Tip the water heater over to drain it", "No special procedure needed"],
+    "correctIndex": 1,
+    "explanation": "Water heater water can be above 120 degrees F and cause serious burns. The proper procedure is to turn off the gas or electric supply, let water cool if time permits, connect a garden hose to the drain valve and route it to a floor drain or exterior, open a hot water faucet upstairs to break the vacuum, then slowly open the drain valve. Wear gloves and keep distance from the hose outlet.",
+    "chapter": "safety",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-safety-i-010",
+    "question": "What is Lockout/Tagout (LOTO) and when does it apply to plumbing work?",
+    "options": ["Locking the building while working inside", "A procedure to disable and lock energy sources (electrical, mechanical, pressure) before servicing equipment to prevent unexpected startup", "Locking the toolbox at the end of the day", "Tagging completed work for inspection"],
+    "correctIndex": 1,
+    "explanation": "Lockout/Tagout (LOTO) is an OSHA-required procedure (29 CFR 1910.147) that ensures equipment is properly de-energized and cannot be accidentally started during maintenance. For plumbers, this applies when working on water heaters (electrical disconnect), boilers, pumps, or any electrically powered plumbing equipment. The worker places a personal lock and tag on the energy disconnect.",
+    "chapter": "safety",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-safety-a-001",
+    "question": "A plumber must solder copper pipe in a return air plenum above a commercial ceiling. What specific fire and safety regulations apply?",
+    "options": ["Standard soldering procedures apply", "The area must be treated as a hot work zone, all combustible materials within 35 feet must be protected or removed, a fire watch must continue for at least 30 minutes after work is complete, and plenum-rated materials must be used", "Soldering is not permitted above ceilings", "Only brazing is permitted in plenums"],
+    "correctIndex": 1,
+    "explanation": "Working in a return air plenum requires strict hot work safety. NFPA 51B and OSHA require clearing or protecting combustibles within 35 feet, having a charged fire extinguisher present, maintaining a fire watch during and for at least 30 minutes after soldering. The plenum space also has material restrictions - only plenum-rated materials (low smoke, low flame spread) can be used.",
+    "chapter": "safety",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-safety-a-002",
+    "question": "Hydrogen sulfide (H2S) gas is commonly found in sewer systems. At what concentration does H2S become immediately dangerous to life and health (IDLH)?",
+    "options": ["10 ppm", "50 ppm", "100 ppm", "500 ppm"],
+    "correctIndex": 2,
+    "explanation": "Hydrogen sulfide is IDLH at 100 ppm. At 10 ppm, it causes eye irritation. At 50 ppm, it causes coughing and respiratory distress. At 100+ ppm, it causes rapid loss of consciousness (olfactory nerve paralysis means you can no longer smell it). At 300+ ppm, it can be fatal within minutes. Continuous atmospheric monitoring is critical when working in sewer systems.",
+    "chapter": "safety",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-safety-a-003",
+    "question": "Under OSHA regulations, what classification system is used to determine the type of trench protection needed for a plumbing excavation?",
+    "options": ["Pipe material classification", "Soil classification (Type A, B, or C) based on unconfined compressive strength and other factors", "Water table classification", "Depth-only classification"],
+    "correctIndex": 1,
+    "explanation": "OSHA classifies soil into three types: Type A (cohesive, unconfined compressive strength of 1.5 tsf or greater - most stable), Type B (cohesive, 0.5-1.5 tsf), and Type C (granular, less than 0.5 tsf - least stable). The soil type determines the maximum allowable slope angle and the type of protective system required. A competent person must classify the soil on-site through visual and manual tests.",
+    "chapter": "safety",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-safety-a-004",
+    "question": "A plumber is brazing with silver-bearing (BAg) alloy containing cadmium. What is the specific respiratory hazard?",
+    "options": ["No hazard with silver alloys", "Cadmium oxide fumes are extremely toxic and can cause fatal pulmonary edema with symptoms delayed up to 24 hours after exposure", "Cadmium only causes skin irritation", "Silver fumes are the primary concern"],
+    "correctIndex": 1,
+    "explanation": "Cadmium-containing brazing alloys produce cadmium oxide fumes that are acutely toxic. Even brief exposure without respiratory protection can cause fatal pulmonary edema (fluid in the lungs), with symptoms potentially delayed 12-24 hours. OSHA PEL for cadmium fumes is 5 micrograms per cubic meter. Cadmium-free brazing alloys should be used whenever possible, and supplied-air respirators may be required.",
+    "chapter": "safety",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-safety-a-005",
+    "question": "What are the OSHA requirements for a competent person at a plumbing excavation site?",
+    "options": ["Any worker on site qualifies", "The competent person must be able to identify existing and predictable hazards, have authority to stop work, classify soil, and inspect the excavation daily and after every rainstorm", "Only the building inspector qualifies", "A competent person is only needed for excavations over 20 feet"],
+    "correctIndex": 1,
+    "explanation": "OSHA requires a competent person at every excavation. This person must be trained to identify hazards (soil type, water conditions, adjacent structures, utilities), have the authority to immediately stop work and correct hazards, classify soil through visual and manual testing, and inspect the excavation daily and after events that could change conditions (rain, vibration, freezing).",
+    "chapter": "safety",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-safety-a-006",
+    "question": "When performing a pressure test on a water supply system using compressed air, what safety precaution is critical compared to testing with water?",
+    "options": ["Air tests are identical to water tests", "Compressed air stores significantly more energy than water, and a failure can cause pipe sections to become projectiles - all personnel must stay clear of the system during the test", "Air tests are safer than water tests", "No precautions needed for air testing"],
+    "correctIndex": 1,
+    "explanation": "Air is compressible and stores enormous potential energy when pressurized, unlike water which is virtually incompressible. If a pipe or fitting fails during an air pressure test, the stored energy can propel pipe sections, fittings, or debris at lethal velocity. All personnel must maintain a safe distance during air testing, and pressure should be increased gradually. Water testing is inherently safer because water does not store significant energy.",
+    "chapter": "safety",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-safety-a-007",
+    "question": "What is the GHS (Globally Harmonized System) pictogram for health hazard, and which plumbing chemicals typically carry this warning?",
+    "options": ["A flame symbol - applies to PVC cement only", "A silhouette of a person with a star/burst on the chest - applies to chemicals that cause serious health effects such as carcinogens, respiratory sensitizers, and reproductive toxins, including some flux formulations and solvents", "A skull and crossbones - applies to all plumbing products", "An exclamation mark - applies to thread sealant"],
+    "correctIndex": 1,
+    "explanation": "The GHS health hazard pictogram (person with starburst on chest) indicates chemicals causing serious long-term health effects: carcinogenicity, respiratory sensitization, reproductive toxicity, or organ damage. In plumbing, certain flux formulations, solvents (MEK, THF in PVC cement), and brazing alloys may carry this warning. Workers must read SDS sheets and use appropriate PPE.",
+    "chapter": "safety",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-safety-a-008",
+    "question": "A plumbing contractor is required to have a written Hazard Communication Program. What must this program include?",
+    "options": ["Just a list of phone numbers", "A written plan, a chemical inventory, SDS for every hazardous chemical on site, proper labeling of containers, and employee training on chemical hazards and protective measures", "Only verbal instructions to workers", "A first aid kit location map"],
+    "correctIndex": 1,
+    "explanation": "OSHA's Hazard Communication Standard (29 CFR 1910.1200) requires employers to maintain a written hazard communication program that includes: a chemical inventory listing all hazardous products used, readily accessible SDS for each product, proper GHS-compliant labeling on all containers, and employee training covering identification of hazards, protective measures, and emergency procedures. This applies to PVC cements, fluxes, sealants, and all other chemicals.",
+    "chapter": "safety",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-safety-a-009",
+    "question": "What is the safe work practice for using electric power tools near plumbing water or in wet locations?",
+    "options": ["Standard plugs are fine anywhere", "Use only GFCI-protected circuits or double-insulated tools, keep cords out of standing water, and never operate electric tools while standing in water", "Only battery-powered tools can be used near water", "Rubber gloves make any tool safe near water"],
+    "correctIndex": 1,
+    "explanation": "OSHA requires GFCI (Ground Fault Circuit Interrupter) protection for all electric tools used in wet or damp locations. GFCIs detect ground faults as small as 5 milliamps and cut power in 1/40 of a second, preventing electrocution. Double-insulated tools (marked with a square within a square symbol) provide additional protection. Never operate electric tools while standing in water, and keep cords and connections dry.",
+    "chapter": "safety",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-safety-a-010",
+    "question": "Under the EPA Lead and Copper Rule and the Safe Drinking Water Act, what is the action level for lead in drinking water at the tap?",
+    "options": ["Zero - no lead is acceptable", "15 parts per billion (ppb) - if exceeded in more than 10% of tap water samples, the water system must take corrective action", "50 parts per billion", "100 parts per billion"],
+    "correctIndex": 1,
+    "explanation": "The EPA action level for lead in drinking water is 15 ppb (0.015 mg/L). If more than 10% of customer tap samples exceed this level, the water system must take corrective actions including public notification, water treatment optimization, and potentially lead service line replacement. There is no safe level of lead exposure, which is why lead-free materials are required for all potable water plumbing work.",
+    "chapter": "safety",
     "difficulty": "advanced"
   }
 ]
