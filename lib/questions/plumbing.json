@@ -1,0 +1,272 @@
+[
+  {
+    "id": "plumbing-pipe-types-b-001",
+    "question": "Which type of pipe is most commonly used for residential drain lines?",
+    "options": ["Copper", "PVC", "Galvanized steel", "Cast iron"],
+    "correctIndex": 1,
+    "explanation": "PVC (polyvinyl chloride) is the standard for residential drain lines. It is lightweight, affordable, corrosion-resistant, and easy to install.",
+    "chapter": "pipe-types",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-pipe-types-b-002",
+    "question": "What does PEX stand for?",
+    "options": ["Polyethylene extra", "Cross-linked polyethylene", "Pressurized exterior pipe", "Plumbing exchange tubing"],
+    "correctIndex": 1,
+    "explanation": "PEX stands for cross-linked polyethylene. The cross-linking process makes the plastic more durable and flexible than standard polyethylene.",
+    "chapter": "pipe-types",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-pipe-types-b-003",
+    "question": "Which pipe material is naturally resistant to corrosion and commonly used for water supply lines?",
+    "options": ["Galvanized steel", "Cast iron", "Copper", "ABS"],
+    "correctIndex": 2,
+    "explanation": "Copper is naturally corrosion-resistant and has been the standard for water supply lines for decades. It also has antibacterial properties.",
+    "chapter": "pipe-types",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-pipe-types-b-004",
+    "question": "What color is typically used to identify hot water PEX tubing?",
+    "options": ["Blue", "White", "Red", "Green"],
+    "correctIndex": 2,
+    "explanation": "Red PEX tubing is used to identify hot water lines, while blue PEX is used for cold water lines. White PEX can be used for either.",
+    "chapter": "pipe-types",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-pipe-types-b-005",
+    "question": "ABS pipe is most commonly used for which application?",
+    "options": ["Hot water supply", "Gas lines", "Drain, waste, and vent (DWV) systems", "Fire sprinkler systems"],
+    "correctIndex": 2,
+    "explanation": "ABS (acrylonitrile butadiene styrene) is a black plastic pipe used primarily for drain, waste, and vent systems in residential plumbing.",
+    "chapter": "pipe-types",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-pipe-types-b-006",
+    "question": "Which joining method is used to connect PVC pipe and fittings?",
+    "options": ["Soldering", "Solvent cement (glue)", "Compression fittings", "Welding"],
+    "correctIndex": 1,
+    "explanation": "PVC pipe and fittings are joined using solvent cement, which chemically fuses the plastic together to create a permanent, watertight bond.",
+    "chapter": "pipe-types",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-pipe-types-b-007",
+    "question": "What is the main disadvantage of galvanized steel pipe?",
+    "options": ["It is too flexible", "It corrodes and builds up mineral deposits over time", "It cannot carry hot water", "It is too expensive"],
+    "correctIndex": 1,
+    "explanation": "Galvanized steel pipe corrodes from the inside over time, building up mineral deposits that restrict water flow. This is why it has largely been replaced by copper and PEX.",
+    "chapter": "pipe-types",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-pipe-types-b-008",
+    "question": "CPVC pipe is an upgrade over standard PVC because it can handle what?",
+    "options": ["Higher water pressure", "Higher temperatures", "Underground installation", "Saltwater exposure"],
+    "correctIndex": 1,
+    "explanation": "CPVC (chlorinated polyvinyl chloride) can handle higher temperatures than standard PVC, making it suitable for hot water supply lines up to about 200 degrees F.",
+    "chapter": "pipe-types",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-pipe-types-b-009",
+    "question": "Which pipe material is black in color and was commonly used for drain lines before PVC became popular?",
+    "options": ["CPVC", "PEX", "ABS", "Copper"],
+    "correctIndex": 2,
+    "explanation": "ABS pipe is black and was widely used for drain lines before PVC became the more popular choice. Some regions still allow or prefer ABS for DWV systems.",
+    "chapter": "pipe-types",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-pipe-types-b-010",
+    "question": "Cast iron pipe is primarily found in which type of plumbing system?",
+    "options": ["Water supply", "Drain and sewer lines", "Gas distribution", "Irrigation"],
+    "correctIndex": 1,
+    "explanation": "Cast iron pipe is heavy and durable, primarily used for drain and sewer lines. It is still found in many older buildings and is valued for its sound-dampening properties.",
+    "chapter": "pipe-types",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "plumbing-pipe-types-i-001",
+    "question": "What is the maximum operating temperature for standard Schedule 40 PVC pipe?",
+    "options": ["100 degrees F", "140 degrees F", "180 degrees F", "212 degrees F"],
+    "correctIndex": 1,
+    "explanation": "Standard Schedule 40 PVC has a maximum operating temperature of about 140 degrees F (60 degrees C). Above this temperature, the pipe loses structural integrity and can warp.",
+    "chapter": "pipe-types",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-pipe-types-i-002",
+    "question": "When soldering copper pipe, which type of solder is required by code for potable water systems?",
+    "options": ["50/50 tin-lead", "Lead-free solder", "Silver brazing alloy", "Acid-core solder"],
+    "correctIndex": 1,
+    "explanation": "Lead-free solder is required by code for all potable (drinking) water systems. The Safe Drinking Water Act banned lead solder for potable water applications.",
+    "chapter": "pipe-types",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-pipe-types-i-003",
+    "question": "What is the difference between Type L and Type M copper tubing?",
+    "options": ["Type L is for gas, Type M is for water", "Type L has thicker walls than Type M", "Type M has thicker walls than Type L", "There is no difference - they are the same"],
+    "correctIndex": 1,
+    "explanation": "Type L copper has thicker walls than Type M. Type L is commonly used for water supply lines and is required by many codes. Type M is thinner and used where code allows for less demanding applications.",
+    "chapter": "pipe-types",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-pipe-types-i-004",
+    "question": "Which PEX connection method uses a copper crimp ring compressed with a special tool?",
+    "options": ["Push-fit", "Crimp", "Expansion", "Compression"],
+    "correctIndex": 1,
+    "explanation": "The crimp method uses a copper crimp ring placed over the PEX tubing at the fitting, then compressed with a crimp tool to create a secure connection.",
+    "chapter": "pipe-types",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-pipe-types-i-005",
+    "question": "What does 'Schedule 40' refer to when describing PVC pipe?",
+    "options": ["The pipe diameter", "The wall thickness", "The pressure rating in PSI", "The manufacturing date code"],
+    "correctIndex": 1,
+    "explanation": "Schedule 40 refers to the wall thickness of the pipe. A higher schedule number means thicker walls. Schedule 40 is standard for most residential plumbing applications.",
+    "chapter": "pipe-types",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-pipe-types-i-006",
+    "question": "Why should you avoid mixing copper and galvanized steel pipes without a dielectric union?",
+    "options": ["They have different diameters", "Galvanic corrosion occurs between dissimilar metals", "Building codes prohibit any metal pipe mixing", "The water pressure will be uneven"],
+    "correctIndex": 1,
+    "explanation": "When copper and galvanized steel are in direct contact, galvanic corrosion occurs because the metals have different electrical potentials. A dielectric union prevents this by separating the metals.",
+    "chapter": "pipe-types",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-pipe-types-i-007",
+    "question": "PEX tubing is available in three types - PEX-A, PEX-B, and PEX-C. Which type is manufactured using the Engel method and is the most flexible?",
+    "options": ["PEX-A", "PEX-B", "PEX-C", "All three are equally flexible"],
+    "correctIndex": 0,
+    "explanation": "PEX-A is made using the Engel (peroxide) method, which cross-links during the extrusion process. This produces the most flexible and kink-resistant tubing of the three types.",
+    "chapter": "pipe-types",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-pipe-types-i-008",
+    "question": "What is the primary advantage of using no-hub cast iron fittings over hub-and-spigot cast iron?",
+    "options": ["They are lighter", "They use rubber couplings with clamps for faster installation", "They have higher pressure ratings", "They are cheaper"],
+    "correctIndex": 1,
+    "explanation": "No-hub cast iron uses rubber gasket couplings with stainless steel clamps, making connections much faster and easier than the traditional hub-and-spigot joints that require molten lead and oakum.",
+    "chapter": "pipe-types",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-pipe-types-i-009",
+    "question": "Which type of pipe is approved for underground burial without additional protection in most codes?",
+    "options": ["Type M copper", "ABS", "PEX with UV-resistant jacket", "Schedule 40 PVC"],
+    "correctIndex": 3,
+    "explanation": "Schedule 40 PVC is approved for direct underground burial in most codes. It resists soil chemicals and moisture without needing additional wrapping or protection.",
+    "chapter": "pipe-types",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-pipe-types-i-010",
+    "question": "What is the minimum pipe size typically required by code for a building sewer line?",
+    "options": ["2 inches", "3 inches", "4 inches", "6 inches"],
+    "correctIndex": 1,
+    "explanation": "Most plumbing codes require a minimum 3-inch pipe for a building sewer line, though 4-inch is more common and often recommended to reduce the risk of blockages.",
+    "chapter": "pipe-types",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "plumbing-pipe-types-a-001",
+    "question": "According to the IPC, what is the maximum allowable working pressure for Type M copper tubing at 100 degrees F for a 1-inch nominal size?",
+    "options": ["150 PSI", "200 PSI", "289 PSI", "400 PSI"],
+    "correctIndex": 2,
+    "explanation": "Per IPC tables, 1-inch Type M copper tubing has a maximum working pressure of 289 PSI at 100 degrees F. Pressure ratings decrease as temperature increases.",
+    "chapter": "pipe-types",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-pipe-types-a-002",
+    "question": "When brazing copper pipe for a medical gas system, which filler metal and atmosphere are required?",
+    "options": ["50/50 tin-lead in open air", "BCuP-5 with nitrogen purge", "Lead-free solder with flux", "Silver solder with acetylene only"],
+    "correctIndex": 1,
+    "explanation": "Medical gas piping systems require BCuP-5 (silver brazing alloy) filler metal with a continuous nitrogen purge inside the pipe to prevent oxidation and contamination.",
+    "chapter": "pipe-types",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-pipe-types-a-003",
+    "question": "What is the SDR (Standard Dimension Ratio) and how does it affect PVC pipe pressure ratings?",
+    "options": ["SDR is the ratio of pipe color to material - higher SDR means more UV resistance", "SDR is the ratio of outside diameter to wall thickness - lower SDR means higher pressure rating", "SDR is the ratio of inside diameter to length - higher SDR means better flow", "SDR is the ratio of weight to length - lower SDR means lighter pipe"],
+    "correctIndex": 1,
+    "explanation": "SDR is the ratio of the outside diameter to the wall thickness. A lower SDR means a thicker wall relative to the diameter, which gives the pipe a higher pressure rating.",
+    "chapter": "pipe-types",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-pipe-types-a-004",
+    "question": "In a high-rise building over 80 feet tall, which pipe material is often required for the drain, waste, and vent system due to its fire resistance?",
+    "options": ["Schedule 40 PVC", "ABS", "Cast iron", "CPVC"],
+    "correctIndex": 2,
+    "explanation": "Many building codes require cast iron DWV pipe in high-rise buildings over 80 feet due to its superior fire resistance. Plastic pipe can melt and allow fire to spread between floors.",
+    "chapter": "pipe-types",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-pipe-types-a-005",
+    "question": "What is the chlorine resistance classification system for PEX tubing, and which classification is required for hot water recirculation systems?",
+    "options": ["CL-1 through CL-5; CL-3 minimum", "Class A through D; Class B minimum", "Rating 1 through 10; Rating 7 minimum", "ASTM F876 does not classify chlorine resistance"],
+    "correctIndex": 0,
+    "explanation": "PEX chlorine resistance is classified CL-1 through CL-5 per ASTM F876. Hot water recirculation systems require at least CL-3 because higher temperatures accelerate chlorine degradation of the tubing.",
+    "chapter": "pipe-types",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-pipe-types-a-006",
+    "question": "When transitioning from cast iron to PVC in a repair, which fitting type is code-approved and provides the most reliable connection?",
+    "options": ["Rubber fernco coupling only", "Mission-style banded coupling with stainless steel shield", "Direct solvent-weld to cast iron", "Threaded adapter with Teflon tape"],
+    "correctIndex": 1,
+    "explanation": "A mission-style banded coupling (shielded coupling) with a stainless steel shield and neoprene gasket provides the most reliable transition. Standard fernco couplings may not meet code in all jurisdictions for above-ground transitions.",
+    "chapter": "pipe-types",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-pipe-types-a-007",
+    "question": "What is the de-rating factor for CPVC pipe when used with certain chemicals found in common household products like insect spray?",
+    "options": ["There is no de-rating - CPVC is chemically inert", "CPVC can crack and fail from environmental stress cracking with incompatible chemicals", "CPVC only needs a 10% pressure reduction", "CPVC turns brittle but maintains pressure rating"],
+    "correctIndex": 1,
+    "explanation": "CPVC is susceptible to environmental stress cracking (ESC) when exposed to certain chemicals including those in insect sprays, adhesives, and sealants. This can cause sudden catastrophic failure, not just reduced ratings.",
+    "chapter": "pipe-types",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-pipe-types-a-008",
+    "question": "Per ASTM B88, what is the actual outside diameter of 3/4-inch nominal copper tubing?",
+    "options": ["0.750 inches", "0.785 inches", "0.875 inches", "1.000 inches"],
+    "correctIndex": 2,
+    "explanation": "Copper tubing nominal sizes are 1/8 inch less than the actual outside diameter. A 3/4-inch nominal copper tube has an actual OD of 0.875 inches (7/8 inch).",
+    "chapter": "pipe-types",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-pipe-types-a-009",
+    "question": "What velocity limitation does the Copper Development Association recommend for copper water supply piping to prevent erosion corrosion?",
+    "options": ["2 feet per second", "5 feet per second for hot water, 8 feet per second for cold", "10 feet per second for all applications", "There is no velocity limit for copper"],
+    "correctIndex": 1,
+    "explanation": "The Copper Development Association recommends limiting water velocity to 5 feet per second in hot water lines and 8 feet per second in cold water lines to prevent erosion corrosion of the pipe walls.",
+    "chapter": "pipe-types",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "plumbing-pipe-types-a-010",
+    "question": "Which ASTM standard governs PEX tubing for hot and cold water distribution, and what is the minimum required burst pressure at 73 degrees F for 1/2-inch tubing?",
+    "options": ["ASTM F876; 475 PSI", "ASTM D2846; 300 PSI", "ASTM F876; 160 PSI", "ASTM F1281; 400 PSI"],
+    "correctIndex": 0,
+    "explanation": "ASTM F876 governs PEX tubing specifications. For 1/2-inch PEX tubing at 73 degrees F, the minimum required burst pressure is 475 PSI, which provides a significant safety margin over the 160 PSI working pressure rating.",
+    "chapter": "pipe-types",
+    "difficulty": "advanced"
+  }
+]
