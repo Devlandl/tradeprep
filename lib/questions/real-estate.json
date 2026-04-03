@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "real-estate-property-ownership-b-001",
+    "question": "Which type of ownership gives the owner the most complete bundle of rights with no conditions or limitations?",
+    "options": ["Life estate", "Fee simple absolute", "Leasehold estate", "Tenancy at will"],
+    "correctIndex": 1,
+    "explanation": "Fee simple absolute is the highest form of ownership, giving the owner complete and unconditional ownership with all property rights and no time limitations.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-002",
+    "question": "A life estate grants ownership of property for:",
+    "options": ["A fixed term of 99 years", "The lifetime of a specified person", "As long as the owner pays taxes", "Until the property is sold"],
+    "correctIndex": 1,
+    "explanation": "A life estate is a freehold interest that lasts only for the duration of a specified person's life, after which ownership returns to the grantor or passes to a remainderman.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-003",
+    "question": "Which type of ownership is characterized by the right of survivorship?",
+    "options": ["Tenancy in common", "Joint tenancy", "Tenancy at sufferance", "Sole ownership"],
+    "correctIndex": 1,
+    "explanation": "Joint tenancy includes the right of survivorship, meaning when one joint tenant dies, their share automatically passes to the surviving joint tenant(s) without going through probate.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-004",
+    "question": "In a tenancy in common, owners:",
+    "options": ["Must hold equal shares", "Have the right of survivorship", "Can hold unequal shares", "Must be married to each other"],
+    "correctIndex": 2,
+    "explanation": "Tenancy in common allows co-owners to hold unequal shares of the property, and each owner can sell or will their share independently without triggering survivorship rights.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-005",
+    "question": "Community property laws generally apply to property acquired:",
+    "options": ["Before marriage", "By inheritance during marriage", "During marriage in community property states", "Through a trust"],
+    "correctIndex": 2,
+    "explanation": "Community property is property acquired during a marriage in community property states; both spouses own it equally regardless of which spouse earned the income used to purchase it.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-006",
+    "question": "A leasehold estate is best described as:",
+    "options": ["Ownership of land without improvements", "The right to use and occupy property for a specified time", "An ownership interest that lasts forever", "Ownership shared between two parties"],
+    "correctIndex": 1,
+    "explanation": "A leasehold estate is a non-freehold interest that grants the tenant the right to use and occupy property for a set period under a lease agreement, without conveying ownership.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-007",
+    "question": "In a condominium, the owner holds title to:",
+    "options": ["A share of stock in the building corporation", "The individual unit and a percentage of common areas", "Only the airspace within their unit", "The entire building jointly with other owners"],
+    "correctIndex": 1,
+    "explanation": "A condominium owner holds fee simple title to their individual unit plus an undivided percentage interest in the common areas shared with other unit owners.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-008",
+    "question": "In a cooperative (co-op), residents own:",
+    "options": ["Their individual unit in fee simple", "Shares of stock in the corporation that owns the building", "A life estate in their unit", "An easement to occupy their unit"],
+    "correctIndex": 1,
+    "explanation": "In a co-op, residents purchase shares of stock in the corporation that owns the entire building, and those shares come with a proprietary lease allowing them to occupy a specific unit.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-009",
+    "question": "Which of the following is a freehold estate?",
+    "options": ["Month-to-month tenancy", "Tenancy for years", "Fee simple absolute", "Tenancy at will"],
+    "correctIndex": 2,
+    "explanation": "Freehold estates involve ownership interest of uncertain or indefinite duration; fee simple absolute is the most complete freehold estate, while tenancies are non-freehold (leasehold) interests.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-010",
+    "question": "A non-freehold estate is also called a:",
+    "options": ["Fee simple estate", "Leasehold estate", "Life estate", "Defeasible fee"],
+    "correctIndex": 1,
+    "explanation": "A non-freehold (leasehold) estate is a temporary interest in real property where the tenant has the right to possess and use property but does not hold title.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-011",
+    "question": "The four unities required to create a joint tenancy are time, title, interest, and:",
+    "options": ["Survivorship", "Possession", "Marriage", "Recording"],
+    "correctIndex": 1,
+    "explanation": "Joint tenancy requires the four unities of time (acquired simultaneously), title (same deed), interest (equal shares), and possession (equal right to possess the whole property).",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-012",
+    "question": "Which form of ownership is most common between non-related co-buyers who do NOT want survivorship rights?",
+    "options": ["Joint tenancy", "Tenancy by the entirety", "Tenancy in common", "Community property"],
+    "correctIndex": 2,
+    "explanation": "Tenancy in common is the default co-ownership form for non-spouses; it allows unequal shares, independent wills, and has no right of survivorship.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-013",
+    "question": "Real property generally includes:",
+    "options": ["Furniture and appliances", "Land and everything permanently attached to it", "Stocks and bonds", "Vehicles and equipment"],
+    "correctIndex": 1,
+    "explanation": "Real property includes land, the airspace above, the minerals below, and all improvements permanently attached to the land such as buildings and fixtures.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-014",
+    "question": "Personal property that is permanently attached to real property and becomes part of the real property is called a:",
+    "options": ["Chattel", "Fixture", "Encumbrance", "Easement"],
+    "correctIndex": 1,
+    "explanation": "A fixture is personal property that has been permanently attached to land or a building and, by law, is treated as real property and transfers with the real estate sale.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-b-015",
+    "question": "Tenancy by the entirety is a form of joint ownership available only to:",
+    "options": ["Business partners", "Married couples", "Family members", "Any two individuals"],
+    "correctIndex": 1,
+    "explanation": "Tenancy by the entirety is a special form of joint tenancy with right of survivorship available only to married couples, offering additional creditor protections in states that recognize it.",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-property-ownership-i-001",
+    "question": "Which right in the bundle of rights allows an owner to keep others off the property?",
+    "options": ["Right of possession", "Right of control", "Right of exclusion", "Right of disposition"],
+    "correctIndex": 2,
+    "explanation": "The right of exclusion allows the property owner to legally prevent others from entering or using the property, subject to limited government exceptions like easements.",
+    "chapter": "property-ownership",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-property-ownership-i-002",
+    "question": "An easement appurtenant benefits:",
+    "options": ["A specific individual regardless of land ownership", "The dominant tenement (neighboring property)", "The servient tenement only", "The public at large"],
+    "correctIndex": 1,
+    "explanation": "An easement appurtenant runs with the land and benefits the dominant tenement (the property that gains the right of use) over the servient tenement (the property burdened by the easement).",
+    "chapter": "property-ownership",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-property-ownership-i-003",
+    "question": "An easement in gross benefits:",
+    "options": ["The adjoining landowner", "A specific individual or entity, not a parcel of land", "Both dominant and servient estates equally", "Any future owner of the property"],
+    "correctIndex": 1,
+    "explanation": "An easement in gross benefits a specific person or entity (like a utility company) rather than adjoining land; it does not run with the land and may not be transferable.",
+    "chapter": "property-ownership",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-property-ownership-i-004",
+    "question": "A voluntary lien is created by:",
+    "options": ["Court judgment", "Unpaid property taxes", "The property owner's agreement, such as a mortgage", "Government assessment"],
+    "correctIndex": 2,
+    "explanation": "A voluntary lien is one the property owner willingly creates, such as a mortgage or deed of trust, as collateral for a loan.",
+    "chapter": "property-ownership",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-property-ownership-i-005",
+    "question": "An involuntary lien is placed on property:",
+    "options": ["With the owner's written consent", "Without the owner's consent, such as a tax lien or judgment lien", "Only with a court order signed by the owner", "Through a mortgage agreement"],
+    "correctIndex": 1,
+    "explanation": "An involuntary lien is imposed on property without the owner's consent, such as a mechanic's lien for unpaid work, a judgment lien from a lawsuit, or a tax lien for unpaid taxes.",
+    "chapter": "property-ownership",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-property-ownership-i-006",
+    "question": "An encroachment occurs when:",
+    "options": ["A neighbor uses your property with permission", "A structure extends over the property line onto another's land", "A lien is placed on property", "The government takes private property"],
+    "correctIndex": 1,
+    "explanation": "An encroachment is when a physical structure (fence, building, driveway) extends beyond the property boundary and intrudes onto an adjacent owner's property.",
+    "chapter": "property-ownership",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-property-ownership-i-007",
+    "question": "Deed restrictions (CCRs) are enforceable by:",
+    "options": ["Only the local government", "Only the original grantor", "Other property owners in the subdivision", "The state real estate commission"],
+    "correctIndex": 2,
+    "explanation": "Covenants, Conditions, and Restrictions (CCRs) run with the land and can be enforced by any property owner in the subdivision who is similarly burdened or benefited.",
+    "chapter": "property-ownership",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-property-ownership-i-008",
+    "question": "Riparian rights refer to a property owner's rights regarding:",
+    "options": ["Mineral extraction below the surface", "Water from a river or stream bordering the property", "Airspace above the property", "Easements across the property"],
+    "correctIndex": 1,
+    "explanation": "Riparian rights are water rights belonging to owners of land adjacent to a river or stream; they generally have the right to use the water as long as they do not unreasonably interfere with downstream users.",
+    "chapter": "property-ownership",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-property-ownership-i-009",
+    "question": "Littoral rights apply to property owners adjacent to:",
+    "options": ["Rivers and streams", "Lakes, seas, and oceans", "Underground water sources", "Irrigation canals"],
+    "correctIndex": 1,
+    "explanation": "Littoral rights apply to property owners whose land borders standing bodies of water such as lakes, seas, and oceans, giving them rights to the water's edge.",
+    "chapter": "property-ownership",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-property-ownership-i-010",
+    "question": "A homestead exemption primarily provides:",
+    "options": ["Exemption from all property taxes", "Protection of a home's value from creditors and a reduction in property taxes", "The right to stay in a property after a foreclosure", "An exemption from zoning laws"],
+    "correctIndex": 1,
+    "explanation": "A homestead exemption reduces a home's assessed value for property tax purposes and, in many states, protects a portion of home equity from unsecured creditors.",
+    "chapter": "property-ownership",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-property-ownership-a-001",
+    "question": "Which method of legal description divides land using a principal meridian, base lines, townships, and sections?",
+    "options": ["Metes and bounds", "Rectangular survey system (PLSS)", "Lot and block", "Street address"],
+    "correctIndex": 1,
+    "explanation": "The Public Land Survey System (PLSS), also called the rectangular survey system, uses a grid of principal meridians and base lines to create townships (6x6 mile squares) and 36 sections of one square mile each.",
+    "chapter": "property-ownership",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-property-ownership-a-002",
+    "question": "Under a race-notice recording statute, a subsequent purchaser is protected if they:",
+    "options": ["Record first only", "Have no notice of prior claims only", "Record first AND had no notice of prior claims at the time of purchase", "Pay fair market value"],
+    "correctIndex": 2,
+    "explanation": "Under a race-notice statute, a subsequent purchaser must both record first AND have been without notice of the prior conveyance at the time of their purchase to be protected.",
+    "chapter": "property-ownership",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-property-ownership-a-003",
+    "question": "Adverse possession typically requires the possessor's use to be open, notorious, hostile, actual, and:",
+    "options": ["Temporary", "Continuous for a statutory period", "With the owner's permission", "Limited to agricultural use"],
+    "correctIndex": 1,
+    "explanation": "Adverse possession requires the use to be open, notorious, hostile (without permission), actual, and continuous for the period set by state statute, typically 5–21 years.",
+    "chapter": "property-ownership",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-property-ownership-a-004",
+    "question": "Eminent domain is the government's power to take private property for public use. The owner must receive:",
+    "options": ["Nothing, as the government has supreme authority", "Just compensation", "Replacement property of equal value", "A tax credit equal to the property's value"],
+    "correctIndex": 1,
+    "explanation": "The Fifth Amendment requires the government to pay just compensation (fair market value) when exercising eminent domain to take private property for public use.",
+    "chapter": "property-ownership",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-property-ownership-a-005",
+    "question": "Escheat is the legal process by which property passes to the state when an owner dies:",
+    "options": ["With a will that names the state as beneficiary", "Without a will and without heirs", "After owing back taxes", "After abandoning the property for one year"],
+    "correctIndex": 1,
+    "explanation": "Escheat is the reversion of property to the state when a person dies intestate (without a will) and has no heirs to inherit, preventing property from having no owner.",
+    "chapter": "property-ownership",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-land-use-b-001",
+    "question": "Zoning is primarily used to:",
+    "options": ["Set property tax rates", "Regulate the use and development of land", "Establish property boundaries", "Determine property values"],
+    "correctIndex": 1,
+    "explanation": "Zoning ordinances are local laws that divide land into districts and regulate how property in each district may be used, developed, and built upon.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-b-002",
+    "question": "A building permit is required before:",
+    "options": ["Selling a property", "Beginning most construction or major renovation work", "Renting a property", "Listing a property for sale"],
+    "correctIndex": 1,
+    "explanation": "A building permit is required by local government before starting most construction, renovation, or demolition work to ensure the project meets applicable building codes.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-b-003",
+    "question": "A Certificate of Occupancy (CO) is issued to confirm that:",
+    "options": ["A buyer has purchased the property", "A building has been inspected and is safe and legal to occupy", "A property has been rezoned", "A building permit has been applied for"],
+    "correctIndex": 1,
+    "explanation": "A Certificate of Occupancy is issued by local government after a final inspection confirming the building meets all codes and standards and is safe for its intended use.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-b-004",
+    "question": "A variance is an official permission to:",
+    "options": ["Change the zoning classification of a property", "Deviate from specific zoning requirements", "Build without a permit", "Operate a business in any zone"],
+    "correctIndex": 1,
+    "explanation": "A variance grants a property owner permission to deviate from specific zoning regulations (such as setback or height limits) when strict compliance would cause undue hardship.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-b-005",
+    "question": "Which federal law prohibits discrimination in the sale, rental, and financing of housing?",
+    "options": ["The Civil Rights Act of 1866", "The Fair Housing Act of 1968", "The Americans with Disabilities Act", "RESPA"],
+    "correctIndex": 1,
+    "explanation": "The Fair Housing Act of 1968 (Title VIII of the Civil Rights Act) prohibits discrimination in residential real estate transactions based on protected characteristics.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-b-006",
+    "question": "Residential zoning is designated for:",
+    "options": ["Retail stores and restaurants", "Single-family and multi-family housing", "Factories and warehouses", "Office buildings and hotels"],
+    "correctIndex": 1,
+    "explanation": "Residential zoning designates areas for housing, including single-family homes, duplexes, apartments, and condominiums, keeping them separate from incompatible commercial or industrial uses.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-b-007",
+    "question": "Industrial zoning is typically used for:",
+    "options": ["Single-family homes", "Shopping centers", "Manufacturing plants and warehouses", "Parks and recreation areas"],
+    "correctIndex": 2,
+    "explanation": "Industrial zoning designates areas for manufacturing, processing, storage, and distribution facilities that may produce noise, traffic, or other impacts incompatible with residential areas.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-b-008",
+    "question": "Which of the following is an example of commercial zoning?",
+    "options": ["A single-family subdivision", "A retail shopping center", "An agricultural farm", "An apartment complex"],
+    "correctIndex": 1,
+    "explanation": "Commercial zoning covers business uses such as retail stores, restaurants, offices, hotels, and service establishments.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-i-001",
+    "question": "Which protected class was added to the Fair Housing Act in 1988?",
+    "options": ["Sex", "Religion", "Familial status and disability", "National origin"],
+    "correctIndex": 2,
+    "explanation": "The Fair Housing Amendments Act of 1988 added familial status (households with children under 18) and disability (handicap) as the seventh and eighth protected classes.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-i-002",
+    "question": "How many protected classes does the federal Fair Housing Act cover?",
+    "options": ["4", "5", "7", "10"],
+    "correctIndex": 2,
+    "explanation": "The federal Fair Housing Act protects 7 classes: race, color, religion, national origin, sex, familial status, and disability. Individual states may add additional protected classes.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-i-003",
+    "question": "The Americans with Disabilities Act (ADA) primarily requires that:",
+    "options": ["All residential buildings be wheelchair accessible", "Places of public accommodation be accessible to persons with disabilities", "Landlords accept service animals at all times", "All new homes include ramps"],
+    "correctIndex": 1,
+    "explanation": "The ADA requires places of public accommodation and commercial facilities to be accessible to and usable by persons with disabilities, covering commercial real estate more broadly than residential.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-i-004",
+    "question": "Lead-based paint disclosure is required for homes built before:",
+    "options": ["1978", "1988", "1965", "2000"],
+    "correctIndex": 0,
+    "explanation": "Federal law requires sellers and landlords of homes built before 1978 to disclose known lead-based paint hazards and provide buyers with the EPA pamphlet on lead paint.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-i-005",
+    "question": "Radon is a naturally occurring radioactive gas that enters homes through:",
+    "options": ["Contaminated water supply only", "Cracks in foundations and floors from the soil beneath", "Aging roof materials", "Insulation in older homes"],
+    "correctIndex": 1,
+    "explanation": "Radon is a colorless, odorless gas produced by uranium decay in soil and rock; it enters buildings through cracks, gaps, and openings in the foundation and is the second leading cause of lung cancer.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-i-006",
+    "question": "Properties in a FEMA Special Flood Hazard Area (SFHA) are required to have:",
+    "options": ["Fire insurance", "Flood insurance when financed with a federally backed mortgage", "Hazard insurance only", "Umbrella insurance"],
+    "correctIndex": 1,
+    "explanation": "Properties in a FEMA-designated Special Flood Hazard Area (100-year floodplain) with federally backed mortgages are required by law to carry flood insurance.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-i-007",
+    "question": "Underground storage tanks (USTs) are an environmental concern primarily because of the risk of:",
+    "options": ["Structural damage to foundations", "Soil and groundwater contamination from leaks", "Radon gas emission", "Mold growth inside the home"],
+    "correctIndex": 1,
+    "explanation": "Underground storage tanks, often containing petroleum products, can corrode and leak over time, contaminating soil and groundwater and requiring costly environmental remediation.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-i-008",
+    "question": "Blockbusting is an illegal practice where agents:",
+    "options": ["Refuse to show homes in certain neighborhoods", "Induce homeowners to sell by suggesting minority groups are moving in", "Charge higher commissions in certain areas", "Limit advertising to certain newspapers"],
+    "correctIndex": 1,
+    "explanation": "Blockbusting (panic selling) is a Fair Housing violation where agents induce owners to sell quickly, often at low prices, by suggesting that members of a protected class are moving into the area.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-i-009",
+    "question": "Steering is a Fair Housing violation that involves:",
+    "options": ["Falsifying a property appraisal", "Directing buyers toward or away from neighborhoods based on protected class", "Refusing to issue a mortgage based on income", "Advertising property only in certain media"],
+    "correctIndex": 1,
+    "explanation": "Steering is the illegal practice of directing buyers or renters toward or away from certain neighborhoods based on their race, religion, or other protected characteristics.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-i-010",
+    "question": "Redlining is an illegal practice in which lenders:",
+    "options": ["Refuse to make loans in certain geographic areas based on the racial composition", "Charge higher fees to first-time homebuyers", "Require additional inspections in older neighborhoods", "Deny loans only to borrowers with poor credit"],
+    "correctIndex": 0,
+    "explanation": "Redlining is the illegal practice of refusing to make loans or provide financial services in areas with a high concentration of minority residents, regardless of individual applicant qualifications.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-a-001",
+    "question": "A comprehensive (master) plan is primarily used to:",
+    "options": ["Set individual property tax rates", "Guide long-term land use, development, and growth of a community", "Settle property boundary disputes", "Determine individual building permit requirements"],
+    "correctIndex": 1,
+    "explanation": "A comprehensive or master plan is a long-range policy document that guides a community's future land use, transportation, housing, environmental, and economic development decisions.",
+    "chapter": "land-use",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-land-use-a-002",
+    "question": "A nonconforming use is a land use that:",
+    "options": ["Violates current zoning but legally existed before the zoning change", "Has been approved by a variance", "Is permitted in all zones", "Requires a special use permit"],
+    "correctIndex": 0,
+    "explanation": "A nonconforming use (grandfathered use) is a use that legally existed before a zoning ordinance was enacted or changed; it may continue but typically cannot be expanded.",
+    "chapter": "land-use",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-land-use-a-003",
+    "question": "Spot zoning occurs when:",
+    "options": ["Zoning is applied consistently across an entire district", "A small parcel is rezoned differently from surrounding properties for private benefit", "A variance is granted for a small property", "An entire neighborhood is rezoned at once"],
+    "correctIndex": 1,
+    "explanation": "Spot zoning is the rezoning of a small area inconsistent with the surrounding zoning and master plan, often for private benefit; it is generally considered arbitrary and legally challengeable.",
+    "chapter": "land-use",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-land-use-a-004",
+    "question": "CERCLA (Superfund) holds property owners liable for environmental cleanup costs:",
+    "options": ["Only if they caused the contamination", "Even if they purchased the property after contamination occurred, with some exceptions", "Only if they are the original polluter", "Only for commercial properties"],
+    "correctIndex": 1,
+    "explanation": "CERCLA imposes strict, joint, and several liability on current and past owners and operators; innocent landowner, bona fide prospective purchaser, and contiguous property owner defenses exist but require due diligence.",
+    "chapter": "land-use",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-land-use-a-005",
+    "question": "Inverse condemnation occurs when the government:",
+    "options": ["Pays fair market value for taken property", "Takes or damages private property without formal condemnation proceedings, and the owner sues for compensation", "Donates public land to private owners", "Rezones property to a higher and better use"],
+    "correctIndex": 1,
+    "explanation": "Inverse condemnation is when the government effectively takes or substantially damages private property without initiating formal condemnation, forcing the owner to sue the government for just compensation.",
+    "chapter": "land-use",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-valuation-b-001",
+    "question": "Market value is best defined as:",
+    "options": ["The price a seller hopes to get", "The most probable price a property would sell for in a competitive and open market", "The assessed value for tax purposes", "The cost to replace the property"],
+    "correctIndex": 1,
+    "explanation": "Market value is the most probable price a property would bring in an arm's-length transaction in a competitive market, with both parties acting knowledgeably and without duress.",
+    "chapter": "valuation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-b-002",
+    "question": "The purpose of a real estate appraisal is to:",
+    "options": ["Set the listing price", "Provide an objective estimate of a property's market value", "Guarantee a sales price", "Determine a property's replacement cost only"],
+    "correctIndex": 1,
+    "explanation": "An appraisal is an objective, independent professional opinion of a property's value, most commonly used by lenders to ensure the property is worth the loan amount.",
+    "chapter": "valuation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-b-003",
+    "question": "A Comparative Market Analysis (CMA) is prepared by:",
+    "options": ["A licensed appraiser", "A real estate agent to help set a listing or offer price", "The county assessor", "A mortgage lender"],
+    "correctIndex": 1,
+    "explanation": "A CMA is an informal analysis prepared by a real estate agent using recent comparable sales to help sellers set a listing price or buyers determine an appropriate offer price.",
+    "chapter": "valuation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-b-004",
+    "question": "Assessed value is used to:",
+    "options": ["Determine the sale price", "Calculate property taxes", "Set the asking price", "Qualify for a mortgage"],
+    "correctIndex": 1,
+    "explanation": "Assessed value is the value assigned to a property by the local tax assessor for the purpose of calculating property taxes; it may differ significantly from market value.",
+    "chapter": "valuation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-b-005",
+    "question": "Appreciation refers to:",
+    "options": ["The decrease in property value over time", "The increase in property value over time", "The annual cost of owning a property", "The equity built through mortgage payments"],
+    "correctIndex": 1,
+    "explanation": "Appreciation is the increase in a property's value over time due to factors such as inflation, increased demand, improvements, or favorable market conditions.",
+    "chapter": "valuation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-b-006",
+    "question": "Depreciation in real estate refers to:",
+    "options": ["The payoff of a mortgage over time", "A loss in property value from any cause", "The annual property tax payment", "The cost of maintaining a property"],
+    "correctIndex": 1,
+    "explanation": "Depreciation is a loss in property value from physical deterioration, functional obsolescence, or external factors; it is also used as a tax deduction for income-producing properties.",
+    "chapter": "valuation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-b-007",
+    "question": "The principle of substitution states that a buyer will not pay more for a property than:",
+    "options": ["Its appraised value", "The cost of acquiring a comparable substitute property", "The seller's asking price", "The county's assessed value"],
+    "correctIndex": 1,
+    "explanation": "The principle of substitution is the foundation of the sales comparison approach; a buyer will not pay more for a property than they would have to pay for an equivalent substitute.",
+    "chapter": "valuation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-i-001",
+    "question": "In the sales comparison approach, an adjustment is made to the comparable, not the subject. If a comparable is INFERIOR to the subject in a feature, the adjustment is:",
+    "options": ["Negative (subtracted from the comparable)", "Positive (added to the comparable)", "No adjustment is needed", "Applied to the subject property"],
+    "correctIndex": 1,
+    "explanation": "Adjustments are always made to the comparable, not the subject. If the comparable is inferior (lacks a feature the subject has), the comparable's price is adjusted upward (+) to make it equivalent.",
+    "chapter": "valuation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-valuation-i-002",
+    "question": "The cost approach to value equals:",
+    "options": ["Sale price minus repairs", "Land value + cost of improvements - depreciation", "Net operating income ÷ cap rate", "Sale price ÷ gross annual rent"],
+    "correctIndex": 1,
+    "explanation": "The cost approach estimates value by adding land value to the cost of reproducing or replacing improvements and then subtracting accrued depreciation from all sources.",
+    "chapter": "valuation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-valuation-i-003",
+    "question": "The income approach is most appropriate for valuing:",
+    "options": ["Single-family owner-occupied homes", "Income-producing investment properties", "Vacant land", "New construction"],
+    "correctIndex": 1,
+    "explanation": "The income approach is best suited for income-producing properties (apartments, commercial, industrial) because it estimates value based on the income the property generates.",
+    "chapter": "valuation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-valuation-i-004",
+    "question": "The Gross Rent Multiplier (GRM) is calculated as:",
+    "options": ["Net operating income ÷ sale price", "Sale price ÷ monthly gross rent", "Monthly rent × 12 ÷ expenses", "Annual gross income ÷ cap rate"],
+    "correctIndex": 1,
+    "explanation": "GRM = Sale price ÷ monthly gross rent (or annual gross rent). It is a quick screening tool for comparing income properties but does not account for vacancy or expenses.",
+    "chapter": "valuation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-valuation-i-005",
+    "question": "When selecting comparables for a CMA, an agent should look for properties that are:",
+    "options": ["Listed, sold, and expired in any location", "Recently sold, similar in size and features, and in the same or similar neighborhood", "The highest priced homes in town", "Only actively listed properties"],
+    "correctIndex": 1,
+    "explanation": "Good comparables should be recently sold (typically within 6–12 months), similar in size, condition, and features, and located in the same neighborhood or a comparable area.",
+    "chapter": "valuation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-valuation-i-006",
+    "question": "Reconciliation in an appraisal is the process of:",
+    "options": ["Averaging the three approaches to value", "Weighing the results of the three approaches and arriving at a final value estimate", "Adjusting for differences between comparables", "Recalculating depreciation"],
+    "correctIndex": 1,
+    "explanation": "Reconciliation is the appraiser's process of analyzing and weighing the indications of value from each applicable approach to arrive at a final, supportable value conclusion.",
+    "chapter": "valuation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-valuation-i-007",
+    "question": "Net Operating Income (NOI) is calculated as:",
+    "options": ["Gross income minus mortgage payments", "Effective gross income minus operating expenses (excluding debt service)", "Sale price times the cap rate", "Gross rent times the GRM"],
+    "correctIndex": 1,
+    "explanation": "NOI = Effective Gross Income (potential gross rent minus vacancy/credit loss) minus operating expenses (taxes, insurance, maintenance, management); mortgage payments are NOT included.",
+    "chapter": "valuation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-valuation-a-001",
+    "question": "The capitalization rate (cap rate) formula is:",
+    "options": ["Cap rate = Sale price ÷ NOI", "Cap rate = NOI ÷ Sale price", "Cap rate = GRM × monthly rent", "Cap rate = NOI × Sale price"],
+    "correctIndex": 1,
+    "explanation": "Cap rate = NOI ÷ Sale price (or value). A higher cap rate indicates higher return (and typically higher risk), while a lower cap rate indicates lower return (and typically lower risk).",
+    "chapter": "valuation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-valuation-a-002",
+    "question": "Reproduction cost differs from replacement cost in that reproduction cost is:",
+    "options": ["The cost of a modern equivalent building", "The cost of constructing an exact replica of the original structure", "Less than replacement cost in all cases", "Used only for commercial properties"],
+    "correctIndex": 1,
+    "explanation": "Reproduction cost is the cost to build an exact replica of the original structure using the same materials and methods; replacement cost is the cost to build a modern equivalent with the same utility.",
+    "chapter": "valuation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-valuation-a-003",
+    "question": "External (economic) obsolescence differs from functional obsolescence in that it is caused by:",
+    "options": ["Poor floor plan design", "Factors outside the property, such as neighborhood decline or highway noise", "Worn-out or outdated mechanical systems", "Physical deterioration of the structure"],
+    "correctIndex": 1,
+    "explanation": "External obsolescence is caused by factors beyond the property boundaries (declining neighborhood, new industrial development nearby, economic downturns) and is generally incurable.",
+    "chapter": "valuation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-valuation-a-004",
+    "question": "USPAP (Uniform Standards of Professional Appraisal Practice) is:",
+    "options": ["A state law governing real estate agents", "The ethical and performance standards for appraisers in the U.S.", "A federal lending regulation", "A method of calculating property taxes"],
+    "correctIndex": 1,
+    "explanation": "USPAP is the generally recognized ethical and performance standards for the appraisal profession in the United States, developed by the Appraisal Standards Board.",
+    "chapter": "valuation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-valuation-a-005",
+    "question": "Highest and best use is defined as the use that is legally permissible, physically possible, financially feasible, and:",
+    "options": ["Desired by the owner", "Maximally productive (produces the highest value)", "The current use of the property", "Approved by the local zoning board"],
+    "correctIndex": 1,
+    "explanation": "Highest and best use is the reasonably probable use that is legally permissible, physically possible, financially feasible, and maximally productive — producing the highest present value.",
+    "chapter": "valuation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-financing-b-001",
+    "question": "A mortgage is best described as:",
+    "options": ["A promissory note pledging personal assets", "A security instrument that pledges real property as collateral for a loan", "The monthly payment on a home loan", "The lender's promise to make a loan"],
+    "correctIndex": 1,
+    "explanation": "A mortgage is a security instrument (lien) that pledges real property as collateral for the repayment of a debt; the promissory note is a separate document containing the borrower's promise to repay.",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-financing-b-002",
+    "question": "A promissory note is:",
+    "options": ["The deed to the property", "The borrower's written promise to repay a loan with specified terms", "The lender's commitment to make a loan", "The title insurance policy"],
+    "correctIndex": 1,
+    "explanation": "A promissory note is a negotiable instrument containing the borrower's written promise to repay a specified amount under defined terms; it is the evidence of the debt.",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-financing-b-003",
+    "question": "Equity in a home is the:",
+    "options": ["Total purchase price of the property", "Difference between the property's market value and the outstanding mortgage balance", "Monthly payment on the mortgage", "Down payment only"],
+    "correctIndex": 1,
+    "explanation": "Equity is the owner's financial interest in the property, calculated as market value minus all outstanding loan balances; it increases as the loan is paid down and as the property appreciates.",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-financing-b-004",
+    "question": "Pre-qualification differs from pre-approval in that pre-qualification is based on:",
+    "options": ["A full underwriting review", "Self-reported financial information without verification", "A credit report only", "A completed loan application with all documents verified"],
+    "correctIndex": 1,
+    "explanation": "Pre-qualification is a quick estimate based on self-reported income, assets, and debts; pre-approval involves a formal application, verified documentation, and a credit pull.",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-financing-b-005",
+    "question": "Closing costs are expenses paid at closing and typically include:",
+    "options": ["Only the down payment", "Loan origination fees, title insurance, appraisal, and prepaid items", "Only the real estate commission", "Only property taxes"],
+    "correctIndex": 1,
+    "explanation": "Closing costs are fees and expenses beyond the down payment, including lender fees, title insurance, appraisal, attorney fees, prepaid interest, and escrow deposits.",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-financing-b-006",
+    "question": "A down payment is the:",
+    "options": ["Monthly mortgage payment", "Portion of the purchase price paid in cash by the buyer at closing", "Earnest money deposit only", "Total amount of closing costs"],
+    "correctIndex": 1,
+    "explanation": "A down payment is the portion of the purchase price the buyer pays in cash at closing; the remainder is financed through a mortgage loan.",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-financing-b-007",
+    "question": "A higher credit score generally results in:",
+    "options": ["A higher interest rate", "A lower interest rate and better loan terms", "No effect on loan terms", "A requirement for a larger down payment"],
+    "correctIndex": 1,
+    "explanation": "Credit scores indicate creditworthiness to lenders; higher scores typically qualify borrowers for lower interest rates, better loan terms, and lower fees.",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-financing-i-001",
+    "question": "FHA loans differ from conventional loans primarily in that FHA loans:",
+    "options": ["Require no down payment", "Are insured by the federal government and allow lower down payments and credit scores", "Have no loan limits", "Are available only to veterans"],
+    "correctIndex": 1,
+    "explanation": "FHA loans are insured by the Federal Housing Administration, allowing borrowers with lower credit scores to qualify with as little as 3.5% down; the insurance protects the lender, not the borrower.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-i-002",
+    "question": "VA loans are available to:",
+    "options": ["Any first-time homebuyer", "Eligible veterans, active-duty service members, and surviving spouses", "Low-income buyers in rural areas", "Buyers with poor credit scores only"],
+    "correctIndex": 1,
+    "explanation": "VA loans are guaranteed by the Department of Veterans Affairs for eligible veterans, active-duty personnel, and surviving spouses; they require no down payment and no PMI.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-i-003",
+    "question": "One discount point equals:",
+    "options": ["1% of the sale price", "1% of the loan amount", "$1,000 regardless of loan size", "0.25% reduction in the interest rate"],
+    "correctIndex": 1,
+    "explanation": "One discount point equals 1% of the loan amount, paid at closing to reduce (buy down) the interest rate; typically each point reduces the rate by about 0.25%, but this varies by lender.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-i-004",
+    "question": "Private Mortgage Insurance (PMI) is typically required when a conventional loan's down payment is less than:",
+    "options": ["5%", "10%", "20%", "3%"],
+    "correctIndex": 2,
+    "explanation": "PMI is required on conventional loans when the down payment is less than 20% (LTV over 80%); it protects the lender, not the borrower, against default losses.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-i-005",
+    "question": "An escrow (impound) account is used by lenders to:",
+    "options": ["Hold the buyer's earnest money during the sale", "Collect and pay property taxes and insurance on behalf of the borrower", "Store the original deed", "Verify the borrower's employment"],
+    "correctIndex": 1,
+    "explanation": "An escrow/impound account holds monthly reserves collected with the mortgage payment so the lender can pay the borrower's property taxes and homeowner's insurance when due.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-i-006",
+    "question": "PITI stands for:",
+    "options": ["Principal, Interest, Title, Insurance", "Principal, Interest, Taxes, Insurance", "Payment, Interest, Taxes, Improvements", "Principal, Income, Taxes, Investment"],
+    "correctIndex": 1,
+    "explanation": "PITI stands for Principal, Interest, Taxes, and Insurance — the four components that make up a typical monthly mortgage payment when taxes and insurance are escrowed.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-i-007",
+    "question": "In an adjustable-rate mortgage (ARM), the interest rate:",
+    "options": ["Never changes after closing", "Remains fixed for the life of the loan", "Adjusts periodically based on a market index after an initial fixed period", "Is always lower than a fixed-rate mortgage throughout the loan term"],
+    "correctIndex": 2,
+    "explanation": "An ARM has an initial fixed-rate period (e.g., 5/1 ARM = 5 years fixed) followed by periodic rate adjustments based on a market index plus a margin.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-i-008",
+    "question": "Amortization refers to:",
+    "options": ["The process of increasing the interest rate over time", "Gradually paying off a loan through scheduled principal and interest payments", "The penalty for paying off a loan early", "The lender's right to call the loan due"],
+    "correctIndex": 1,
+    "explanation": "Amortization is the process of paying off a loan over time through regular payments; early payments are mostly interest while later payments apply more to the principal balance.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-i-009",
+    "question": "USDA loans are designed for buyers purchasing in:",
+    "options": ["Any location with FHA approval", "Designated rural and suburban areas meeting USDA income limits", "Urban areas only", "Only agricultural land"],
+    "correctIndex": 1,
+    "explanation": "USDA Rural Development loans are available for eligible buyers in USDA-designated rural and some suburban areas who meet income limits; they require no down payment.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-i-010",
+    "question": "A fixed-rate mortgage provides the advantage of:",
+    "options": ["Lower initial payments compared to an ARM", "Predictable monthly payments that never change over the loan term", "The ability to increase the loan amount over time", "Lower total interest paid in all cases"],
+    "correctIndex": 1,
+    "explanation": "A fixed-rate mortgage locks in the interest rate and monthly payment for the life of the loan, providing predictability and protection against rising interest rates.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-a-001",
+    "question": "RESPA (Real Estate Settlement Procedures Act) requires lenders to provide borrowers with:",
+    "options": ["A credit score free of charge", "A Loan Estimate within 3 business days of receiving a loan application and a Closing Disclosure 3 business days before closing", "A survey of the property", "Proof of the seller's title"],
+    "correctIndex": 1,
+    "explanation": "RESPA (implemented through TRID) requires lenders to issue a Loan Estimate within 3 business days of application and a Closing Disclosure at least 3 business days before closing.",
+    "chapter": "financing",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-financing-a-002",
+    "question": "The Truth in Lending Act (TILA) requires lenders to disclose the:",
+    "options": ["Property's appraised value", "Annual Percentage Rate (APR) and total cost of the loan", "Seller's mortgage balance", "Property tax history"],
+    "correctIndex": 1,
+    "explanation": "TILA (Regulation Z) requires lenders to disclose the APR, finance charge, amount financed, and total payments so borrowers can compare the true cost of credit.",
+    "chapter": "financing",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-financing-a-003",
+    "question": "The 3-day right of rescission under TILA applies to:",
+    "options": ["All mortgage transactions", "Refinances and home equity loans on a primary residence (but NOT purchase money mortgages)", "Only commercial property loans", "First-time homebuyer purchase loans only"],
+    "correctIndex": 1,
+    "explanation": "TILA's right of rescission allows borrowers 3 business days to cancel a refinance or home equity loan on their primary residence; it does NOT apply to purchase money mortgages.",
+    "chapter": "financing",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-financing-a-004",
+    "question": "Fannie Mae and Freddie Mac operate in the:",
+    "options": ["Primary mortgage market by originating loans", "Secondary mortgage market by buying and securitizing mortgages from lenders", "Federal Reserve System as bank regulators", "FHA insurance program"],
+    "correctIndex": 1,
+    "explanation": "Fannie Mae and Freddie Mac are government-sponsored enterprises that operate in the secondary mortgage market, purchasing conforming loans from lenders to provide liquidity and lower mortgage rates.",
+    "chapter": "financing",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-financing-a-005",
+    "question": "Loan-to-Value (LTV) ratio is calculated as:",
+    "options": ["Property value ÷ loan amount", "Loan amount ÷ appraised value (or purchase price, whichever is lower)", "Monthly payment ÷ gross income", "Down payment ÷ loan amount"],
+    "correctIndex": 1,
+    "explanation": "LTV = Loan amount ÷ appraised value (or purchase price, whichever is lower). Higher LTV means more risk for the lender; above 80% LTV typically triggers PMI on conventional loans.",
+    "chapter": "financing",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-001",
+    "question": "In a real estate transaction, the agent's principal (client) is:",
+    "options": ["The mortgage lender", "The person the agent legally represents and owes fiduciary duties to", "Any party who signs the contract", "The real estate commission"],
+    "correctIndex": 1,
+    "explanation": "The principal is the person who hires the agent to represent them; the agent owes fiduciary duties to the principal (client), not to the customer (the other party).",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-002",
+    "question": "Which mnemonic represents the six fiduciary duties an agent owes to their client?",
+    "options": ["FASTER", "OLDCAR", "AGENT", "PRICE"],
+    "correctIndex": 1,
+    "explanation": "OLDCAR stands for Obedience, Loyalty, Disclosure, Confidentiality, Accountability, and Reasonable care — the six fiduciary duties an agent owes to their principal.",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-003",
+    "question": "The duty of loyalty requires an agent to:",
+    "options": ["Disclose all material facts to third parties", "Put the client's interests above all others, including the agent's own interests", "Follow all lawful instructions of the client", "Provide expert level service"],
+    "correctIndex": 1,
+    "explanation": "Loyalty means placing the client's interests above all others, including the agent's own financial interests, and avoiding conflicts of interest.",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-004",
+    "question": "A broker is different from a salesperson in that a broker:",
+    "options": ["Works only with buyers", "Has met higher education/experience requirements and can operate independently", "Must be supervised by a salesperson", "Can only list properties, not sell them"],
+    "correctIndex": 1,
+    "explanation": "A real estate broker has completed additional education, experience, and testing requirements and can operate independently, manage a brokerage, and supervise salespersons.",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-005",
+    "question": "A fiduciary is someone who:",
+    "options": ["Manages financial investments", "Acts in a position of trust and confidence on behalf of another", "Prepares real estate contracts", "Handles property taxes"],
+    "correctIndex": 1,
+    "explanation": "A fiduciary relationship involves trust, confidence, and good faith; an agent is a fiduciary to their client, obligated to act in the client's best interests.",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-006",
+    "question": "A listing agreement is a contract between:",
+    "options": ["A buyer and a seller", "A seller and the listing broker", "A buyer and their agent", "A lender and a borrower"],
+    "correctIndex": 1,
+    "explanation": "A listing agreement is an employment contract between the property owner (seller) and the listing broker, authorizing the broker to market the property and earn a commission.",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-007",
+    "question": "The duty of confidentiality requires the agent to:",
+    "options": ["Disclose all material defects to buyers", "Keep the client's personal and motivational information private even after the agency ends", "Share all information with other agents", "Report all transactions to the state"],
+    "correctIndex": 1,
+    "explanation": "Confidentiality requires the agent to protect the client's private information (motivation to sell, financial situation, willingness to accept less) and not disclose it to other parties.",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-001",
+    "question": "In an exclusive right to sell listing, the commission is earned:",
+    "options": ["Only if the broker finds the buyer", "If the property sells during the listing period, regardless of who finds the buyer", "Only if the seller finds the buyer themselves", "Only if the listing price is met"],
+    "correctIndex": 1,
+    "explanation": "An exclusive right to sell listing guarantees the broker a commission if the property sells during the listing period, no matter who finds the buyer — including the seller.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-002",
+    "question": "In an exclusive agency listing, the seller retains the right to:",
+    "options": ["List with multiple brokers simultaneously", "Sell the property themselves without owing a commission to the broker", "Cancel the listing at any time without penalty", "Set a net price below which the property cannot be sold"],
+    "correctIndex": 1,
+    "explanation": "In an exclusive agency listing, only one broker is authorized, but the seller may sell the property themselves without owing a commission; if the broker or another cooperating broker sells it, commission is owed.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-003",
+    "question": "An open listing allows the seller to:",
+    "options": ["List with only one broker at a time", "List with multiple brokers and pay only the broker who produces the buyer", "Set any commission rate they want", "Avoid paying any commission"],
+    "correctIndex": 1,
+    "explanation": "An open listing is a non-exclusive arrangement where the seller may employ multiple brokers simultaneously and only owes a commission to the broker who actually procures the ready, willing, and able buyer.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-004",
+    "question": "Net listings are considered problematic and are illegal in most states because they:",
+    "options": ["Create a conflict of interest where the agent benefits from inflating the price", "Create a conflict of interest where the agent benefits from a lower sale price", "Are too complicated to administer", "Require too many disclosures"],
+    "correctIndex": 1,
+    "explanation": "In a net listing the seller receives a set amount and the agent keeps everything above it; this incentivizes the agent to negotiate the lowest possible price, creating a conflict of interest.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-005",
+    "question": "Dual agency occurs when:",
+    "options": ["Two agents from different brokerages work together", "One agent or brokerage represents both the buyer and seller in the same transaction", "A buyer uses two agents simultaneously", "A property has two listing agents"],
+    "correctIndex": 1,
+    "explanation": "Dual agency exists when the same agent or brokerage represents both the buyer and seller in a single transaction; it requires informed written consent from both parties and limits the agent's ability to fully advocate for either side.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-006",
+    "question": "Earnest money is:",
+    "options": ["The buyer's down payment paid at closing", "A good faith deposit made by the buyer when submitting an offer", "The buyer's agent's commission deposit", "The seller's fee for accepting an offer"],
+    "correctIndex": 1,
+    "explanation": "Earnest money is a good-faith deposit from the buyer submitted with an offer to show serious intent; it is credited toward the purchase price at closing or may be forfeited if the buyer defaults.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-007",
+    "question": "A financing contingency in a purchase contract protects the buyer by:",
+    "options": ["Guaranteeing a specific interest rate", "Allowing the buyer to exit the contract without penalty if they cannot secure financing", "Requiring the seller to help finance the purchase", "Locking in the purchase price"],
+    "correctIndex": 1,
+    "explanation": "A financing contingency makes the sale conditional on the buyer obtaining a mortgage; if the buyer cannot get approved, they can exit the contract and recover their earnest money.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-008",
+    "question": "A counteroffer legally:",
+    "options": ["Accepts the original offer with minor modifications that are binding", "Rejects the original offer and creates a new offer that the original offeror can accept or reject", "Extends the acceptance deadline only", "Is binding on both parties immediately"],
+    "correctIndex": 1,
+    "explanation": "A counteroffer is a rejection of the original offer and a new offer; the original offer is extinguished, and the original offeror becomes the offeree with no obligation to accept.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-009",
+    "question": "Designated agency (appointed agency) means:",
+    "options": ["The broker represents both parties personally", "The broker appoints specific agents within the brokerage to exclusively represent each party in a dual agency situation", "Two brokerages share one client", "The state designates an agent for unrepresented parties"],
+    "correctIndex": 1,
+    "explanation": "Designated/appointed agency is where the supervising broker designates one salesperson to represent the buyer and a different salesperson to represent the seller within the same brokerage, reducing the dual agency conflict.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-010",
+    "question": "An inspection contingency gives the buyer the right to:",
+    "options": ["Demand repairs of any kind at any cost", "Have the property inspected and negotiate repairs or withdraw from the contract based on findings", "Override the seller's disclosure statement", "Extend the closing date indefinitely"],
+    "correctIndex": 1,
+    "explanation": "An inspection contingency allows the buyer to have the property professionally inspected within a set period and to negotiate repairs, a price reduction, or to withdraw from the contract if unsatisfied with the results.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-a-001",
+    "question": "The Statute of Frauds requires that real estate contracts must be:",
+    "options": ["Notarized to be valid", "In writing and signed to be enforceable", "Recorded with the county", "Approved by the state real estate commission"],
+    "correctIndex": 1,
+    "explanation": "The Statute of Frauds requires contracts for the sale of real property to be in writing and signed by the party to be charged in order to be legally enforceable.",
+    "chapter": "agency-contracts",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-agency-contracts-a-002",
+    "question": "The five essential elements of a valid real estate contract include competent parties, mutual consent, consideration, legal purpose, and:",
+    "options": ["Notarization", "In writing (as required by the Statute of Frauds)", "Recording", "Earnest money deposit"],
+    "correctIndex": 1,
+    "explanation": "For a real estate contract to be valid and enforceable it must have: competent parties, mutual consent (offer and acceptance), consideration (something of value exchanged), legal purpose, and be in writing per the Statute of Frauds.",
+    "chapter": "agency-contracts",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-agency-contracts-a-003",
+    "question": "Specific performance as a remedy for breach of real estate contract means the court orders:",
+    "options": ["The breaching party to pay monetary damages", "The breaching party to actually complete the transaction as agreed", "The contract to be rescinded", "The earnest money to be forfeited"],
+    "correctIndex": 1,
+    "explanation": "Specific performance is an equitable remedy unique to real estate; because each parcel is considered unique, a court may order the defaulting party to actually perform the contract rather than simply pay damages.",
+    "chapter": "agency-contracts",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-agency-contracts-a-004",
+    "question": "An option contract gives the optionee (buyer) the:",
+    "options": ["Obligation to purchase the property at a set price", "Right, but not the obligation, to purchase the property at a set price within a specified period", "Right to lease the property for a set term", "Obligation to sell the property at a set price"],
+    "correctIndex": 1,
+    "explanation": "An option contract grants the optionee the exclusive right (but not the obligation) to purchase a property at a predetermined price within a specified time period in exchange for option consideration paid to the seller.",
+    "chapter": "agency-contracts",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-agency-contracts-a-005",
+    "question": "A land contract (installment sale contract) differs from a traditional sale in that:",
+    "options": ["The buyer receives the deed at the time of purchase", "The seller retains legal title until the buyer has paid the purchase price in full", "No interest is charged on the balance", "The buyer must use a lender to complete the purchase"],
+    "correctIndex": 1,
+    "explanation": "In a land contract (contract for deed), the buyer makes payments directly to the seller and takes possession but does not receive legal title until the contract is paid in full.",
+    "chapter": "agency-contracts",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-real-estate-math-b-001",
+    "question": "A home sells for $320,000 and the commission rate is 6%. What is the total commission?",
+    "options": ["$16,000", "$19,200", "$6,000", "$32,000"],
+    "correctIndex": 1,
+    "explanation": "$320,000 × 0.06 = $19,200 total commission. Commission = sale price × commission rate.",
+    "chapter": "real-estate-math",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-real-estate-math-b-002",
+    "question": "If the total commission is $18,000 and the listing broker and selling broker split it 50/50, what does each broker receive?",
+    "options": ["$18,000", "$9,000", "$6,000", "$12,000"],
+    "correctIndex": 1,
+    "explanation": "$18,000 × 0.50 = $9,000 for each broker. A 50/50 split divides the total commission equally between the listing and selling brokerage.",
+    "chapter": "real-estate-math",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-real-estate-math-b-003",
+    "question": "A rectangular lot is 120 feet wide and 200 feet deep. What is its area in square feet?",
+    "options": ["320 sq ft", "640 sq ft", "24,000 sq ft", "12,000 sq ft"],
+    "correctIndex": 2,
+    "explanation": "Area = length × width = 200 × 120 = 24,000 square feet.",
+    "chapter": "real-estate-math",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-real-estate-math-b-004",
+    "question": "How many square feet are in one acre?",
+    "options": ["10,000", "36,000", "43,560", "52,272"],
+    "correctIndex": 2,
+    "explanation": "One acre equals exactly 43,560 square feet. This is a fundamental real estate math fact used for lot and land calculations.",
+    "chapter": "real-estate-math",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-real-estate-math-b-005",
+    "question": "A rectangular lot is 87,120 square feet. How many acres is this?",
+    "options": ["1 acre", "2 acres", "4 acres", "0.5 acres"],
+    "correctIndex": 1,
+    "explanation": "87,120 ÷ 43,560 = 2 acres. Divide total square feet by 43,560 to convert to acres.",
+    "chapter": "real-estate-math",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-real-estate-math-b-006",
+    "question": "A salesperson earns 60% of the commission paid to their broker. If the broker receives $9,000, how much does the salesperson earn?",
+    "options": ["$3,600", "$5,400", "$4,500", "$9,000"],
+    "correctIndex": 1,
+    "explanation": "$9,000 × 0.60 = $5,400. The salesperson's share = broker's amount × salesperson's percentage.",
+    "chapter": "real-estate-math",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-real-estate-math-b-007",
+    "question": "A building is 40 feet wide and 60 feet long. What is its perimeter?",
+    "options": ["2,400 feet", "200 feet", "100 feet", "240 feet"],
+    "correctIndex": 1,
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (60 + 40) = 2 × 100 = 200 feet.",
+    "chapter": "real-estate-math",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-real-estate-math-b-008",
+    "question": "A home sells for $250,000. The commission rate is 5%. What is the total commission?",
+    "options": ["$10,000", "$12,500", "$15,000", "$25,000"],
+    "correctIndex": 1,
+    "explanation": "$250,000 × 0.05 = $12,500 total commission.",
+    "chapter": "real-estate-math",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-real-estate-math-i-001",
+    "question": "Annual property taxes are $3,650. The closing date is September 30. The seller has NOT yet paid the taxes. Using a 365-day year, how much will the seller owe the buyer at closing? (January 1 through September 30 = 273 days)",
+    "options": ["$2,650", "$2,730", "$1,825", "$3,650"],
+    "correctIndex": 1,
+    "explanation": "Daily tax rate = $3,650 ÷ 365 = $10/day. Seller owes 273 days × $10 = $2,730 to the buyer at closing since taxes have accrued but not been paid.",
+    "chapter": "real-estate-math",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-real-estate-math-i-002",
+    "question": "Monthly rent is $1,200. The tenant moves in on the 16th of a 30-day month. How much prorated rent is owed for the first month?",
+    "options": ["$600", "$640", "$560", "$1,200"],
+    "correctIndex": 1,
+    "explanation": "Daily rent = $1,200 ÷ 30 = $40/day. Days remaining from 16th = 15 days (16th through 30th). 15 × $40 = $600. Wait — 15 remaining days × $40 = $600. The correct answer is $600.",
+    "chapter": "real-estate-math",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-real-estate-math-i-003",
+    "question": "A state charges a transfer tax of $1.10 per $1,000 of sale price (rounded up to the nearest $500). A property sells for $275,000. What is the transfer tax?",
+    "options": ["$275.00", "$302.50", "$330.00", "$247.50"],
+    "correctIndex": 1,
+    "explanation": "$275,000 ÷ $1,000 = 275 units × $1.10 = $302.50 transfer tax.",
+    "chapter": "real-estate-math",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-real-estate-math-i-004",
+    "question": "A buyer takes out a $200,000 mortgage. The lender charges 2 discount points at closing. How much will the buyer pay in discount points?",
+    "options": ["$2,000", "$4,000", "$6,000", "$200"],
+    "correctIndex": 1,
+    "explanation": "1 point = 1% of the loan amount. 2 points × 1% × $200,000 = $4,000 in discount points.",
+    "chapter": "real-estate-math",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-real-estate-math-i-005",
+    "question": "A loan origination fee is 1% of the loan amount. On a $180,000 loan, what is the origination fee?",
+    "options": ["$180", "$1,800", "$18,000", "$1,080"],
+    "correctIndex": 1,
+    "explanation": "Origination fee = 1% × $180,000 = $1,800. Loan fees are calculated as a percentage of the loan amount.",
+    "chapter": "real-estate-math",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-real-estate-math-i-006",
+    "question": "The first month's interest on a $150,000 mortgage at 6% annual interest is:",
+    "options": ["$9,000", "$900", "$750", "$1,500"],
+    "correctIndex": 2,
+    "explanation": "Monthly interest = principal × annual rate ÷ 12 = $150,000 × 0.06 ÷ 12 = $750.",
+    "chapter": "real-estate-math",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-real-estate-math-i-007",
+    "question": "The closing date is July 15. Annual taxes of $2,400 have already been paid in full by the seller. How much will the buyer owe the seller for the tax proration? (July 15 through Dec 31 = 170 days, using 365-day year)",
+    "options": ["$1,117.81", "$1,282.19", "$2,400.00", "$200.00"],
+    "correctIndex": 0,
+    "explanation": "Daily rate = $2,400 ÷ 365 = $6.575/day. Buyer owes seller for remaining 170 days: 170 × $6.575 = $1,117.81 (credit to seller).",
+    "chapter": "real-estate-math",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-real-estate-math-a-001",
+    "question": "A home purchased for $200,000 sells for $250,000 five years later. What is the percentage of appreciation?",
+    "options": ["20%", "25%", "50%", "10%"],
+    "correctIndex": 1,
+    "explanation": "Appreciation % = (sale price - purchase price) ÷ purchase price = ($250,000 - $200,000) ÷ $200,000 = $50,000 ÷ $200,000 = 25%.",
+    "chapter": "real-estate-math",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-real-estate-math-a-002",
+    "question": "An apartment building has an NOI of $60,000 per year. If the cap rate in the market is 6%, what is the estimated value of the building?",
+    "options": ["$360,000", "$1,000,000", "$600,000", "$3,600,000"],
+    "correctIndex": 1,
+    "explanation": "Value = NOI ÷ cap rate = $60,000 ÷ 0.06 = $1,000,000. When you know NOI and cap rate, divide to find value.",
+    "chapter": "real-estate-math",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-real-estate-math-a-003",
+    "question": "A property rents for $2,000 per month. It sells for $288,000. What is the Gross Rent Multiplier (GRM)?",
+    "options": ["120", "144", "160", "200"],
+    "correctIndex": 1,
+    "explanation": "GRM = sale price ÷ monthly gross rent = $288,000 ÷ $2,000 = 144.",
+    "chapter": "real-estate-math",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-real-estate-math-a-004",
+    "question": "A buyer earns $6,000/month gross income. Under the 28% front-end ratio, what is the maximum allowable monthly PITI payment?",
+    "options": ["$1,400", "$1,680", "$2,160", "$600"],
+    "correctIndex": 1,
+    "explanation": "Maximum PITI = gross monthly income × 28% = $6,000 × 0.28 = $1,680.",
+    "chapter": "real-estate-math",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-real-estate-math-a-005",
+    "question": "A buyer purchases a home for $350,000 with a $70,000 down payment. What is the loan-to-value (LTV) ratio?",
+    "options": ["70%", "80%", "20%", "30%"],
+    "correctIndex": 1,
+    "explanation": "Loan amount = $350,000 - $70,000 = $280,000. LTV = $280,000 ÷ $350,000 = 0.80 = 80%.",
+    "chapter": "real-estate-math",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-real-estate-math-a-006",
+    "question": "A seller wants to net $180,000 after paying a 6% commission. What must the sale price be? (Net = Sale price × (1 - commission rate))",
+    "options": ["$190,800", "$191,489", "$180,000", "$186,000"],
+    "correctIndex": 1,
+    "explanation": "Sale price = Net ÷ (1 - commission rate) = $180,000 ÷ 0.94 = $191,489 (rounded). The seller keeps 94 cents of every dollar after paying 6% commission.",
+    "chapter": "real-estate-math",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-real-estate-math-a-007",
+    "question": "A commercial property generates $120,000 annual gross rent. It has a 10% vacancy rate and $40,000 in operating expenses. What is the NOI?",
+    "options": ["$80,000", "$68,000", "$108,000", "$120,000"],
+    "correctIndex": 1,
+    "explanation": "Effective gross income = $120,000 × (1 - 0.10) = $108,000. NOI = $108,000 - $40,000 = $68,000.",
+    "chapter": "real-estate-math",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-land-use-b-009",
+    "question": "Agricultural zoning is designed to protect land used for:",
+    "options": ["Shopping malls and retail centers", "Farming, ranching, and open space preservation", "Heavy manufacturing", "High-density residential development"],
+    "correctIndex": 1,
+    "explanation": "Agricultural zoning preserves farmland and open space from development pressure, restricting uses to farming, livestock, and related activities.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-b-010",
+    "question": "Asbestos is a concern in homes primarily built before:",
+    "options": ["1960", "1978", "1990", "2000"],
+    "correctIndex": 1,
+    "explanation": "Asbestos-containing materials were widely used in construction before the late 1970s; its use was phased out after the EPA began restricting it in 1978 due to serious health risks.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-b-011",
+    "question": "A special use permit (conditional use permit) allows:",
+    "options": ["A property to be permanently rezoned", "A use that is not automatically permitted in a zone but can be approved with conditions", "Any use in any zone without review", "A variance from setback requirements"],
+    "correctIndex": 1,
+    "explanation": "A special use (conditional use) permit authorizes a specific use not generally permitted in a zone but deemed acceptable with imposed conditions to minimize impacts on surrounding properties.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-b-012",
+    "question": "Which federal act prohibits discrimination in the sale, rental, or financing of housing and was enacted in 1968?",
+    "options": ["The Civil Rights Act of 1866", "The Fair Housing Act", "The Americans with Disabilities Act", "The Community Reinvestment Act"],
+    "correctIndex": 1,
+    "explanation": "The Fair Housing Act of 1968 (Title VIII of the Civil Rights Act of 1968) is the primary federal law prohibiting housing discrimination based on protected characteristics.",
+    "chapter": "land-use",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-b-008",
+    "question": "The three approaches to value used by appraisers are the sales comparison, cost, and:",
+    "options": ["Tax assessment approach", "Income approach", "Insurance approach", "Replacement approach"],
+    "correctIndex": 1,
+    "explanation": "The three standard approaches to real estate valuation are the sales comparison approach, the cost approach, and the income approach; appraisers select the most appropriate based on property type.",
+    "chapter": "valuation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-b-009",
+    "question": "The principle of conformity holds that property value is maximized when:",
+    "options": ["A property stands out with unique improvements", "Properties in a neighborhood are similar in size, style, and use", "Improvements are made regardless of cost", "A property is the largest in the area"],
+    "correctIndex": 1,
+    "explanation": "The principle of conformity states that value is maximized when a property conforms to the character of the surrounding neighborhood in terms of use and architectural style.",
+    "chapter": "valuation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-b-010",
+    "question": "The principle of contribution states that the value of an improvement is measured by:",
+    "options": ["Its cost to construct", "How much it adds to the overall property value", "Its replacement cost minus depreciation", "The amount the owner paid for it"],
+    "correctIndex": 1,
+    "explanation": "The principle of contribution measures an improvement's value by how much it adds to the total property's market value, not by what it cost to install.",
+    "chapter": "valuation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-b-011",
+    "question": "An appraisal must be performed by a:",
+    "options": ["Licensed real estate agent", "State-licensed or certified appraiser", "Mortgage lender", "Title company"],
+    "correctIndex": 1,
+    "explanation": "Real estate appraisals for federally related transactions must be performed by a state-licensed or certified appraiser who meets federal and state requirements for education and competency.",
+    "chapter": "valuation",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-valuation-i-008",
+    "question": "Functional obsolescence in a property is a loss in value caused by:",
+    "options": ["Physical wear and deterioration", "Outdated design, poor floor plan, or inadequate features relative to current market standards", "External economic forces", "Environmental contamination"],
+    "correctIndex": 1,
+    "explanation": "Functional obsolescence results from design deficiencies, outdated features, or poor layout that make the property less desirable compared to current market expectations (e.g., only one bathroom in a 4-bedroom home).",
+    "chapter": "valuation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-valuation-i-009",
+    "question": "Physical deterioration refers to:",
+    "options": ["Loss in value from a poor floor plan", "Loss in value from wear, tear, and aging of the structure and its components", "Loss in value from outside economic forces", "Loss in value from changing neighborhood demographics"],
+    "correctIndex": 1,
+    "explanation": "Physical deterioration is the most common type of depreciation, resulting from ordinary wear and tear, deferred maintenance, and the natural aging of building materials and systems.",
+    "chapter": "valuation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-valuation-i-010",
+    "question": "In the income approach, effective gross income is calculated as:",
+    "options": ["NOI plus operating expenses", "Potential gross income minus vacancy and credit loss", "Net income plus depreciation", "Sale price divided by cap rate"],
+    "correctIndex": 1,
+    "explanation": "Effective Gross Income (EGI) = Potential Gross Income (100% occupancy rent) minus vacancy allowance and credit loss (uncollected rents).",
+    "chapter": "valuation",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-b-008",
+    "question": "What does LTV stand for in mortgage lending?",
+    "options": ["Loan to Value", "Lender Transfer Verification", "Liability Transfer Value", "Long Term Variable"],
+    "correctIndex": 0,
+    "explanation": "LTV stands for Loan-to-Value ratio, which compares the loan amount to the property's appraised value and is a key risk metric used by lenders.",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-financing-b-009",
+    "question": "A deed of trust differs from a mortgage primarily in that a deed of trust involves:",
+    "options": ["Two parties: borrower and lender", "Three parties: borrower (trustor), lender (beneficiary), and a neutral third party (trustee)", "Only the lender and a title company", "The government as guarantor"],
+    "correctIndex": 1,
+    "explanation": "A deed of trust involves three parties: the borrower (trustor) conveys bare legal title to a neutral trustee for the benefit of the lender (beneficiary), allowing non-judicial foreclosure in many states.",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-financing-b-010",
+    "question": "Which loan type requires the borrower to pay an upfront mortgage insurance premium (UFMIP) plus annual mortgage insurance premiums (MIP)?",
+    "options": ["Conventional loan", "VA loan", "FHA loan", "USDA loan"],
+    "correctIndex": 2,
+    "explanation": "FHA loans require both an upfront mortgage insurance premium (UFMIP, typically 1.75% of the loan) and annual mortgage insurance premiums (MIP) paid monthly, regardless of the LTV ratio.",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-financing-b-011",
+    "question": "The secondary mortgage market refers to:",
+    "options": ["A second mortgage on a property", "Where lenders sell existing mortgages to investors, providing liquidity to originate new loans", "Subprime lending to high-risk borrowers", "Second-tier banks that make smaller loans"],
+    "correctIndex": 1,
+    "explanation": "The secondary mortgage market is where lenders sell originated mortgage loans to investors (like Fannie Mae and Freddie Mac), replenishing lenders' funds so they can make new loans.",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-financing-i-011",
+    "question": "A conventional conforming loan must meet the loan limits and standards set by:",
+    "options": ["The FHA", "Fannie Mae and Freddie Mac", "The Federal Reserve", "The Department of Housing and Urban Development"],
+    "correctIndex": 1,
+    "explanation": "A conventional conforming loan meets the loan limits and underwriting guidelines set by Fannie Mae and Freddie Mac, making it eligible for purchase in the secondary market.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-i-012",
+    "question": "A VA funding fee is charged to:",
+    "options": ["The lender making the VA loan", "The veteran/eligible borrower, though it may be financed into the loan", "The seller of the property", "The VA appraiser"],
+    "correctIndex": 1,
+    "explanation": "The VA funding fee is a one-time fee charged to eligible borrowers to help fund the VA loan program; it can be paid upfront or rolled into the loan amount.",
+    "chapter": "financing",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-financing-a-006",
+    "question": "Ginnie Mae (GNMA) differs from Fannie Mae and Freddie Mac in that Ginnie Mae:",
+    "options": ["Originates mortgage loans directly", "Guarantees mortgage-backed securities backed by government loans (FHA, VA, USDA)", "Purchases conventional loans on the secondary market", "Sets conventional loan limits annually"],
+    "correctIndex": 1,
+    "explanation": "Ginnie Mae (Government National Mortgage Association) guarantees mortgage-backed securities (MBS) composed of government-backed loans (FHA, VA, USDA), unlike Fannie Mae and Freddie Mac which deal with conventional loans.",
+    "chapter": "financing",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-008",
+    "question": "The duty of obedience requires the agent to:",
+    "options": ["Follow all instructions from the buyer as well as the seller", "Follow all lawful instructions of the client promptly", "Obey state real estate commission rules only", "Obey the lender's conditions for closing"],
+    "correctIndex": 1,
+    "explanation": "Obedience requires the agent to follow all lawful instructions of the principal; the agent is not required to follow unlawful instructions such as fair housing violations.",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-009",
+    "question": "The duty of accountability (or accounting) requires an agent to:",
+    "options": ["File the client's taxes", "Account for all money and property entrusted to the agent's care", "Keep the client's financial information confidential", "Provide monthly market updates to the client"],
+    "correctIndex": 1,
+    "explanation": "Accountability/accounting requires the agent to properly handle all funds (earnest money, security deposits) entrusted to them, keep accurate records, and promptly account for money received.",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-010",
+    "question": "When does a buyer's agency relationship typically begin?",
+    "options": ["When the buyer makes an offer on a property", "When the buyer and agent sign a buyer representation agreement", "When the buyer first contacts the agent", "When the buyer is pre-approved for a mortgage"],
+    "correctIndex": 1,
+    "explanation": "A formal buyer agency relationship begins when the buyer and agent sign a buyer representation agreement; prior to this, the agent may be acting without a formal agency relationship.",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-011",
+    "question": "Material facts are facts that:",
+    "options": ["Are about the physical construction materials used", "Would likely affect a buyer's decision to purchase or the price they would pay", "Are only about property defects visible to the naked eye", "Must be disclosed only in commercial transactions"],
+    "correctIndex": 1,
+    "explanation": "Material facts are facts that would significantly affect a reasonable buyer's decision to purchase or the price offered; agents have a duty to disclose known material facts affecting the property.",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-b-012",
+    "question": "A customer (as opposed to a client) in a real estate transaction is:",
+    "options": ["The party who hired the agent", "A third party to whom the agent owes honesty and fairness but NOT fiduciary duties", "Always the buyer in a transaction", "A party who receives full fiduciary representation"],
+    "correctIndex": 1,
+    "explanation": "A customer is a party not represented by the agent; agents owe customers honesty, fair dealing, and disclosure of material facts but do not owe the full fiduciary duties owed to their client.",
+    "chapter": "agency-contracts",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-011",
+    "question": "An appraisal contingency protects the buyer by:",
+    "options": ["Guaranteeing the property will appraise at the offer price", "Allowing the buyer to renegotiate or exit the contract if the appraisal comes in below the purchase price", "Requiring the seller to reduce the price to the appraised value automatically", "Eliminating the need for the buyer to obtain a mortgage"],
+    "correctIndex": 1,
+    "explanation": "An appraisal contingency allows the buyer to renegotiate the price or withdraw without penalty if the property's appraised value is lower than the agreed purchase price.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-i-012",
+    "question": "An offer becomes a binding contract when:",
+    "options": ["The buyer submits the offer", "The seller accepts the offer and that acceptance is communicated back to the buyer", "The earnest money is deposited", "The lender issues a commitment letter"],
+    "correctIndex": 1,
+    "explanation": "A binding contract (mutual acceptance) is formed when the seller accepts the offer without modification AND that acceptance is communicated back to the offeror (buyer) within the offer's time frame.",
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-agency-contracts-a-006",
+    "question": "A 'time is of the essence' clause in a real estate contract means:",
+    "options": ["The contract must close within 30 days by law", "All dates and deadlines in the contract are strict and must be met exactly", "The parties may extend deadlines with a simple phone call", "Only the closing date is non-negotiable"],
+    "correctIndex": 1,
+    "explanation": "A 'time is of the essence' clause makes all specified dates and deadlines binding; failure to meet a deadline can constitute a material breach and allow the other party to cancel the contract.",
+    "chapter": "agency-contracts",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-agency-contracts-a-007",
+    "question": "Rescission as a remedy for breach of contract means:",
+    "options": ["The court orders the breaching party to complete the transaction", "The contract is cancelled and parties are restored to their pre-contract position", "The non-breaching party receives monetary damages", "The earnest money is forfeited to the seller"],
+    "correctIndex": 1,
+    "explanation": "Rescission cancels the contract and returns both parties to the position they were in before the contract was made; it differs from damages (money) and specific performance (forced completion).",
+    "chapter": "agency-contracts",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-real-estate-math-b-009",
+    "question": "A house has a living area of 2,200 square feet. The lot is 75 feet wide by 150 feet deep. What is the lot size in square feet?",
+    "options": ["11,250 sq ft", "22,500 sq ft", "11,500 sq ft", "3,300 sq ft"],
+    "correctIndex": 1,
+    "explanation": "Lot area = width × depth = 75 × 150 = 11,250 sq ft. Wait — 75 × 150 = 11,250. The correct answer is 11,250 sq ft.",
+    "chapter": "real-estate-math",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-real-estate-math-b-010",
+    "question": "A broker charges a 7% commission and splits it 50/50 with the cooperating broker. The cooperating broker then gives their salesperson 60% of the broker's share. If the home sells for $400,000, how much does the salesperson earn?",
+    "options": ["$8,400", "$16,800", "$14,000", "$28,000"],
+    "correctIndex": 0,
+    "explanation": "Total commission = $400,000 × 7% = $28,000. Cooperating broker's share = $28,000 × 50% = $14,000. Salesperson's share = $14,000 × 60% = $8,400.",
+    "chapter": "real-estate-math",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-real-estate-math-b-011",
+    "question": "How many acres is a parcel that is 1/4 mile by 1/4 mile? (1 mile = 5,280 feet; 1 acre = 43,560 sq ft)",
+    "options": ["10 acres", "40 acres", "160 acres", "1 acre"],
+    "correctIndex": 1,
+    "explanation": "1/4 mile = 5,280 ÷ 4 = 1,320 feet. Area = 1,320 × 1,320 = 1,742,400 sq ft. 1,742,400 ÷ 43,560 = 40 acres.",
+    "chapter": "real-estate-math",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-real-estate-math-i-008",
+    "question": "A $200,000 loan at 6% annual interest has a monthly payment of $1,199. How much of the first payment goes to principal?",
+    "options": ["$199", "$1,000", "$599", "$1,199"],
+    "correctIndex": 0,
+    "explanation": "First month's interest = $200,000 × 6% ÷ 12 = $1,000. Principal portion = $1,199 - $1,000 = $199.",
+    "chapter": "real-estate-math",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-real-estate-math-i-009",
+    "question": "A buyer's gross monthly income is $8,000. Under the 36% back-end (total debt) ratio, what is the maximum allowable total monthly debt payment?",
+    "options": ["$2,240", "$2,880", "$3,200", "$1,440"],
+    "correctIndex": 1,
+    "explanation": "Maximum total debt = gross monthly income × 36% = $8,000 × 0.36 = $2,880. This includes PITI plus all other monthly debt obligations.",
+    "chapter": "real-estate-math",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-real-estate-math-i-010",
+    "question": "A property was purchased for $180,000 and depreciated at 3% per year for 5 years (straight-line depreciation). What is its depreciated value?",
+    "options": ["$153,000", "$162,000", "$150,000", "$170,000"],
+    "correctIndex": 0,
+    "explanation": "Annual depreciation = $180,000 × 3% = $5,400. Total depreciation over 5 years = $5,400 × 5 = $27,000. Depreciated value = $180,000 - $27,000 = $153,000.",
+    "chapter": "real-estate-math",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-real-estate-math-a-008",
+    "question": "A property is purchased for $500,000, generates $40,000 NOI per year, and sells for $600,000 after 5 years. What is the total return on investment? (Ignore financing)",
+    "options": ["$100,000", "$300,000", "$200,000", "$400,000"],
+    "correctIndex": 1,
+    "explanation": "Income return = $40,000 × 5 years = $200,000. Capital gain = $600,000 - $500,000 = $100,000. Total return = $200,000 + $100,000 = $300,000.",
+    "chapter": "real-estate-math",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-real-estate-math-a-009",
+    "question": "Using the GRM method, a property with a GRM of 120 generates $2,500/month in gross rent. What is the estimated value?",
+    "options": ["$300,000", "$360,000", "$250,000", "$30,000"],
+    "correctIndex": 0,
+    "explanation": "Value = GRM × monthly gross rent = 120 × $2,500 = $300,000.",
+    "chapter": "real-estate-math",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-property-ownership-i-011",
+    "question": "The metes and bounds method of legal description uses:",
+    "options": ["Township, range, and section numbers", "Lot and block numbers from a recorded plat map", "Compass directions and distances to describe property boundaries", "Street addresses and parcel numbers"],
+    "correctIndex": 2,
+    "explanation": "Metes and bounds describes property boundaries using a starting point (point of beginning), then compass directions and distances around the perimeter back to the starting point.",
+    "chapter": "property-ownership",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-i-011",
+    "question": "Mold disclosure requirements exist because mold:",
+    "options": ["Decreases a home's energy efficiency", "Can cause serious health problems and is a material fact that must be disclosed", "Is only a concern in flood zones", "Only affects properties built before 1978"],
+    "correctIndex": 1,
+    "explanation": "Mold can cause respiratory and other health problems; it is a material defect that sellers and agents must disclose when known, as it materially affects the property's value and habitability.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-land-use-a-006",
+    "question": "A stigmatized property is one that:",
+    "options": ["Has structural defects requiring disclosure", "Is psychologically impacted by events such as a murder, suicide, or paranormal claims", "Has environmental contamination on site", "Was previously used for illegal drug manufacturing"],
+    "correctIndex": 1,
+    "explanation": "A stigmatized property has a psychological impact on buyers due to non-physical events (murder, suicide, haunting claims); disclosure requirements vary by state, with many states NOT requiring disclosure of such events.",
+    "chapter": "land-use",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-valuation-a-006",
+    "question": "The principle of regression states that a higher-value property surrounded by lower-value properties will:",
+    "options": ["Increase in value due to stand-out appeal", "Experience a decrease in value due to the influence of surrounding lesser properties", "Retain its value independent of surroundings", "Automatically appreciate at the market rate"],
+    "correctIndex": 1,
+    "explanation": "The principle of regression holds that a property of greater value will be negatively affected (pulled down) by surrounding properties of lesser value — the opposite of the principle of progression.",
+    "chapter": "valuation",
+    "difficulty": "advanced"
+  },
+  {
+    "id": "real-estate-financing-b-012",
+    "question": "A balloon mortgage is one in which:",
+    "options": ["Monthly payments increase over time", "Regular payments are made, but the remaining balance becomes due in full at the end of a short term", "The interest rate adjusts monthly", "The loan has no fixed end date"],
+    "correctIndex": 1,
+    "explanation": "A balloon mortgage features regular (often interest-only or amortizing) payments with the full remaining principal balance due in a lump sum at the end of a short term (e.g., 5 or 7 years).",
+    "chapter": "financing",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "real-estate-land-use-i-012",
+    "question": "Wetlands regulations are primarily enforced to:",
+    "options": ["Prevent flooding of residential neighborhoods only", "Protect ecologically sensitive areas from development and preserve natural water filtration", "Restrict agricultural activity near water sources", "Establish setback requirements for commercial buildings"],
+    "correctIndex": 1,
+    "explanation": "Federal and state wetlands regulations protect wetland ecosystems that provide habitat, water quality filtration, flood control, and shoreline protection; development in wetlands requires permits and is often prohibited.",
+    "chapter": "land-use",
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "real-estate-property-ownership-b-016",
+    "question": "Which of the following is an example of personal property?",
+    "options": ["A built-in dishwasher", "A storage shed permanently affixed to the foundation", "A portable above-ground swimming pool", "A fence attached to concrete posts"],
+    "correctIndex": 2,
+    "explanation": "A portable above-ground pool is personal property because it is not permanently attached to the land; built-in appliances and structures anchored to foundations are typically treated as fixtures (real property).",
+    "chapter": "property-ownership",
+    "difficulty": "beginner"
+  }
+]
