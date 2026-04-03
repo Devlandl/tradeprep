@@ -1,0 +1,381 @@
+[
+  {
+    "chapter": "theory",
+    "difficulty": "beginner",
+    "title": "Electrical Theory",
+    "subtitle": "Core electrical concepts — voltage, current, resistance, and the laws that govern them",
+    "points": [
+      { "term": "Voltage (V)", "definition": "The electrical pressure that pushes electrons through a circuit, measured in volts (V). Think of it like water pressure in a pipe." },
+      { "term": "Amperage (A)", "definition": "The rate of electron flow through a conductor, measured in amperes (amps). It represents how much current is actually moving through the wire." },
+      { "term": "Resistance (Ω)", "definition": "The opposition to current flow in a circuit, measured in ohms (Ω). All conductors have some resistance; insulators have very high resistance." },
+      { "term": "Watt (W)", "definition": "The unit of electrical power, representing the rate at which energy is consumed or produced. One watt equals one volt times one amp (W = V × A)." },
+      { "term": "Ohm's Law", "definition": "The fundamental relationship V = I × R, where voltage equals current times resistance. Use it to find any one value when the other two are known." },
+      { "term": "Series Circuit", "definition": "A circuit where components are connected end-to-end in a single path, so the same current flows through every component. Total resistance is the sum of all individual resistances." },
+      { "term": "Parallel Circuit", "definition": "A circuit where components are connected across the same two points, giving current multiple paths to flow. Total resistance is always less than the smallest individual resistor." },
+      { "term": "AC (Alternating Current)", "definition": "Current that reverses direction periodically, typically 60 times per second (60 Hz) in the U.S. This is the standard form of power delivered by utilities to homes and businesses." },
+      { "term": "DC (Direct Current)", "definition": "Current that flows in one constant direction, as from a battery. Electronics, solar panels, and EV charging systems commonly use DC power." },
+      { "term": "Conductor", "definition": "A material that allows electricity to flow freely, such as copper or aluminum. Conductors have low resistance and are used for wiring." },
+      { "term": "Insulator", "definition": "A material that resists the flow of electricity, such as rubber, PVC, or glass. Insulators are used to coat wires to prevent shock and short circuits." }
+    ]
+  },
+  {
+    "chapter": "theory",
+    "difficulty": "intermediate",
+    "title": "Electrical Theory",
+    "subtitle": "Power formulas, Kirchhoff's laws, impedance, and single- vs three-phase power",
+    "points": [
+      { "term": "Power Formula (P = VI)", "definition": "Electrical power in watts equals voltage times current. Combined with Ohm's Law, you can derive P = I²R and P = V²/R for any circuit condition." },
+      { "term": "Kirchhoff's Voltage Law (KVL)", "definition": "The sum of all voltages around any closed loop in a circuit equals zero. This means voltage rises (sources) always equal voltage drops (loads)." },
+      { "term": "Kirchhoff's Current Law (KCL)", "definition": "The total current entering any node in a circuit equals the total current leaving that node. Current cannot accumulate at a junction." },
+      { "term": "Impedance (Z)", "definition": "The total opposition to AC current flow, combining resistance (R) and reactance (X), measured in ohms. Unlike pure resistance, impedance accounts for the effects of inductors and capacitors in AC circuits." },
+      { "term": "Reactance (X)", "definition": "The opposition to AC current caused by inductors (inductive reactance, XL) or capacitors (capacitive reactance, XC). Reactance does not dissipate power as heat." },
+      { "term": "Power Factor (PF)", "definition": "The ratio of true power (watts) to apparent power (VA), expressed as a decimal or percentage. A power factor of 1.0 means all power is doing useful work; lower values indicate wasted reactive power." },
+      { "term": "Single-Phase Power", "definition": "An AC system with one voltage waveform, typically used in residential applications (120V and 240V). The two hot conductors are 180° out of phase with each other." },
+      { "term": "Three-Phase Power", "definition": "An AC system with three voltage waveforms spaced 120° apart, used in commercial and industrial applications. It delivers more power more efficiently than single-phase with less conductor material." },
+      { "term": "True Power (W)", "definition": "The actual power consumed by resistive loads and converted to heat or work, measured in watts. This is what you pay for on your electric bill." },
+      { "term": "Reactive Power (VAR)", "definition": "Power stored and returned by inductive or capacitive loads (motors, transformers), measured in volt-amperes reactive. It does no useful work but stresses the electrical system." }
+    ]
+  },
+  {
+    "chapter": "theory",
+    "difficulty": "advanced",
+    "title": "Electrical Theory",
+    "subtitle": "Three-phase calculations, delta vs wye, apparent vs true power, and demand/diversity factors",
+    "points": [
+      { "term": "Three-Phase Power Formula", "definition": "True power for a balanced three-phase system: P = √3 × VL × IL × PF, where VL is line voltage and IL is line current. For delta, VL = Vphase; for wye, VL = √3 × Vphase." },
+      { "term": "Delta Configuration (Δ)", "definition": "A three-phase connection where each winding connects phase-to-phase, forming a triangle. Line voltage equals phase voltage; line current equals √3 times phase current." },
+      { "term": "Wye Configuration (Y)", "definition": "A three-phase connection where all three windings share a common neutral point. Line voltage equals √3 times phase voltage; line current equals phase current." },
+      { "term": "Apparent Power (VA or kVA)", "definition": "The total power supplied by the source (voltage × current), regardless of power factor. It represents the conductor and equipment capacity required and is always greater than or equal to true power." },
+      { "term": "True Power (kW)", "definition": "The real power doing useful work, calculated as kVA × power factor. Equipment efficiency ratings and energy costs are based on kW, not kVA." },
+      { "term": "kVA vs kW", "definition": "kVA is apparent power (what the utility must supply); kW is true power (what does useful work). A 100 kVA transformer at 0.8 PF delivers only 80 kW of usable power." },
+      { "term": "Demand Factor", "definition": "The ratio of the maximum demand of a system to the total connected load, expressed as a percentage. It accounts for the fact that not all loads operate simultaneously at full capacity." },
+      { "term": "Diversity Factor", "definition": "The ratio of the sum of individual maximum demands to the simultaneous maximum demand of the whole system. A diversity factor greater than 1 means individual peaks do not coincide." },
+      { "term": "Power Factor Correction", "definition": "Adding capacitors to a circuit to offset inductive reactance and bring the power factor closer to 1.0. This reduces apparent power demand and can lower utility demand charges." },
+      { "term": "Line vs Phase Values", "definition": "In a wye system, line voltage = √3 × phase voltage (e.g., 208V line from 120V phase). In a delta system, line voltage = phase voltage, but line current = √3 × phase current." }
+    ]
+  },
+  {
+    "chapter": "wiring",
+    "difficulty": "beginner",
+    "title": "Wiring Methods",
+    "subtitle": "Cable types, conduit, wire gauge, junction boxes, and what grounding means",
+    "points": [
+      { "term": "NM Cable (Romex)", "definition": "Nonmetallic sheathed cable (NM-B) containing insulated conductors and a bare ground wire within a plastic jacket. It is the most common wiring method in residential construction." },
+      { "term": "EMT (Electrical Metallic Tubing)", "definition": "Thin-wall steel conduit used to protect and route wires in exposed or semi-exposed locations. It is lightweight and easy to bend, making it common in commercial construction." },
+      { "term": "PVC Conduit", "definition": "Schedule 40 or 80 rigid plastic conduit used in wet locations, underground, and corrosive environments where metal conduit would degrade. It cannot be used as an equipment ground path." },
+      { "term": "AWG (American Wire Gauge)", "definition": "The standard system for measuring wire diameter in the U.S. Lower AWG numbers mean larger wire — for example, 10 AWG is thicker than 14 AWG." },
+      { "term": "Wire Insulation", "definition": "The plastic or rubber coating around a conductor that prevents short circuits and protects against shock. Common types include THHN (dry/wet), THW (wet), and XHHW (moisture-resistant)." },
+      { "term": "Junction Box", "definition": "An enclosure where wires are joined together with wire nuts or connectors. Junction boxes must remain accessible and cannot be buried behind finished walls without a cover." },
+      { "term": "Grounding", "definition": "Connecting electrical equipment to the earth via a grounding electrode to provide a safe fault current path. Grounding protects people and equipment by limiting voltage on exposed metal parts." },
+      { "term": "Equipment Grounding Conductor (EGC)", "definition": "The bare or green wire in a cable that bonds metal equipment enclosures to the panel ground bus. It carries fault current back to the source to trip the breaker during a ground fault." },
+      { "term": "Neutral Conductor", "definition": "The white (or gray) conductor that carries return current from loads back to the source. It is connected to the neutral bus in the panel, which is bonded to ground at the main panel." },
+      { "term": "Conduit Fill", "definition": "The maximum percentage of a conduit's cross-sectional area that can be occupied by conductors. NEC Chapter 9 tables limit fill to prevent overheating and allow future wire pulls." }
+    ]
+  },
+  {
+    "chapter": "wiring",
+    "difficulty": "intermediate",
+    "title": "Wiring Methods",
+    "subtitle": "Ampacity by gauge, conduit fill rules, box fill calculations, and wire color codes",
+    "points": [
+      { "term": "14 AWG = 15 Amps", "definition": "14 AWG copper conductor has an ampacity of 15A per NEC Table 310.16 at 60°C. It is used for general lighting and outlet circuits protected by 15A breakers." },
+      { "term": "12 AWG = 20 Amps", "definition": "12 AWG copper conductor has an ampacity of 20A and is required for kitchen small appliance circuits, bathroom circuits, and other 20A branch circuits." },
+      { "term": "10 AWG = 30 Amps", "definition": "10 AWG copper conductor has an ampacity of 30A and is typically used for dryer circuits, water heaters, and air conditioner circuits." },
+      { "term": "Conduit Fill Rules", "definition": "NEC Chapter 9 limits conduit fill to 53% for one conductor, 31% for two conductors, and 40% for three or more conductors. This allows for heat dissipation and future capacity." },
+      { "term": "Box Fill Calculation", "definition": "NEC 314.16 requires calculating cubic-inch volume for each wire, device, and clamp entering a box. Each 14 AWG conductor counts as 2 cu in; 12 AWG counts as 2.25 cu in." },
+      { "term": "Wire Color Codes (120/240V)", "definition": "Standard residential: black = hot (line 1), red = hot (line 2), white = neutral, green or bare = ground. White can be used as a hot for switch legs if re-identified with black tape." },
+      { "term": "Wire Color Codes (277/480V)", "definition": "Commercial three-phase: brown = phase A, orange = phase B, yellow = phase C, gray = neutral, green = ground. These colors distinguish high-voltage commercial wiring from residential." },
+      { "term": "Ampacity Derating", "definition": "When more than three current-carrying conductors are in a conduit, ampacity must be reduced per NEC Table 310.15(C)(1). Four to six conductors derate to 80%; seven to nine derate to 70%." },
+      { "term": "THHN Wire", "definition": "The most common building wire, rated for 90°C dry locations. It has a nylon jacket over PVC insulation and is used in conduit systems for commercial and residential wiring." },
+      { "term": "Cable Stapling Requirements", "definition": "NM cable must be stapled within 12 inches of a box and every 4.5 feet along the run. Cables running through framing holes are considered supported by the structure." }
+    ]
+  },
+  {
+    "chapter": "wiring",
+    "difficulty": "advanced",
+    "title": "Wiring Methods",
+    "subtitle": "NEC Articles 334 and 358, derating, temperature correction, and the 125% continuous load rule",
+    "points": [
+      { "term": "NEC Article 334 (NM Cable)", "definition": "Governs the use of nonmetallic-sheathed cable. NM cable is permitted in dry locations in one- and two-family dwellings but is prohibited in commercial buildings over three stories and in wet or corrosive locations." },
+      { "term": "NEC Article 358 (EMT)", "definition": "Covers electrical metallic tubing installation requirements. EMT must be supported every 10 feet and within 3 feet of every box or fitting; it can serve as the equipment grounding conductor." },
+      { "term": "Ambient Temperature Correction", "definition": "Conductor ampacity from NEC Table 310.16 is based on 30°C (86°F) ambient. When ambient exceeds 30°C, correction factors from Table 310.15(B)(1) must be applied to reduce the rated ampacity." },
+      { "term": "Continuous Load Rule (125%)", "definition": "Per NEC 210.19(A), branch circuit conductors must be sized at 125% of the continuous load (operating 3 hours or more). Overcurrent devices must also be rated at 125% of the continuous load." },
+      { "term": "Derating for Multiple Conductors", "definition": "NEC Table 310.15(C)(1) requires ampacity reduction when more than three current-carrying conductors share a conduit. Neutral conductors carrying only unbalanced current do not count toward this total." },
+      { "term": "NM Cable Wet Location Prohibition", "definition": "Standard NM-B cable is not permitted in wet or damp locations. Underground feeder (UF) cable is the approved substitute for direct burial and wet locations in residential applications." },
+      { "term": "Conduit Bending Rules", "definition": "No more than 360 degrees total of bends (four 90° bends) are permitted between pull points in a conduit run. This limit prevents excessive pulling tension that could damage wire insulation." },
+      { "term": "Raceway Fill — Chapter 9", "definition": "NEC Chapter 9 tables provide conduit dimensions and conductor cross-section areas needed to calculate fill percentages. Table 4 lists conduit areas; Table 5 lists conductor areas by type and size." },
+      { "term": "Cable Tray Wiring", "definition": "Cable tray is an open support system for cables in industrial and commercial buildings. Conductors must be listed for cable tray use (type TC or XHHW-2) and sized per NEC Article 392 ampacity tables." },
+      { "term": "Equipment Grounding via Conduit", "definition": "Metal conduit (EMT, IMC, rigid) listed for grounding can serve as the equipment grounding conductor per NEC 250.118. The conduit must be continuous with proper fittings throughout the run." }
+    ]
+  },
+  {
+    "chapter": "circuits",
+    "difficulty": "beginner",
+    "title": "Circuit Design",
+    "subtitle": "Branch circuits, feeders, panels, breakers, GFCI, AFCI, and standard residential circuits",
+    "points": [
+      { "term": "Branch Circuit", "definition": "The wiring from the last overcurrent protective device to the outlets or loads it serves. Branch circuits are the final distribution point before power reaches devices and fixtures." },
+      { "term": "Feeder", "definition": "The conductors between the service entrance (or a main panel) and the branch circuit overcurrent devices in a subpanel. Feeders carry power to multiple branch circuits." },
+      { "term": "Panelboard", "definition": "The distribution center containing circuit breakers or fuses that protect individual branch circuits. The main panel also contains the main breaker and the neutral/ground bus bars." },
+      { "term": "Circuit Breaker", "definition": "An automatic switching device that interrupts current flow when it exceeds the rated amperage, protecting wiring from overheating. Breakers can be reset after tripping, unlike fuses." },
+      { "term": "GFCI (Ground Fault Circuit Interrupter)", "definition": "A device that detects current leaking to ground (as little as 5 mA) and shuts off power within 1/40th of a second. GFCIs protect people from electrocution in wet locations." },
+      { "term": "AFCI (Arc Fault Circuit Interrupter)", "definition": "A breaker or receptacle that detects the electrical signature of arcing (a leading cause of house fires) and disconnects the circuit. AFCIs protect against wiring faults inside walls." },
+      { "term": "Dedicated Circuit", "definition": "A branch circuit that serves only one specific appliance or load and is not shared with any other outlets. Refrigerators, dishwashers, microwaves, and HVAC systems commonly require dedicated circuits." },
+      { "term": "20-Amp Branch Circuit", "definition": "A circuit protected by a 20A breaker with 12 AWG wire, required for kitchen counter outlets, bathroom outlets, and laundry circuits. Receptacles must be rated 20A or have a T-slot." },
+      { "term": "15-Amp Branch Circuit", "definition": "A circuit protected by a 15A breaker with 14 AWG wire, used for general lighting and standard outlet circuits in living areas, bedrooms, and hallways." },
+      { "term": "240-Volt Circuit", "definition": "A circuit using both hot legs from the panel (two 120V legs 180° out of phase) to supply 240V for high-power appliances like ranges, dryers, water heaters, and central air conditioners." }
+    ]
+  },
+  {
+    "chapter": "circuits",
+    "difficulty": "intermediate",
+    "title": "Circuit Design",
+    "subtitle": "Dwelling load calculations, kitchen/bath requirements, lighting loads, and appliance circuits",
+    "points": [
+      { "term": "General Lighting Load", "definition": "NEC Table 220.12 assigns 3 VA per square foot of dwelling floor area for general lighting and general-use receptacles. This is used to calculate the minimum service size for a residence." },
+      { "term": "Small Appliance Circuits", "definition": "NEC 210.11(C)(1) requires at least two 20A small appliance branch circuits for kitchen counter receptacles. These circuits serve the refrigerator, countertop appliances, and dining area." },
+      { "term": "Bathroom Circuit Requirement", "definition": "NEC 210.11(C)(3) requires at least one 20A circuit dedicated to bathroom receptacles. This circuit may serve multiple bathrooms but may not serve outlets outside the bathroom area." },
+      { "term": "Laundry Circuit", "definition": "NEC 210.11(C)(2) requires at least one 20A branch circuit for the laundry area receptacle. This circuit must not serve any other outlets." },
+      { "term": "Kitchen Receptacle Spacing", "definition": "NEC 210.52(C) requires receptacles at every countertop space wider than 12 inches, with outlets spaced so no point along the counter is more than 24 inches from a receptacle." },
+      { "term": "Dwelling Unit Load Calculation", "definition": "Service size is calculated by adding general lighting load (3 VA/sq ft), small appliance circuits (1,500 VA each), laundry (1,500 VA), and all fixed appliances, then applying demand factors per NEC 220." },
+      { "term": "Demand Factor for Ranges", "definition": "NEC Table 220.55 applies demand factors to reduce the calculated load for electric cooking appliances. A single 12 kW range is calculated at 8 kW; multiple ranges get increasing demand factor reductions." },
+      { "term": "Receptacle Spacing Rule", "definition": "NEC 210.52(A) requires receptacles in living areas so that no point along a wall is more than 6 feet from an outlet (measured horizontally). Any wall space 2 feet or wider requires an outlet." },
+      { "term": "GFCI Required Locations", "definition": "NEC 210.8 requires GFCI protection for all receptacles in bathrooms, garages, outdoors, crawl spaces, unfinished basements, kitchens within 6 feet of a sink, and boathouses." },
+      { "term": "AFCI Required Locations", "definition": "NEC 210.12 requires AFCI protection for all 120V, 15A and 20A branch circuits supplying outlets in dwelling unit bedrooms, living rooms, dining rooms, hallways, and most other areas." }
+    ]
+  },
+  {
+    "chapter": "circuits",
+    "difficulty": "advanced",
+    "title": "Circuit Design",
+    "subtitle": "NEC Article 220 load calcs, service sizing, panel schedules, and voltage drop calculations",
+    "points": [
+      { "term": "NEC Article 220 Load Calculations", "definition": "Article 220 provides the standard method for calculating branch circuit, feeder, and service loads in dwelling and commercial occupancies. It determines minimum conductor and service sizes." },
+      { "term": "Optional Calculation Method (220.83)", "definition": "NEC 220.83 provides a simplified optional load calculation for existing dwelling service upgrades. It uses 100% of the first 10 kVA and 40% of the remainder of all load combined." },
+      { "term": "Service Entrance Sizing", "definition": "Minimum service size is determined by NEC Article 220 load calculations. Most new homes require at least 200A service; the calculation must include heating/cooling loads and all major appliances." },
+      { "term": "Heating vs Cooling Load", "definition": "When both heating and cooling are present, only the larger load (heat or A/C) is included in the service calculation per NEC 220.60. Simultaneous operation is not assumed." },
+      { "term": "Voltage Drop — Branch Circuits", "definition": "NEC recommends (not requires) limiting voltage drop to 3% on branch circuits. Use the formula VD = (2 × K × I × L) / CM, where K is 12.9 for copper, I is current, L is one-way length, and CM is circular mils." },
+      { "term": "Voltage Drop — Feeder + Branch", "definition": "NEC recommends total voltage drop from service to outlet not exceed 5% (feeder + branch circuit combined). Exceeding this causes equipment inefficiency, overheating, and reduced motor life." },
+      { "term": "Panel Schedule", "definition": "A document listing every circuit in a panelboard: circuit number, breaker size, wire size, load description, and calculated load in amps or VA. Required for permit inspections and future maintenance." },
+      { "term": "Minimum Circuit Ampacity", "definition": "Conductor ampacity must be at least 125% of the continuous load plus 100% of the non-continuous load per NEC 210.19. The breaker must also be rated for this combined load." },
+      { "term": "Subpanel Feeder Sizing", "definition": "A subpanel feeder must be sized for the calculated load of all circuits it serves, with conductors rated at 125% of continuous loads. A separate equipment grounding conductor is required to the subpanel." },
+      { "term": "Circular Mils (CM)", "definition": "The unit used to measure wire cross-sectional area for voltage drop calculations. 12 AWG = 6,530 CM; 10 AWG = 10,380 CM; 8 AWG = 16,510 CM. Larger CM means less resistance and less voltage drop." }
+    ]
+  },
+  {
+    "chapter": "nec",
+    "difficulty": "beginner",
+    "title": "NEC Code Requirements",
+    "subtitle": "What the NEC is, how it's organized, code cycles, and why it exists",
+    "points": [
+      { "term": "NEC (National Electrical Code)", "definition": "NFPA 70, the National Electrical Code, is the standard for safe electrical installation in the United States. It is published by the National Fire Protection Association and updated every three years." },
+      { "term": "Purpose of the NEC", "definition": "The NEC's stated purpose is the practical safeguarding of persons and property from hazards arising from the use of electricity. It is not a design manual or instruction guide." },
+      { "term": "Code Adoption", "definition": "The NEC is a model code, not automatically law. Each state or local jurisdiction must adopt it through legislation. Some jurisdictions use older editions or add local amendments." },
+      { "term": "Code Cycle", "definition": "The NEC is revised and republished every three years (e.g., 2017, 2020, 2023). Revisions go through a public input process, committee review, and NFPA membership vote." },
+      { "term": "Articles", "definition": "The NEC is organized into articles, each covering a specific topic (e.g., Article 210 covers branch circuits, Article 250 covers grounding). Articles are numbered, not titled alphabetically." },
+      { "term": "AHJ (Authority Having Jurisdiction)", "definition": "The organization, office, or individual responsible for enforcing the NEC in a given location. The AHJ (usually the local building or electrical inspector) has final say on code interpretation." },
+      { "term": "Shall vs Should", "definition": "In the NEC, 'shall' indicates a mandatory requirement that must be followed. 'Should' indicates a recommendation that is advisory but not required." },
+      { "term": "Listed Equipment", "definition": "Equipment evaluated by a nationally recognized testing laboratory (NRTL) such as UL or ETL and found to meet applicable safety standards. The NEC generally requires listed equipment for all installations." },
+      { "term": "Labeled Equipment", "definition": "Equipment that carries a label, symbol, or mark from an NRTL confirming it meets safety standards. Labeling is the visible evidence that equipment has been listed." },
+      { "term": "Approved", "definition": "Per NEC Article 100, 'approved' means acceptable to the AHJ. Even listed equipment can be rejected if installed incorrectly; unlisted equipment can be approved if the AHJ deems it safe." }
+    ]
+  },
+  {
+    "chapter": "nec",
+    "difficulty": "intermediate",
+    "title": "NEC Code Requirements",
+    "subtitle": "Key NEC articles, working space requirements, and receptacle spacing rules",
+    "points": [
+      { "term": "Article 210 — Branch Circuits", "definition": "Covers branch circuit ratings, required circuits in dwellings, receptacle placement, and GFCI/AFCI requirements. This is one of the most frequently referenced articles on residential exams." },
+      { "term": "Article 220 — Load Calculations", "definition": "Provides methods for calculating branch circuit, feeder, and service loads. Exam problems on service sizing and conductor selection almost always reference Article 220." },
+      { "term": "Article 250 — Grounding and Bonding", "definition": "Covers all grounding and bonding requirements, including grounding electrode systems, equipment grounding conductor sizing, and main bonding jumper requirements." },
+      { "term": "Article 110 — Working Space", "definition": "NEC 110.26 requires a minimum 36-inch depth of clear working space in front of electrical equipment operating at 600V or less. The space must be 30 inches wide and headroom must be at least 6.5 feet." },
+      { "term": "Receptacle Spacing — 210.52(A)", "definition": "In dwelling unit living areas, receptacles must be placed so no point on a wall is more than 6 feet from an outlet. Walls 2 feet or wider must have at least one receptacle." },
+      { "term": "Article 230 — Services", "definition": "Covers service entrance conductors, service equipment, and service disconnecting means. A dwelling may have only one service entrance, with a maximum of six disconnecting means." },
+      { "term": "Article 240 — Overcurrent Protection", "definition": "Establishes requirements for fuses and circuit breakers protecting conductors and equipment. Overcurrent devices must be rated to protect the conductors they serve." },
+      { "term": "Article 300 — Wiring Methods General Requirements", "definition": "Covers common installation requirements for all wiring methods: protection from damage, securing and support, fill limitations, and wet location requirements." },
+      { "term": "Article 410 — Luminaires (Lighting Fixtures)", "definition": "Covers installation requirements for lighting fixtures, including clearances from combustibles, insulation contact ratings (IC vs non-IC), and recessed fixture requirements." },
+      { "term": "Tamper-Resistant Receptacles", "definition": "NEC 406.12 requires tamper-resistant receptacles in all areas of dwelling units. These have spring-loaded shutters that only open when both slots are pressed simultaneously, protecting children." }
+    ]
+  },
+  {
+    "chapter": "nec",
+    "difficulty": "advanced",
+    "title": "NEC Code Requirements",
+    "subtitle": "NEC calculations, conduit fill tables, ampacity tables, overcurrent protection, and tap rules",
+    "points": [
+      { "term": "Table 310.16 — Ampacity Table", "definition": "The primary conductor ampacity table for conductors in raceway, cable, or earth. Values are based on three current-carrying conductors at 60°C, 75°C, or 90°C, with 30°C ambient. Always check temperature rating of terminals before using 90°C column." },
+      { "term": "Chapter 9 Tables — Conduit Fill", "definition": "Table 4 lists conduit dimensions and total usable area; Table 5 lists conductor cross-sectional areas. Divide conductor areas by conduit area to get fill percentage, then compare to 40% limit (3+ wires)." },
+      { "term": "Overcurrent Protection Sizing", "definition": "Conductors must be protected at their ampacity per NEC 240.4. The next higher standard breaker size is allowed only if the conductor ampacity does not correspond to a standard size and the load is not more than 800A." },
+      { "term": "Tap Rules — NEC 240.21", "definition": "Tap conductors (smaller wires tapped from a larger feeder without an overcurrent device at the tap point) are allowed under specific NEC 240.21 rules: 10-foot tap, 25-foot tap, or transformer secondary tap rules apply." },
+      { "term": "10-Foot Tap Rule", "definition": "Tap conductors up to 10 feet long are permitted if the tap ampacity is at least 1/10 of the upstream overcurrent device rating and the tap terminates in a single breaker or fused switch." },
+      { "term": "25-Foot Tap Rule", "definition": "Tap conductors up to 25 feet long are permitted if the tap conductor ampacity is at least 1/3 of the upstream overcurrent device and terminates in a single circuit breaker or set of fuses." },
+      { "term": "NEC 110.14 — Terminal Ratings", "definition": "Most equipment terminals are rated 60°C or 75°C. Even if using 90°C wire (THHN), the ampacity must be taken from the 60°C or 75°C column to match the terminal rating of the connected equipment." },
+      { "term": "NEC 230.79 — Service Disconnect Rating", "definition": "A one-family dwelling must have a service disconnecting means rated at least 100 amps, 3-wire. This is the minimum even if the calculated load is less." },
+      { "term": "Feeder Tap in Existing Panel", "definition": "All conductors must be protected at their point of supply. New circuits added to an existing panel must have the correct wire size for the breaker being installed; upsizing the breaker to match old wire is a code violation." },
+      { "term": "NEC 240.6 — Standard Breaker Sizes", "definition": "Standard ampere ratings for fuses and circuit breakers are: 15, 20, 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100, 110, 125, 150, 175, 200, 225, 250, 300, 350, 400A and above." }
+    ]
+  },
+  {
+    "chapter": "motors",
+    "difficulty": "beginner",
+    "title": "Motors & Controls",
+    "subtitle": "What motors, starters, overloads, and VFDs are — and how to read a nameplate",
+    "points": [
+      { "term": "Electric Motor", "definition": "A device that converts electrical energy into mechanical rotating energy. Motors are used to drive pumps, fans, compressors, conveyors, and countless other industrial machines." },
+      { "term": "Motor Nameplate", "definition": "The data plate on a motor listing voltage, full-load amps (FLA), horsepower (HP), RPM, service factor, frame size, and efficiency. Nameplate data is the basis for all NEC Article 430 calculations." },
+      { "term": "Full-Load Current (FLC)", "definition": "The current a motor draws when operating at its rated horsepower and voltage. NEC Article 430 tables list standard FLC values used for sizing conductors and overcurrent protection — not nameplate FLA." },
+      { "term": "Motor Starter", "definition": "A combination of a contactor and overload relay used to start, stop, and protect a motor. The contactor is an electrically operated switch; the overload relay protects against sustained overcurrent." },
+      { "term": "Overload Relay", "definition": "A protective device in a motor starter that trips when motor current exceeds a set threshold for a sustained period, protecting the motor windings from heat damage. It must be manually reset after tripping." },
+      { "term": "VFD (Variable Frequency Drive)", "definition": "An electronic device that controls motor speed by varying the frequency and voltage of the power supplied to the motor. VFDs improve energy efficiency and allow smooth speed control." },
+      { "term": "Single-Phase Motor", "definition": "A motor that runs on single-phase AC power, typically found in residential appliances, small pumps, and tools. Single-phase motors require starting capacitors or windings because they are not self-starting." },
+      { "term": "Three-Phase Motor", "definition": "A motor that runs on three-phase AC power. Three-phase motors are self-starting, more efficient, and more powerful than single-phase motors of the same size. They are standard in commercial and industrial use." },
+      { "term": "Service Factor (SF)", "definition": "A multiplier on the nameplate indicating how much the motor can be overloaded continuously without damage. An SF of 1.15 means the motor can run at 115% of rated load under rated conditions." },
+      { "term": "HP (Horsepower)", "definition": "The rated mechanical output of a motor. One horsepower equals 746 watts. Motor circuit sizing is based on full-load current from NEC tables rather than horsepower directly." }
+    ]
+  },
+  {
+    "chapter": "motors",
+    "difficulty": "intermediate",
+    "title": "Motors & Controls",
+    "subtitle": "Motor protection sizing, starter types, overload relays, and motor circuit components",
+    "points": [
+      { "term": "Motor Branch Circuit Conductor Size", "definition": "Per NEC 430.22, branch circuit conductors for a single motor must be rated at least 125% of the motor's full-load current (FLC) from NEC Article 430 tables, not from the nameplate." },
+      { "term": "Motor Overcurrent Protection (125% Rule)", "definition": "NEC 430.52 requires inverse-time breakers to be sized at no more than 250% of FLC, and fuses at no more than 175% of FLC. The larger rating allows the motor to start without tripping." },
+      { "term": "Overload Protection Sizing", "definition": "Motor overloads must be sized at 115-125% of the nameplate full-load amps (FLA) per NEC 430.32. If the motor fails to start at this setting, the size may be increased to a maximum of 140%." },
+      { "term": "Across-the-Line Starter", "definition": "The simplest motor starting method, applying full voltage directly to the motor at startup. It causes high inrush current (typically 6-8x FLC) and mechanical shock, acceptable for smaller motors." },
+      { "term": "Reduced Voltage Starter", "definition": "A starting method that limits inrush current by applying reduced voltage at start, then switching to full voltage. Types include auto-transformer, wye-delta, and soft-starter electronic controllers." },
+      { "term": "Thermal Overload Relay", "definition": "A bimetallic strip or eutectic alloy relay that trips when heat (from prolonged overcurrent) causes it to deform. It must be selected to match the motor's FLA and ambient temperature." },
+      { "term": "Electronic Overload Relay", "definition": "A solid-state overload relay that measures current electronically and can be programmed for different motor types, trip classes, and ambient compensation. More accurate and flexible than thermal relays." },
+      { "term": "Motor Disconnect", "definition": "NEC 430.102 requires a motor disconnect within sight of the motor (within 50 feet and visible). It must be able to be locked in the open position and rated for the motor's FLC." },
+      { "term": "Motor Control Circuit", "definition": "The low-voltage wiring (typically 120V or 24V) that operates contactors and starters via pushbuttons, pilot devices, and relays. Motor control circuits are separate from the power circuit to the motor." },
+      { "term": "Combination Starter", "definition": "A factory-assembled unit containing a disconnect, short-circuit protection (fuses or breaker), and motor starter in one enclosure. It simplifies installation and ensures all components are properly coordinated." }
+    ]
+  },
+  {
+    "chapter": "motors",
+    "difficulty": "advanced",
+    "title": "Motors & Controls",
+    "subtitle": "NEC Article 430 calculations, feeder sizing for multiple motors, VFD bypass, and MCC layout",
+    "points": [
+      { "term": "NEC Article 430 Overview", "definition": "Article 430 covers all aspects of motor circuits: conductors, short-circuit protection, controllers, disconnects, and overload protection. It is one of the most complex articles and frequently tested on journeyman and master exams." },
+      { "term": "Branch Circuit Protection — Table 430.52", "definition": "Provides maximum overcurrent device ratings as a percentage of FLC for different motor types and protective device types. Example: a squirrel cage motor may use an inverse-time breaker at up to 250% of FLC." },
+      { "term": "Feeder Sizing for Multiple Motors", "definition": "Per NEC 430.24, the feeder must be sized at 125% of the largest motor's FLC plus the sum of FLCs of all other motors. This accounts for the starting load of the largest motor." },
+      { "term": "Largest Motor Rule (Feeder Protection)", "definition": "Per NEC 430.62, the feeder overcurrent device must not exceed the rating of the largest branch circuit protective device plus the sum of FLCs for all other motors on the feeder." },
+      { "term": "VFD Input Conductor Sizing", "definition": "Conductors from the panelboard to a VFD are sized at 125% of the VFD's input current rating, not the motor FLC, per NEC 430.122. The VFD itself provides motor overload protection." },
+      { "term": "VFD Bypass Wiring", "definition": "A VFD bypass allows the motor to run across-the-line if the VFD fails. The bypass circuit must have its own motor starter and overload protection; the VFD and bypass must be interlocked to prevent simultaneous operation." },
+      { "term": "Motor Control Center (MCC)", "definition": "A factory-built assembly of individual motor starters in a common enclosure with a main bus. MCCs organize and simplify motor control in industrial facilities with multiple motor loads." },
+      { "term": "MCC Bus Ratings", "definition": "MCC main bus bars are rated in amps (200A to 4000A+) and must be sized for the total connected motor load including the largest motor starting inrush. Short-circuit current rating (SCCR) must match available fault current." },
+      { "term": "Trip Class", "definition": "A rating for overload relays indicating how quickly they trip at a given overcurrent level. Class 10 trips in 10 seconds at 600% FLC (fast, for hermetic compressors); Class 20 trips in 20 seconds (standard motors); Class 30 for hard-to-start loads." },
+      { "term": "Motor Efficiency and NEMA Premium", "definition": "NEMA Premium efficiency motors meet minimum efficiency standards by motor HP and speed. High-efficiency motors reduce energy costs and generate less heat, extending motor life and reducing cooling loads." }
+    ]
+  },
+  {
+    "chapter": "elec-safety",
+    "difficulty": "beginner",
+    "title": "Safety & Grounding",
+    "subtitle": "GFCI, AFCI, grounding, and bonding — what they are and how they protect people",
+    "points": [
+      { "term": "Ground Fault", "definition": "An unintended current path from a live conductor to ground, such as through a person's body or a faulty appliance. Ground faults can cause electrocution and fires." },
+      { "term": "GFCI (Ground Fault Circuit Interrupter)", "definition": "A device that continuously monitors current balance between hot and neutral conductors and trips within 1/40 second when it detects a leakage of as little as 5 milliamps. GFCIs protect people from lethal shock." },
+      { "term": "Arc Fault", "definition": "An unintended electrical discharge through air between conductors or from a conductor to ground, generating intense heat. Arc faults in walls are a leading cause of residential electrical fires." },
+      { "term": "AFCI (Arc Fault Circuit Interrupter)", "definition": "A circuit breaker or receptacle that detects the unique electrical signature of arcing and disconnects the circuit to prevent fires. AFCIs are required in most rooms of new dwellings." },
+      { "term": "Grounding", "definition": "Connecting the electrical system's neutral and equipment enclosures to the earth via grounding electrodes. Grounding stabilizes system voltage and provides a path for fault current to operate overcurrent devices." },
+      { "term": "Bonding", "definition": "Connecting all metallic components (pipes, conduit, equipment enclosures) together and to the grounding system so they are at the same electrical potential. Bonding prevents shock from voltage differences between metal parts." },
+      { "term": "Equipment Grounding Conductor (EGC)", "definition": "The green or bare conductor in a cable or conduit that connects equipment enclosures to the panel ground bus. During a fault, it provides a low-impedance return path to trip the overcurrent device." },
+      { "term": "Grounding Electrode", "definition": "A metal rod, plate, or conductor driven into or buried in the earth to establish the electrical ground reference. Common electrodes include ground rods (8-foot copper-clad steel) and concrete-encased electrodes (Ufer grounds)." },
+      { "term": "Why GFCIs Are Required", "definition": "Most electrocution deaths occur in wet locations where ground faults can occur through a person's body. GFCIs are required near sinks, in bathrooms, garages, outdoors, and other wet areas to prevent these deaths." },
+      { "term": "Neutral vs Ground", "definition": "The neutral carries return current from loads back to the source; the ground carries fault current only. They are bonded together only at the main panel — separating them at subpanels is required by NEC 250." }
+    ]
+  },
+  {
+    "chapter": "elec-safety",
+    "difficulty": "intermediate",
+    "title": "Safety & Grounding",
+    "subtitle": "Grounding electrode systems, EGC sizing, and GFCI/AFCI location requirements",
+    "points": [
+      { "term": "Grounding Electrode System (GES)", "definition": "The network of all electrodes present at a building (ground rods, water pipe, structural steel, concrete-encased electrode) connected together per NEC 250.50. All available electrodes must be bonded together." },
+      { "term": "Ground Rod Requirement", "definition": "NEC 250.53 requires at least two ground rods spaced at least 6 feet apart unless a single rod achieves 25 ohms or less resistance to earth. Two rods are required regardless of resistance in most installations." },
+      { "term": "Concrete-Encased Electrode (Ufer Ground)", "definition": "A 20-foot or more length of 1/2-inch steel rebar or 4 AWG copper wire encased in concrete footing at or below grade. Ufer grounds are highly effective because concrete absorbs moisture and maintains good earth contact." },
+      { "term": "Equipment Grounding Conductor Sizing", "definition": "EGC sizing is based on the rating of the overcurrent device protecting the circuit per NEC Table 250.122. For example, a 20A circuit requires a minimum 12 AWG copper EGC; a 100A circuit requires 8 AWG." },
+      { "term": "Grounding Electrode Conductor (GEC)", "definition": "The conductor connecting the grounding electrode system to the neutral bus in the main panel. Sizing is based on the service entrance conductor size per NEC Table 250.66." },
+      { "term": "Main Bonding Jumper", "definition": "The conductor or strap connecting the neutral bus to the equipment grounding bus in the main service panel. This is the only point where neutral and ground are intentionally connected in the system." },
+      { "term": "Separate Building Subpanel Grounding", "definition": "NEC 250.32 requires a separate grounding electrode system at a detached building fed by a subpanel. The neutral and ground buses must be separated (isolated neutral) in the subpanel." },
+      { "term": "GFCI Required Locations (NEC 210.8)", "definition": "GFCI protection is required in bathrooms, garages, outdoors, crawl spaces (grade level and above), unfinished basements, boat houses, kitchen receptacles within 6 feet of a sink, and dishwasher outlets." },
+      { "term": "AFCI Required Locations (NEC 210.12)", "definition": "AFCI protection is required for all 15A and 20A, 120V branch circuits supplying outlets in dwelling unit bedrooms, living rooms, parlors, libraries, dens, sunrooms, recreation rooms, closets, and hallways." },
+      { "term": "Bonding Jumper for Metal Piping", "definition": "NEC 250.104 requires that metal water piping systems and structural metal frames be bonded to the grounding electrode system. The bonding jumper must be sized per NEC Table 250.66 based on service conductor size." }
+    ]
+  },
+  {
+    "chapter": "elec-safety",
+    "difficulty": "advanced",
+    "title": "Safety & Grounding",
+    "subtitle": "NEC Article 250, fault path impedance, lockout/tagout, arc flash, and NFPA 70E PPE",
+    "points": [
+      { "term": "NEC Article 250 — Grounding and Bonding", "definition": "The comprehensive NEC article covering all grounding and bonding requirements. Key sections: 250.50 (GES), 250.52 (electrodes), 250.66 (GEC sizing), 250.102 (bonding conductors), 250.118 (EGC types), 250.122 (EGC sizing)." },
+      { "term": "Ground Fault Path Impedance", "definition": "For a ground fault to clear, the fault current path must have low enough impedance to operate the overcurrent device quickly. NEC 250.4(A)(5) requires the fault path be capable of carrying the fault current safely to clear the device." },
+      { "term": "Low-Impedance Fault Path", "definition": "The effectiveness of equipment grounding depends on a continuous, low-impedance path back to the source. Loose conduit fittings, broken EGCs, or improper connections increase impedance and slow fault clearing." },
+      { "term": "Lockout/Tagout (LOTO)", "definition": "OSHA 29 CFR 1910.147 requires that energy sources be de-energized and physically locked out before work begins on electrical equipment. Tagout alone (no lock) is only permitted where locking is physically impossible." },
+      { "term": "Energized Electrical Work Permit", "definition": "NFPA 70E 130.2 requires a written energized work permit before working on exposed energized conductors over 50V. The permit must document justification, hazards, PPE required, and precautions." },
+      { "term": "Arc Flash Boundary", "definition": "The distance from an arc fault source at which a worker could receive a second-degree burn if unprotected. Calculated per NFPA 70E or IEEE 1584 based on system voltage, available fault current, and clearing time." },
+      { "term": "NFPA 70E PPE Categories", "definition": "NFPA 70E Table 130.5(G) assigns PPE categories (1-4) based on arc flash incident energy. Category 1 (4 cal/cm²) requires FR shirt and pants; Category 4 (40 cal/cm²) requires a full arc flash suit." },
+      { "term": "Incident Energy", "definition": "The amount of thermal energy (in calories per square centimeter) that would be delivered to a worker's face and chest at a working distance during an arc flash event. PPE arc rating must exceed the calculated incident energy." },
+      { "term": "Flash Protection Boundary", "definition": "The outer boundary where unprotected workers must stay during energized work. Workers inside this boundary must wear appropriate arc-rated PPE matched to the calculated incident energy level." },
+      { "term": "Verified De-Energization", "definition": "NFPA 70E requires that after opening a disconnect and applying a lock, the absence of voltage must be verified with a CAT-III or CAT-IV rated voltmeter before touching any conductors. Test before you touch — always." }
+    ]
+  },
+  {
+    "chapter": "transformers",
+    "difficulty": "beginner",
+    "title": "Transformers & Power Distribution",
+    "subtitle": "What transformers do, step-up vs step-down, kVA ratings, and common voltages",
+    "points": [
+      { "term": "Transformer", "definition": "An electromagnetic device that transfers electrical energy between two circuits through magnetic induction, changing voltage levels in the process. Transformers only work with AC, not DC." },
+      { "term": "Primary Winding", "definition": "The input coil of a transformer that receives power from the source. The voltage applied to the primary creates a magnetic field in the core that induces voltage in the secondary winding." },
+      { "term": "Secondary Winding", "definition": "The output coil of a transformer that delivers power to the load. The secondary voltage is determined by the turns ratio between the primary and secondary windings." },
+      { "term": "Turns Ratio", "definition": "The ratio of primary turns to secondary turns in a transformer, which determines the voltage ratio. A 10:1 turns ratio steps voltage down by 10 (e.g., 480V primary becomes 48V secondary)." },
+      { "term": "Step-Down Transformer", "definition": "A transformer with more primary turns than secondary turns, resulting in a lower output voltage. Utility distribution transformers are step-down transformers that reduce 4,160V to 120/240V." },
+      { "term": "Step-Up Transformer", "definition": "A transformer with fewer primary turns than secondary turns, resulting in a higher output voltage. Power plants use step-up transformers to increase generator voltage to transmission line levels (115kV–765kV)." },
+      { "term": "kVA (Kilovolt-Amperes)", "definition": "The apparent power rating of a transformer, equal to 1,000 volt-amperes. Transformer capacity is rated in kVA rather than kW because the transformer must handle the total current regardless of power factor." },
+      { "term": "Common Voltages — 120V", "definition": "Standard voltage for most residential receptacles and lighting in North America, derived from the center-tapped 120/240V single-phase service." },
+      { "term": "Common Voltages — 208V", "definition": "Line-to-line voltage in a 120/208V three-phase wye system, common in commercial buildings. It is derived from the 120V phase-to-neutral voltage (120 × √3 ≈ 208V)." },
+      { "term": "Common Voltages — 277/480V", "definition": "Phase-to-neutral / line-to-line voltages in a 277/480V three-phase wye system, standard for commercial and industrial lighting (277V) and motor loads (480V)." }
+    ]
+  },
+  {
+    "chapter": "transformers",
+    "difficulty": "intermediate",
+    "title": "Transformers & Power Distribution",
+    "subtitle": "Transformer sizing, single vs three phase, buck-boost applications, and voltage tap adjustment",
+    "points": [
+      { "term": "Transformer kVA Sizing Formula", "definition": "kVA = (V × A) / 1,000 for single-phase, or kVA = (V × A × √3) / 1,000 for three-phase. Size a transformer at or above the calculated load kVA to prevent overheating." },
+      { "term": "Single-Phase Transformer", "definition": "A transformer with one primary and one secondary winding. Standard residential transformers are single-phase, providing 120/240V from a center-tapped secondary for both 120V and 240V loads." },
+      { "term": "Three-Phase Transformer", "definition": "A transformer (or bank of three single-phase transformers) serving three-phase loads. Common connections are delta-wye (480V to 208/120V) for commercial distribution and wye-delta for industrial drives." },
+      { "term": "Transformer Efficiency", "definition": "Power transformers typically operate at 95-99% efficiency. Losses occur as core losses (hysteresis and eddy currents in the iron core) and copper losses (I²R heat in the windings)." },
+      { "term": "Buck-Boost Transformer", "definition": "A small autotransformer used to raise (boost) or lower (buck) line voltage by a small percentage (5-20%). Common uses include correcting slightly low voltage on long runs or matching non-standard equipment voltages." },
+      { "term": "Voltage Taps", "definition": "Connections on the primary winding at 2.5% or 5% intervals above and below the rated voltage, allowing the transformer output to be adjusted for supply voltage variations. Tap changes require de-energizing the transformer." },
+      { "term": "Full Load Amps — Single Phase", "definition": "FLA = kVA × 1,000 / V. A 25 kVA, 240V single-phase transformer has a secondary FLA of 25,000 / 240 = 104.2A. The primary FLA at 480V would be 25,000 / 480 = 52.1A." },
+      { "term": "Full Load Amps — Three Phase", "definition": "FLA = kVA × 1,000 / (V × √3). A 75 kVA, 208V three-phase transformer has a secondary FLA of 75,000 / (208 × 1.732) = 208A. This is the conductor and overcurrent sizing basis." },
+      { "term": "Dry-Type vs Liquid-Filled Transformer", "definition": "Dry-type transformers use air cooling and are suitable for indoor installations. Liquid-filled (oil or silicone) transformers are more efficient for large kVA ratings but require containment and are typically outdoor." },
+      { "term": "Inrush Current", "definition": "A large momentary current surge (up to 10-12 times rated current) when a transformer is first energized. Overcurrent protective devices must be sized to allow this inrush without tripping." }
+    ]
+  },
+  {
+    "chapter": "transformers",
+    "difficulty": "advanced",
+    "title": "Transformers & Power Distribution",
+    "subtitle": "Three-phase connections, kVA sizing calculations, impedance, switchgear, and NEC 450",
+    "points": [
+      { "term": "Delta-Wye Connection", "definition": "The most common three-phase transformer connection for distribution: delta primary (no neutral, phase-to-phase), wye secondary (neutral available, phase-to-neutral loads served). Used for 480V-to-208/120V step-down." },
+      { "term": "Wye-Delta Connection", "definition": "Used for motor drive feeders where a neutral is available at the source but not needed at the load. The wye primary accepts line-to-neutral connections; the delta secondary provides line-to-line voltage only." },
+      { "term": "Delta-Delta Connection", "definition": "Both primary and secondary are delta-connected; no neutral is available on either side. Used in older industrial installations. An open-delta bank can be operated with only two transformers at 57.7% of full capacity." },
+      { "term": "Impedance Percentage (%Z)", "definition": "A nameplate value expressing transformer internal impedance as a percentage of rated impedance. A 5% impedance transformer limits fault current on the secondary to 20x rated current (1/0.05). Lower %Z means higher fault current." },
+      { "term": "Fault Current Calculation", "definition": "Available short-circuit current at transformer secondary = (kVA × 1,000) / (%Z × V × √3) for three-phase. This value determines the required interrupting rating (AIR) of downstream overcurrent devices." },
+      { "term": "NEC Article 450 — Transformers", "definition": "Covers installation requirements for transformers over 600V and 600V and below. Key sections include 450.3 (overcurrent protection), 450.9 (ventilation), 450.13 (accessibility), and 450.14 (disconnecting means)." },
+      { "term": "Transformer Overcurrent Protection — NEC 450.3(B)", "definition": "For dry-type transformers 600V and below with primary protection only: primary OCPD must not exceed 125% of rated primary current for conductors rated 9A or more, or 167% for smaller conductors." },
+      { "term": "Transformer Secondary Protection", "definition": "When a separate secondary overcurrent device is provided, it must be rated no more than 125% of the transformer's rated secondary current. This allows primary-only protection in some configurations." },
+      { "term": "Switchgear vs Switchboard", "definition": "Switchgear uses draw-out breakers in individual metal-enclosed compartments, rated for higher short-circuit currents (up to 85,000A+ AIR) and used in utility and large industrial applications. Switchboards have exposed busbars and lower ratings, used in commercial buildings." },
+      { "term": "Transformer Nameplate kVA Derating", "definition": "Transformers must be derated for high ambient temperature and altitude. Above 40°C ambient, deduct 1% per degree; above 3,300 feet altitude, ventilation decreases, requiring derating of 0.3% per 330 feet above that level." }
+    ]
+  }
+]
