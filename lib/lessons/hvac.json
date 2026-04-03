@@ -1,0 +1,870 @@
+[
+  {
+    "chapter": "heating",
+    "difficulty": "beginner",
+    "title": "Heating Systems",
+    "subtitle": "Core equipment types and how they produce heat",
+    "points": [
+      {
+        "term": "Furnace",
+        "definition": "A forced-air heating appliance that burns fuel (natural gas, propane, or oil) or uses electric resistance to heat air, which is then distributed through ductwork. It is the most common heating system in North America."
+      },
+      {
+        "term": "Boiler",
+        "definition": "A heating appliance that heats water (or produces steam) and circulates it through pipes to radiators, baseboard convectors, or radiant floor tubing. Boilers heat spaces through radiant and convective heat transfer rather than forced air."
+      },
+      {
+        "term": "Heat Pump",
+        "definition": "A device that moves heat from one place to another using refrigerant rather than generating heat by combustion. In heating mode it extracts heat energy from outdoor air (or the ground) and transfers it indoors."
+      },
+      {
+        "term": "Radiant Heat",
+        "definition": "A heating method that warms objects and people directly through infrared radiation rather than warming the air first. Common examples include in-floor hydronic tubing and electric radiant panels."
+      },
+      {
+        "term": "BTU (British Thermal Unit)",
+        "definition": "The standard unit used to measure heating and cooling capacity. One BTU is the amount of energy required to raise one pound of water by one degree Fahrenheit."
+      },
+      {
+        "term": "BTU/h",
+        "definition": "BTUs per hour — the rate at which a heating appliance produces heat. A typical residential furnace is rated between 40,000 and 120,000 BTU/h."
+      },
+      {
+        "term": "Thermostat",
+        "definition": "A control device that monitors indoor temperature and signals heating or cooling equipment to turn on or off to maintain the desired setpoint. Modern smart thermostats can be programmed and controlled remotely."
+      },
+      {
+        "term": "Heat Exchanger",
+        "definition": "The component inside a furnace that separates combustion gases from the indoor airstream. Hot combustion gases heat the metal walls of the exchanger, and indoor air picks up that heat as it passes over the outside surface."
+      },
+      {
+        "term": "Plenum",
+        "definition": "The sheet metal chamber attached directly to the furnace where conditioned air collects before being distributed through supply ducts. The supply plenum is on the outlet side; the return plenum is on the inlet side."
+      },
+      {
+        "term": "AFUE (Annual Fuel Utilization Efficiency)",
+        "definition": "A percentage rating that measures how efficiently a furnace or boiler converts fuel to heat over a full heating season. An 80% AFUE furnace converts 80 cents of every fuel dollar into usable heat."
+      }
+    ]
+  },
+  {
+    "chapter": "heating",
+    "difficulty": "intermediate",
+    "title": "Heating Systems",
+    "subtitle": "Furnace staging, heat pump operation, efficiency ratings, and sizing",
+    "points": [
+      {
+        "term": "Single-Stage Furnace",
+        "definition": "A furnace that operates only at 100% capacity whenever it runs. It cycles on and off frequently in mild weather, which can cause temperature swings and reduced comfort."
+      },
+      {
+        "term": "Two-Stage Furnace",
+        "definition": "A furnace with two firing rates — typically 65% and 100% of full capacity. It runs at the lower stage during mild conditions for longer, steadier cycles and switches to high fire only on the coldest days."
+      },
+      {
+        "term": "Modulating Furnace",
+        "definition": "A furnace that continuously adjusts its firing rate (typically 40–100%) to match the exact heat load of the home. This delivers the most consistent temperature, highest efficiency, and quietest operation."
+      },
+      {
+        "term": "Reversing Valve",
+        "definition": "A solenoid-operated valve in a heat pump that switches the direction of refrigerant flow, allowing the system to operate in either heating or cooling mode. The valve is typically energized in cooling mode."
+      },
+      {
+        "term": "Balance Point",
+        "definition": "The outdoor temperature at which a heat pump's output exactly matches the building's heat loss. Below this point (commonly 25–35°F), supplemental electric strip heat or a backup furnace is needed."
+      },
+      {
+        "term": "AFUE 80 vs 90+ Rating",
+        "definition": "80% AFUE furnaces vent combustion gases through a metal flue and are considered mid-efficiency. Furnaces rated 90% AFUE or higher are high-efficiency condensing units that vent through PVC pipe because exhaust temperatures are cool enough to condense water vapor."
+      },
+      {
+        "term": "Manual J Load Calculation",
+        "definition": "The industry-standard method (ACCA Manual J) for calculating a home's heating and cooling load. It accounts for insulation, window area, climate, and occupancy to determine the correct equipment size in BTU/h."
+      },
+      {
+        "term": "Oversizing Consequences",
+        "definition": "An oversized furnace or boiler short-cycles (runs briefly and shuts off), causing temperature swings, increased wear, higher fuel consumption, and poor humidity control in winter."
+      },
+      {
+        "term": "Condensate Neutralizer",
+        "definition": "A device used with high-efficiency (condensing) furnaces to raise the pH of acidic condensate before it enters the drain. Condensate from a 90%+ furnace can have a pH as low as 3 and can corrode standard floor drains."
+      },
+      {
+        "term": "Dual-Fuel System",
+        "definition": "A hybrid heating system that pairs a heat pump with a gas furnace. The heat pump handles mild-weather heating efficiently, while the furnace automatically takes over when outdoor temperatures drop below the balance point."
+      }
+    ]
+  },
+  {
+    "chapter": "heating",
+    "difficulty": "advanced",
+    "title": "Heating Systems",
+    "subtitle": "Combustion air, venting categories, heat loss calculations, and gas systems",
+    "points": [
+      {
+        "term": "Combustion Air Requirements",
+        "definition": "Gas appliances require a minimum volume of indoor air or dedicated outside air openings for safe combustion. The IMC requires one square inch of free opening per 1,000 BTU/h for appliances in a confined space drawing from inside the structure."
+      },
+      {
+        "term": "Venting Category I",
+        "definition": "Applies to appliances with a non-positive vent pressure and flue gas temperatures high enough to prevent condensation. Category I appliances vent through listed Type B double-wall metal vent pipe and include most 80% AFUE furnaces."
+      },
+      {
+        "term": "Venting Category II",
+        "definition": "Applies to appliances with a non-positive vent pressure where condensation may occur. Category II venting is uncommon for furnaces but applies to some boilers."
+      },
+      {
+        "term": "Venting Category III",
+        "definition": "Applies to appliances with positive vent pressure and flue temperatures high enough to avoid condensation. Category III systems require pressure-tight, corrosion-resistant vent material because the positive pressure would push flue gases out of joints."
+      },
+      {
+        "term": "Venting Category IV",
+        "definition": "Applies to appliances with positive vent pressure where condensation occurs — this category covers most 90%+ condensing furnaces. Category IV appliances vent through listed PVC, CPVC, or polypropylene piping to protect against condensate corrosion."
+      },
+      {
+        "term": "Heat Loss Calculation",
+        "definition": "A room-by-room calculation (per ACCA Manual J) that determines the rate at which a structure loses heat to the outdoors. Inputs include wall U-values, window area, infiltration rate, and design outdoor temperature (usually 99% heating design temperature from ACCA Manual J data)."
+      },
+      {
+        "term": "Gas Inlet Pressure",
+        "definition": "The gas pressure measured at the appliance inlet before the gas valve. Natural gas furnaces typically require 5–7 inches of water column (in. WC) inlet pressure; LP furnaces require 11–14 in. WC. Low inlet pressure causes incomplete combustion and poor ignition."
+      },
+      {
+        "term": "Manifold Gas Pressure",
+        "definition": "The gas pressure measured downstream of the gas valve at the burner manifold. Typical natural gas manifold pressure is 3.5 in. WC; LP is 10 in. WC. Manifold pressure is adjusted with the gas valve regulator and affects firing rate and flame appearance."
+      },
+      {
+        "term": "Hot Surface Igniter (HSI)",
+        "definition": "The most common ignition system on modern gas furnaces. A silicon carbide or silicon nitride element heats to approximately 1,800°F when energized, igniting the gas. HSI elements are fragile and must never be touched with bare hands."
+      },
+      {
+        "term": "Induced Draft vs Natural Draft",
+        "definition": "Natural draft appliances rely on the buoyancy of hot flue gases to create draft. Induced draft furnaces use a draft inducer blower to pull combustion gases through the heat exchanger and push them out the flue, allowing more controlled combustion and longer heat exchanger runs."
+      },
+      {
+        "term": "Carbon Monoxide (CO) and Cracked Heat Exchangers",
+        "definition": "A cracked or failing heat exchanger allows combustion gases including CO to enter the supply airstream. CO is odorless and potentially fatal. Technicians must inspect heat exchangers visually, with a combustion analyzer at the supply registers, and with tracer smoke when cracking is suspected."
+      }
+    ]
+  },
+  {
+    "chapter": "cooling",
+    "difficulty": "beginner",
+    "title": "Cooling Systems",
+    "subtitle": "Core components, the refrigeration cycle, and SEER basics",
+    "points": [
+      {
+        "term": "Compressor",
+        "definition": "The heart of the refrigeration system, located in the outdoor unit. It compresses low-pressure refrigerant vapor into high-pressure, high-temperature vapor, driving refrigerant circulation through the system."
+      },
+      {
+        "term": "Condenser Coil",
+        "definition": "The outdoor coil where hot refrigerant vapor releases heat to the outside air and changes from a vapor to a high-pressure liquid. The condenser fan pulls outdoor air across the coil to remove heat."
+      },
+      {
+        "term": "Evaporator Coil",
+        "definition": "The indoor coil where low-pressure liquid refrigerant absorbs heat from indoor air and evaporates into a vapor, cooling and dehumidifying the air. It sits above the furnace or air handler in the supply plenum."
+      },
+      {
+        "term": "Refrigerant",
+        "definition": "The working fluid in an air conditioning system that absorbs heat in the evaporator and releases heat in the condenser as it changes between liquid and vapor states. Modern residential systems use R-410A or R-32."
+      },
+      {
+        "term": "Refrigeration Cycle",
+        "definition": "The continuous four-step process: (1) compressor pressurizes refrigerant vapor, (2) condenser rejects heat and condenses refrigerant to liquid, (3) metering device drops pressure and temperature, (4) evaporator absorbs indoor heat and vaporizes refrigerant."
+      },
+      {
+        "term": "Metering Device",
+        "definition": "A component that restricts refrigerant flow between the high-pressure and low-pressure sides of the system, dropping the pressure and temperature of liquid refrigerant before it enters the evaporator coil."
+      },
+      {
+        "term": "SEER (Seasonal Energy Efficiency Ratio)",
+        "definition": "A rating of an air conditioner's cooling efficiency over a full cooling season. It is calculated by dividing total cooling output (BTU) by total energy input (watt-hours). Higher SEER means lower operating cost."
+      },
+      {
+        "term": "Ton of Cooling",
+        "definition": "A unit of cooling capacity equal to 12,000 BTU/h. The term originates from the amount of heat required to melt one ton of ice in 24 hours. Residential systems typically range from 1.5 to 5 tons."
+      },
+      {
+        "term": "Split System",
+        "definition": "The most common residential air conditioning configuration, with the compressor and condenser coil located outdoors in a condensing unit and the evaporator coil located indoors connected by refrigerant lineset."
+      },
+      {
+        "term": "Condensate",
+        "definition": "Water that drips off the cold evaporator coil as warm, humid air passes over it. Condensate must be collected in a drain pan and routed to a floor drain or condensate pump to prevent water damage and mold growth."
+      }
+    ]
+  },
+  {
+    "chapter": "cooling",
+    "difficulty": "intermediate",
+    "title": "Cooling Systems",
+    "subtitle": "Equipment configurations, metering devices, superheat, subcooling, and airflow",
+    "points": [
+      {
+        "term": "Package Unit",
+        "definition": "A self-contained unit that houses the compressor, condenser coil, and evaporator coil in a single outdoor cabinet. Package units eliminate the need for a separate indoor air handler and are common in commercial applications and homes without basements."
+      },
+      {
+        "term": "TXV (Thermostatic Expansion Valve)",
+        "definition": "A modulating metering device that automatically adjusts refrigerant flow rate to maintain a constant superheat at the evaporator outlet. The TXV senses evaporator outlet temperature through a sensing bulb and adjusts a needle valve accordingly."
+      },
+      {
+        "term": "Fixed Orifice / Piston Metering Device",
+        "definition": "A simple, fixed-size metering device with no moving parts. It meters refrigerant based on the pressure difference across it and requires a specific refrigerant charge for the installed lineset length and conditions. Piston sizes are matched to the system's rated tonnage."
+      },
+      {
+        "term": "Superheat",
+        "definition": "The number of degrees a refrigerant vapor has risen above its saturation (boiling) temperature at a given pressure. Superheat is measured at the evaporator outlet or suction line to ensure refrigerant is fully vaporized before reaching the compressor."
+      },
+      {
+        "term": "Subcooling",
+        "definition": "The number of degrees a liquid refrigerant has dropped below its saturation (condensing) temperature at a given pressure. Subcooling is measured at the liquid line leaving the condenser and is used to verify proper charge on TXV systems."
+      },
+      {
+        "term": "Target Superheat (Fixed Orifice Systems)",
+        "definition": "For systems with a fixed orifice metering device, target superheat is calculated using a chart based on outdoor ambient temperature and indoor wet-bulb temperature. Charge is added or removed to hit the target (typically 8–28°F depending on conditions)."
+      },
+      {
+        "term": "Target Subcooling (TXV Systems)",
+        "definition": "For TXV systems, the manufacturer specifies a target subcooling range (commonly 8–14°F for many residential units). Charge is adjusted until measured subcooling matches the nameplate target."
+      },
+      {
+        "term": "CFM per Ton",
+        "definition": "The standard airflow rate for residential cooling systems is approximately 400 CFM per ton of cooling capacity. Too little airflow causes the evaporator to freeze; too much airflow reduces dehumidification and efficiency."
+      },
+      {
+        "term": "Refrigerant Lineset",
+        "definition": "The copper tubing that connects the indoor evaporator coil to the outdoor condensing unit. The larger-diameter suction line carries low-pressure vapor; the smaller liquid line carries high-pressure liquid. Lineset length and diameter affect system performance."
+      },
+      {
+        "term": "EER (Energy Efficiency Ratio)",
+        "definition": "The cooling efficiency ratio measured at a single outdoor temperature (95°F) and indoor condition, unlike SEER which averages across a season. EER is used for commercial equipment ratings and peak-load efficiency comparisons."
+      }
+    ]
+  },
+  {
+    "chapter": "cooling",
+    "difficulty": "advanced",
+    "title": "Cooling Systems",
+    "subtitle": "SEER2, charging methods, compressor diagnosis, and coil matching",
+    "points": [
+      {
+        "term": "SEER2",
+        "definition": "An updated efficiency standard effective January 2023 that uses a higher external static pressure (0.5 in. WC vs 0.1 in. WC) in testing to better reflect real-world installed performance. SEER2 ratings are approximately 5% lower than the equivalent SEER rating for the same equipment."
+      },
+      {
+        "term": "Minimum SEER2 Requirements (2023)",
+        "definition": "Federal minimums effective January 2023: 13.4 SEER2 for split systems in the North, 14.3 SEER2 in the South and Southwest, and 13.4 SEER2 for package units nationally. Selling non-compliant equipment in the applicable region is prohibited."
+      },
+      {
+        "term": "Weigh-In Charging Method",
+        "definition": "Adding a precisely measured weight of refrigerant to an evacuated, empty system based on the manufacturer's nameplate charge. This is the most accurate method and required for factory-prescribed charge on new installations."
+      },
+      {
+        "term": "Superheat Charging Method",
+        "definition": "Used for fixed-orifice systems: measure suction line temperature and pressure, consult a manufacturer's superheat chart, and adjust charge until measured superheat matches target. Requires stable operating conditions (15–20 minutes runtime)."
+      },
+      {
+        "term": "Subcooling Charging Method",
+        "definition": "Used for TXV systems: measure liquid line temperature and high-side pressure, subtract saturation temperature from measured liquid line temperature to get subcooling. Add refrigerant if subcooling is low, recover if high."
+      },
+      {
+        "term": "Compressor Amperage Tests (LRA / RLA / FLA)",
+        "definition": "Locked Rotor Amps (LRA) is the maximum current draw during startup. Rated Load Amps (RLA) is the manufacturer's rated running current. Full Load Amps (FLA) is measured running amperage. Running amps consistently near or above RLA indicate an overloaded or failing compressor."
+      },
+      {
+        "term": "Compressor Terminal Identification (C, R, S)",
+        "definition": "Single-phase compressor terminals: C (Common), R (Run), S (Start). The run winding (C to R) has lower resistance; the start winding (C to S) has higher resistance. The combined resistance (R to S) equals the sum of both windings."
+      },
+      {
+        "term": "Coil Matching",
+        "definition": "Evaporator and condenser coils must be tested and rated together as a matched system by AHRI (Air-Conditioning, Heating, and Refrigeration Institute). Mixing unmatched components can void warranties, reduce efficiency, reduce capacity, and cause reliability problems."
+      },
+      {
+        "term": "Non-Condensables",
+        "definition": "Gases such as air or nitrogen that do not condense at normal operating pressures and accumulate in the condenser, artificially raising head pressure. Non-condensables are introduced by improper service procedures and require complete recovery, evacuation, and recharge."
+      },
+      {
+        "term": "High Head Pressure Diagnosis",
+        "definition": "Elevated high-side pressure indicates overcharge, non-condensables, dirty or blocked condenser coil, failed condenser fan, or high outdoor ambient temperature. Each cause produces a distinct set of associated symptoms that guide diagnosis."
+      },
+      {
+        "term": "Low Suction Pressure Diagnosis",
+        "definition": "Low suction pressure indicates undercharge, low airflow across the evaporator, restricted metering device, or a refrigerant restriction in the liquid line. Low suction pressure causes the evaporator to run colder, risking ice formation and compressor flooding."
+      }
+    ]
+  },
+  {
+    "chapter": "ventilation",
+    "difficulty": "beginner",
+    "title": "Ventilation & Ductwork",
+    "subtitle": "Core components, what CFM means, and why ventilation matters",
+    "points": [
+      {
+        "term": "Supply Duct",
+        "definition": "The duct that carries conditioned air (heated or cooled) from the air handler or furnace and delivers it to individual rooms through supply registers. Supply ducts typically connect to the top or side of the plenum."
+      },
+      {
+        "term": "Return Duct",
+        "definition": "The duct that pulls unconditioned room air back to the air handler or furnace to be filtered and reconditioned. Return ducts terminate at return grilles in walls, ceilings, or floors."
+      },
+      {
+        "term": "Register",
+        "definition": "A supply air outlet with an adjustable damper (louvers) that can direct and partially control airflow into a room. Registers are the components occupants most often adjust to redirect airflow."
+      },
+      {
+        "term": "Grille",
+        "definition": "A fixed (non-adjustable) air outlet or inlet cover used primarily for return air openings. Grilles have no damper and provide less flow restriction than registers."
+      },
+      {
+        "term": "Damper",
+        "definition": "An adjustable plate or blade inside a duct that controls airflow volume or direction. Balancing dampers are set during commissioning to divide airflow between branches; zone dampers open and close automatically under thermostat control."
+      },
+      {
+        "term": "CFM (Cubic Feet per Minute)",
+        "definition": "The standard unit used to measure airflow volume in HVAC systems. CFM represents how many cubic feet of air pass a given point in one minute. Proper CFM is critical for comfort, efficiency, and equipment protection."
+      },
+      {
+        "term": "Plenum",
+        "definition": "The central pressurized chamber connected directly to the air handler from which supply ducts branch out, or into which return ducts feed. The supply plenum is under positive pressure; the return plenum is under negative pressure."
+      },
+      {
+        "term": "Mechanical Ventilation",
+        "definition": "The use of fans and ducts to intentionally bring fresh outdoor air into a building and exhaust stale indoor air. Modern tight building envelopes require mechanical ventilation to maintain indoor air quality because natural infiltration is insufficient."
+      },
+      {
+        "term": "IAQ (Indoor Air Quality)",
+        "definition": "A measure of the healthfulness and comfort of the air inside a building, including temperature, humidity, CO2 levels, pollutants, and particulates. Poor ventilation is a leading cause of poor IAQ."
+      }
+    ]
+  },
+  {
+    "chapter": "ventilation",
+    "difficulty": "intermediate",
+    "title": "Ventilation & Ductwork",
+    "subtitle": "Duct sizing, static pressure, flex vs hard duct, balancing, and fresh air",
+    "points": [
+      {
+        "term": "Manual D Duct Design",
+        "definition": "The ACCA Manual D procedure for sizing residential duct systems. It uses the air distribution equipment's available external static pressure and the room-by-room CFM requirements from Manual J to select trunk, branch, and outlet sizes."
+      },
+      {
+        "term": "Static Pressure",
+        "definition": "The pressure exerted equally in all directions against the walls of a duct, measured in inches of water column (in. WC). Static pressure is the resistance the blower must overcome to deliver airflow; higher resistance means reduced airflow."
+      },
+      {
+        "term": "Total External Static Pressure (TESP)",
+        "definition": "The sum of all pressure drops in the duct system and accessories (filter, coil, registers, duct friction) that the blower must overcome. TESP is measured with a manometer and compared to the air handler's rated external static pressure to diagnose airflow problems."
+      },
+      {
+        "term": "Flex Duct",
+        "definition": "Flexible ductwork made of a wire helix covered with insulated film. Flex duct is easy to install in tight spaces but has higher friction loss than hard duct, especially when kinked, compressed, or run in long lengths. Maximum runs are typically limited to 14 feet per section."
+      },
+      {
+        "term": "Hard Duct (Sheet Metal)",
+        "definition": "Rigid galvanized steel ductwork that offers lower friction loss, longer service life, and better air sealing than flex duct. Hard duct is preferred for trunk lines and long runs where pressure loss must be minimized."
+      },
+      {
+        "term": "Friction Rate",
+        "definition": "The pressure drop per 100 equivalent feet of duct, expressed in in. WC/100 ft. The available friction rate is calculated by dividing the available static pressure by the total equivalent length of the longest duct run, and it determines what duct sizes are appropriate."
+      },
+      {
+        "term": "Equivalent Length",
+        "definition": "A method for accounting for the pressure drop of fittings (elbows, tees, transitions) by converting each fitting into an equivalent length of straight duct. A 90° round elbow may add 15–30 equivalent feet of resistance depending on the radius."
+      },
+      {
+        "term": "Balancing Damper",
+        "definition": "A manual volume damper installed in branch ducts during system commissioning to reduce airflow to over-supplied rooms and redistribute it to under-supplied rooms. Balancing dampers are adjusted using flow measurements at each register."
+      },
+      {
+        "term": "ASHRAE 62.2 Ventilation Standard",
+        "definition": "The standard for residential mechanical ventilation requiring a minimum of 7.5 CFM per occupant plus 1 CFM per 100 square feet of floor area (or about 0.01–0.03 ACH depending on house size). Most code jurisdictions adopt this standard."
+      },
+      {
+        "term": "ERV / HRV (Energy/Heat Recovery Ventilator)",
+        "definition": "Devices that pre-condition incoming fresh air using the energy of outgoing exhaust air. An HRV transfers only heat; an ERV transfers both heat and moisture. Both reduce the energy cost of mechanical ventilation in extreme climates."
+      }
+    ]
+  },
+  {
+    "chapter": "ventilation",
+    "difficulty": "advanced",
+    "title": "Ventilation & Ductwork",
+    "subtitle": "Manual D design, duct leakage testing, static pressure, and code ventilation rates",
+    "points": [
+      {
+        "term": "Duct Leakage Testing",
+        "definition": "A test performed with a duct blower (duct pressurization equipment) that pressurizes the duct system to 25 Pa and measures the airflow required to maintain that pressure. Results are expressed as CFM25 total or CFM25 to outside; code limits vary by jurisdiction."
+      },
+      {
+        "term": "IECC Duct Leakage Limits",
+        "definition": "The 2021 IECC limits total duct leakage to 4 CFM25 per 100 sq ft of conditioned floor area for new construction, or leakage to outside to 4 CFM25 per 100 sq ft. Rough-in testing (before drywall) and post-construction testing are both acceptable methods."
+      },
+      {
+        "term": "Duct Blower Test Procedure",
+        "definition": "All supply and return registers are sealed with tape or foam plugs. The duct blower is connected at the air handler opening or a convenient duct location. The fan speed is adjusted until the system reaches 25 Pa and the CFM reading is recorded."
+      },
+      {
+        "term": "Available Static Pressure Calculation",
+        "definition": "Available SP = Rated blower ESP − pressure drops of all accessories (filter, cooling coil, electric heat strips, humidifiers). The resulting value is the friction budget available for the actual duct system design."
+      },
+      {
+        "term": "Longest Equivalent Length (LEL)",
+        "definition": "The total equivalent length of the duct path from the air handler to the farthest supply register, including all fittings converted to equivalent feet. Dividing available SP by LEL/100 gives the design friction rate."
+      },
+      {
+        "term": "ASHRAE 62.2 Whole-House Ventilation Rate",
+        "definition": "Minimum ventilation = 0.01 × conditioned floor area (sq ft) + 7.5 × (number of bedrooms + 1). This formula must be recalculated for each project and is required in most jurisdictions that have adopted the IRC or IECC energy code."
+      },
+      {
+        "term": "Supply-Only vs Exhaust-Only vs Balanced Ventilation",
+        "definition": "Supply-only systems pressurize the house and push air out through leaks (risk of condensation in walls in cold climates). Exhaust-only systems depressurize the house and draw outdoor air through leaks (risk of backdrafting). Balanced systems (ERV/HRV) control both flows equally and are preferred in tight homes."
+      },
+      {
+        "term": "Duct Insulation Requirements",
+        "definition": "The 2021 IECC requires ducts in unconditioned spaces (attics, crawlspaces, garages) to be insulated to a minimum of R-6 in most climate zones and R-8 in zones 3 through 8. Ducts entirely within conditioned space are exempt."
+      },
+      {
+        "term": "Duct Sealing Requirements",
+        "definition": "All duct joints and seams must be sealed with mastic (preferred) or UL 181-listed metal foil tape. Cloth duct tape is not code-acceptable for permanent duct sealing. Mastic must be applied to all longitudinal seams, joints, and connections."
+      },
+      {
+        "term": "Airflow Measurement Tools",
+        "definition": "Technicians use flow hoods (capture hoods) to measure CFM at individual registers, pitot tubes with a manometer for duct traverses, and anemometers for grille face velocity. Accurate measurements are required for balancing and commissioning."
+      }
+    ]
+  },
+  {
+    "chapter": "electrical-hvac",
+    "difficulty": "beginner",
+    "title": "Electrical for HVAC",
+    "subtitle": "Basic electrical terms and the function of key HVAC electrical components",
+    "points": [
+      {
+        "term": "Voltage (V)",
+        "definition": "The electrical pressure or potential difference that pushes current through a circuit, measured in volts. Residential HVAC uses 120V for small equipment, 240V for compressors and electric heat, and 24V for control circuits."
+      },
+      {
+        "term": "Amperage (A)",
+        "definition": "The amount of electrical current flowing through a circuit, measured in amperes (amps). Amperage determines wire sizing, breaker sizing, and is used to diagnose motor and compressor health."
+      },
+      {
+        "term": "Resistance (Ω)",
+        "definition": "The opposition to current flow in a circuit, measured in ohms. Resistance is measured with a multimeter (power off) to check motor windings, defrost heaters, contactors, and fuses for open or short circuits."
+      },
+      {
+        "term": "Watt (W)",
+        "definition": "The unit of electrical power. Watts = Volts × Amps (for purely resistive loads). Equipment nameplate wattage and amp draw are used to size wiring, disconnects, and overcurrent protection."
+      },
+      {
+        "term": "Thermostat",
+        "definition": "A low-voltage (typically 24V) control device that senses room temperature and sends signals through color-coded wires to the air handler and outdoor unit to call for heating (W), cooling (Y), or fan-only (G) operation."
+      },
+      {
+        "term": "Contactor",
+        "definition": "A heavy-duty electrically operated switch used to connect and disconnect high-voltage power (240V) to the compressor and condenser fan motor. The contactor coil is energized by the 24V control circuit, pulling in the contacts."
+      },
+      {
+        "term": "Capacitor",
+        "definition": "An electrical component that stores a charge and provides an extra boost of current to help motors start (start capacitor) or keeps them running efficiently (run capacitor). Failed capacitors are one of the most common causes of motor and compressor failure."
+      },
+      {
+        "term": "Disconnect",
+        "definition": "A safety switch located within sight of the outdoor condensing unit that allows the power to be quickly de-energized for service. NEC Article 440 requires a readily accessible disconnect within sight of the equipment."
+      },
+      {
+        "term": "Low-Voltage Control Circuit",
+        "definition": "The 24V AC circuit powered by the transformer that carries thermostat signals to control boards, contactors, relays, and gas valves. Low-voltage wiring uses small-gauge wire (typically 18–20 AWG) and is color-coded for each function."
+      }
+    ]
+  },
+  {
+    "chapter": "electrical-hvac",
+    "difficulty": "intermediate",
+    "title": "Electrical for HVAC",
+    "subtitle": "Wiring diagrams, 24V control circuits, capacitors, relays, and transformers",
+    "points": [
+      {
+        "term": "Schematic Wiring Diagram",
+        "definition": "A simplified diagram using symbols to show electrical components and their connections in a logical layout, without regard to physical location. Schematics are used for troubleshooting circuit operation and tracing control sequences."
+      },
+      {
+        "term": "Ladder Diagram",
+        "definition": "A type of schematic where the power supply lines run vertically like rails of a ladder and load circuits run horizontally like rungs. Each rung shows one control or load circuit, making sequence-of-operation analysis straightforward."
+      },
+      {
+        "term": "Pictorial Wiring Diagram",
+        "definition": "A diagram that shows components in their approximate physical location and color-coded wires as they actually run in the equipment. Pictorial diagrams are useful for identifying wire connections during installation or replacement."
+      },
+      {
+        "term": "24V Transformer",
+        "definition": "A step-down transformer that reduces 120V or 240V line voltage to 24V AC for the control circuit. Common sizes are 40VA, 60VA, and 75VA; an overloaded or shorted transformer will fail. VA rating must meet or exceed the total load of all connected control devices."
+      },
+      {
+        "term": "Run Capacitor",
+        "definition": "A permanently connected capacitor that improves motor efficiency and power factor during normal operation. It maintains voltage phase shift between the run and start windings throughout the motor's operation. Run capacitors are rated in microfarads (µF) and must be replaced with an exact or very close value."
+      },
+      {
+        "term": "Start Capacitor",
+        "definition": "A capacitor that provides a large current boost to the start winding for a fraction of a second during motor startup, then is switched out of the circuit by a potential relay or PTCR. Start capacitors allow motors to start under load and are rated for intermittent duty only."
+      },
+      {
+        "term": "Potential Relay",
+        "definition": "A relay used to disconnect the start capacitor from the start winding once the motor reaches approximately 75% of full speed. It is activated by the counter-EMF (back-EMF) generated by the motor, not by a current sensor."
+      },
+      {
+        "term": "Relay vs Contactor",
+        "definition": "A relay is a light-duty switching device used in low-voltage control circuits (24V, low amperage). A contactor is a heavy-duty switching device rated for high-voltage, high-current loads like compressors and condenser fans. Both use an electromagnetic coil to pull in contacts."
+      },
+      {
+        "term": "Common Thermostat Wire Colors",
+        "definition": "R = 24V power (from transformer), C = common (return), Y = cooling/compressor, W = heat, G = fan, O/B = reversing valve (heat pumps). Non-standard wiring exists in older systems; always verify with a wiring diagram before assuming color meanings."
+      },
+      {
+        "term": "Time-Delay Relay",
+        "definition": "A relay that delays the start of the compressor for 3–5 minutes after a power interruption or short cycling. This allows head pressure to equalize so the compressor does not start against high head pressure, preventing overload trips."
+      }
+    ]
+  },
+  {
+    "chapter": "electrical-hvac",
+    "difficulty": "advanced",
+    "title": "Electrical for HVAC",
+    "subtitle": "Amp draw diagnosis, compressor terminal ID, multimeter troubleshooting, and motor wiring",
+    "points": [
+      {
+        "term": "LRA (Locked Rotor Amps)",
+        "definition": "The maximum current a compressor or motor draws the instant it starts before the rotor begins turning. LRA can be 5–8 times the RLA and lasts only milliseconds. Wire sizing and time-delay fuses must accommodate LRA without nuisance tripping."
+      },
+      {
+        "term": "RLA (Rated Load Amps)",
+        "definition": "The manufacturer's rated continuous current draw at full load and rated voltage, listed on the nameplate. Running consistently above RLA indicates the motor is overloaded, the voltage is low, the refrigerant charge is off, or the compressor is mechanically failing."
+      },
+      {
+        "term": "FLA (Full Load Amps)",
+        "definition": "The actual measured running amperage of the equipment under full load conditions. Technicians measure FLA with a clamp meter and compare it to the nameplate RLA to assess motor and compressor health."
+      },
+      {
+        "term": "Compressor Terminal Resistance Test",
+        "definition": "With power off, measure resistance between all three terminal pairs (C-R, C-S, R-S) using a multimeter. C-R (run winding) has the lowest resistance; C-S (start winding) is higher; R-S equals the sum of both. An open reading (OL) indicates a failed winding."
+      },
+      {
+        "term": "Megohm Test (Meg Test)",
+        "definition": "A test using a megohmmeter (megger) to measure insulation resistance between motor windings and ground (compressor shell). A reading below 1 megohm indicates deteriorated winding insulation and compressor replacement should be considered."
+      },
+      {
+        "term": "Capacitor Testing",
+        "definition": "Capacitors are tested with a multimeter set to capacitance mode (µF) after safely discharging them through a 20,000-ohm resistor. A reading within ±10% of the nameplate µF rating is acceptable; readings outside this range or zero indicate replacement is needed."
+      },
+      {
+        "term": "Voltage Imbalance",
+        "definition": "A condition where the voltages on a three-phase system differ between legs by more than 2%. Voltage imbalance causes current imbalance, overheating, and accelerated motor failure. For single-phase systems, low voltage increases amperage and motor temperatures."
+      },
+      {
+        "term": "Contactor Diagnosis",
+        "definition": "Inspect contactor contacts visually for pitting and burning. Measure voltage at the coil to confirm 24V when energized. Measure voltage across closed contacts (should read near zero); a reading indicates high contact resistance. Measure coil resistance (open = failed coil, near zero = shorted coil)."
+      },
+      {
+        "term": "Single-Phase Motor Wiring — PSC Motors",
+        "definition": "Permanent Split Capacitor (PSC) motors use a run capacitor permanently wired in series with the start winding. They are the most common condenser fan and air handler blower motor type. Speed is changed by switching between taps on the run winding that have different resistance."
+      },
+      {
+        "term": "ECM Motor (Electronically Commutated Motor)",
+        "definition": "A brushless DC motor with an internal inverter board that is highly efficient and variable-speed. ECM motors are common in high-efficiency air handlers. They are diagnosed with manufacturer-specific tools; the motor module and motor are typically replaced as a matched set."
+      },
+      {
+        "term": "NEC 440 Disconnect Rules",
+        "definition": "NEC Article 440 requires an individual disconnecting means for each motor-compressor. It must be a rated AC disconnect or circuit breaker, accessible and within sight of the equipment, with a minimum interrupting rating equal to the LRA of the equipment served."
+      }
+    ]
+  },
+  {
+    "chapter": "refrigerant",
+    "difficulty": "beginner",
+    "title": "Refrigerant Handling",
+    "subtitle": "Refrigerant types, EPA 608 certification, and why recovery matters",
+    "points": [
+      {
+        "term": "Refrigerant",
+        "definition": "A chemical compound used in vapor-compression refrigeration cycles that absorbs heat by evaporating at low pressure and releases heat by condensing at high pressure. Refrigerants must be handled carefully because many are harmful to the environment."
+      },
+      {
+        "term": "R-22 (Freon)",
+        "definition": "A hydrochlorofluorocarbon (HCFC) refrigerant once used in most residential air conditioners. R-22 depletes the ozone layer and was phased out of new equipment production by January 1, 2010. It is no longer manufactured domestically and can only be sold as reclaimed product."
+      },
+      {
+        "term": "R-410A",
+        "definition": "A hydrofluorocarbon (HFC) blend refrigerant that replaced R-22 in new residential equipment. R-410A does not deplete the ozone layer but has a high global warming potential (GWP of 2,088). It operates at significantly higher pressures than R-22."
+      },
+      {
+        "term": "R-32",
+        "definition": "A single-component HFC refrigerant with a GWP of 675 — about one-third that of R-410A. R-32 is mildly flammable (A2L classification) and is increasingly used in new equipment as the industry moves away from high-GWP refrigerants."
+      },
+      {
+        "term": "GWP (Global Warming Potential)",
+        "definition": "A measure of how much heat a greenhouse gas traps in the atmosphere relative to CO2 over 100 years. CO2 has a GWP of 1. R-410A has a GWP of 2,088, meaning one pound released has the warming effect of 2,088 pounds of CO2."
+      },
+      {
+        "term": "EPA Section 608",
+        "definition": "The section of the Clean Air Act that regulates the handling, recovery, and disposal of refrigerants used in stationary HVAC equipment. It prohibits the knowing release of refrigerants (venting) and requires technician certification."
+      },
+      {
+        "term": "EPA 608 Certification",
+        "definition": "A required certification for any technician who purchases and handles refrigerants for stationary HVAC equipment. There are four types: Type I (small appliances), Type II (high-pressure systems), Type III (low-pressure systems), and Universal (all three)."
+      },
+      {
+        "term": "Refrigerant Recovery",
+        "definition": "The process of removing refrigerant from a system into an approved recovery cylinder before opening the system for service. Venting refrigerant to the atmosphere is illegal under EPA Section 608 and can result in significant fines."
+      },
+      {
+        "term": "Recovery Cylinder",
+        "definition": "A DOT-approved steel or aluminum cylinder used to store recovered refrigerant. Recovery cylinders must never be filled beyond 80% of their water capacity by weight. They are gray with a yellow top for refrigerants (color coding per ARI Standard 400)."
+      }
+    ]
+  },
+  {
+    "chapter": "refrigerant",
+    "difficulty": "intermediate",
+    "title": "Refrigerant Handling",
+    "subtitle": "Recovery equipment, manifold gauges, charging, leak detection, and evacuation",
+    "points": [
+      {
+        "term": "Manifold Gauge Set",
+        "definition": "A service tool with a high-side (red) gauge, a low-side (blue) gauge, and hose connections used to read system pressures, add refrigerant, recover refrigerant, and evacuate systems. The center port connects to a cylinder, vacuum pump, or recovery machine."
+      },
+      {
+        "term": "High-Side vs Low-Side Pressure",
+        "definition": "High-side pressure (discharge pressure) reflects condenser saturation temperature and refrigerant type. Low-side pressure (suction pressure) reflects evaporator saturation temperature. Both are compared to pressure-temperature (PT) charts to determine saturation temperatures."
+      },
+      {
+        "term": "Pressure-Temperature (PT) Chart",
+        "definition": "A reference chart that shows the saturation pressure for a specific refrigerant at a given temperature. Because refrigerants boil and condense at specific pressure-temperature relationships, PT charts are essential for calculating superheat and subcooling."
+      },
+      {
+        "term": "Recovery Machine",
+        "definition": "A certified refrigerant recovery unit that uses a compressor to pull refrigerant out of a system and push it into a recovery cylinder. Recovery machines are required to meet EPA ARI 740 efficiency standards for the refrigerant being recovered."
+      },
+      {
+        "term": "Evacuation",
+        "definition": "The process of using a vacuum pump to remove air, moisture, and non-condensables from a refrigerant system before charging. Systems must be evacuated to 300–500 microns or lower (as required by the manufacturer) before refrigerant is introduced."
+      },
+      {
+        "term": "Micron Gauge (Electronic Vacuum Gauge)",
+        "definition": "A gauge that measures vacuum in microns of mercury absolute pressure. 25,400 microns = 1 in. Hg vacuum. After reaching target vacuum, the vacuum pump is isolated; if the vacuum rises above 500 microns within a few minutes, moisture or a leak is present."
+      },
+      {
+        "term": "Electronic Leak Detector",
+        "definition": "The most sensitive tool for finding refrigerant leaks. Heated diode and infrared detectors can sense refrigerant concentrations as low as 3–15 ppm. The probe is moved slowly (1 inch per second) below suspected leak points since refrigerant is heavier than air."
+      },
+      {
+        "term": "UV Dye Leak Detection",
+        "definition": "A fluorescent dye injected into the refrigerant system using a dye injector. When a UV light (black light) is shined at leak points, the dye glows. UV dye is controversial because some manufacturers void warranties if unauthorized dye is used."
+      },
+      {
+        "term": "Nitrogen Pressure Test",
+        "definition": "Dry nitrogen (never oxygen or shop air) is used to pressure-test a refrigerant system before charging or to confirm a leak location. Nitrogen is inert and dry, making it safe for use in refrigerant systems. Systems are typically tested to 150–400 PSIG depending on the refrigerant."
+      },
+      {
+        "term": "Self-Sealing Hose Fittings",
+        "definition": "Standard manifold gauge hoses must have low-loss fittings (self-sealing fittings) that minimize refrigerant release when disconnecting hoses from service ports. Low-loss fittings have been required by EPA since 1994."
+      }
+    ]
+  },
+  {
+    "chapter": "refrigerant",
+    "difficulty": "advanced",
+    "title": "Refrigerant Handling",
+    "subtitle": "EPA 608 penalties, recovery vs reclaim vs recycling, PT charts, and blend rules",
+    "points": [
+      {
+        "term": "EPA 608 Venting Prohibition",
+        "definition": "Section 608 of the Clean Air Act prohibits technicians from knowingly venting refrigerants while maintaining, servicing, repairing, or disposing of HVAC equipment. This applies to all CFC, HCFC, and HFC refrigerants."
+      },
+      {
+        "term": "EPA 608 Civil Penalties",
+        "definition": "Violators of EPA Section 608 can face civil penalties of up to $44,539 per day per violation (amount adjusted for inflation per CMP Rule). Penalties apply to both individuals and companies; violators can be reported by anyone including competitors."
+      },
+      {
+        "term": "EPA Section 608 vs Section 609",
+        "definition": "Section 608 governs stationary HVAC and refrigeration equipment. Section 609 governs motor vehicle air conditioning (MVAC) systems. Different certification types apply; Section 609 certification (MVAC) does not qualify a technician to work on stationary equipment."
+      },
+      {
+        "term": "Recovery vs Recycling vs Reclaim",
+        "definition": "Recovery removes refrigerant from a system into a container without testing or processing. Recycling cleans refrigerant using oil separation and filtration for reuse on-site. Reclamation processes refrigerant to ARI-700 purity standards at an EPA-certified facility and is required before cross-contaminated or unknown refrigerant can be legally sold."
+      },
+      {
+        "term": "ARI-700 Purity Standard",
+        "definition": "The purity specification that reclaimed refrigerant must meet before it can be sold. Testing must be performed by a certified reclaimer. Reclaimed refrigerant meeting ARI-700 is considered equivalent to virgin refrigerant for all applications."
+      },
+      {
+        "term": "Refrigerant Blends — Zeotropic vs Azeotropic",
+        "definition": "Azeotropic blends (like R-502) behave as a single component and can be charged as liquid or vapor without fractionation. Zeotropic blends (like R-410A and R-407C) have components with different boiling points; they must be charged as liquid to prevent fractionation and composition shift."
+      },
+      {
+        "term": "Glide (Temperature Glide)",
+        "definition": "The difference between the bubble point and dew point temperatures of a zeotropic refrigerant blend at a constant pressure. R-407C has a glide of about 7°F; R-410A has very little glide (about 0.2°F) and behaves nearly like a pure refrigerant."
+      },
+      {
+        "term": "Refrigerant Cylinder Color Coding",
+        "definition": "ARI 400 assigns specific colors to refrigerant cylinders: R-22 is light green, R-410A is rose (pink), R-32 is blue, R-404A is orange. Recovery cylinders are gray with a yellow top regardless of refrigerant type. Color codes help prevent cross-contamination."
+      },
+      {
+        "term": "Required Recovery Levels (EPA)",
+        "definition": "For systems with more than 200 pounds of refrigerant, 90% recovery efficiency is required if a recovery machine manufactured before November 15, 1993 is used; 80% if a newer machine is used. For small appliances (Type I), recovery must reduce system pressure to 4 in. Hg vacuum or lower using a system-dependent recovery method."
+      },
+      {
+        "term": "A2L Refrigerant Handling",
+        "definition": "A2L refrigerants (R-32, R-454B, R-466A) are mildly flammable and require special handling procedures. Technicians must avoid ignition sources during service, use ventilation in enclosed spaces, and never use A2L refrigerants in equipment not designed and certified for them."
+      },
+      {
+        "term": "Refrigerant Sales Restriction",
+        "definition": "As of January 1, 2018, the EPA requires that refrigerant containers of more than 2 pounds may only be purchased by certified technicians (EPA 608 Type I, II, III, or Universal). Distributors must verify certification before selling to individuals."
+      }
+    ]
+  },
+  {
+    "chapter": "hvac-codes",
+    "difficulty": "beginner",
+    "title": "Codes & Safety",
+    "subtitle": "Mechanical and gas codes, PPE, clearances, and combustion air basics",
+    "points": [
+      {
+        "term": "IMC (International Mechanical Code)",
+        "definition": "A model code published by the International Code Council (ICC) that governs the design and installation of HVAC, plumbing, and mechanical systems. Most jurisdictions in the U.S. adopt the IMC (or a local version of it) as their mechanical code."
+      },
+      {
+        "term": "UMC (Uniform Mechanical Code)",
+        "definition": "A model mechanical code published by the International Association of Plumbing and Mechanical Officials (IAPMO), used primarily in western U.S. states. The UMC and IMC have similar requirements but differ in some details."
+      },
+      {
+        "term": "NFPA 54 / National Fuel Gas Code",
+        "definition": "The national standard governing the installation of natural gas piping and appliances. It is published jointly by the American Gas Association and NFPA and is adopted by most jurisdictions for gas work. The IMC and IRC reference NFPA 54 for gas appliance requirements."
+      },
+      {
+        "term": "Clearance",
+        "definition": "The minimum required distance between equipment and adjacent combustible or non-combustible surfaces, specified on the equipment nameplate and in installation instructions. Clearances ensure safe equipment operation, adequate airflow, and service access."
+      },
+      {
+        "term": "Combustion Air",
+        "definition": "The air required by a gas appliance to support complete combustion. Insufficient combustion air leads to incomplete combustion, carbon monoxide production, and sooting. Code requires that combustion air openings be provided whenever appliances are installed in confined spaces."
+      },
+      {
+        "term": "PPE — Safety Glasses",
+        "definition": "Required when brazing, grinding, working with chemicals (refrigerants, cleaning agents), and when there is a risk of debris or fluids contacting the eyes. Safety glasses must meet ANSI Z87.1 standards."
+      },
+      {
+        "term": "PPE — Gloves",
+        "definition": "Insulated rubber gloves are used when working on or near energized electrical components. Refrigerant-resistant gloves protect against frostbite when handling refrigerants. Chemical-resistant gloves are used when handling coil cleaners and drain treatments."
+      },
+      {
+        "term": "Lockout/Tagout (LOTO)",
+        "definition": "An OSHA-required safety procedure that isolates and de-energizes equipment before service. The technician locks the energy isolation device (disconnect, breaker) with a personal padlock so it cannot be re-energized without the technician's knowledge."
+      },
+      {
+        "term": "Confined Space",
+        "definition": "Any space large enough for a person to enter and perform work but not designed for continuous occupancy and that has limited means of entry or exit. Equipment rooms, crawlspaces, and mechanical closets may meet the definition and require specific ventilation or permit procedures."
+      }
+    ]
+  },
+  {
+    "chapter": "hvac-codes",
+    "difficulty": "intermediate",
+    "title": "Codes & Safety",
+    "subtitle": "Equipment clearances, gas line sizing, disconnects, and condensate drain requirements",
+    "points": [
+      {
+        "term": "Minimum Service Clearances",
+        "definition": "The IMC requires a minimum 30-inch working space in front of the service side of fuel-burning appliances and air handlers. Clearance requirements are also specified on the equipment nameplate and installation instructions, which take precedence if they are more restrictive."
+      },
+      {
+        "term": "Furnace Clearance to Combustibles",
+        "definition": "Nameplate clearances must be followed; typical Category IV condensing furnace clearances are 1–6 inches on sides, front, and rear. Upflow furnaces with metal flue connections may require 6 inches from combustibles at the vent connector."
+      },
+      {
+        "term": "Condensate Drain Requirements",
+        "definition": "The IMC requires that condensate from cooling coils and condensing furnaces be conveyed to a floor drain, condensate pump, or approved outdoor location. The primary drain pan must have a secondary drain or overflow switch. PVC Schedule 40 is the most common drain pipe material."
+      },
+      {
+        "term": "Secondary Drain / Overflow Protection",
+        "definition": "Equipment in attics or above finished ceilings must have a secondary condensate drain pan or an overflow cutoff switch that shuts the system off before water damage occurs. Secondary drain lines must terminate in a visible location to alert occupants of a clogged primary drain."
+      },
+      {
+        "term": "Gas Pipe Sizing",
+        "definition": "Gas piping is sized using tables in NFPA 54 based on the total connected BTU/h load, pipe material (steel, CSST, or copper), and total pipe length from the meter to the farthest appliance. Undersized piping causes low gas pressure and poor appliance performance."
+      },
+      {
+        "term": "CSST (Corrugated Stainless Steel Tubing)",
+        "definition": "A flexible gas piping system used inside buildings. CSST must be bonded per NFPA 54 to reduce the risk of arc damage during lightning events. Bonding requirements and methods vary by CSST brand and local code amendments."
+      },
+      {
+        "term": "Disconnect Requirements",
+        "definition": "NEC Article 440 requires a disconnecting means within sight of and readily accessible from each motor-compressor. For residential split systems, the disconnect is typically a fused or non-fused pull-out block or breaker-style switch located at the outdoor unit."
+      },
+      {
+        "term": "Electrical Clearances — Outdoor Unit",
+        "definition": "NEC 110.26 requires at least 36 inches of clear working space in front of electrical panels and equipment rated up to 150V to ground. Outdoor condensing units must also have the installation clearances specified on the nameplate for airflow and service access."
+      },
+      {
+        "term": "Equipment Curb and Roof Installation",
+        "definition": "Rooftop HVAC units must be installed on code-compliant curbs that are watertight and elevated enough to prevent water intrusion. Local building codes and manufacturer instructions specify curb height, fastening, and flashing requirements."
+      },
+      {
+        "term": "Earthquake Bracing",
+        "definition": "In seismic zones, local codes (based on ASCE 7 or OSHPD requirements) may require that HVAC equipment be anchored or braced to prevent movement during an earthquake. Water heaters, air handlers, and large duct sections are commonly affected."
+      }
+    ]
+  },
+  {
+    "chapter": "hvac-codes",
+    "difficulty": "advanced",
+    "title": "Codes & Safety",
+    "subtitle": "IMC vs UMC, NFPA 54 requirements, nameplate data, CO detectors, and duct smoke detectors",
+    "points": [
+      {
+        "term": "IMC vs UMC — Key Differences",
+        "definition": "Both codes cover mechanical systems but differ in organization and some technical requirements. The IMC is adopted in most eastern and central states; the UMC is adopted in California and several western states. California amends both significantly through its Title 24 energy and mechanical codes."
+      },
+      {
+        "term": "NFPA 54 — Gas Appliance Installation",
+        "definition": "NFPA 54 Section 10.8 requires that gas appliances be installed according to the manufacturer's listing and instructions. The code specifies gas pressure requirements, appliance location restrictions (garages, bedrooms), venting requirements, and clearances from combustibles."
+      },
+      {
+        "term": "NFPA 54 — Garage Appliance Rules",
+        "definition": "Gas-fired appliances installed in garages must have ignition sources elevated at least 18 inches above the floor to avoid igniting gasoline vapors that may accumulate at floor level. This requirement applies to furnaces, water heaters, and other appliances."
+      },
+      {
+        "term": "Equipment Nameplate Data",
+        "definition": "The nameplate (data plate) lists: model and serial number, voltage/phase/Hz, minimum circuit ampacity (MCA), maximum overcurrent protection (MOP or MOCP), BTU/h or tons of capacity, refrigerant type and charge weight, SEER/AFUE ratings, and clearances. Technicians must read the nameplate before installing, servicing, or replacing equipment."
+      },
+      {
+        "term": "MCA (Minimum Circuit Ampacity)",
+        "definition": "The minimum conductor ampacity required for the branch circuit serving the equipment, calculated at 125% of the largest motor FLA plus 100% of other loads. Electricians use MCA to select wire gauge per NEC Table 310.16."
+      },
+      {
+        "term": "MOCP (Maximum Overcurrent Protection)",
+        "definition": "The maximum rated fuse or circuit breaker size allowed for the equipment's branch circuit. Exceeding the MOCP violates the equipment listing and NEC Article 440. The MOCP is typically 175% of the compressor RLA rounded to the next standard size."
+      },
+      {
+        "term": "CO Detector Requirements",
+        "definition": "The IRC (R315) requires CO alarms in new one- and two-family dwellings where fuel-burning appliances are installed or where there is an attached garage. CO detectors must be listed per UL 2034 and installed according to manufacturer instructions — typically outside sleeping areas."
+      },
+      {
+        "term": "Duct Smoke Detector Requirements",
+        "definition": "The IMC (Section 606) and NFPA 90A require duct smoke detectors in the supply duct of air-handling systems with a capacity greater than 2,000 CFM. The detector must shut down the air handling unit when smoke is sensed to prevent smoke circulation through the building."
+      },
+      {
+        "term": "Duct Smoke Detector Placement",
+        "definition": "Supply duct smoke detectors must be installed downstream of the filters and heat exchangers and upstream of any branch connections. Return duct detectors (required for systems over 15,000 CFM) are placed in the main return duct before the filter. Detectors must be accessible for testing and maintenance."
+      },
+      {
+        "term": "ASHRAE 15 — Refrigerant Safety Code",
+        "definition": "ASHRAE Standard 15 establishes safety requirements for refrigerating systems including equipment room design, refrigerant detector requirements, emergency shutoffs, and maximum allowable quantities. Commercial refrigerant rooms must have continuous refrigerant monitors with alarms and purge capability."
+      },
+      {
+        "term": "Plan Review and Permit Requirements",
+        "definition": "Most jurisdictions require a mechanical permit for the installation or replacement of HVAC equipment. New installations typically require plan review and inspections at rough-in (before covering) and final (equipment operating). Working without a required permit can result in fines and mandatory removal of unpermitted work."
+      }
+    ]
+  }
+]
