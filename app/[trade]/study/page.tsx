@@ -41,9 +41,10 @@ export default function StudyPage() {
   }
 
   // Calculate overall progress
-  const totalSections = trade.chapters.length * difficulties.length;
+  const activeChapters = trade.chapters.filter((c) => !c.comingSoon);
+  const totalSections = activeChapters.length * difficulties.length;
   const passedSections = progress
-    ? progress.filter((p) => p.passed).length
+    ? progress.filter((p) => p.passed && activeChapters.some((c) => c.id === p.chapter)).length
     : 0;
   const progressPercent =
     totalSections > 0 ? Math.round((passedSections / totalSections) * 100) : 0;
