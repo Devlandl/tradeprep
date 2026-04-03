@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Lock, Check, Circle } from "lucide-react";
+import { Lock, Check, Circle, Clock } from "lucide-react";
 import type { Trade, Chapter, Difficulty } from "@/lib/trades";
 import { difficulties } from "@/lib/trades";
 
@@ -83,69 +83,79 @@ export function ChapterCard({
         </div>
       </div>
 
-      <div className="space-y-2">
-        {difficulties.map((diff, diffIndex) => {
-          const status = getDifficultyStatus(
-            chapterIndex,
-            diffIndex,
-            chapter,
-            trade.chapters,
-            progressMap
-          );
-          const entry = progressMap.get(`${chapter.id}-${diff}`);
-
-          if (status === "locked") {
-            return (
-              <div
-                key={diff}
-                className="flex items-center justify-between py-2 px-3 rounded-lg bg-gray-50 text-trade-muted"
-              >
-                <div className="flex items-center gap-2">
-                  <Lock className="w-4 h-4" />
-                  <span className="text-sm">{diffLabels[diff]}</span>
-                </div>
-                <span className="text-xs">Locked</span>
-              </div>
+      {chapter.comingSoon ? (
+        <div className="flex items-center justify-between py-2 px-3 rounded-lg bg-amber-50 text-amber-600">
+          <div className="flex items-center gap-2">
+            <Clock className="w-4 h-4" />
+            <span className="text-sm font-medium">Coming Soon</span>
+          </div>
+          <span className="text-xs font-medium">Upgrade</span>
+        </div>
+      ) : (
+        <div className="space-y-2">
+          {difficulties.map((diff, diffIndex) => {
+            const status = getDifficultyStatus(
+              chapterIndex,
+              diffIndex,
+              chapter,
+              trade.chapters,
+              progressMap
             );
-          }
+            const entry = progressMap.get(`${chapter.id}-${diff}`);
 
-          if (status === "passed") {
+            if (status === "locked") {
+              return (
+                <div
+                  key={diff}
+                  className="flex items-center justify-between py-2 px-3 rounded-lg bg-gray-50 text-trade-muted"
+                >
+                  <div className="flex items-center gap-2">
+                    <Lock className="w-4 h-4" />
+                    <span className="text-sm">{diffLabels[diff]}</span>
+                  </div>
+                  <span className="text-xs">Locked</span>
+                </div>
+              );
+            }
+
+            if (status === "passed") {
+              return (
+                <Link
+                  key={diff}
+                  href={`/${trade.slug}/study/${chapter.id}/${diff}/guide`}
+                  className="flex items-center justify-between py-2 px-3 rounded-lg bg-green-50 hover:bg-green-100 transition-colors"
+                >
+                  <div className="flex items-center gap-2">
+                    <Check className="w-4 h-4 text-trade-success" />
+                    <span className={`text-sm font-medium ${diffColors[diff]}`}>
+                      {diffLabels[diff]}
+                    </span>
+                  </div>
+                  <span className="text-xs text-trade-success font-medium">
+                    {entry?.score}%
+                  </span>
+                </Link>
+              );
+            }
+
             return (
               <Link
                 key={diff}
                 href={`/${trade.slug}/study/${chapter.id}/${diff}/guide`}
-                className="flex items-center justify-between py-2 px-3 rounded-lg bg-green-50 hover:bg-green-100 transition-colors"
+                className="flex items-center justify-between py-2 px-3 rounded-lg bg-blue-50 hover:bg-blue-100 transition-colors"
               >
                 <div className="flex items-center gap-2">
-                  <Check className="w-4 h-4 text-trade-success" />
+                  <Circle className="w-4 h-4 text-trade-blue" />
                   <span className={`text-sm font-medium ${diffColors[diff]}`}>
                     {diffLabels[diff]}
                   </span>
                 </div>
-                <span className="text-xs text-trade-success font-medium">
-                  {entry?.score}%
-                </span>
+                <span className="text-xs text-trade-blue font-medium">Start</span>
               </Link>
             );
-          }
-
-          return (
-            <Link
-              key={diff}
-              href={`/${trade.slug}/study/${chapter.id}/${diff}/guide`}
-              className="flex items-center justify-between py-2 px-3 rounded-lg bg-blue-50 hover:bg-blue-100 transition-colors"
-            >
-              <div className="flex items-center gap-2">
-                <Circle className="w-4 h-4 text-trade-blue" />
-                <span className={`text-sm font-medium ${diffColors[diff]}`}>
-                  {diffLabels[diff]}
-                </span>
-              </div>
-              <span className="text-xs text-trade-blue font-medium">Start</span>
-            </Link>
-          );
-        })}
-      </div>
+          })}
+        </div>
+      )}
     </div>
   );
 }
