@@ -1,0 +1,810 @@
+[
+  {
+    "chapter": "pipe-types",
+    "difficulty": "beginner",
+    "title": "Pipe Types & Materials",
+    "subtitle": "What the common pipe materials are and where you'll find them",
+    "points": [
+      {
+        "term": "PVC (Polyvinyl Chloride)",
+        "definition": "A rigid white or cream-colored plastic pipe used for drain, waste, and vent (DWV) systems. It is lightweight, inexpensive, and resistant to most household chemicals but cannot handle hot water."
+      },
+      {
+        "term": "CPVC (Chlorinated Polyvinyl Chloride)",
+        "definition": "A rigid plastic pipe similar to PVC but formulated to withstand higher temperatures, making it suitable for both hot and cold water supply lines. It is typically cream or yellow in color."
+      },
+      {
+        "term": "Copper",
+        "definition": "A durable metal pipe used for water supply lines and refrigerant lines. It comes in rigid (Type L, M, K) and flexible (Type ACR) forms and has excellent corrosion resistance."
+      },
+      {
+        "term": "PEX (Cross-linked Polyethylene)",
+        "definition": "A flexible plastic tubing used for hot and cold water supply. It is color-coded (red for hot, blue for cold, white for either) and can bend around obstacles without fittings."
+      },
+      {
+        "term": "Cast Iron",
+        "definition": "A heavy, durable metal pipe historically used for drain, waste, and vent systems. It provides excellent sound dampening for drain noise and is still used in multi-story buildings."
+      },
+      {
+        "term": "Galvanized Steel",
+        "definition": "Steel pipe coated with zinc to resist corrosion, formerly the standard for water supply lines. It is rarely installed new today because the zinc coating degrades over time, causing rust and flow restriction."
+      },
+      {
+        "term": "ABS (Acrylonitrile Butadiene Styrene)",
+        "definition": "A rigid black plastic pipe used for drain, waste, and vent systems. It is lightweight and easy to work with, and is common in older western U.S. construction."
+      },
+      {
+        "term": "Nominal Pipe Size (NPS)",
+        "definition": "A standardized designation for pipe dimensions that does not correspond exactly to the actual outside or inside diameter. Knowing NPS is essential for selecting correct fittings and valves."
+      },
+      {
+        "term": "Schedule",
+        "definition": "A number that indicates a pipe's wall thickness relative to its outside diameter. Common schedules are Schedule 40 (standard) and Schedule 80 (heavier wall, higher pressure rating)."
+      }
+    ]
+  },
+  {
+    "chapter": "pipe-types",
+    "difficulty": "intermediate",
+    "title": "Pipe Types & Materials",
+    "subtitle": "Joining methods, temperature/pressure ratings, and how to choose the right pipe",
+    "points": [
+      {
+        "term": "Solvent Cement (Solvent Weld)",
+        "definition": "A chemical adhesive used to join PVC, CPVC, and ABS pipe and fittings. The solvent softens the plastic surfaces, which fuse together as the solvent evaporates — creating a permanent bond, not a glue joint."
+      },
+      {
+        "term": "Soldering (Sweating)",
+        "definition": "The method of joining copper pipe by heating the joint with a torch and drawing lead-free solder into the gap by capillary action. The pipe and fitting must be clean, dry, and properly fluxed before heating."
+      },
+      {
+        "term": "Crimp and Clamp (PEX Fittings)",
+        "definition": "Two common methods for making PEX connections. Crimp rings use a crimp tool to compress a copper or stainless ring over a barbed fitting; clamp (cinch) rings use a single-ear clamp tightened with a pinch tool."
+      },
+      {
+        "term": "Push-to-Connect Fittings",
+        "definition": "Quick-connect fittings (such as SharkBite) compatible with copper, PEX, CPVC, and PE-RT that require no tools or soldering. They use internal teeth and an O-ring to grip and seal the pipe."
+      },
+      {
+        "term": "Threaded Connections",
+        "definition": "Joints made by screwing male and female threaded ends together, typically on galvanized steel, brass, or black iron pipe. PTFE tape or pipe dope is applied to the male threads to prevent leaks."
+      },
+      {
+        "term": "Copper Type L vs. Type M",
+        "definition": "Type L has a thicker wall than Type M and is required by many codes for underground and exposed applications. Type M, with its thinner wall, is generally limited to interior above-ground water supply."
+      },
+      {
+        "term": "PEX Temperature/Pressure Rating",
+        "definition": "Standard PEX is rated for 100 psi at 180°F and 160 psi at 73°F. It must not be used in outdoor exposed locations, connected directly to water heater heat elements, or where UV exposure is continuous."
+      },
+      {
+        "term": "CPVC Temperature Rating",
+        "definition": "CPVC is rated to handle water up to 180°F (82°C), making it suitable for hot water distribution where PVC would warp or fail. It requires CPVC-specific solvent cement, not standard PVC cement."
+      },
+      {
+        "term": "Dielectric Union",
+        "definition": "A fitting used where copper and galvanized steel or other dissimilar metals must be joined. It contains an insulating plastic sleeve and washer that prevent galvanic corrosion caused by metal-to-metal contact."
+      },
+      {
+        "term": "Transition Fitting",
+        "definition": "A fitting designed to connect two different pipe materials, such as copper to PEX or copper to CPVC. Using the correct transition fitting prevents leaks and ensures compatibility between pipe systems."
+      }
+    ]
+  },
+  {
+    "chapter": "pipe-types",
+    "difficulty": "advanced",
+    "title": "Pipe Types & Materials",
+    "subtitle": "Code-required materials, prohibited uses, and underground vs. above-ground rules",
+    "points": [
+      {
+        "term": "IPC Material Approval",
+        "definition": "The International Plumbing Code (IPC) requires all pipe and fittings to be listed and labeled by an approved third-party agency (e.g., NSF, IAPMO). Unlisted materials are prohibited regardless of perceived equivalence."
+      },
+      {
+        "term": "Underground DWV Requirements",
+        "definition": "Pipe installed underground beneath a building slab must be approved for direct burial. ABS and PVC Schedule 40 are commonly permitted; cast iron is always acceptable. ABS must be supported to prevent differential settlement."
+      },
+      {
+        "term": "Prohibited Pipe Applications",
+        "definition": "PVC is prohibited for hot water supply lines because it softens above 140°F. Lead pipe and lead-lined fittings are prohibited in potable water systems. CPVC must not be used for gas or compressed air."
+      },
+      {
+        "term": "Copper Type K",
+        "definition": "The thickest-wall copper type, required for underground water service lines from the main to the building in many jurisdictions. Its green color coding distinguishes it from Type L (blue) and Type M (red)."
+      },
+      {
+        "term": "Brass and Bronze Fittings",
+        "definition": "Required at certain connections such as meter sets, service valves, and hose bibs. Low-lead brass (meeting NSF 61/372, containing 0.25% or less lead by weighted average) is mandated for all potable water contact surfaces."
+      },
+      {
+        "term": "ASTM Standards for Pipe",
+        "definition": "Each pipe type must meet its applicable ASTM standard: PVC DWV follows ASTM D2665, copper water tube follows ASTM B88, PEX follows ASTM F876/F877. These standards define dimensions, material composition, and pressure ratings."
+      },
+      {
+        "term": "Mechanical Sleeve Coupling (No-Hub)",
+        "definition": "A neoprene gasket and stainless steel clamp assembly used to join no-hub cast iron pipe and to make transitions between cast iron, PVC, and ABS. Torque specifications from the manufacturer must be followed."
+      },
+      {
+        "term": "PEX Prohibited Locations",
+        "definition": "PEX is prohibited where exposed to direct sunlight, in fire-rated assemblies without proper protection, within 18 inches of a gas water heater flue, or in jurisdictions that have not adopted the applicable code sections."
+      },
+      {
+        "term": "Galvanized Steel — New Installation Prohibition",
+        "definition": "Most modern codes prohibit galvanized steel for new water supply installations because internal corrosion reduces flow and introduces rust into the water supply. It may remain in place where existing, but cannot be extended with new galvanized pipe."
+      },
+      {
+        "term": "Pipe Identification Markings",
+        "definition": "All listed pipe must be permanently marked with the manufacturer's name, pipe size, material designation, applicable ASTM/ANSI standard, pressure rating, and listing agency mark. Inspectors verify these markings during rough-in inspection."
+      }
+    ]
+  },
+  {
+    "chapter": "fixtures",
+    "difficulty": "beginner",
+    "title": "Fixtures & Fittings",
+    "subtitle": "What the basic plumbing fixtures are and what each one does",
+    "points": [
+      {
+        "term": "Fixture",
+        "definition": "Any device that receives water from the supply system and discharges waste into the drainage system. Common fixtures include sinks, toilets, bathtubs, showers, and dishwashers."
+      },
+      {
+        "term": "Trap",
+        "definition": "A curved section of pipe below a fixture that holds a small amount of water at all times. This water seal blocks sewer gases from entering the living space through the drain opening."
+      },
+      {
+        "term": "P-Trap",
+        "definition": "The most common trap shape, named for its resemblance to the letter P when installed. It is required under sinks and lavatories and must be accessible for cleanout."
+      },
+      {
+        "term": "Faucet (Tap)",
+        "definition": "A valve that controls the flow of water from the supply line to a sink, tub, or other fixture. Faucets can be single-handle (mixing hot and cold together) or two-handle (separate hot and cold)."
+      },
+      {
+        "term": "Shut-Off Valve (Stop Valve)",
+        "definition": "A valve installed on the supply line below or behind a fixture that allows water to be turned off to that fixture without shutting off the entire building's water supply."
+      },
+      {
+        "term": "Toilet (Water Closet)",
+        "definition": "A fixture that uses water to flush human waste into the drain system. It consists of a tank (reservoir) and a bowl, connected to the drain by a built-in trap (the S-curve at the base)."
+      },
+      {
+        "term": "Lavatory",
+        "definition": "The plumbing term for a bathroom sink. Lavatories come in wall-hung, pedestal, drop-in, and undermount styles, each with different rough-in and support requirements."
+      },
+      {
+        "term": "Bathtub",
+        "definition": "A large basin fixture used for bathing, typically 5 feet long, that drains through an integral overflow and drain assembly. It requires a dedicated drain, supply lines, and proper floor support."
+      },
+      {
+        "term": "Shower",
+        "definition": "A fixture that delivers water from an overhead or side spray for bathing. It requires a waterproof pan or liner, a drain, and supply valves, and must include an anti-scald mixing valve."
+      }
+    ]
+  },
+  {
+    "chapter": "fixtures",
+    "difficulty": "intermediate",
+    "title": "Fixtures & Fittings",
+    "subtitle": "Rough-in dimensions, fixture unit ratings, trap sizing, and valve types",
+    "points": [
+      {
+        "term": "Rough-In Dimension",
+        "definition": "The measurement from a finished wall or floor to the center of a supply or drain outlet, set during framing and rough plumbing before walls are closed. Standard toilet rough-in is 12 inches from the finished wall to the center of the drain."
+      },
+      {
+        "term": "Fixture Unit (FU)",
+        "definition": "A unit of measure that represents the load a fixture places on the drainage or supply system, based on flow rate and frequency of use. A lavatory = 1 DFU; a toilet = 4 DFU; a bathtub = 2 DFU."
+      },
+      {
+        "term": "Drainage Fixture Unit (DFU)",
+        "definition": "A value assigned to each fixture to size drain and vent pipes. The total DFU load on a drain branch determines the minimum required pipe diameter using the fixture unit table in the applicable plumbing code."
+      },
+      {
+        "term": "Trap Sizing",
+        "definition": "The trap diameter must match or be one size larger than the fixture drain outlet. Lavatories use 1-1/4\" traps; kitchen sinks use 1-1/2\" traps; bathtubs use 1-1/2\" traps; showers may use 2\" traps."
+      },
+      {
+        "term": "Supply Line Sizing",
+        "definition": "Individual fixture supply stubs are typically 1/2\" for sinks, tubs, and toilets and 3/8\" at the fixture shut-off connection. Larger fixtures or multiple fixtures on a branch may require 3/4\" supply mains."
+      },
+      {
+        "term": "Ball Valve",
+        "definition": "A quarter-turn shut-off valve with a drilled ball inside that aligns with the pipe when open and blocks flow when rotated 90 degrees. It provides a full-bore opening and is the preferred type for main shut-offs."
+      },
+      {
+        "term": "Gate Valve",
+        "definition": "A multi-turn valve that uses a rising wedge gate to stop flow. Gate valves are full-bore when open but are prone to failure if left partially open. They are being replaced by ball valves in most applications."
+      },
+      {
+        "term": "Angle Stop (Angle Supply Valve)",
+        "definition": "A shut-off valve that makes a 90-degree turn from the supply stub-out to the fixture supply line, used under sinks and behind toilets. It allows individual fixture isolation without shutting off the whole system."
+      },
+      {
+        "term": "Pressure-Balancing Valve",
+        "definition": "A shower/tub valve that automatically adjusts to maintain a constant ratio of hot to cold water, preventing scalding when a toilet flushes or cold water is used elsewhere. Required by most modern codes."
+      },
+      {
+        "term": "Overflow",
+        "definition": "A drain opening near the top of a tub, sink, or lavatory basin that prevents overflowing by allowing excess water to drain. On tubs it connects to the same drain line as the bottom drain through a waste and overflow assembly."
+      }
+    ]
+  },
+  {
+    "chapter": "fixtures",
+    "difficulty": "advanced",
+    "title": "Fixtures & Fittings",
+    "subtitle": "ADA compliance, anti-scald requirements, cross-connection prevention, and spacing codes",
+    "points": [
+      {
+        "term": "ADA Lavatory Requirements",
+        "definition": "ADA-compliant lavatories must be mounted with the rim no higher than 34 inches above the finished floor. Knee and toe clearance below the sink is required, and supply and drain pipes must be insulated or covered to prevent burns."
+      },
+      {
+        "term": "ADA Toilet Requirements",
+        "definition": "ADA water closets must have a seat height between 17 and 19 inches above the finished floor. Grab bars must be installed at specified heights and distances from the toilet centerline per ADA Standards for Accessible Design."
+      },
+      {
+        "term": "Anti-Scald (ASSE 1016) Requirements",
+        "definition": "All shower and tub-shower combination valves must comply with ASSE 1016 or ASME A112.18.1, limiting delivered water temperature to a maximum of 120°F. This is a code requirement in the IPC and most state plumbing codes."
+      },
+      {
+        "term": "Thermostatic Mixing Valve (TMV)",
+        "definition": "A valve that blends hot and cold water to a pre-set temperature, used on accessible showers, healthcare facilities, and water heaters set above 120°F. TMVs provide scald protection while allowing the heater to operate at a legionella-preventing temperature."
+      },
+      {
+        "term": "Cross-Connection",
+        "definition": "Any physical connection between a potable water supply and a non-potable source (sewage, chemicals, irrigation). Cross-connections are prohibited by code and represent a serious health hazard."
+      },
+      {
+        "term": "Atmospheric Vacuum Breaker (AVB)",
+        "definition": "A backflow preventer installed on hose bibs and irrigation outlets that allows air to enter the pipe if pressure drops, breaking any siphon that could pull contaminated water back into the supply. It must be installed downstream of the last shut-off valve."
+      },
+      {
+        "term": "Minimum Fixture Spacing",
+        "definition": "The IPC requires a minimum of 15 inches from the toilet centerline to any side wall or obstruction (21 inches is preferred), and a minimum 30 inches center-to-center between adjacent toilets. Lavatories require 4 inches from the nearest side wall."
+      },
+      {
+        "term": "Water Closet Flange Height",
+        "definition": "The toilet flange must be set so its top is at finished floor level (flush with or up to 1/4\" above). A flange set too low creates a poor wax seal and increases the risk of sewer gas leaks at the base."
+      },
+      {
+        "term": "Hose Bib Backflow Protection",
+        "definition": "All outdoor hose bibs must have an integral or separate vacuum breaker to prevent backflow of irrigation water, fertilizers, or pesticides into the potable supply. Freezeless (frost-free) sillcocks with a built-in AVB satisfy this requirement in most codes."
+      }
+    ]
+  },
+  {
+    "chapter": "drainage",
+    "difficulty": "beginner",
+    "title": "Drainage & Waste Systems",
+    "subtitle": "The basics of how wastewater leaves the building and why venting matters",
+    "points": [
+      {
+        "term": "DWV (Drain, Waste, and Vent)",
+        "definition": "The complete system of pipes that carries wastewater away from fixtures to the sewer or septic system, while also allowing air to enter the system so water drains freely and sewer gases are expelled safely."
+      },
+      {
+        "term": "Drain",
+        "definition": "A pipe that carries wastewater away from a fixture by gravity. Drains are sloped (pitched) downward in the direction of flow toward the main building drain or sewer."
+      },
+      {
+        "term": "Waste Pipe",
+        "definition": "A horizontal or vertical pipe that carries liquid and solid wastes from plumbing fixtures (other than toilets) to the building drain or stack. It does not carry fecal waste directly."
+      },
+      {
+        "term": "Soil Pipe (Stack)",
+        "definition": "A vertical pipe that carries waste from toilets and other fixtures to the building drain. Because it carries fecal matter, it must connect to the sanitary sewer and is subject to specific sizing rules."
+      },
+      {
+        "term": "Vent Pipe",
+        "definition": "A pipe that allows air to enter and exit the DWV system. Without venting, negative pressure from draining water would siphon the water seal out of traps, allowing sewer gases into the building."
+      },
+      {
+        "term": "Trap Seal",
+        "definition": "The water held in the curved section of a trap (typically 2 to 4 inches deep) that blocks sewer gases. If a trap seal evaporates, siphons, or blows out, sewer gas can enter the room."
+      },
+      {
+        "term": "Cleanout",
+        "definition": "A capped fitting installed in the drainage system that provides access for drain cleaning tools (snakes and hydro-jetters). Cleanouts are required at the base of stacks, at changes in direction, and near the building drain exit."
+      },
+      {
+        "term": "Building Drain",
+        "definition": "The lowest horizontal drain pipe inside the building that collects all waste from branch drains and stacks and carries it to the building sewer (the pipe outside the building to the public main or septic tank)."
+      },
+      {
+        "term": "Grade (Slope)",
+        "definition": "The downward pitch of a horizontal drain pipe that allows gravity to move waste toward the sewer. Standard grade is 1/4 inch of drop per foot of horizontal run."
+      }
+    ]
+  },
+  {
+    "chapter": "drainage",
+    "difficulty": "intermediate",
+    "title": "Drainage & Waste Systems",
+    "subtitle": "Venting types, trap arm rules, and how to size drain pipes by fixture units",
+    "points": [
+      {
+        "term": "Individual Vent (Back Vent)",
+        "definition": "A vent pipe that connects to the drain of a single fixture and runs independently to the vent stack or open air. It is the most reliable venting method because it serves only one trap."
+      },
+      {
+        "term": "Common Vent",
+        "definition": "A single vent that serves two fixtures installed back-to-back or side-by-side on opposite sides of a wall, connected at the same level. Each fixture drain enters the common vent at the same point."
+      },
+      {
+        "term": "Wet Vent",
+        "definition": "A pipe that serves as both a vent for one fixture and a drain for another. Wet venting is permitted for bathroom groups under specific conditions — the vent portion must be sized one pipe size larger than required for drainage alone."
+      },
+      {
+        "term": "Air Admittance Valve (AAV)",
+        "definition": "A one-way mechanical vent device installed at a fixture or branch to admit air when negative pressure occurs in the drain, eliminating the need to run a vent through the roof. AAVs are not permitted at stacks or where positive pressure may occur."
+      },
+      {
+        "term": "Loop Vent",
+        "definition": "A vent configuration used for island sinks where a traditional vent cannot go straight up. The drain loops up to near counter height before dropping to connect back into the vent stack, creating a loop that traps air."
+      },
+      {
+        "term": "Trap Arm",
+        "definition": "The horizontal pipe between the trap outlet and the vent connection. Maximum trap arm length is limited by code based on pipe diameter: 1-1/4\" = 30\"; 1-1/2\" = 42\"; 2\" = 60\"; 3\" = 72\". Exceeding this causes trap siphoning."
+      },
+      {
+        "term": "Critical Distance",
+        "definition": "The maximum allowable horizontal distance from a trap weir to the vent connection. Exceeding the critical distance allows the drain velocity to create a siphon that pulls the trap seal."
+      },
+      {
+        "term": "Fixture Unit Load and Pipe Sizing",
+        "definition": "Drain pipe diameter is determined by adding the drainage fixture units (DFU) of all fixtures served and consulting the DFU table in the code. A 3\" horizontal branch can handle up to 20 DFU; a 4\" branch can handle up to 160 DFU."
+      },
+      {
+        "term": "Vent Stack",
+        "definition": "A vertical pipe running from the building drain or base of a soil stack up through the roof, open to atmosphere. It provides the main air inlet/outlet for the DWV system and must terminate at least 6 inches above the roof."
+      },
+      {
+        "term": "Stack Vent",
+        "definition": "The portion of the soil or waste stack above the highest horizontal drain connection, which continues upward and terminates through the roof. It functions as both a stack and a vent."
+      }
+    ]
+  },
+  {
+    "chapter": "drainage",
+    "difficulty": "advanced",
+    "title": "Drainage & Waste Systems",
+    "subtitle": "Slope requirements, stack sizing, horizontal branch limits, and common code violations",
+    "points": [
+      {
+        "term": "Required Drain Slope (1/4\" Per Foot)",
+        "definition": "The IPC requires horizontal drain pipes 3 inches or smaller to slope at a minimum of 1/4 inch per foot (2%). Pipes 4 inches and larger may slope at 1/8 inch per foot (1%). Steeper than 1/2 inch per foot causes liquids to run ahead of solids."
+      },
+      {
+        "term": "Soil Stack Sizing",
+        "definition": "A soil stack (carrying toilet waste) must be a minimum of 3 inches in diameter. The total DFU load on the stack determines whether a larger diameter is required. A 3\" stack handles up to 48 DFU; a 4\" stack handles up to 500 DFU."
+      },
+      {
+        "term": "Horizontal Branch Interval",
+        "definition": "A horizontal branch interval is a vertical height of 8 feet within a multi-story stack. The IPC limits the number of DFU that can connect to a stack at each interval based on stack diameter — this prevents stack overloading."
+      },
+      {
+        "term": "Vent Termination Requirements",
+        "definition": "Vent pipes must terminate at least 6 inches above the roof, 10 feet horizontally or 2 feet above any window, door, or air intake within 10 feet, and 10 feet from a lot line if less than 10 feet above grade."
+      },
+      {
+        "term": "Double-Trapped Fixture Prohibition",
+        "definition": "A single fixture drain may not have more than one trap. Double-trapping creates an air pocket between the traps that prevents proper drainage and can cause gurgling, slow drains, and trap seal loss."
+      },
+      {
+        "term": "Cleanout Spacing Requirements",
+        "definition": "The IPC requires cleanouts at every change of direction greater than 45 degrees in horizontal piping, at the upper end of each horizontal drain, at the base of each stack, and at intervals not exceeding 100 feet in horizontal drain runs."
+      },
+      {
+        "term": "Island Sink Venting Code Requirements",
+        "definition": "Island fixture vents must loop as high as possible below the countertop, connect to the vent through the floor with a horizontal vent pipe, and may require a foot vent or loop vent. The vent must connect to the stack above the island drain connection."
+      },
+      {
+        "term": "Prohibited Fittings in Drainage",
+        "definition": "Certain fittings are prohibited in DWV systems: tees may not be used as elbows in drainage (flow must enter the side outlet); double-sanitary tees (back-to-back) are prohibited if used to receive flow from opposite directions in the same horizontal plane."
+      },
+      {
+        "term": "Common Code Violations in DWV",
+        "definition": "Frequent violations include: trap arm too long, improper slope, missing cleanouts, wrong fitting direction, unvented traps, AAV used where not permitted, vent terminating too close to a window, and PVC used in a fire-rated assembly without approval."
+      }
+    ]
+  },
+  {
+    "chapter": "water-supply",
+    "difficulty": "beginner",
+    "title": "Water Supply Systems",
+    "subtitle": "Hot vs. cold lines, water heaters, pressure regulators, and what backflow means",
+    "points": [
+      {
+        "term": "Cold Water Supply Line",
+        "definition": "The pipe that delivers cold water directly from the water service entry to fixtures, appliances, and the water heater inlet. It is the source for all potable cold water in the building."
+      },
+      {
+        "term": "Hot Water Supply Line",
+        "definition": "The pipe that carries heated water from the water heater to hot water fixtures throughout the building. Hot lines are typically run parallel to cold lines and are insulated to reduce heat loss."
+      },
+      {
+        "term": "Water Heater",
+        "definition": "An appliance that heats cold water and stores it (storage type) or heats it on demand (tankless/instantaneous). It connects to the cold supply inlet and delivers heated water through the hot supply outlet."
+      },
+      {
+        "term": "Temperature and Pressure Relief Valve (T&P Valve)",
+        "definition": "A safety device on every storage water heater that automatically opens and releases water if the temperature exceeds 210°F or pressure exceeds 150 psi, preventing a catastrophic tank failure."
+      },
+      {
+        "term": "Pressure Reducing Valve (PRV)",
+        "definition": "A device installed on the water service entry that reduces the high pressure from the municipal main (often 80-150 psi) to a safe and comfortable household pressure, typically set between 50 and 80 psi."
+      },
+      {
+        "term": "Water Hammer",
+        "definition": "A banging noise and pressure surge in supply pipes caused when fast-closing valves (like solenoid valves in dishwashers and washing machines) abruptly stop water flow. It can damage pipes and fittings over time."
+      },
+      {
+        "term": "Backflow",
+        "definition": "The unwanted reverse flow of non-potable water or other substances back into the potable water supply. Backflow can contaminate the water supply and is prevented by backflow prevention devices and proper plumbing design."
+      },
+      {
+        "term": "Water Service Line",
+        "definition": "The pipe that runs from the utility's water main (at the street or curb) to the building's main shut-off valve. It is the responsibility of the property owner from the meter to the building."
+      }
+    ]
+  },
+  {
+    "chapter": "water-supply",
+    "difficulty": "intermediate",
+    "title": "Water Supply Systems",
+    "subtitle": "Supply pipe sizing, expansion tanks, recirculation systems, and pressure loss",
+    "points": [
+      {
+        "term": "Supply Pipe Sizing",
+        "definition": "Supply pipes are sized based on the number and type of fixtures served (using water supply fixture units, WSFU), the available pressure, and the length of the pipe run. Longer runs with more fittings require larger pipe to overcome friction losses."
+      },
+      {
+        "term": "Water Supply Fixture Unit (WSFU)",
+        "definition": "A measure of the probable peak flow demand of a fixture on the supply system, used to size supply mains and branches. A lavatory = 1 WSFU; a kitchen sink = 1.5 WSFU; a bathtub = 1.5 WSFU; a hose bib = 2.5 WSFU."
+      },
+      {
+        "term": "Friction Loss",
+        "definition": "The reduction in water pressure caused by resistance as water moves through pipes, fittings, and valves. Longer pipe runs, smaller diameters, and more fittings all increase friction loss, reducing pressure at fixtures."
+      },
+      {
+        "term": "Thermal Expansion Tank",
+        "definition": "A small tank with a rubber bladder connected to the cold water supply near the water heater, required whenever a check valve, PRV, or backflow preventer creates a closed system. It absorbs the increase in water volume as the heater heats water."
+      },
+      {
+        "term": "Closed System",
+        "definition": "A water supply system in which a check valve, PRV, or backflow preventer prevents expanded water from returning to the municipal main. Without an expansion tank in a closed system, pressure can rise to dangerous levels."
+      },
+      {
+        "term": "Hot Water Recirculation System",
+        "definition": "A system that continuously or on-demand circulates hot water through a loop so that hot water is immediately available at fixtures without waiting. It uses a small pump and either a dedicated return line or the cold water line."
+      },
+      {
+        "term": "Water Hammer Arrestor (Shock Absorber)",
+        "definition": "A device installed at quick-closing valves (washing machine, dishwasher, solenoid valves) that contains a piston or sealed air chamber to absorb the pressure surge of water hammer. It is more reliable than a simple air chamber."
+      },
+      {
+        "term": "Static vs. Residual Pressure",
+        "definition": "Static pressure is the water pressure when no water is flowing. Residual pressure is the pressure remaining when water is flowing through the system. Pipe sizing must ensure adequate residual pressure at the most remote fixture."
+      },
+      {
+        "term": "Minimum Fixture Pressure Requirements",
+        "definition": "The IPC requires a minimum of 8 psi residual pressure at most fixtures, 8 psi for flush tank toilets, 15 psi for flush valve toilets (flushometers), and 25 psi for some specialty fixtures. These minimums must be available at peak demand."
+      },
+      {
+        "term": "Pressure Gauge Testing",
+        "definition": "A pressure gauge attached to a hose bib allows measurement of static and residual pressure. A static pressure above 80 psi indicates a PRV is required or needs adjustment. Pressure below 40 psi suggests a supply problem or pressure drop issue."
+      }
+    ]
+  },
+  {
+    "chapter": "water-supply",
+    "difficulty": "advanced",
+    "title": "Water Supply Systems",
+    "subtitle": "Backflow preventer types, cross-connection code, RPZ vs. double-check, and thermal expansion requirements",
+    "points": [
+      {
+        "term": "Backflow Prevention — Two Types of Conditions",
+        "definition": "Backpressure backflow occurs when downstream pressure exceeds supply pressure (e.g., boilers, pumps). Backsiphonage occurs when supply pressure drops below atmospheric (e.g., main break, high demand), creating a siphon. Different preventers protect against each."
+      },
+      {
+        "term": "Reduced Pressure Zone (RPZ) Backflow Preventer",
+        "definition": "The highest level of testable backflow protection, required for high-hazard connections (irrigation with fertilizer injection, fire systems with antifreeze, industrial processes). It uses two check valves and a relief valve that opens if either check valve fails."
+      },
+      {
+        "term": "Double-Check Valve Assembly (DCVA)",
+        "definition": "A testable backflow preventer with two independent check valves, used for moderate-hazard applications such as fire sprinkler systems without antifreeze and commercial ice makers. It protects against backpressure but not as robustly as an RPZ."
+      },
+      {
+        "term": "Pressure Vacuum Breaker (PVB)",
+        "definition": "A testable backflow preventer for irrigation systems, providing protection against backsiphonage only (not backpressure). It must be installed at least 12 inches above the highest sprinkler head and cannot be used where backpressure could occur."
+      },
+      {
+        "term": "Cross-Connection Control Program",
+        "definition": "Municipal water utilities require annual testing of RPZ and DCVA assemblies by a certified backflow tester. Test results must be submitted to the water utility. Failure to test can result in water service discontinuation."
+      },
+      {
+        "term": "Thermal Expansion Code Requirements",
+        "definition": "The IPC requires a thermal expansion tank whenever a check valve, backflow preventer, or PRV creates a closed system. The expansion tank must be sized to the water heater capacity and set to match the static supply pressure."
+      },
+      {
+        "term": "Expansion Tank Pre-Charge Pressure",
+        "definition": "The air pre-charge in the expansion tank's bladder must equal the cold water static supply pressure before installation. An incorrectly charged tank will not absorb expansion properly and may cause excessive pressure."
+      },
+      {
+        "term": "Hose Connection Vacuum Breaker (HCVB)",
+        "definition": "A non-testable backflow preventer that threads onto a hose bib, protecting against backsiphonage when a hose is submerged in a pool, chemical bucket, or irrigation trench. Required at all hose bibs under the IPC."
+      },
+      {
+        "term": "Water Heater Temperature Setting for Legionella Control",
+        "definition": "The CDC and ASHRAE 188 recommend storage water heater temperature of at least 140°F to prevent Legionella bacteria growth. A thermostatic mixing valve must then blend down to 120°F at point-of-use to prevent scalding."
+      },
+      {
+        "term": "Maximum Supply Pressure — Code Limit",
+        "definition": "The IPC limits water pressure in supply pipes to a maximum of 80 psi. If the supply pressure exceeds 80 psi, a pressure reducing valve (PRV) must be installed. High pressure accelerates joint failure, valve wear, and increases water usage."
+      }
+    ]
+  },
+  {
+    "chapter": "codes",
+    "difficulty": "beginner",
+    "title": "Plumbing Codes & Regulations",
+    "subtitle": "What plumbing codes are, why they exist, and what a permit involves",
+    "points": [
+      {
+        "term": "International Plumbing Code (IPC)",
+        "definition": "A model plumbing code published by the International Code Council (ICC) that is adopted (often with amendments) by most U.S. states east of the Rockies and in many other jurisdictions. It covers all aspects of plumbing system design and installation."
+      },
+      {
+        "term": "Uniform Plumbing Code (UPC)",
+        "definition": "A model plumbing code published by the International Association of Plumbing and Mechanical Officials (IAPMO), commonly adopted in western U.S. states. The UPC and IPC are similar in most respects but differ on some technical requirements."
+      },
+      {
+        "term": "Local Amendments",
+        "definition": "Changes, deletions, or additions a state or local jurisdiction makes to a model code when adopting it. Always check both the adopted model code and local amendments, as local rules govern when they conflict."
+      },
+      {
+        "term": "Plumbing Permit",
+        "definition": "An official authorization issued by the local authority having jurisdiction (AHJ) that allows plumbing work to begin. Most plumbing work beyond minor repairs requires a permit to ensure the work is inspected for code compliance."
+      },
+      {
+        "term": "Authority Having Jurisdiction (AHJ)",
+        "definition": "The organization, office, or individual responsible for enforcing the code requirements. This is typically the local building department, and its inspector has the final word on what is acceptable."
+      },
+      {
+        "term": "Inspection",
+        "definition": "A review by the AHJ inspector to verify that installed plumbing complies with the adopted code. Common inspections include rough-in (before walls are closed) and final (after fixtures are installed and the system is operational)."
+      },
+      {
+        "term": "Code Compliance",
+        "definition": "Meeting all applicable minimum requirements of the adopted plumbing code. Codes set minimum standards — a plumber may exceed code requirements but cannot fall below them."
+      },
+      {
+        "term": "Licensed Plumber",
+        "definition": "A plumber who has met the education, experience, and examination requirements set by the state or local licensing authority. Most jurisdictions require that permitted plumbing work be performed or supervised by a licensed plumber."
+      }
+    ]
+  },
+  {
+    "chapter": "codes",
+    "difficulty": "intermediate",
+    "title": "Plumbing Codes & Regulations",
+    "subtitle": "The permit process, inspection stages, and how to navigate the code book",
+    "points": [
+      {
+        "term": "Permit Application Process",
+        "definition": "To obtain a permit, the applicant submits plans or a scope of work, pays a fee based on project value or fixture count, and receives approval before starting work. Some jurisdictions offer over-the-counter permits for small projects."
+      },
+      {
+        "term": "Rough-In Inspection",
+        "definition": "An inspection performed after all supply, drain, waste, and vent pipes are installed and before walls, floors, or ceilings are closed. The inspector verifies pipe materials, sizes, supports, slopes, and venting before the work is concealed."
+      },
+      {
+        "term": "Pressure Test (Rough-In)",
+        "definition": "During rough-in inspection, supply pipes are typically tested with water or air pressure (100 psi for 15 minutes for water, or as specified) and DWV pipes are tested by filling them with water (10-foot head test) to check for leaks."
+      },
+      {
+        "term": "Final Inspection",
+        "definition": "An inspection performed after all fixtures are installed, connected, and operational. The inspector checks fixture installations, trap accessibility, water heater safety devices, and overall function of the completed plumbing system."
+      },
+      {
+        "term": "Certificate of Occupancy (CO)",
+        "definition": "A document issued after all inspections are passed confirming a building is safe to occupy. Plumbing final inspection approval is required before a CO is issued for new construction or major renovation projects."
+      },
+      {
+        "term": "Code Book Structure (IPC)",
+        "definition": "The IPC is organized into chapters by system type: Chapter 1 (Administration), Chapter 3 (General Regulations), Chapter 4 (Fixtures), Chapter 5 (Water Heaters), Chapter 6 (Water Supply), Chapter 7 (Sanitary Drainage), Chapter 9 (Vents). Appendices are not enforceable unless specifically adopted."
+      },
+      {
+        "term": "Referenced Standards",
+        "definition": "Plumbing codes reference ASTM, ANSI, ASSE, ASME, and NSF standards for specific material and product requirements. When a code section says a product 'shall comply with ASSE 1016,' that ASSE standard becomes a code requirement."
+      },
+      {
+        "term": "Stop-Work Order",
+        "definition": "An official order from the AHJ requiring all work to stop immediately due to a code violation, lack of permit, or unsafe condition. Work cannot resume until the issue is resolved and the AHJ lifts the order."
+      },
+      {
+        "term": "As-Built Drawings",
+        "definition": "Revised plans that show the actual installed location of pipes, valves, and fixtures as built — which may differ from original permit drawings. Some jurisdictions require as-built submissions for complex projects."
+      }
+    ]
+  },
+  {
+    "chapter": "codes",
+    "difficulty": "advanced",
+    "title": "Plumbing Codes & Regulations",
+    "subtitle": "Fixture unit tables, pipe sizing calculations, and code violations with consequences",
+    "points": [
+      {
+        "term": "Fixture Unit Table Application",
+        "definition": "The plumber must total the DFU (drainage) or WSFU (supply) values for all fixtures served by a pipe, then look up the required minimum pipe size in the applicable table (IPC Tables 709.1 and 710.1 for drainage; Table 604.3 for supply). Sizing must also account for grade and developed length."
+      },
+      {
+        "term": "Developed Length",
+        "definition": "The total length of a pipe run measured along the centerline, including all fittings and offsets. Equivalent lengths of fittings (from the manufacturer or code tables) are added to actual pipe length to determine total friction loss for supply sizing."
+      },
+      {
+        "term": "Drainage Pipe Sizing for Horizontal Branches",
+        "definition": "IPC Table 710.1(1) sets maximum DFU loads for horizontal branches at various slopes. A 2\" branch at 1/4\"/ft handles up to 6 DFU; a 3\" branch handles up to 20 DFU; a 4\" branch handles up to 160 DFU. Toilets cannot connect to drains smaller than 3\"."
+      },
+      {
+        "term": "Vent Pipe Sizing",
+        "definition": "Vent pipes are sized using IPC Table 916.1, based on the DFU load of the drain they serve and the developed length of the vent. A vent must be at least one-half the diameter of the drain it vents and never smaller than 1-1/4\"."
+      },
+      {
+        "term": "Water Service Sizing Calculation",
+        "definition": "To size the water service, the plumber calculates total WSFU demand, determines available pressure at the meter, subtracts pressure losses (elevation, meter loss, pipe friction), and selects a pipe size providing at least the minimum residual pressure at the critical fixture."
+      },
+      {
+        "term": "Code Variance (Alternate Method)",
+        "definition": "A formal written request to the AHJ for permission to use a method or material not specifically covered by the code, supported by testing data, engineering calculations, or listing by an approved agency. The AHJ may approve or deny the variance."
+      },
+      {
+        "term": "Unlicensed Work — Penalties",
+        "definition": "Performing permitted plumbing work without a license can result in stop-work orders, fines, required demolition and re-inspection of installed work, denial of future permits, and civil liability if the work causes property damage or injury."
+      },
+      {
+        "term": "Code Cycle and Adoption Lag",
+        "definition": "The ICC publishes new editions of the IPC every three years (2018, 2021, 2024). Most jurisdictions lag one to two cycles behind. Always verify which code edition and local amendments are in effect — the exam may test a specific edition."
+      },
+      {
+        "term": "Plumbing Code vs. Mechanical Code",
+        "definition": "The IPC covers potable water supply and sanitary drainage. The IMC (International Mechanical Code) covers HVAC, gas appliances, and exhaust systems. Some systems (like gas water heaters) fall under both codes and must comply with both."
+      }
+    ]
+  },
+  {
+    "chapter": "safety",
+    "difficulty": "beginner",
+    "title": "Safety & Best Practices",
+    "subtitle": "Basic PPE, lead-free soldering, and fundamental tool safety for plumbers",
+    "points": [
+      {
+        "term": "Personal Protective Equipment (PPE)",
+        "definition": "Safety gear worn to minimize exposure to workplace hazards. Plumbers routinely use safety glasses or goggles, work gloves, steel-toed boots, and hard hats on construction sites."
+      },
+      {
+        "term": "Eye Protection",
+        "definition": "Safety glasses or goggles protect eyes from pipe shavings, solder spatter, chemical splashes, and debris when cutting, soldering, or working overhead. ANSI Z87.1-rated eye protection is the minimum standard."
+      },
+      {
+        "term": "Gloves",
+        "definition": "Work gloves protect hands from cuts when handling pipe and sheet metal, burns from soldering torches and hot pipe, and chemical exposure from flux, solvent cement, and cleaners. The correct glove type depends on the specific hazard."
+      },
+      {
+        "term": "Lead-Free Solder",
+        "definition": "Since the Safe Drinking Water Act of 1986, lead-based solder is prohibited for copper joints in potable water systems. Lead-free solder (containing no more than 0.2% lead) is required for all water supply connections."
+      },
+      {
+        "term": "Flux",
+        "definition": "A chemical paste or liquid applied to copper pipe and fittings before soldering that cleans the metal surface and helps solder flow into the joint. Most flux contains mild acid; wear gloves and avoid skin or eye contact."
+      },
+      {
+        "term": "Pipe Cutter",
+        "definition": "A handheld tool with a hardened cutting wheel that cuts copper or plastic pipe cleanly by rotating around the pipe. After cutting copper, ream the inside of the cut end to remove the burr that would restrict flow."
+      },
+      {
+        "term": "Torch Safety",
+        "definition": "Propane and MAPP gas torches used for soldering must be kept away from flammable materials. Use a flame shield (fire cloth) behind pipes near wood framing, never leave a lit torch unattended, and have a fire extinguisher within reach."
+      },
+      {
+        "term": "Material Safety Data Sheet (SDS/MSDS)",
+        "definition": "A document provided by chemical manufacturers that describes hazards, safe handling, PPE requirements, first aid measures, and emergency procedures for a chemical product. Plumbers must have access to SDS sheets for all chemicals they use."
+      }
+    ]
+  },
+  {
+    "chapter": "safety",
+    "difficulty": "intermediate",
+    "title": "Safety & Best Practices",
+    "subtitle": "Confined space awareness, trenching safety, hot work permits, and chemical handling",
+    "points": [
+      {
+        "term": "Permit-Required Confined Space",
+        "definition": "A space large enough to enter and work in, with limited entry/exit, not designed for continuous occupancy, and containing or having the potential for a serious hazard (atmospheric, entrapment, or engulfment). Examples include manholes, deep valve vaults, and large tanks."
+      },
+      {
+        "term": "Confined Space Atmospheric Hazards",
+        "definition": "Sewer manholes and valve vaults can contain hydrogen sulfide (H2S), methane, CO2, and oxygen-deficient air. Workers must test the atmosphere with a multi-gas detector before entry and continuously monitor throughout the work."
+      },
+      {
+        "term": "Confined Space Entry Requirements",
+        "definition": "Entry into a permit-required confined space requires an entry permit, a trained entry supervisor, an attendant stationed outside at all times, and rescue equipment (retrieval line, harness) available at the entry point."
+      },
+      {
+        "term": "Trenching and Excavation Safety",
+        "definition": "Excavations 5 feet or deeper must be protected against cave-in by sloping, shoring, or a trench shield (trench box). Workers must never enter an unprotected trench. Excavations must be inspected by a competent person before each shift."
+      },
+      {
+        "term": "Competent Person (Excavation)",
+        "definition": "An individual designated by the employer who can identify existing and predictable hazards in excavations and has the authority to take corrective action. The competent person must inspect excavations daily and after rain or other hazard-creating events."
+      },
+      {
+        "term": "Hot Work Permit",
+        "definition": "A written authorization required before using open flame, soldering torches, or grinding equipment in areas containing combustible materials. The permit documents fire watch responsibilities, hazard controls, and the work location."
+      },
+      {
+        "term": "Fire Watch",
+        "definition": "A person assigned to watch for and respond to fires during and after hot work. The fire watch must remain at the work area for at least 30 minutes after torch use is completed, because smoldering fires in walls or insulation can ignite later."
+      },
+      {
+        "term": "Solvent Cement Ventilation",
+        "definition": "PVC and ABS solvent cement releases flammable and potentially harmful vapors. Work must be performed in well-ventilated areas. In enclosed spaces, forced ventilation or respirator protection is required per the SDS."
+      },
+      {
+        "term": "Back Safety and Lifting Technique",
+        "definition": "Plumbers frequently lift heavy pipe, water heaters, and equipment. Proper technique includes keeping the load close to the body, bending at the knees (not the waist), and avoiding twisting while lifting. Mechanical aids should be used for loads over 50 pounds."
+      }
+    ]
+  },
+  {
+    "chapter": "safety",
+    "difficulty": "advanced",
+    "title": "Safety & Best Practices",
+    "subtitle": "OSHA requirements, lockout/tagout, asbestos/lead identification, and excavation depth rules",
+    "points": [
+      {
+        "term": "OSHA 29 CFR 1926 (Construction Safety Standards)",
+        "definition": "The federal OSHA standards governing construction sites, including plumbing work. Subpart P (Excavations) and Subpart Q (Concrete and Masonry) are particularly relevant to plumbing installation. OSHA violations carry fines up to $15,625 per violation for serious violations."
+      },
+      {
+        "term": "Lockout/Tagout (LOTO) — OSHA 1910.147",
+        "definition": "An OSHA standard requiring energy control procedures before servicing or maintaining equipment. For water systems, this means shutting off and locking the supply valve, draining pressure, and attaching a tag before working on pressurized lines or water heaters."
+      },
+      {
+        "term": "LOTO Steps for Water Systems",
+        "definition": "The standard LOTO sequence is: notify affected workers, identify all energy sources, shut off the main water supply, lock the valve with a lock (one lock per worker), release stored energy by opening a drain or faucet, verify zero energy state before beginning work."
+      },
+      {
+        "term": "Asbestos Pipe Insulation Identification",
+        "definition": "Older pipe insulation (pre-1980s) may contain asbestos, appearing as gray or white fibrous wrapping on pipes. It must not be disturbed or removed without an asbestos abatement plan, air monitoring, and a licensed abatement contractor. OSHA 29 CFR 1926.1101 governs asbestos in construction."
+      },
+      {
+        "term": "Lead Pipe Identification",
+        "definition": "Lead water service lines and interior supply pipes are dull gray, soft enough to be scratched with a key, and will show a bright metallic shine when scratched. Lead pipes are prohibited from use but may still exist in pre-1950s buildings. Disturbing lead joints requires lead-safe work practices per EPA's RRP Rule."
+      },
+      {
+        "term": "EPA Renovation, Repair and Painting (RRP) Rule",
+        "definition": "An EPA regulation (40 CFR Part 745) requiring certified firms and trained workers for renovation work in pre-1978 homes that may disturb lead-based paint. Plumbing work disturbing walls or involving replacement of lead pipes in older homes triggers RRP requirements."
+      },
+      {
+        "term": "Excavation Soil Classification",
+        "definition": "OSHA classifies soil in three types: Type A (stable clay, highest strength), Type B (medium stability, some cracking), and Type C (weakest, sand, gravel, or previously disturbed soil). Trench slope angles and shoring requirements are based on the soil classification."
+      },
+      {
+        "term": "Maximum Depth for Simple Sloping",
+        "definition": "For Type C soil (the most common worst-case assumption), OSHA requires a maximum slope of 1.5H:1V (34 degrees) for excavations up to 20 feet deep. Excavations deeper than 20 feet require a registered engineer to design the protective system."
+      },
+      {
+        "term": "Hydrogen Sulfide (H2S) Hazard",
+        "definition": "H2S is a colorless, flammable, and highly toxic gas produced by decomposing organic matter in sewers. At concentrations above 100 ppm it causes rapid unconsciousness and death. It is detectable by its rotten egg odor at low levels, but olfactory fatigue causes the smell to disappear at dangerous high concentrations."
+      },
+      {
+        "term": "Respiratory Protection — NIOSH Standards",
+        "definition": "When required by the SDS or OSHA standard, respirators must be NIOSH-approved for the specific contaminant. An N95 filters 95% of airborne particles; a half-face supplied-air respirator is required for IDLH (immediately dangerous to life or health) atmospheres such as H2S above 50 ppm."
+      }
+    ]
+  }
+]
