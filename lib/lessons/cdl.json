@@ -1,0 +1,165 @@
+[
+  {
+    "chapter": "general-knowledge",
+    "difficulty": "beginner",
+    "title": "General Knowledge",
+    "subtitle": "Basic CDL concepts, vehicle parts, and pre-trip inspection essentials",
+    "points": [
+      { "term": "Pre-Trip Inspection", "definition": "A required check performed before every trip covering the engine compartment, tires, lights, mirrors, brakes, coupling devices, cargo securement, and emergency equipment. Drivers are legally responsible for the vehicle's condition." },
+      { "term": "Engine Compartment", "definition": "The area checked during pre-trip for fluid levels (oil, coolant, power steering, windshield washer), belts, hoses, and leaks. Low fluid levels or visible leaks must be corrected before departure." },
+      { "term": "Coolant Temperature Gauge", "definition": "A dashboard gauge that shows engine coolant temperature. Normal operating range is typically between 170°F and 195°F; overheating requires immediate shutdown to prevent engine damage." },
+      { "term": "Oil Pressure Gauge", "definition": "A dashboard gauge indicating engine oil pressure. Pressure should rise shortly after startup; if it stays low or drops while driving, stop safely and investigate immediately." },
+      { "term": "Mirrors", "definition": "CDL vehicles require both flat (plane) and convex (curved) mirrors on each side to eliminate blind spots. Drivers must adjust mirrors properly before every trip to see alongside and behind the trailer." },
+      { "term": "Emergency Equipment", "definition": "Required safety gear including three red reflective triangles, a properly charged fire extinguisher (typically 5 B:C rating), and spare fuses. These items must be present and accessible at all times." },
+      { "term": "Tires", "definition": "Checked during pre-trip for tread depth (minimum 4/32\" on steer axle, 2/32\" on other axles), proper inflation, cuts, bulges, and missing valve caps. Dual tires must not be touching each other." },
+      { "term": "Lights and Reflectors", "definition": "All exterior lights — headlights, brake lights, turn signals, clearance lights, and reflectors — must be working and clean before operating. Inoperative lights are a common out-of-service violation." },
+      { "term": "Steering Wheel Play", "definition": "The amount of free movement in the steering wheel before the front wheels respond. Acceptable free play is no more than 10 degrees (about 2 inches on a 20-inch wheel)." },
+      { "term": "Cargo Securement", "definition": "All cargo must be properly blocked, braced, tied, or chained to prevent shifting or falling during transport. Drivers must inspect cargo securement before departure and within the first 50 miles." },
+      { "term": "Coupling Devices", "definition": "Hardware connecting the tractor and trailer, including the fifth wheel, kingpin, and safety cables. These must be inspected during pre-trip to ensure a secure connection." }
+    ]
+  },
+  {
+    "chapter": "general-knowledge",
+    "difficulty": "intermediate",
+    "title": "General Knowledge",
+    "subtitle": "Safe following distance, speed management, hazard perception, and skid recovery",
+    "points": [
+      { "term": "Following Distance Formula", "definition": "Allow one second of following distance for every 10 feet of vehicle length at speeds up to 40 mph. Add one additional second for speeds over 40 mph (e.g., a 60-foot truck at 55 mph needs 7 seconds)." },
+      { "term": "Speed Management", "definition": "Reduce speed for curves, wet or icy roads, construction zones, and heavy traffic. Proper speed management means you can always stop within the distance you can see ahead." },
+      { "term": "Night Driving", "definition": "At night, slow down so you can stop within the range of your headlights — low beams illuminate about 250 feet, high beams about 350-500 feet. Be alert for pedestrians, cyclists, and animals not easily visible." },
+      { "term": "Railroad Crossings", "definition": "Approach crossings in low gear, never shift gears while crossing the tracks, and never stop on the tracks. Vehicles carrying passengers or hazardous materials must stop 15-50 feet before crossing." },
+      { "term": "Mountain Driving (Descents)", "definition": "Select a low gear before starting downhill — the same gear used to climb the grade. Use engine braking as the primary method; apply brakes briefly and firmly to control speed, never ride them continuously." },
+      { "term": "Hazard Perception", "definition": "The skill of identifying developing road hazards early — such as merging vehicles, pedestrians near crosswalks, or debris — and adjusting speed or position before the situation becomes an emergency." },
+      { "term": "Skid Recovery (Rear Wheel)", "definition": "When rear wheels skid, steer in the direction the rear of the vehicle is sliding (countersteer). Release the brake or accelerator gently, and avoid overcorrecting once the vehicle straightens." },
+      { "term": "Front Wheel Skid", "definition": "Caused by going too fast in a curve or over-braking, front wheel skids result in loss of steering. Release the brake and allow the wheels to roll freely to regain steering control." },
+      { "term": "Hydroplaning", "definition": "Occurs when tires ride on a film of water and lose contact with the road, causing loss of steering and braking. Reduce speed in wet conditions; if hydroplaning occurs, ease off the accelerator gently." },
+      { "term": "Proper Braking Technique", "definition": "Apply steady, firm pressure to the brake pedal rather than pumping (unless equipped with ABS). Pump brakes only on older vehicles without ABS to prevent wheel lockup." }
+    ]
+  },
+  {
+    "chapter": "general-knowledge",
+    "difficulty": "advanced",
+    "title": "General Knowledge",
+    "subtitle": "FMCSA regulations, weight limits, Hours of Service rules, and DOT inspection standards",
+    "points": [
+      { "term": "Gross Vehicle Weight Rating (GVWR)", "definition": "The maximum allowable total weight of a fully loaded commercial vehicle, set at 80,000 lbs gross for most federal highways. Exceeding this limit violates federal law and causes road damage." },
+      { "term": "Axle Weight Limits", "definition": "Federal limits are 12,000 lbs on the steer axle, 34,000 lbs on a tandem drive axle group, and 80,000 lbs gross vehicle weight. Individual states may set lower limits." },
+      { "term": "Hours of Service (HOS) — Property", "definition": "Property-carrying drivers may drive a maximum of 11 hours after 10 consecutive hours off duty. The 14-hour rule prohibits driving after 14 hours from the start of the work day, regardless of breaks taken." },
+      { "term": "70-Hour / 8-Day Rule", "definition": "A driver may not drive after accumulating 70 hours on duty in any 8 consecutive days. The clock resets only after taking at least 34 consecutive hours off duty (34-hour restart)." },
+      { "term": "30-Minute Break Requirement", "definition": "Drivers must take a 30-minute break after 8 cumulative hours of driving time. The break may be taken as off-duty, sleeper berth, or on-duty not driving time." },
+      { "term": "FMCSA Cargo Securement Rule (49 CFR 393)", "definition": "Requires that cargo be secured with tie-downs rated to withstand forces of 0.8g forward, 0.5g rearward, and 0.5g sideways. The number of tie-downs required depends on cargo length and weight." },
+      { "term": "DOT Inspection Levels", "definition": "There are six levels of DOT roadside inspections, from Level I (full driver and vehicle examination) to Level VI (enhanced inspection for radioactive shipments). Level I is the most common." },
+      { "term": "Out-of-Service (OOS) Criteria", "definition": "Conditions that make a vehicle or driver ineligible to operate until corrected, such as brake defects, tire failures, or HOS violations. Driving an OOS vehicle can result in fines exceeding $16,000." },
+      { "term": "Accident Reporting Threshold", "definition": "A DOT-recordable accident involves a fatality, injury requiring immediate medical treatment away from the scene, or disabling damage requiring tow-away. The previous $5,200 property damage threshold has been updated; the current standard focuses on tow-away incidents." },
+      { "term": "Electronic Logging Device (ELD)", "definition": "A federally mandated device that automatically records driving time and HOS data in place of paper logs. Required for most commercial drivers; exemptions exist for vehicles older than model year 2000 and short-haul drivers meeting specific criteria." }
+    ]
+  },
+  {
+    "chapter": "air-brakes",
+    "difficulty": "beginner",
+    "title": "Air Brakes",
+    "subtitle": "Air brake system components, gauges, and the low air warning",
+    "points": [
+      { "term": "Air Compressor", "definition": "An engine-driven pump that builds and maintains compressed air in the brake system tanks. It cycles on and off automatically to keep air pressure within the operating range." },
+      { "term": "Air Storage Tanks (Reservoirs)", "definition": "Steel tanks that store compressed air for the brake system. They must be drained daily to remove moisture and oil, which can freeze in cold weather and damage brake components." },
+      { "term": "Governor", "definition": "A pressure-sensing device that controls when the air compressor loads and unloads. It cuts in (starts compressing) around 100 psi and cuts out (stops compressing) around 125 psi." },
+      { "term": "Brake Chambers", "definition": "Round metal chambers where air pressure is converted into mechanical force to apply the brakes. Each wheel position has its own brake chamber connected to the air lines." },
+      { "term": "Slack Adjusters", "definition": "Mechanical arms that connect the brake chamber pushrod to the brake camshaft. They compensate for brake lining wear and must be checked for proper adjustment during pre-trip inspection." },
+      { "term": "S-Cam (Foundation Brake)", "definition": "An S-shaped camshaft that rotates when the brakes are applied, pushing the brake shoes outward against the drum. The s-cam is the most common type of foundation brake on heavy trucks." },
+      { "term": "Application Pressure Gauge", "definition": "A dashboard gauge showing the amount of air pressure being applied to the brakes when the pedal is pressed. Helps the driver modulate brake force during stops." },
+      { "term": "Supply Pressure Gauge", "definition": "A dashboard gauge showing the current air pressure level in the tanks. Normal operating pressure is 100-125 psi; pressure below 60 psi triggers the low air warning." },
+      { "term": "Low Air Warning", "definition": "A warning device (light and/or buzzer) that activates when air pressure drops below 60 psi. At this point, the driver must stop safely and not attempt to continue until pressure is restored." },
+      { "term": "Spring Brakes", "definition": "Emergency and parking brakes that engage automatically when air pressure drops to 20-45 psi. They use large coil springs to apply the brakes and require air pressure to release (hold them off)." }
+    ]
+  },
+  {
+    "chapter": "air-brakes",
+    "difficulty": "intermediate",
+    "title": "Air Brakes",
+    "subtitle": "Dual air systems, stopping distance, brake fade, and proper downhill braking",
+    "points": [
+      { "term": "Dual Air System", "definition": "Modern air brake systems use two separate air circuits — primary (rear axle) and secondary (front axle and trailer) — so a failure in one circuit does not eliminate all braking ability." },
+      { "term": "Tractor Protection Valve", "definition": "A safety valve that automatically closes to protect the tractor's air supply if a trailer breaks away or develops a serious air leak. It activates when trailer air pressure drops below approximately 20-45 psi." },
+      { "term": "Brake Lag", "definition": "The delay of approximately 0.4 seconds between pressing the brake pedal and the actual application of brakes in an air brake system. This lag is added to perception and reaction time when calculating stopping distance." },
+      { "term": "Total Stopping Distance", "definition": "The sum of perception distance, reaction distance, brake lag distance, and braking distance. At 55 mph, a fully loaded truck may require 400 feet or more to stop — much more than a car." },
+      { "term": "Brake Fade", "definition": "A reduction in braking effectiveness caused by heat buildup in the brake drums from prolonged or repeated brake application. Brake fade is especially dangerous on long downgrades and can lead to brake failure." },
+      { "term": "Proper Downhill Braking", "definition": "Select a low gear before descending, use engine braking as the primary speed control, and apply the brakes in short firm applications (snub braking) to about 5 mph below your target speed, then release." },
+      { "term": "Stab Braking", "definition": "An emergency braking technique for vehicles without ABS: apply brakes fully until wheels lock, release to regain steering, then reapply. This prevents skidding while maintaining some steering control." },
+      { "term": "Controlled Braking", "definition": "Applying steady, firm brake pressure just short of wheel lockup to maintain steering while stopping as quickly as possible. Preferred technique for vehicles with ABS, which does this automatically." },
+      { "term": "Air Brake Pedal (Foot Valve)", "definition": "The driver's primary control for the air brake system. Pressing the pedal opens a valve that releases compressed air from the tanks into the brake chambers to apply the brakes." },
+      { "term": "Parking Brake Control (Yellow Diamond)", "definition": "A yellow diamond-shaped knob that controls the spring brakes on the tractor. Pulling it out exhausts air from the spring brake chambers, allowing the springs to apply the parking brakes." }
+    ]
+  },
+  {
+    "chapter": "air-brakes",
+    "difficulty": "advanced",
+    "title": "Air Brakes",
+    "subtitle": "Governor specifications, air loss tests, applied stroke limits, and out-of-service criteria",
+    "points": [
+      { "term": "Governor Cut-In / Cut-Out Pressure", "definition": "The air compressor governor cuts in (begins building air) at approximately 100 psi and cuts out (stops compressing) at approximately 125 psi. Pressures outside this range indicate a governor or compressor problem." },
+      { "term": "Air Loss Rate Test — Single Vehicle", "definition": "With engine off and air pressure at full, apply and hold the brake pedal. Air loss should not exceed 3 psi per minute for single vehicles. Greater loss indicates a leak that must be repaired before operation." },
+      { "term": "Air Loss Rate Test — Combination Vehicle", "definition": "With the brake applied and system at full pressure, air loss for a tractor-trailer combination must not exceed 4 psi per minute. This accounts for the additional air lines and connections in a combo unit." },
+      { "term": "Compressor Build-Up Time", "definition": "From 85 to 100 psi, the air compressor must rebuild pressure within 45 seconds at engine idle speed. Longer build-up times indicate a worn compressor or significant leak in the system." },
+      { "term": "Applied Pushrod Stroke Limits", "definition": "Each brake chamber has a maximum stroke (travel distance of the pushrod) that must not be exceeded when brakes are fully applied. Exceeding the legal stroke limit means brakes are out of adjustment and are an out-of-service violation." },
+      { "term": "Spring Brake Caging", "definition": "The process of mechanically compressing the spring brake spring using a caging bolt, releasing the brakes without air pressure. Used only in emergencies to move a vehicle with failed air; requires removing the caging bolt before returning to service." },
+      { "term": "Static Leak Test", "definition": "With full system pressure and brakes unapplied, the air pressure should not drop more than 2 psi per minute for single vehicles or 3 psi per minute for combinations. This tests for leaks in the supply side of the system." },
+      { "term": "Automatic Drain Valve", "definition": "A valve that automatically expels moisture from air tanks. Must be tested during pre-trip to confirm it opens; a manually operated drain valve requires the driver to drain the tanks at the end of each operating day." },
+      { "term": "Low Pressure Warning Activation Point", "definition": "The low air warning device must activate before air pressure drops below 60 psi. If the warning activates while driving, the driver must safely stop and not continue until pressure is restored to normal operating range." },
+      { "term": "Out-of-Service Air Brake Criteria", "definition": "A vehicle is placed out of service for air brake violations including: air loss rate exceeding limits, pushrod stroke beyond legal adjustment, inoperative low air warning, spring brake not holding, or air pressure that cannot build to 90 psi." }
+    ]
+  },
+  {
+    "chapter": "combination",
+    "difficulty": "beginner",
+    "title": "Combination Vehicles",
+    "subtitle": "Fifth wheel, kingpin, landing gear, glad hands, and trailer connection basics",
+    "points": [
+      { "term": "Fifth Wheel", "definition": "A horseshoe-shaped coupling plate mounted on the rear of the tractor that accepts the trailer's kingpin and locks it in place. It is the primary connection point between tractor and trailer." },
+      { "term": "Kingpin", "definition": "A steel pin mounted under the front of a semi-trailer that locks into the fifth wheel jaws. The kingpin transmits pulling forces from the tractor to the trailer." },
+      { "term": "Locking Jaws", "definition": "The mechanism inside the fifth wheel that closes around the kingpin to secure the trailer. After coupling, the driver must verify the jaws are fully locked by attempting to pull forward with the trailer brakes set." },
+      { "term": "Landing Gear", "definition": "Retractable metal legs located under the front of a semi-trailer that support the trailer when it is uncoupled from the tractor. They must be fully raised before driving." },
+      { "term": "Glad Hands", "definition": "Horseshoe-shaped couplers that connect the tractor's air lines to the trailer's air lines. The blue glad hand carries service air; the red carries emergency (supply) air." },
+      { "term": "Pigtail (Electrical Connector)", "definition": "A 7-pin electrical cable that connects the tractor to the trailer to power the trailer's lights, ABS system, and other electrical functions. Must be connected and inspected before departure." },
+      { "term": "Apron", "definition": "The flat steel plate at the front of a semi-trailer that the fifth wheel slides under during coupling. The trailer must be at the correct height for the apron to contact the fifth wheel properly." },
+      { "term": "Bobtailing", "definition": "Operating a tractor without a trailer attached. Bobtail tractors have a higher center of gravity, less braking efficiency, and a shorter wheelbase, making them harder to control than a loaded combination." },
+      { "term": "Converter Dolly", "definition": "A small wheeled axle unit with a fifth wheel on top used to convert a semi-trailer into a full trailer, allowing it to be towed by another trailer in a double or triple combination." },
+      { "term": "Safety Chains / Cables", "definition": "Cables or chains that connect a converter dolly to the trailer ahead as a backup connection. They prevent the dolly from jackknifing away if the primary coupling fails." }
+    ]
+  },
+  {
+    "chapter": "combination",
+    "difficulty": "intermediate",
+    "title": "Combination Vehicles",
+    "subtitle": "Coupling and uncoupling procedures, rollover risk, jackknife, off-tracking, and backing",
+    "points": [
+      { "term": "Coupling Procedure", "definition": "Inspect fifth wheel, position tractor to align with kingpin, back slowly under trailer until fifth wheel contacts apron, check jaws are locked, connect air lines and electrical, raise landing gear, and tug test. Each step must be completed in order to ensure a safe hookup." },
+      { "term": "Uncoupling Procedure", "definition": "Position on level ground, lower landing gear, disconnect air lines and electrical, release fifth wheel latch, ease tractor forward until kingpin clears the jaws, then pull completely clear of the trailer." },
+      { "term": "Tug Test", "definition": "After coupling, pull forward gently with the trailer brakes locked to verify the kingpin is fully secured in the fifth wheel jaws. The trailer should not move; if it does, the coupling is incomplete." },
+      { "term": "Rollover Risk", "definition": "The leading cause of fatal truck crashes. Risk increases with high center of gravity loads, excessive speed in curves, and sudden steering inputs. Loaded tankers and top-heavy trailers are especially susceptible." },
+      { "term": "Trailer Jackknife", "definition": "Occurs when the trailer wheels lock and the trailer swings outward relative to the tractor, forming a V or jackknife shape. Caused by excessive braking or braking on slippery surfaces; anti-lock brakes significantly reduce this risk." },
+      { "term": "Tractor Jackknife", "definition": "Occurs when the tractor's drive wheels lose traction and the rear of the tractor swings outward. More common in bobtail situations or when braking on slippery roads with an empty or lightly loaded trailer." },
+      { "term": "Off-Tracking", "definition": "The tendency of a trailer's rear wheels to follow a shorter path than the front wheels when turning. Drivers must swing wide on turns to allow the trailer rear to clear curbs, signs, and pedestrians." },
+      { "term": "Trailer Swing", "definition": "The outward arc swept by the rear of a trailer during a turn, which can strike objects in adjacent lanes or on the curb side. Checking trailer swing is essential when making right turns in urban areas." },
+      { "term": "Backing Techniques", "definition": "Back slowly and use small steering inputs; the trailer turns opposite to the steering wheel direction. Use the driver's-side backing position when possible, and get out to look (G.O.A.L.) when in doubt about clearances." },
+      { "term": "Sight-Side vs. Blind-Side Backing", "definition": "Sight-side backing means the trailer moves toward the driver's window side, giving maximum visibility. Blind-side backing moves the trailer toward the passenger side and should be avoided when possible." }
+    ]
+  },
+  {
+    "chapter": "combination",
+    "difficulty": "advanced",
+    "title": "Combination Vehicles",
+    "subtitle": "Rearward amplification, bridge formula, air line colors, no-zones, and following distance",
+    "points": [
+      { "term": "Crack-the-Whip Effect", "definition": "In multi-trailer combinations, the rearmost trailer experiences greater sway and instability than the lead trailer during lane changes or evasive maneuvers. This amplification increases with each additional trailer unit." },
+      { "term": "Rearward Amplification", "definition": "A measurable phenomenon where the sway motion of each successive trailer in a double or triple combination is amplified. The rear trailer of a triple may sway two or more times as much as the lead trailer for the same steering input." },
+      { "term": "Bridge Formula", "definition": "A federal formula (23 U.S.C. 127) that limits the weight any group of axles can carry based on the distance between them. It prevents overloading bridges by distributing weight over a longer span of axles." },
+      { "term": "Air Line Colors", "definition": "Federal standards require the service line (which controls brake application pressure) to be blue, and the emergency/supply line (which charges the trailer tanks) to be red. Crossed connections are a serious safety hazard." },
+      { "term": "Crossed Air Lines", "definition": "If the service and emergency glad hands are accidentally reversed, the trailer brakes will stay applied when the truck moves (service line has no air) or the brakes will not release. Always verify connections by checking line color before departure." },
+      { "term": "No-Zone Areas", "definition": "The four large blind spots around a tractor-trailer where the driver cannot see other vehicles: directly in front, directly behind, and to the right and left sides. Other drivers should avoid lingering in no-zones." },
+      { "term": "Combination Vehicle Following Distance", "definition": "Allow one second per 10 feet of vehicle length at speeds up to 40 mph, plus one additional second for speeds over 40 mph. A 65-foot combination at 55 mph requires at least 8 seconds of following distance." },
+      { "term": "Converter Dolly Air Connections", "definition": "A converter dolly must have its own air connections, including a service and emergency line from the first trailer. The dolly's brakes must be tested as part of the pre-trip inspection on double and triple combinations." },
+      { "term": "Triple Combination Restrictions", "definition": "Triple trailer combinations (triples) are not permitted in all states and require special endorsements. They are primarily used in western states where longer combination vehicles (LCVs) are legal on certain routes." },
+      { "term": "Fifth Wheel Placement (Slide)", "definition": "A sliding fifth wheel can be repositioned fore and aft on the tractor frame to adjust weight distribution between the steer and drive axles. Moving the fifth wheel forward shifts weight to the steer axle; moving it rearward shifts weight to the drive axles." }
+    ]
+  }
+]
