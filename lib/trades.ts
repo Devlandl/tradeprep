@@ -217,6 +217,68 @@ export const trades: Trade[] = [
       },
     ],
   },
+  {
+    id: "real-estate",
+    name: "Real Estate",
+    slug: "real-estate",
+    description:
+      "Prepare for your national real estate licensing exam. Covers property ownership, land use, valuation, financing, agency, and math. State exams coming soon.",
+    color: "text-violet-500",
+    bgColor: "bg-violet-50",
+    icon: "Building2",
+    storeSlug: "tradeprep-real-estate",
+    storeUrl: "https://tvrapp.app/store/tradeprep-real-estate",
+    chapters: [
+      {
+        id: "property-ownership",
+        name: "Property Ownership",
+        description: "Types of ownership, estates, rights, encumbrances",
+      },
+      {
+        id: "land-use",
+        name: "Land Use & Regulations",
+        description: "Zoning, environmental, building codes, fair housing",
+      },
+      {
+        id: "valuation",
+        name: "Valuation & Market Analysis",
+        description: "Appraisal methods, CMA, market value",
+      },
+      {
+        id: "financing",
+        name: "Financing",
+        description: "Mortgages, loan types, qualifying, closing costs",
+      },
+      {
+        id: "agency-contracts",
+        name: "Agency & Contracts",
+        description: "Agent relationships, listings, purchase contracts",
+      },
+      {
+        id: "real-estate-math",
+        name: "Real Estate Math",
+        description: "Commission, prorations, area calculations, loan-to-value",
+      },
+      {
+        id: "texas-state",
+        name: "Texas State Exam",
+        description: "Texas-specific real estate law and regulations",
+        comingSoon: true,
+      },
+      {
+        id: "florida-state",
+        name: "Florida State Exam",
+        description: "Florida-specific real estate law and regulations",
+        comingSoon: true,
+      },
+      {
+        id: "california-state",
+        name: "California State Exam",
+        description: "California-specific real estate law and regulations",
+        comingSoon: true,
+      },
+    ],
+  },
 ];
 
 export const difficulties = ["beginner", "intermediate", "advanced"] as const;
