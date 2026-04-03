@@ -1,0 +1,325 @@
+[
+  {
+    "chapter": "property-ownership",
+    "difficulty": "beginner",
+    "title": "Property Ownership",
+    "subtitle": "Types of ownership, estates, and property rights",
+    "points": [
+      { "term": "Fee Simple Absolute", "definition": "The highest and most complete form of property ownership. The owner has unlimited rights to use, sell, lease, or pass the property to heirs with no conditions or time limits." },
+      { "term": "Life Estate", "definition": "Ownership interest in property that lasts only for the lifetime of a specified person (the life tenant). When that person dies, the property passes to the remainderman." },
+      { "term": "Leasehold Estate", "definition": "A non-freehold interest in property where the tenant has the right to possess and use the property for a defined period under a lease agreement. The landlord retains ownership." },
+      { "term": "Tenancy in Common", "definition": "A form of co-ownership where two or more people each hold an undivided interest in a property. Interests may be unequal, and each owner can sell or will their share independently." },
+      { "term": "Joint Tenancy", "definition": "Co-ownership with the right of survivorship, meaning if one owner dies, their share automatically passes to the surviving joint tenant(s). All owners must have equal shares acquired at the same time." },
+      { "term": "Community Property", "definition": "A marital property system in which most property acquired during marriage is owned equally by both spouses. Currently recognized in nine states including California, Texas, and Arizona." },
+      { "term": "Condominium", "definition": "Individual ownership of an airspace unit within a multi-unit building plus an undivided interest in common areas. Owners pay monthly HOA fees for maintenance of shared spaces." },
+      { "term": "Cooperative (Co-op)", "definition": "A form of ownership where residents buy shares in a corporation that owns the building, receiving a proprietary lease for their unit rather than a deed. The corporation holds title to all real property." },
+      { "term": "Freehold Estate", "definition": "An ownership interest in real property that is of indefinite duration, such as fee simple or a life estate. The owner holds the property outright rather than under a lease." },
+      { "term": "Non-Freehold Estate", "definition": "A leasehold interest in property with a definite duration, such as a tenancy for years or a month-to-month tenancy. The tenant has possession but not ownership." }
+    ]
+  },
+  {
+    "chapter": "property-ownership",
+    "difficulty": "intermediate",
+    "title": "Property Ownership",
+    "subtitle": "Bundle of rights, encumbrances, easements, and special ownership interests",
+    "points": [
+      { "term": "Bundle of Rights", "definition": "The collection of legal rights associated with property ownership, including the right to use, enjoy, exclude others, encumber, and dispose of the property. Ownership can be split by transferring individual rights." },
+      { "term": "Easement Appurtenant", "definition": "An easement that benefits an adjacent property (dominant estate) and runs with the land when it is sold. A common example is a shared driveway easement between neighboring parcels." },
+      { "term": "Easement in Gross", "definition": "An easement that benefits a person or company rather than an adjacent parcel. Utility company rights-of-way to run power lines across private land are the most common example." },
+      { "term": "Voluntary Lien", "definition": "A lien the property owner voluntarily places on their property, such as a mortgage or deed of trust used to secure a loan. The owner consents to the lien as part of the financing agreement." },
+      { "term": "Involuntary Lien", "definition": "A lien placed on property without the owner's consent, such as a tax lien, mechanic's lien, or judgment lien. These encumbrances cloud title and must typically be resolved before a sale." },
+      { "term": "Encroachment", "definition": "When a structure or improvement illegally extends onto another person's property. An encroachment can be identified by a survey and may lead to legal action or a forced removal." },
+      { "term": "Deed Restriction (CC&Rs)", "definition": "Private limitations on land use placed in a deed by a prior owner or developer, such as restrictions on building height or permitted uses. They run with the land and bind future owners." },
+      { "term": "Homestead Exemption", "definition": "A legal protection that reduces the assessed value of a primary residence for property tax purposes and, in some states, protects the home from forced sale by creditors." },
+      { "term": "Riparian Rights", "definition": "The rights of a property owner whose land borders a river or stream to use the water. The owner generally may use the water but cannot unreasonably obstruct or divert it." },
+      { "term": "Littoral Rights", "definition": "The rights of a property owner whose land borders a lake, ocean, or other standing body of water. Ownership typically extends to the high-water mark or mean high tide line." }
+    ]
+  },
+  {
+    "chapter": "property-ownership",
+    "difficulty": "advanced",
+    "title": "Property Ownership",
+    "subtitle": "Legal descriptions, title transfer, recording statutes, and government powers",
+    "points": [
+      { "term": "Metes and Bounds", "definition": "A method of legal description that traces the boundary of a parcel using directions (bearings) and distances starting and ending at a point of beginning (POB). Commonly used in the original thirteen states." },
+      { "term": "Rectangular Survey System", "definition": "A grid-based legal description method using principal meridians, base lines, townships (6x6 mile squares), and sections (1-square-mile, 640 acres). Used in most states west of Ohio." },
+      { "term": "Lot and Block System", "definition": "A legal description method that references a recorded plat map, identifying property by its lot number, block number, subdivision name, county, and state. Common for residential subdivisions." },
+      { "term": "Voluntary Alienation", "definition": "The transfer of property ownership by the owner's free will, such as by sale (using a deed) or gift. A valid deed requires a grantor, grantee, legal description, granting clause, and delivery." },
+      { "term": "Involuntary Alienation", "definition": "Transfer of property without the owner's consent, such as through foreclosure, eminent domain, adverse possession, or escheat. No deed from the owner is required." },
+      { "term": "Recording Statutes", "definition": "State laws requiring deeds, mortgages, and other instruments to be recorded in public records to protect against subsequent claims. Most states follow a race-notice rule, protecting bona fide purchasers who record first." },
+      { "term": "Adverse Possession", "definition": "A doctrine allowing a trespasser to gain legal title to land after openly, continuously, hostilely, and exclusively possessing it for a statutory period (often 5–21 years, varying by state)." },
+      { "term": "Eminent Domain", "definition": "The government's power to take private property for public use with just compensation to the owner. The legal process used to exercise this power is called condemnation." },
+      { "term": "Escheat", "definition": "The reversion of property to the state when an owner dies intestate (without a will) and has no heirs, or when property is abandoned for a statutory period." },
+      { "term": "Title Insurance", "definition": "An insurance policy protecting buyers and lenders against losses from defects in title that existed before the policy date, such as forged deeds, undisclosed heirs, or recording errors." }
+    ]
+  },
+  {
+    "chapter": "land-use",
+    "difficulty": "beginner",
+    "title": "Land Use & Fair Housing",
+    "subtitle": "Zoning, government controls, and protected classes under the Fair Housing Act",
+    "points": [
+      { "term": "Zoning", "definition": "Government regulations that divide land into districts and specify permitted uses for each zone, such as residential, commercial, industrial, or agricultural. Zoning is an exercise of police power." },
+      { "term": "Residential Zoning", "definition": "Land use classification permitting housing, which may be further divided into single-family, multi-family, or mixed-use designations. Density and setback requirements vary by zone." },
+      { "term": "Commercial Zoning", "definition": "A zoning classification allowing retail, office, service businesses, and sometimes light industrial uses. Specific requirements for parking, signage, and building design often apply." },
+      { "term": "Building Permit", "definition": "Government authorization required before construction, renovation, or demolition may begin on a structure. Permits ensure work complies with local building codes and zoning ordinances." },
+      { "term": "Certificate of Occupancy (CO)", "definition": "A document issued by a local government certifying that a newly constructed or renovated building meets code requirements and is safe for occupancy. Required before residents or tenants may move in." },
+      { "term": "Variance", "definition": "Official permission to deviate from zoning regulations in a specific instance. An area variance allows a physical deviation (e.g., smaller setback), while a use variance allows a non-permitted use." },
+      { "term": "Fair Housing Act (1968)", "definition": "Federal law that prohibits discrimination in the sale, rental, and financing of residential housing based on protected classes. Administered by HUD and enforced through civil rights complaints and lawsuits." },
+      { "term": "Protected Class", "definition": "A group of people legally protected from discrimination under the Fair Housing Act. Federal law protects seven classes; many states and localities add additional protections." },
+      { "term": "Steering", "definition": "The illegal practice of directing buyers or renters toward or away from certain neighborhoods based on their membership in a protected class. Steering is a form of housing discrimination." },
+      { "term": "Blockbusting", "definition": "The illegal practice of inducing homeowners to sell by suggesting that people of a protected class are moving into the neighborhood, then profiting from the resulting turnover. Also called panic selling." }
+    ]
+  },
+  {
+    "chapter": "land-use",
+    "difficulty": "intermediate",
+    "title": "Land Use & Fair Housing",
+    "subtitle": "Seven protected classes, ADA, environmental hazards, and disclosure requirements",
+    "points": [
+      { "term": "7 Federal Protected Classes", "definition": "Race, color, national origin, religion, sex, familial status, and disability are the seven classes protected by the federal Fair Housing Act. Agents must treat all clients equally across these categories." },
+      { "term": "Familial Status", "definition": "Protection for families with children under 18 and pregnant women. Landlords may not refuse to rent or impose different terms based on the presence of children, with limited exceptions for qualifying senior housing." },
+      { "term": "Disability (Fair Housing)", "definition": "Landlords must allow reasonable modifications (at tenant's expense) and make reasonable accommodations in rules for persons with disabilities. Service animals must be permitted even in no-pet properties." },
+      { "term": "Americans with Disabilities Act (ADA)", "definition": "Federal law requiring places of public accommodation and commercial facilities to be accessible to people with disabilities. ADA applies to commercial real estate but generally not to private residential dwellings." },
+      { "term": "Lead-Based Paint Disclosure", "definition": "Federal law requires sellers and landlords of pre-1978 housing to disclose known lead-based paint hazards and provide buyers with a 10-day inspection period. Applies to all residential properties built before 1978." },
+      { "term": "Asbestos", "definition": "A hazardous fibrous material once common in insulation, floor tiles, and roofing materials. Disturbed asbestos releases fibers that cause lung disease; its presence must be disclosed and remediated by licensed contractors." },
+      { "term": "Radon", "definition": "A naturally occurring radioactive gas that can accumulate in basements and lower levels, significantly elevating lung cancer risk. Testing and mitigation (sub-slab depressurization) are recommended in high-risk areas." },
+      { "term": "Flood Zone Designation", "definition": "FEMA maps areas by flood risk; properties in Special Flood Hazard Areas (SFHA) require flood insurance for federally backed loans. Flood zone status must typically be disclosed to buyers." },
+      { "term": "Wetlands", "definition": "Areas saturated by water that support aquatic vegetation and wildlife; regulated by the Army Corps of Engineers under Section 404 of the Clean Water Act. Development in wetlands requires federal permits." },
+      { "term": "Mold Disclosure", "definition": "Many states require sellers to disclose known mold conditions, as mold can cause health problems and structural damage. Buyers may also request a mold inspection as part of due diligence." }
+    ]
+  },
+  {
+    "chapter": "land-use",
+    "difficulty": "advanced",
+    "title": "Land Use & Fair Housing",
+    "subtitle": "Comprehensive plans, nonconforming use, environmental law, and regulatory takings",
+    "points": [
+      { "term": "Comprehensive Plan (Master Plan)", "definition": "A long-range policy document guiding a community's future land use, transportation, housing, and economic development. Zoning ordinances must generally be consistent with the comprehensive plan." },
+      { "term": "Nonconforming Use", "definition": "A legally established use that no longer conforms to current zoning regulations but is allowed to continue. The use is often grandfathered in but may not be expanded; if discontinued for a set period, it may not be resumed." },
+      { "term": "Spot Zoning", "definition": "The rezoning of a single parcel differently from surrounding properties for the benefit of the landowner rather than the public. Spot zoning is generally considered illegal if it conflicts with the comprehensive plan." },
+      { "term": "Regulatory Taking (Inverse Condemnation)", "definition": "When government regulation of property is so restrictive that it deprives the owner of all or most economic use, it may constitute a taking requiring just compensation, even without formal condemnation." },
+      { "term": "Police Power", "definition": "The inherent authority of state and local governments to enact laws and regulations to protect public health, safety, morals, and general welfare. Zoning, building codes, and licensing laws are exercises of police power." },
+      { "term": "CERCLA / Superfund", "definition": "The Comprehensive Environmental Response, Compensation, and Liability Act holds current and past property owners, operators, and generators liable for cleanup of contaminated sites. Innocent landowner defense requires due diligence." },
+      { "term": "Phase I Environmental Site Assessment", "definition": "A study of a property's history, site records, and visual inspection to identify potential environmental contamination. Required by lenders and prudent buyers before purchasing commercial or industrial property." },
+      { "term": "Environmental Impact Statement (EIS)", "definition": "A detailed analysis required by NEPA for major federal actions significantly affecting the environment. It evaluates alternatives and mitigation measures before a project can proceed." },
+      { "term": "Buffer Zone", "definition": "A transitional area between incompatible land uses, such as a strip of landscaping or lower-density zoning between an industrial zone and a residential neighborhood. Used to reduce conflicts and protect adjacent uses." },
+      { "term": "Conditional Use Permit (CUP)", "definition": "Permission to operate a use that is not automatically allowed in a zone but may be approved with specific conditions to protect neighboring properties, such as a daycare center in a residential zone." }
+    ]
+  },
+  {
+    "chapter": "valuation",
+    "difficulty": "beginner",
+    "title": "Valuation & Appraisal",
+    "subtitle": "Market value, appraisal basics, assessed value, and price vs. value",
+    "points": [
+      { "term": "Market Value", "definition": "The most probable price a property would sell for in a competitive and open market under fair sale conditions. Market value is an estimate, not a guarantee, and assumes informed buyers and sellers acting without duress." },
+      { "term": "Appraisal", "definition": "A professional opinion of a property's value prepared by a licensed or certified appraiser. Lenders require appraisals for mortgage loans to ensure the property supports the loan amount." },
+      { "term": "Comparative Market Analysis (CMA)", "definition": "An informal estimate of market value prepared by a real estate agent using recent sales, active listings, and expired listings of similar properties. A CMA is not an appraisal and cannot be used for lending purposes." },
+      { "term": "Assessed Value", "definition": "The value assigned to a property by a local tax assessor for the purpose of calculating property taxes. Assessed value may be equal to, less than, or greater than market value depending on local assessment ratios." },
+      { "term": "Listing Price", "definition": "The price at which a seller offers a property for sale. The listing price is set by the seller (often with agent guidance) and may differ from the final sale price." },
+      { "term": "Sale Price", "definition": "The actual price agreed upon by buyer and seller in an arm's-length transaction. Sale price is used as evidence of market value for comparable sales analysis." },
+      { "term": "Appreciation", "definition": "An increase in a property's value over time, driven by market demand, improvements, inflation, or favorable location changes. Appreciation builds equity for property owners." },
+      { "term": "Depreciation", "definition": "A decrease in a property's value due to physical deterioration, functional obsolescence, or external factors. For tax purposes, residential investment property is depreciated over 27.5 years." },
+      { "term": "Equity", "definition": "The difference between a property's current market value and the outstanding balance of any loans secured by the property. Equity increases as the property value rises or the mortgage balance is paid down." },
+      { "term": "Subject Property", "definition": "The specific property being appraised or evaluated. In an appraisal report, all comparable sales are analyzed in relation to the subject property's features and location." }
+    ]
+  },
+  {
+    "chapter": "valuation",
+    "difficulty": "intermediate",
+    "title": "Valuation & Appraisal",
+    "subtitle": "Three approaches to value, comparable adjustments, GRM, and reconciliation",
+    "points": [
+      { "term": "Sales Comparison Approach", "definition": "An appraisal method that estimates value by comparing the subject property to recent sales of similar properties (comparables), adjusting for differences in features, condition, and location." },
+      { "term": "Cost Approach", "definition": "An appraisal method that estimates value by calculating the cost to reproduce or replace the improvements plus the land value, minus depreciation. Most reliable for new or unique properties with few comparables." },
+      { "term": "Income Approach", "definition": "An appraisal method that estimates value based on the income a property generates. Used primarily for income-producing properties; value is derived by capitalizing net operating income." },
+      { "term": "Comparable (Comp)", "definition": "A recently sold property similar to the subject in location, size, age, and features used in the sales comparison approach. Appraisers typically use three to six comparables." },
+      { "term": "Adjustment", "definition": "A dollar amount added to or subtracted from a comparable's sale price to account for differences from the subject property. If the comp is superior to the subject in a feature, the adjustment is negative (subtract from comp)." },
+      { "term": "Gross Rent Multiplier (GRM)", "definition": "A quick income-based valuation metric: GRM = Sale Price ÷ Gross Monthly Rent. It is used to compare similar rental properties but does not account for expenses or vacancy." },
+      { "term": "Reconciliation", "definition": "The final step in an appraisal where the appraiser reviews the value indications from each approach and weighs them to arrive at a single opinion of value. The approach most applicable to the property type receives the most weight." },
+      { "term": "Effective Age", "definition": "The age a property appears to be based on its condition and maintenance, which may differ from its actual (chronological) age. A well-maintained older home may have a lower effective age." },
+      { "term": "Remaining Economic Life", "definition": "The estimated number of years a property will continue to generate income or be useful, used in the cost approach to calculate depreciation. Remaining economic life = Total economic life minus effective age." },
+      { "term": "Principle of Substitution", "definition": "The appraisal principle stating that a buyer will pay no more for a property than the cost of acquiring an equally desirable substitute. This principle underlies all three approaches to value." }
+    ]
+  },
+  {
+    "chapter": "valuation",
+    "difficulty": "advanced",
+    "title": "Valuation & Appraisal",
+    "subtitle": "Cap rate, NOI, depreciation types, USPAP, and highest and best use",
+    "points": [
+      { "term": "Capitalization Rate (Cap Rate)", "definition": "The rate of return on an investment property: Cap Rate = NOI ÷ Value. A higher cap rate indicates greater return (and typically higher risk); used to convert income into a value estimate." },
+      { "term": "Net Operating Income (NOI)", "definition": "Gross potential income minus vacancy and credit losses minus operating expenses (taxes, insurance, maintenance, management), before debt service. NOI = Cap Rate × Value in the income approach." },
+      { "term": "Reproduction Cost", "definition": "The cost to build an exact replica of the subject improvement using the same materials and methods as the original. Used when historic accuracy is important; generally higher than replacement cost." },
+      { "term": "Replacement Cost", "definition": "The cost to build a functionally equivalent structure using modern materials and construction methods. Replacement cost is more commonly used in appraisal because reproduction cost can be unrealistically high." },
+      { "term": "Physical Depreciation", "definition": "Loss in value due to physical wear, tear, and deterioration of the structure, such as aging roof, cracked foundation, or peeling paint. May be curable (worth fixing) or incurable (too costly to repair)." },
+      { "term": "Functional Obsolescence", "definition": "Loss in value due to outmoded design, outdated features, or poor floor plan, such as a one-bathroom home in a market expecting two. Can be curable (remodel) or incurable (structural deficiency)." },
+      { "term": "External (Economic) Obsolescence", "definition": "Loss in value caused by factors outside the property, such as proximity to a new highway, declining neighborhood, or economic downturn. Always considered incurable because the owner cannot fix external conditions." },
+      { "term": "Highest and Best Use", "definition": "The legally permissible, physically possible, financially feasible, and maximally productive use that results in the highest value for a property. Appraisers determine highest and best use before estimating value." },
+      { "term": "USPAP", "definition": "The Uniform Standards of Professional Appraisal Practice, established by the Appraisal Standards Board, sets the ethical and performance standards for appraisers. Compliance is required for federally related transactions." },
+      { "term": "Gross Income Multiplier (GIM)", "definition": "Similar to GRM but uses annual gross income: GIM = Sale Price ÷ Gross Annual Income. Used for commercial properties where annual income figures are more commonly referenced than monthly rent." }
+    ]
+  },
+  {
+    "chapter": "financing",
+    "difficulty": "beginner",
+    "title": "Real Estate Financing",
+    "subtitle": "Mortgages, basic loan terms, down payments, and credit fundamentals",
+    "points": [
+      { "term": "Mortgage", "definition": "A legal instrument that pledges real property as collateral for a loan. If the borrower defaults, the lender can foreclose and sell the property to recover the debt." },
+      { "term": "Promissory Note", "definition": "The borrower's written promise to repay a loan under specified terms including interest rate, payment schedule, and maturity date. The note is the primary evidence of the debt." },
+      { "term": "Down Payment", "definition": "The portion of the purchase price paid by the buyer in cash at closing, not financed by a loan. A larger down payment reduces the loan amount and typically results in better loan terms." },
+      { "term": "Closing Costs", "definition": "Fees and expenses paid at settlement in addition to the purchase price, including lender fees, title insurance, escrow fees, prepaid items, and recording fees. Typically 2–5% of the loan amount." },
+      { "term": "Pre-Approval", "definition": "A lender's conditional commitment to lend a specified amount based on verified income, assets, and credit. Pre-approval is stronger than pre-qualification and gives buyers credibility with sellers." },
+      { "term": "Credit Score", "definition": "A numerical rating (300–850) summarizing a borrower's creditworthiness based on payment history, amounts owed, length of credit history, new credit, and credit mix. Higher scores qualify for better rates." },
+      { "term": "Equity", "definition": "The owner's financial interest in a property, calculated as market value minus outstanding loan balances. Equity grows through principal paydown, appreciation, and property improvements." },
+      { "term": "Principal", "definition": "The original loan amount borrowed, separate from interest. Each mortgage payment includes a portion applied to reduce the principal balance and a portion applied to interest." },
+      { "term": "Interest Rate", "definition": "The annual percentage charged by a lender for the use of borrowed money. The interest rate directly affects monthly payments and total cost of the loan over its life." },
+      { "term": "Amortization", "definition": "The process of paying off a loan through regular scheduled payments that cover both principal and interest. Early payments are mostly interest; later payments are mostly principal." }
+    ]
+  },
+  {
+    "chapter": "financing",
+    "difficulty": "intermediate",
+    "title": "Real Estate Financing",
+    "subtitle": "Loan types, mortgage insurance, escrow, adjustable rates, and loan structure",
+    "points": [
+      { "term": "Conventional Loan", "definition": "A mortgage not insured or guaranteed by a federal agency. Conventional loans typically require stronger credit and larger down payments than government-backed loans but have fewer restrictions." },
+      { "term": "FHA Loan", "definition": "A mortgage insured by the Federal Housing Administration, allowing down payments as low as 3.5% and more flexible credit requirements. FHA loans require upfront and annual mortgage insurance premiums." },
+      { "term": "VA Loan", "definition": "A mortgage guaranteed by the Department of Veterans Affairs for eligible veterans, active-duty service members, and surviving spouses. VA loans require no down payment and no private mortgage insurance." },
+      { "term": "Fixed-Rate Mortgage", "definition": "A loan with an interest rate that remains constant for the entire loan term. Monthly principal and interest payments are predictable, making budgeting easier for borrowers." },
+      { "term": "Adjustable-Rate Mortgage (ARM)", "definition": "A loan with an interest rate that changes periodically after an initial fixed period, based on a market index plus a margin. ARMs typically offer lower initial rates but carry the risk of payment increases." },
+      { "term": "Discount Points", "definition": "Prepaid interest paid at closing to permanently reduce the mortgage interest rate. One point equals 1% of the loan amount and typically reduces the rate by 0.25%." },
+      { "term": "Private Mortgage Insurance (PMI)", "definition": "Insurance required on conventional loans when the down payment is less than 20% of the purchase price. PMI protects the lender against borrower default and can be canceled when LTV reaches 80%." },
+      { "term": "Escrow Account", "definition": "An account held by the lender into which the borrower makes monthly deposits for property taxes and insurance. The lender disburses payments when bills are due, ensuring coverage is maintained." },
+      { "term": "PITI", "definition": "An acronym for the four components of a monthly mortgage payment: Principal, Interest, Taxes, and Insurance. PITI is used to calculate the housing expense ratio for loan qualification." },
+      { "term": "Subordination Clause", "definition": "A provision that allows a new mortgage to take priority over an existing one. Often required when refinancing or adding a second mortgage, so the primary lender maintains first lien position." }
+    ]
+  },
+  {
+    "chapter": "financing",
+    "difficulty": "advanced",
+    "title": "Real Estate Financing",
+    "subtitle": "RESPA, TILA, qualified mortgage rules, LTV calculations, and the secondary market",
+    "points": [
+      { "term": "RESPA (Real Estate Settlement Procedures Act)", "definition": "Federal law requiring lenders to provide borrowers with a Loan Estimate within 3 business days of application and a Closing Disclosure at least 3 business days before closing. RESPA prohibits kickbacks between settlement service providers." },
+      { "term": "TILA / Regulation Z", "definition": "The Truth in Lending Act requires lenders to disclose the Annual Percentage Rate (APR), finance charge, amount financed, and total of payments, allowing borrowers to compare loan costs accurately." },
+      { "term": "Annual Percentage Rate (APR)", "definition": "The true cost of a loan expressed as a yearly rate, including the interest rate plus lender fees. APR is always higher than the stated interest rate (unless there are no fees) and is the standardized basis for loan comparison." },
+      { "term": "3-Day Right of Rescission", "definition": "TILA gives borrowers three business days to cancel certain refinances and home equity loans secured by their primary residence. The right does not apply to purchase money mortgages." },
+      { "term": "Qualified Mortgage (QM)", "definition": "A loan that meets CFPB standards for ability-to-repay verification, including limits on points and fees (≤3% of loan amount), loan terms (≤30 years), and prohibitions on risky features like negative amortization." },
+      { "term": "Loan-to-Value Ratio (LTV)", "definition": "The ratio of the loan amount to the appraised value or purchase price (whichever is lower): LTV = Loan Amount ÷ Property Value. An 80% LTV on a $300,000 home means a $240,000 loan." },
+      { "term": "Fannie Mae (FNMA)", "definition": "The Federal National Mortgage Association is a government-sponsored enterprise that buys conventional mortgages from lenders, packages them as mortgage-backed securities, and sells them to investors. This replenishes lender capital for new loans." },
+      { "term": "Freddie Mac (FHLMC)", "definition": "The Federal Home Loan Mortgage Corporation is a government-sponsored enterprise that also purchases conventional mortgages, competing with Fannie Mae to increase liquidity in the secondary mortgage market." },
+      { "term": "Ginnie Mae (GNMA)", "definition": "The Government National Mortgage Association guarantees mortgage-backed securities backed by FHA, VA, and USDA loans. Unlike Fannie and Freddie, Ginnie Mae is a government agency, not a GSE." },
+      { "term": "Secondary Mortgage Market", "definition": "The market where existing mortgage loans are bought and sold by investors. It provides liquidity to primary lenders, enabling them to originate new loans after selling existing ones." }
+    ]
+  },
+  {
+    "chapter": "agency-contracts",
+    "difficulty": "beginner",
+    "title": "Agency & Contracts",
+    "subtitle": "Agency relationships, fiduciary duties, listing agreements, and buyer representation",
+    "points": [
+      { "term": "Agent", "definition": "A person authorized to act on behalf of another (the principal) in real estate transactions. A real estate agent owes fiduciary duties to the principal and must act in that person's best interest." },
+      { "term": "Principal", "definition": "The party who authorizes an agent to represent them in a transaction—typically the seller in a listing or the buyer in a buyer-agency agreement. The principal is also called the client." },
+      { "term": "Client", "definition": "The party with whom the agent has an agency relationship and to whom fiduciary duties are owed. A client receives the full OLDCAR duties; a customer does not." },
+      { "term": "Customer", "definition": "A party the agent works with but does not represent. The agent owes a customer honest dealing and disclosure of material facts, but does not owe full fiduciary duties." },
+      { "term": "OLDCAR (Fiduciary Duties)", "definition": "The six fiduciary duties owed to a client: Obedience, Loyalty, Disclosure, Confidentiality, Accounting, and Reasonable care. These duties are owed throughout and after the agency relationship." },
+      { "term": "Loyalty", "definition": "The fiduciary duty requiring an agent to put the client's interests above all others, including the agent's own. An agent may not pursue personal gain at the client's expense." },
+      { "term": "Confidentiality", "definition": "The fiduciary duty to protect the client's sensitive information, such as motivation to buy or sell, financial situation, or the highest price a buyer will pay. Confidentiality survives the end of the agency relationship." },
+      { "term": "Listing Agreement", "definition": "A contract between a seller and a real estate broker authorizing the broker to market the property and procure a buyer. The listing agreement establishes the commission, listing period, and broker's duties." },
+      { "term": "Buyer Agency Agreement", "definition": "A contract between a buyer and a broker establishing an agency relationship and outlining the broker's duties, compensation, and the buyer's obligations. Creates a fiduciary relationship with the buyer as client." },
+      { "term": "Procuring Cause", "definition": "The uninterrupted chain of events initiated by a broker that directly results in a consummated sale. The broker who is the procuring cause is typically entitled to the commission." }
+    ]
+  },
+  {
+    "chapter": "agency-contracts",
+    "difficulty": "intermediate",
+    "title": "Agency & Contracts",
+    "subtitle": "Listing types, dual agency, offers, contingencies, and earnest money",
+    "points": [
+      { "term": "Exclusive Right to Sell", "definition": "The most common listing type, giving one broker the sole right to a commission if the property sells during the listing period, regardless of who procures the buyer—including the seller. Offers maximum broker protection." },
+      { "term": "Exclusive Agency Listing", "definition": "A listing giving one broker the exclusive right to market the property, but allowing the owner to sell it themselves without paying a commission. The broker earns a commission only if they or a cooperating broker sells the property." },
+      { "term": "Open Listing", "definition": "A non-exclusive listing where the seller may list with multiple brokers and pays a commission only to the broker who procures the buyer. The seller may also sell without owing any commission." },
+      { "term": "Dual Agency", "definition": "An agency relationship where one broker represents both the buyer and seller in the same transaction. Dual agency requires informed written consent from both parties and limits the agent's ability to advocate for either side." },
+      { "term": "Designated Agency", "definition": "A brokerage practice where different agents within the same firm represent the buyer and seller separately, allowing each to receive full advocacy. The broker remains a dual agent, but the designated agents are not." },
+      { "term": "Offer to Purchase", "definition": "A written proposal from a buyer to purchase a property at specified price and terms. The offer becomes a binding contract only when accepted in writing by the seller without modification." },
+      { "term": "Counteroffer", "definition": "A rejection of the original offer accompanied by a new offer with modified terms. A counteroffer terminates the original offer and shifts negotiating power to the other party to accept, reject, or counter again." },
+      { "term": "Earnest Money Deposit", "definition": "A good-faith deposit made by the buyer when submitting an offer, held in escrow until closing. If the buyer defaults, the seller may claim the earnest money; if the seller defaults, the buyer is typically entitled to a refund." },
+      { "term": "Financing Contingency", "definition": "A contract clause making the sale conditional on the buyer obtaining a mortgage at specified terms. If the buyer cannot secure financing, they may cancel the contract and recover their earnest money." },
+      { "term": "Inspection Contingency", "definition": "A contract clause giving the buyer the right to have the property professionally inspected within a set period and to negotiate repairs, a credit, or cancellation based on findings." }
+    ]
+  },
+  {
+    "chapter": "agency-contracts",
+    "difficulty": "advanced",
+    "title": "Agency & Contracts",
+    "subtitle": "Statute of frauds, contract elements, breach remedies, and option contracts",
+    "points": [
+      { "term": "Statute of Frauds", "definition": "A legal doctrine requiring real estate contracts to be in writing and signed to be enforceable. Oral agreements for the sale or lease of real property (typically over one year) are generally unenforceable." },
+      { "term": "Competent Parties", "definition": "A contract element requiring that all parties be of legal age (18 in most states) and of sound mind. Contracts with minors or mentally incapacitated persons are voidable." },
+      { "term": "Mutual Consent (Offer & Acceptance)", "definition": "A contract element requiring a definite offer and an unqualified acceptance, creating a 'meeting of the minds.' Any counteroffer negates the original offer and restarts the negotiation." },
+      { "term": "Consideration", "definition": "Something of value exchanged by both parties in a contract, such as money, services, or a promise. Adequacy of consideration is generally not reviewed by courts; any legal consideration suffices." },
+      { "term": "Legal Purpose", "definition": "A contract element requiring that the contract's subject matter and purpose be lawful. A contract to sell property for illegal use is void and cannot be enforced by either party." },
+      { "term": "Void Contract", "definition": "A contract that has no legal effect from its inception, as if it never existed. A contract with an illegal purpose or entered into by someone legally incapable of contracting is void." },
+      { "term": "Voidable Contract", "definition": "A contract that is valid and binding unless one party chooses to rescind it. Contracts signed by minors or under duress are typically voidable at the option of the affected party." },
+      { "term": "Specific Performance", "definition": "A legal remedy for contract breach that compels the breaching party to fulfill the exact terms of the contract. Courts may award specific performance in real estate cases because each property is considered unique." },
+      { "term": "Liquidated Damages", "definition": "A predetermined amount specified in the contract as compensation for breach, such as the seller retaining the earnest money if the buyer defaults. Courts enforce liquidated damages clauses if the amount is a reasonable estimate of harm." },
+      { "term": "Option Contract", "definition": "A contract giving a buyer the exclusive right to purchase a property at a specified price within a set period, in exchange for option consideration. The seller is bound to the terms; the buyer is not obligated to purchase." }
+    ]
+  },
+  {
+    "chapter": "real-estate-math",
+    "difficulty": "beginner",
+    "title": "Real Estate Math",
+    "subtitle": "Commission calculations, area formulas, acreage, and basic price math",
+    "points": [
+      { "term": "Commission Calculation", "definition": "Commission = Sale Price × Commission Rate. For example, a 5% commission on a $400,000 sale = $400,000 × 0.05 = $20,000. Always convert the percentage to a decimal before multiplying." },
+      { "term": "Commission Split", "definition": "The division of commission between the listing broker and buyer's broker, then further split between broker and agent. Example: $20,000 commission split 50/50 = $10,000 per side; an agent earning 60% of their side receives $6,000." },
+      { "term": "Area of a Rectangle", "definition": "Area = Length × Width, expressed in square feet (or square yards/meters). Example: a room 14 ft × 12 ft = 168 sq ft. Used to calculate room size, lot size, and building square footage." },
+      { "term": "Square Feet to Acres", "definition": "One acre equals exactly 43,560 square feet. To convert: Acres = Square Feet ÷ 43,560. Example: a 87,120 sq ft parcel = 87,120 ÷ 43,560 = 2 acres." },
+      { "term": "Perimeter", "definition": "The total distance around a property or shape. Perimeter = sum of all sides. Used in fencing, landscaping, and lot boundary calculations. Example: a 100 ft × 200 ft lot has a perimeter of 600 ft." },
+      { "term": "Percentage of List Price", "definition": "Sale Price ÷ List Price × 100 = % of list price. Tells you what percentage of asking price the property sold for. Example: $285,000 sale price ÷ $300,000 list price = 95% of list price." },
+      { "term": "Net to Seller", "definition": "The amount the seller receives after deducting the sales commission and any other costs paid by the seller. Net = Sale Price − Commission − Seller Costs. Agents should estimate this for sellers at listing." },
+      { "term": "Price Per Square Foot", "definition": "A common valuation metric: Price per sq ft = Sale Price ÷ Square Footage. Example: $320,000 ÷ 1,600 sq ft = $200/sq ft. Useful for quickly comparing similar properties." },
+      { "term": "Township Area", "definition": "A township in the rectangular survey system is 6 miles × 6 miles = 36 square miles. Each square mile is one section containing 640 acres. Sections are numbered 1–36, with section 1 in the northeast corner." }
+    ]
+  },
+  {
+    "chapter": "real-estate-math",
+    "difficulty": "intermediate",
+    "title": "Real Estate Math",
+    "subtitle": "Prorations, transfer taxes, origination fees, and discount point calculations",
+    "points": [
+      { "term": "Proration", "definition": "The fair division of ongoing costs (taxes, rent, HOA fees, insurance) between buyer and seller based on each party's ownership days. The day of closing is typically credited to the buyer." },
+      { "term": "Tax Proration (Banker's Method)", "definition": "Using a 360-day year (12 months × 30 days): Daily rate = Annual Tax ÷ 360. Multiply by the number of days the seller owned the property in the tax period. Used on the HUD/Closing Disclosure." },
+      { "term": "Tax Proration (365-Day Method)", "definition": "Using the actual calendar year: Daily rate = Annual Tax ÷ 365. More precise than the banker's method. Example: $3,650 annual tax ÷ 365 = $10/day; seller owes 90 days × $10 = $900." },
+      { "term": "Rent Proration", "definition": "When a rental property is sold mid-month, rent paid in advance by the tenant is prorated. The buyer receives the portion of rent for the days they will own the property after closing." },
+      { "term": "Interest Proration", "definition": "Mortgage interest is paid in arrears; sellers owe interest from the 1st of the month through the closing date. Daily interest = (Loan Balance × Annual Rate) ÷ 365, then multiply by the number of days." },
+      { "term": "Transfer Tax (Documentary Stamp Tax)", "definition": "A state or local tax levied on the transfer of real property, typically calculated as a rate per $500 or $1,000 of the sale price. Example: $0.55 per $500 on a $250,000 sale = 500 units × $0.55 = $275." },
+      { "term": "Origination Fee", "definition": "A lender charge for processing a new mortgage loan, typically expressed as a percentage of the loan amount. An origination fee of 1% on a $200,000 loan = $2,000 paid at closing." },
+      { "term": "Discount Points Math", "definition": "Each discount point = 1% of the loan amount. Points paid to buy down the rate: 2 points on a $250,000 loan = 2% × $250,000 = $5,000 paid at closing to reduce the interest rate." },
+      { "term": "Break-Even Point (Points)", "definition": "The number of months needed to recoup the cost of buying discount points through monthly savings. Break-even = Cost of Points ÷ Monthly Payment Savings. Example: $5,000 ÷ $50/month savings = 100 months." },
+      { "term": "Closing Cost Estimation", "definition": "Closing costs are typically 2–5% of the loan amount. A buyer borrowing $200,000 should budget $4,000–$10,000 in closing costs. Lenders must provide a Loan Estimate within 3 business days of application." }
+    ]
+  },
+  {
+    "chapter": "real-estate-math",
+    "difficulty": "advanced",
+    "title": "Real Estate Math",
+    "subtitle": "LTV, DTI ratios, cap rate, GRM, net proceeds, and appreciation calculations",
+    "points": [
+      { "term": "Loan-to-Value (LTV) Ratio", "definition": "LTV = Loan Amount ÷ Appraised Value (or Purchase Price, whichever is lower) × 100. A $180,000 loan on a $200,000 home = 90% LTV. LTV above 80% typically requires PMI on conventional loans." },
+      { "term": "Front-End DTI Ratio (28% Rule)", "definition": "The housing expense ratio: PITI ÷ Gross Monthly Income. Most conventional lenders want this ratio at or below 28%. Example: $1,400 PITI ÷ $5,000 gross income = 28% front-end ratio." },
+      { "term": "Back-End DTI Ratio (36% Rule)", "definition": "Total monthly debt payments (PITI + all recurring debts) ÷ Gross Monthly Income. Conventional guidelines typically cap this at 36%, though some loan programs allow up to 45–50% with compensating factors." },
+      { "term": "Cap Rate Calculation", "definition": "Cap Rate = NOI ÷ Property Value. Example: a property with $30,000 NOI valued at $375,000 has a cap rate of 8%. To find value from cap rate: Value = NOI ÷ Cap Rate ($30,000 ÷ 0.08 = $375,000)." },
+      { "term": "Gross Rent Multiplier (GRM) Calculation", "definition": "GRM = Sale Price ÷ Gross Monthly Rent. To estimate value: Value = GRM × Gross Monthly Rent. Example: if comps show a GRM of 120 and the subject rents for $1,800/month, estimated value = 120 × $1,800 = $216,000." },
+      { "term": "Net Operating Income (NOI)", "definition": "NOI = Effective Gross Income − Operating Expenses. Effective Gross Income = Potential Gross Income − Vacancy Loss. Operating expenses include taxes, insurance, maintenance, and management, but NOT mortgage payments." },
+      { "term": "Net Proceeds Calculation", "definition": "Net Proceeds = Sale Price − Mortgage Payoff − Commission − Closing Costs Paid by Seller. Example: $350,000 sale − $200,000 payoff − $21,000 commission (6%) − $4,000 closing costs = $125,000 net proceeds." },
+      { "term": "Appreciation Calculation", "definition": "Total appreciation = Current Value − Original Purchase Price. Annual appreciation rate = (Appreciation ÷ Original Price) ÷ Years. Example: bought for $200,000, now worth $260,000 after 5 years: $60,000 ÷ $200,000 ÷ 5 = 6%/year." },
+      { "term": "Equity After Appreciation", "definition": "Equity = Current Market Value − Remaining Loan Balance. If a property bought for $250,000 with $200,000 loan is now worth $300,000 and the loan balance is $185,000, equity = $300,000 − $185,000 = $115,000." },
+      { "term": "Return on Investment (ROI)", "definition": "ROI = Net Profit ÷ Total Cash Invested × 100. For a rental property: if annual cash flow is $4,000 and you invested $40,000 down payment plus $5,000 closing costs, ROI = $4,000 ÷ $45,000 = 8.9%." }
+    ]
+  }
+]
