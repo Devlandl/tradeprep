@@ -2,6 +2,7 @@ export interface Chapter {
   id: string;
   name: string;
   description: string;
+  comingSoon?: boolean;
 }
 
 export interface Trade {
@@ -154,6 +155,65 @@ export const trades: Trade[] = [
         id: "transformers",
         name: "Transformers & Power Distribution",
         description: "Single/three phase, transformers, switchgear",
+      },
+    ],
+  },
+  {
+    id: "cdl",
+    name: "CDL",
+    slug: "cdl",
+    description:
+      "Prepare for your Class A CDL exam. Covers general knowledge, air brakes, and combination vehicles. Endorsements coming soon.",
+    color: "text-emerald-500",
+    bgColor: "bg-emerald-50",
+    icon: "Truck",
+    storeSlug: "tradeprep-cdl",
+    storeUrl: "https://tvrapp.app/store/tradeprep-cdl",
+    chapters: [
+      {
+        id: "general-knowledge",
+        name: "General Knowledge",
+        description: "Vehicle inspection, basic control, safe driving, cargo, emergencies",
+      },
+      {
+        id: "air-brakes",
+        name: "Air Brakes",
+        description: "System components, dual air systems, inspection, stopping distance",
+      },
+      {
+        id: "combination",
+        name: "Combination Vehicles",
+        description: "Coupling/uncoupling, rollover, jackknifing, trailer skids",
+      },
+      {
+        id: "hazmat",
+        name: "Hazmat",
+        description: "Hazardous materials endorsement",
+        comingSoon: true,
+      },
+      {
+        id: "tanker",
+        name: "Tanker",
+        description: "Tanker vehicle endorsement",
+        comingSoon: true,
+      },
+      {
+        id: "doubles-triples",
+        name: "Doubles/Triples",
+        description: "Doubles and triples endorsement",
+        comingSoon: true,
+      },
+      {
+        id: "passenger",
+        name: "Passenger",
+        description: "Passenger vehicle endorsement",
+        comingSoon: true,
+      },
+      {
+        id: "school-bus",
+        name: "School Bus",
+        description: "School bus endorsement",
+        comingSoon: true,
       },
     ],
   },
