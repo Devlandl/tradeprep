@@ -113,7 +113,7 @@ export function ChapterCard({
             return (
               <Link
                 key={diff}
-                href={`/${trade.slug}/study/${chapter.id}/${diff}`}
+                href={`/${trade.slug}/study/${chapter.id}/${diff}/guide`}
                 className="flex items-center justify-between py-2 px-3 rounded-lg bg-green-50 hover:bg-green-100 transition-colors"
               >
                 <div className="flex items-center gap-2">
@@ -132,7 +132,7 @@ export function ChapterCard({
           return (
             <Link
               key={diff}
-              href={`/${trade.slug}/study/${chapter.id}/${diff}`}
+              href={`/${trade.slug}/study/${chapter.id}/${diff}/guide`}
               className="flex items-center justify-between py-2 px-3 rounded-lg bg-blue-50 hover:bg-blue-100 transition-colors"
             >
               <div className="flex items-center gap-2">
