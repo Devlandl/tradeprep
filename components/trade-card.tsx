@@ -1,8 +1,8 @@
 import Link from "next/link";
-import { Wrench, Thermometer, Zap } from "lucide-react";
+import { Wrench, Thermometer, Zap, Truck } from "lucide-react";
 import type { Trade } from "@/lib/trades";
 
-const iconMap: Record<string, React.ElementType> = { Wrench, Thermometer, Zap };
+const iconMap: Record<string, React.ElementType> = { Wrench, Thermometer, Zap, Truck };
 
 export function TradeCard({ trade }: { trade: Trade }) {
   const Icon = iconMap[trade.icon] || Wrench;
