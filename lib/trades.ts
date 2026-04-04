@@ -313,6 +313,40 @@ export const trades: Trade[] = [
       },
     ],
   },
+  {
+    id: "sat",
+    name: "SAT",
+    slug: "sat",
+    description:
+      "Boost your SAT score. Covers algebra, advanced math, reading comprehension, and grammar/writing.",
+    color: "text-indigo-500",
+    bgColor: "bg-indigo-50",
+    icon: "PenLine",
+    storeSlug: "tradeprep-sat",
+    storeUrl: "https://tvrapp.app/store/tradeprep-sat",
+    chapters: [
+      {
+        id: "math-algebra",
+        name: "Math: Algebra",
+        description: "Linear equations, systems, inequalities, functions, absolute value",
+      },
+      {
+        id: "math-advanced",
+        name: "Math: Advanced",
+        description: "Quadratics, polynomials, geometry, trigonometry, statistics",
+      },
+      {
+        id: "reading-writing",
+        name: "Reading & Writing",
+        description: "Reading comprehension, evidence-based questions, vocabulary, text structure",
+      },
+      {
+        id: "grammar-usage",
+        name: "Grammar & Usage",
+        description: "Sentence structure, punctuation, transitions, expression of ideas",
+      },
+    ],
+  },
 ];
 
 export const difficulties = ["beginner", "intermediate", "advanced"] as const;
