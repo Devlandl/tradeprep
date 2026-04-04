@@ -1,0 +1,220 @@
+[
+  {
+    "chapter": "math-algebra",
+    "difficulty": "beginner",
+    "title": "Math: Algebra",
+    "subtitle": "Foundations of algebra — equations, expressions, and inequalities",
+    "points": [
+      { "term": "Linear Equation", "definition": "An equation that forms a straight line when graphed, typically in the form ax + b = c. Solve by isolating the variable using inverse operations (add/subtract, then multiply/divide)." },
+      { "term": "Variable", "definition": "A letter (usually x or y) that represents an unknown value in an expression or equation. Your job on the SAT is to find the value that makes the equation true." },
+      { "term": "Order of Operations (PEMDAS)", "definition": "The correct sequence for evaluating expressions: Parentheses, Exponents, Multiply/Divide (left to right), Add/Subtract (left to right). Never skip steps." },
+      { "term": "Combining Like Terms", "definition": "Simplify expressions by adding or subtracting terms that have the same variable and exponent. Example: 3x + 5x = 8x, but 3x + 5y cannot be combined." },
+      { "term": "Distributive Property", "definition": "Multiply the term outside the parentheses by every term inside: a(b + c) = ab + ac. Example: 3(x + 4) = 3x + 12." },
+      { "term": "Basic Inequalities", "definition": "Solved like equations, but the answer is a range of values. Use <, >, ≤, or ≥. Important: if you multiply or divide both sides by a negative number, flip the inequality sign." },
+      { "term": "Substitution", "definition": "Replace a variable with its known value to evaluate or simplify an expression. Example: if x = 3, then 2x + 1 = 2(3) + 1 = 7." },
+      { "term": "Translating Words to Equations", "definition": "Convert word problems into algebraic equations by identifying key phrases: 'more than' means +, 'less than' means −, 'times' means ×, 'is' or 'equals' means =." },
+      { "term": "Inverse Operations", "definition": "Operations that undo each other: addition undoes subtraction, multiplication undoes division. Use inverse operations to isolate a variable and solve an equation." },
+      { "term": "Expression vs. Equation", "definition": "An expression is a mathematical phrase (3x + 2) with no equals sign. An equation has an equals sign (3x + 2 = 8) and can be solved for a specific value." }
+    ]
+  },
+  {
+    "chapter": "math-algebra",
+    "difficulty": "intermediate",
+    "title": "Math: Algebra",
+    "subtitle": "Systems of equations, slope, and more complex linear relationships",
+    "points": [
+      { "term": "Systems of Equations — Substitution", "definition": "Solve one equation for a variable, then substitute that expression into the other equation. Best used when one variable is already isolated or easy to isolate." },
+      { "term": "Systems of Equations — Elimination", "definition": "Add or subtract the two equations to cancel out one variable. If needed, multiply one or both equations first to make the coefficients match." },
+      { "term": "Slope-Intercept Form (y = mx + b)", "definition": "The standard form of a line where m is the slope (steepness) and b is the y-intercept (where the line crosses the y-axis). Use it to quickly graph or compare lines." },
+      { "term": "Slope from Two Points", "definition": "Slope = (y₂ − y₁) / (x₂ − x₁), also called rise over run. A positive slope rises left to right; a negative slope falls left to right." },
+      { "term": "Parallel and Perpendicular Lines", "definition": "Parallel lines have equal slopes (m₁ = m₂) and never intersect. Perpendicular lines have slopes that are negative reciprocals of each other (m₁ × m₂ = −1)." },
+      { "term": "Absolute Value Equations", "definition": "An equation with |x| splits into two cases: the expression inside equals the positive value and the negative value. Example: |x − 3| = 5 gives x = 8 or x = −2." },
+      { "term": "Literal Equations", "definition": "Equations with multiple variables where you solve for one variable in terms of the others. Example: solve A = lw for l gives l = A/w. Treat the target variable like an unknown." },
+      { "term": "Linear Word Problems", "definition": "Set up an equation based on the story, defining variables for the unknown quantities. Identify the relationship (rate, total, difference) and write the equation before solving." },
+      { "term": "Standard Form of a Line (Ax + By = C)", "definition": "An alternative way to write a linear equation. Convert to slope-intercept form by solving for y to identify slope and y-intercept more easily." },
+      { "term": "X-Intercept and Y-Intercept", "definition": "The x-intercept is where the line crosses the x-axis (set y = 0 and solve). The y-intercept is where it crosses the y-axis (set x = 0 and solve, or read the b value in y = mx + b)." }
+    ]
+  },
+  {
+    "chapter": "math-algebra",
+    "difficulty": "advanced",
+    "title": "Math: Algebra",
+    "subtitle": "Complex linear systems, functions, and modeling",
+    "points": [
+      { "term": "Systems with No Solution", "definition": "When two equations represent parallel lines (same slope, different y-intercepts), there is no solution. Algebraically, you get a false statement like 0 = 5 when solving." },
+      { "term": "Systems with Infinite Solutions", "definition": "When two equations represent the same line, every point on the line is a solution. Algebraically, you get a true identity like 0 = 0 when solving." },
+      { "term": "Linear Inequality Graphing", "definition": "Graph the boundary line, then shade the half-plane that satisfies the inequality. Use a dashed line for strict inequalities (< or >) and a solid line for ≤ or ≥." },
+      { "term": "Piecewise Functions", "definition": "A function defined by different rules over different intervals. Read the domain restrictions carefully and evaluate using whichever rule applies to the given input value." },
+      { "term": "Function Notation f(x)", "definition": "f(x) is read 'f of x' and means 'the output of function f when the input is x.' It is equivalent to y. To evaluate f(3), substitute x = 3 into the function rule." },
+      { "term": "Domain and Range", "definition": "The domain is the set of all valid input values (x); the range is the set of all possible output values (y). Restrictions on domain include division by zero and square roots of negatives." },
+      { "term": "Rate of Change", "definition": "How quickly a quantity changes relative to another, calculated as (change in output) / (change in input). For linear functions, the rate of change is constant and equals the slope." },
+      { "term": "Modeling with Linear Equations", "definition": "Translate a real-world scenario into an equation of the form y = mx + b, where m represents the rate and b represents the starting value. Interpret slope and intercept in context." },
+      { "term": "Solving Systems by Graphing", "definition": "Graph both lines and identify the point of intersection, which is the solution to the system. Systems with no solution show parallel lines; infinite solutions show overlapping lines." },
+      { "term": "Interpreting Slope in Context", "definition": "The slope of a linear model tells you the unit rate of change. Example: if a line has slope 4.5, the output increases by 4.5 for every 1-unit increase in the input." }
+    ]
+  },
+  {
+    "chapter": "math-advanced",
+    "difficulty": "beginner",
+    "title": "Math: Advanced Topics",
+    "subtitle": "Exponents, polynomials, geometry basics, and introductory factoring",
+    "points": [
+      { "term": "Exponent Rules — Product Rule", "definition": "When multiplying terms with the same base, add the exponents: xᵃ × xᵇ = xᵃ⁺ᵇ. Example: x³ × x⁴ = x⁷." },
+      { "term": "Exponent Rules — Quotient Rule", "definition": "When dividing terms with the same base, subtract the exponents: xᵃ / xᵇ = xᵃ⁻ᵇ. Example: x⁶ / x² = x⁴." },
+      { "term": "Exponent Rules — Power Rule", "definition": "When raising a power to another power, multiply the exponents: (xᵃ)ᵇ = xᵃᵇ. Example: (x³)⁴ = x¹²." },
+      { "term": "Negative Exponents", "definition": "A negative exponent means the reciprocal: x⁻ⁿ = 1/xⁿ. Example: x⁻³ = 1/x³. Move the term to the denominator (or numerator) to make the exponent positive." },
+      { "term": "Polynomial Basics", "definition": "A polynomial is a sum of terms with non-negative integer exponents (e.g., 3x² + 5x − 2). The degree is the highest exponent and the leading coefficient is the first term's coefficient." },
+      { "term": "Factoring Out the GCF", "definition": "Find the greatest common factor of all terms and factor it out. Example: 6x² + 9x = 3x(2x + 3). Always check for a GCF before using other factoring methods." },
+      { "term": "FOIL Method", "definition": "Multiply two binomials by combining First, Outer, Inner, Last terms. Example: (x + 2)(x + 3) = x² + 3x + 2x + 6 = x² + 5x + 6." },
+      { "term": "Quadratic Form (ax² + bx + c)", "definition": "A second-degree polynomial in standard form. The graph is a parabola, and the solutions (roots) are where y = 0. On the SAT, you may solve by factoring or the quadratic formula." },
+      { "term": "Pythagorean Theorem (a² + b² = c²)", "definition": "In a right triangle, the square of the hypotenuse (c) equals the sum of the squares of the two legs (a and b). Use it to find any missing side of a right triangle." },
+      { "term": "Angle Relationships", "definition": "Complementary angles sum to 90°; supplementary angles sum to 180°. Vertical angles (opposite each other at an intersection) are always equal." },
+      { "term": "Circle Area and Circumference", "definition": "Area = πr² and Circumference = 2πr, where r is the radius. The diameter is twice the radius. These formulas are provided in the SAT reference sheet." }
+    ]
+  },
+  {
+    "chapter": "math-advanced",
+    "difficulty": "intermediate",
+    "title": "Math: Advanced Topics",
+    "subtitle": "Quadratics, trigonometry, circles, and data analysis",
+    "points": [
+      { "term": "Factoring Trinomials", "definition": "To factor ax² + bx + c, find two numbers that multiply to ac and add to b. Rewrite the middle term, then factor by grouping. Example: x² + 5x + 6 = (x + 2)(x + 3)." },
+      { "term": "Quadratic Formula", "definition": "x = (−b ± √(b² − 4ac)) / 2a solves any quadratic equation ax² + bx + c = 0. Use it when factoring is not straightforward or when told to find exact solutions." },
+      { "term": "Vertex Form of a Quadratic", "definition": "y = a(x − h)² + k, where (h, k) is the vertex of the parabola. The parabola opens upward if a > 0 and downward if a < 0." },
+      { "term": "Completing the Square", "definition": "Rewrite ax² + bx + c by adding and subtracting (b/2)² to create a perfect square trinomial. Used to convert to vertex form or derive the quadratic formula." },
+      { "term": "Discriminant (b² − 4ac)", "definition": "The expression under the radical in the quadratic formula. If positive: two real solutions. If zero: one real solution (the parabola touches the x-axis). If negative: no real solutions." },
+      { "term": "SOH-CAH-TOA", "definition": "The three basic trig ratios for a right triangle: Sin = Opposite/Hypotenuse, Cos = Adjacent/Hypotenuse, Tan = Opposite/Adjacent. Use the angle to find missing sides or use sides to find angles." },
+      { "term": "Special Right Triangles (30-60-90)", "definition": "In a 30-60-90 triangle, the sides are in ratio 1 : √3 : 2. The shortest side is opposite 30°, the medium side is opposite 60°, and the hypotenuse is opposite 90°." },
+      { "term": "Special Right Triangles (45-45-90)", "definition": "In a 45-45-90 triangle, the two legs are equal and the hypotenuse is leg × √2. Example: legs of 5 give a hypotenuse of 5√2." },
+      { "term": "Circle Equation", "definition": "The standard form is (x − h)² + (y − k)² = r², where (h, k) is the center and r is the radius. Identify center and radius directly from this form." },
+      { "term": "Mean vs. Median in Data Sets", "definition": "The mean is the arithmetic average (sum ÷ count); the median is the middle value when data is sorted. When data has outliers, the median is a more representative measure of center." },
+      { "term": "Scatterplots and Line of Best Fit", "definition": "A line of best fit shows the trend in scatterplot data. Positive correlation means both variables increase together; negative correlation means one increases as the other decreases." }
+    ]
+  },
+  {
+    "chapter": "math-advanced",
+    "difficulty": "advanced",
+    "title": "Math: Advanced Topics",
+    "subtitle": "Complex numbers, statistics, probability, and polynomial operations",
+    "points": [
+      { "term": "Polynomial Long Division", "definition": "Divide a polynomial by a binomial using the same steps as long division with numbers: divide, multiply, subtract, bring down. The result may include a remainder expressed as a fraction." },
+      { "term": "Rational Expressions", "definition": "Fractions where the numerator and/or denominator are polynomials. Simplify by factoring and canceling common factors. To add/subtract, find a common denominator first." },
+      { "term": "Exponential Growth and Decay", "definition": "Growth: y = a(1 + r)ᵗ; Decay: y = a(1 − r)ᵗ, where a is the initial value, r is the rate, and t is time. On the SAT, identify the multiplier to determine growth vs. decay." },
+      { "term": "Complex Numbers (i = √−1)", "definition": "The imaginary unit i satisfies i² = −1. Complex numbers have the form a + bi. Add by combining real and imaginary parts separately; multiply using FOIL and replace i² with −1." },
+      { "term": "Powers of i", "definition": "The powers of i cycle in groups of 4: i¹ = i, i² = −1, i³ = −i, i⁴ = 1. To find iⁿ, divide n by 4 and use the remainder to identify the value." },
+      { "term": "Standard Deviation", "definition": "A measure of how spread out data values are from the mean. A higher standard deviation means more variability. On the SAT, you are rarely asked to calculate it — mostly interpret it." },
+      { "term": "Normal Distribution", "definition": "A symmetric, bell-shaped distribution where about 68% of data falls within 1 standard deviation of the mean, 95% within 2, and 99.7% within 3. Used to interpret spread and percentiles." },
+      { "term": "Two-Way Tables and Probability", "definition": "Use a two-way table to find conditional probabilities: divide the joint frequency (the cell) by the appropriate row or column total depending on the given condition." },
+      { "term": "Expected Value", "definition": "The weighted average of all possible outcomes: E = Σ(value × probability). It represents the long-run average result of a random process if repeated many times." },
+      { "term": "Remainder Theorem", "definition": "If a polynomial p(x) is divided by (x − a), the remainder equals p(a). Use this to quickly evaluate polynomials or determine if a binomial is a factor (remainder = 0)." }
+    ]
+  },
+  {
+    "chapter": "reading-writing",
+    "difficulty": "beginner",
+    "title": "Reading & Writing",
+    "subtitle": "Core reading skills — main idea, vocabulary, structure, and inference",
+    "points": [
+      { "term": "Main Idea", "definition": "The central point or message of a passage — what the author most wants you to understand. It is broader than any one detail and is typically supported throughout the text." },
+      { "term": "Supporting Details", "definition": "Specific facts, examples, or reasons that back up the main idea. They answer questions like 'how do you know?' or 'what evidence supports that claim?'" },
+      { "term": "Vocabulary in Context", "definition": "When asked what a word means in context, use the surrounding sentences — not just your prior knowledge — to determine the most fitting meaning for how the word is used in that passage." },
+      { "term": "Paragraph Purpose", "definition": "Each paragraph has a role in the passage: introducing an idea, providing evidence, offering a counterargument, or concluding. Ask 'why did the author include this paragraph?'" },
+      { "term": "Chronological Text Structure", "definition": "Events or ideas are presented in time order, from earliest to latest. Signal words include first, then, next, after, and finally." },
+      { "term": "Cause-and-Effect Text Structure", "definition": "The author explains why something happened (cause) and what resulted (effect). Signal words include because, therefore, as a result, due to, and consequently." },
+      { "term": "Compare-and-Contrast Structure", "definition": "The author shows how two or more things are similar and different. Signal words include similarly, however, on the other hand, both, and unlike." },
+      { "term": "Problem-Solution Structure", "definition": "The author identifies a problem and then proposes or describes a solution. Look for how the solution addresses the specific problem raised." },
+      { "term": "Summarizing", "definition": "Restating the most important ideas of a passage in your own words, leaving out minor details. A good summary captures the main idea and key supporting points without adding new information." },
+      { "term": "Inference", "definition": "A conclusion drawn from evidence in the text that is not directly stated. A strong inference is strongly supported by textual evidence, not just possible — it is the most logical conclusion." }
+    ]
+  },
+  {
+    "chapter": "reading-writing",
+    "difficulty": "intermediate",
+    "title": "Reading & Writing",
+    "subtitle": "Evidence, rhetoric, argument, and multi-text synthesis",
+    "points": [
+      { "term": "Evidence-Based Answers", "definition": "On the SAT, correct answers must be directly supported by specific lines or details in the passage. Eliminate answer choices that are plausible but not explicitly supported by the text." },
+      { "term": "Author's Tone", "definition": "The author's attitude toward the subject, conveyed through word choice and detail selection. Common tones include critical, celebratory, cautionary, skeptical, and objective." },
+      { "term": "Author's Attitude", "definition": "Goes beyond tone to ask what position or stance the author takes toward the subject or an idea. Look for evaluative language and which side of an issue the author's evidence supports." },
+      { "term": "Rhetorical Purpose", "definition": "The specific reason an author includes a sentence, paragraph, or piece of evidence. Ask: is it to support a claim, acknowledge a counterargument, illustrate a point, or establish credibility?" },
+      { "term": "Paired Passage Comparison", "definition": "Two short passages on a related topic. Identify what each author agrees and disagrees on, and how their purposes or audiences differ. Look for points of connection and divergence." },
+      { "term": "Central Argument", "definition": "The author's main claim or thesis — the overall position the entire passage is designed to support. Distinguish it from evidence, examples, and background information." },
+      { "term": "Synthesis Across Texts", "definition": "Combining ideas or information from two passages to answer a single question. Look for how the texts complement, contradict, or add nuance to each other." },
+      { "term": "Figurative Language", "definition": "Non-literal expressions used to create effect: metaphors (direct comparisons), similes (comparisons using like/as), personification (giving human traits to non-human things), and hyperbole (exaggeration)." },
+      { "term": "Connotation vs. Denotation", "definition": "Denotation is the literal dictionary meaning of a word. Connotation is the emotional or cultural association it carries. Authors choose words deliberately to evoke specific connotations." },
+      { "term": "Counterargument", "definition": "An opposing viewpoint the author acknowledges. Authors often include counterarguments to then refute them, showing awareness of complexity and strengthening their own position." }
+    ]
+  },
+  {
+    "chapter": "reading-writing",
+    "difficulty": "advanced",
+    "title": "Reading & Writing",
+    "subtitle": "Argument analysis, evidence evaluation, and data-integrated passages",
+    "points": [
+      { "term": "Evaluating Evidence Strength", "definition": "Strong evidence is specific, directly relevant, and from a credible source. Weak evidence is vague, anecdotal, or from a biased source. The SAT asks you to judge whether evidence truly supports a claim." },
+      { "term": "Analyzing Complex Arguments", "definition": "Break down an argument into claim, evidence, and reasoning. Check whether the evidence actually supports the claim and whether any logical leaps are made without support." },
+      { "term": "Implicit Assumptions", "definition": "Unstated beliefs that an argument depends on. If an assumption is false, the argument breaks down. SAT questions may ask you to identify what an author must assume for their reasoning to hold." },
+      { "term": "Nuanced Word Choice", "definition": "On hard vocabulary questions, multiple choices may seem correct — the right answer is the one that matches both the precise meaning and the tone of the surrounding text." },
+      { "term": "Sentence Purpose in Context", "definition": "Ask how a specific sentence functions within its paragraph and within the passage as a whole. Common functions: introduce, transition, support, qualify, contrast, or conclude." },
+      { "term": "Connecting Data to Passages", "definition": "Some SAT passages include tables, graphs, or charts. The correct answer must be consistent with both the text and the data — an answer supported only by the graph but contradicted by the text is wrong." },
+      { "term": "Qualifying Language", "definition": "Words like 'often,' 'may,' 'suggests,' or 'tends to' weaken or limit a claim. Absolute language like 'always,' 'never,' or 'all' is frequently a sign of an incorrect answer choice." },
+      { "term": "Logical Fallacies in Arguments", "definition": "Flawed reasoning patterns such as overgeneralization (one case applies to all), false cause (correlation = causation), or straw man (misrepresenting an opposing view). Recognizing these helps evaluate argument quality." },
+      { "term": "Purpose of an Introductory or Concluding Paragraph", "definition": "Introductions establish context, pose a question, or state a thesis. Conclusions synthesize ideas, restate the main claim, or widen the lens to broader implications. Recognize these structural roles in questions." },
+      { "term": "Distinguishing Fact from Opinion", "definition": "A fact can be verified objectively; an opinion expresses a judgment or interpretation. Authors often blend both — identify which claims are verifiable and which reflect the author's perspective." }
+    ]
+  },
+  {
+    "chapter": "grammar-usage",
+    "difficulty": "beginner",
+    "title": "Grammar & Usage",
+    "subtitle": "Sentence structure, agreement, punctuation, and apostrophe rules",
+    "points": [
+      { "term": "Subject-Verb Agreement", "definition": "The subject and verb in a sentence must match in number: singular subjects take singular verbs, plural subjects take plural verbs. Ignore prepositional phrases between the subject and verb." },
+      { "term": "Pronoun-Antecedent Agreement", "definition": "A pronoun must agree in number and gender with the noun it replaces (its antecedent). Example: 'Every student must bring their own pencil' — 'their' refers back to 'every student.'" },
+      { "term": "Verb Tense Consistency", "definition": "Do not shift between past, present, and future tenses without a clear reason. Keep verbs in the same tense unless the passage explicitly describes events at different times." },
+      { "term": "Sentence Fragments", "definition": "A fragment is an incomplete thought missing a subject, a verb, or both. Every sentence needs a subject and a main verb to be grammatically complete." },
+      { "term": "Run-On Sentences", "definition": "A run-on incorrectly joins two independent clauses without proper punctuation. Fix by adding a period, a semicolon, or a coordinating conjunction (for, and, nor, but, or, yet, so — FANBOYS)." },
+      { "term": "Comma Splices", "definition": "A comma splice joins two independent clauses with only a comma, which is incorrect. Fix by replacing the comma with a semicolon, adding a coordinating conjunction, or splitting into two sentences." },
+      { "term": "Comma Rules", "definition": "Use commas to separate items in a list, after introductory clauses, around non-essential phrases, and before coordinating conjunctions joining independent clauses. Avoid adding commas between a subject and its verb." },
+      { "term": "Apostrophes for Possession", "definition": "Add 's to a singular noun (the dog's leash) or just an apostrophe after a plural noun ending in s (the dogs' leashes). Do not use an apostrophe to make a noun plural." },
+      { "term": "Its vs. It's", "definition": "'Its' is the possessive pronoun (the dog wagged its tail). 'It's' is the contraction for 'it is' or 'it has.' If you can replace it with 'it is,' use the apostrophe; otherwise, do not." },
+      { "term": "Coordinating Conjunctions (FANBOYS)", "definition": "For, And, Nor, But, Or, Yet, So — used to join two independent clauses. When joining independent clauses, place a comma before the conjunction." }
+    ]
+  },
+  {
+    "chapter": "grammar-usage",
+    "difficulty": "intermediate",
+    "title": "Grammar & Usage",
+    "subtitle": "Parallel structure, modifiers, punctuation, and transitions",
+    "points": [
+      { "term": "Parallel Structure", "definition": "Items in a list or paired constructions must have the same grammatical form. Example: 'She likes running, hiking, and to swim' is wrong — correct form: 'running, hiking, and swimming.'" },
+      { "term": "Dangling Modifiers", "definition": "A modifier that does not logically connect to the noun it is meant to describe. Example: 'Walking down the street, the trees looked beautiful' — the trees are not walking. Fix by naming the correct subject." },
+      { "term": "Misplaced Modifiers", "definition": "A modifier placed too far from the word it describes, creating confusion or unintended meaning. Move the modifier as close as possible to the word it modifies." },
+      { "term": "Semicolons", "definition": "A semicolon joins two independent clauses that are closely related: 'She studied hard; she passed the test.' Do not use a semicolon before a dependent clause or a list element." },
+      { "term": "Colons", "definition": "A colon introduces a list, explanation, or quotation after a complete independent clause. The part before the colon must be able to stand alone as a sentence." },
+      { "term": "Transition Words — Contrast", "definition": "'However,' 'nevertheless,' 'on the other hand,' and 'although' signal a contrast or shift in direction. Choose the transition that accurately reflects the logical relationship between the ideas." },
+      { "term": "Transition Words — Addition and Cause", "definition": "'Furthermore,' 'moreover,' and 'in addition' add information. 'Therefore,' 'thus,' and 'as a result' signal a conclusion or effect. Match the transition to the actual relationship in the passage." },
+      { "term": "Concision", "definition": "The SAT prefers the most concise answer that preserves the full meaning. Eliminate redundant words, unnecessary phrases, and wordy constructions. 'Due to the fact that' = 'because.'" },
+      { "term": "Pronoun Case — Who vs. Whom", "definition": "'Who' is a subject pronoun (who does the action); 'whom' is an object pronoun (receives the action). Trick: replace with 'he' for who, 'him' for whom — if 'him' fits, use 'whom.'" },
+      { "term": "Relative Pronouns", "definition": "Use 'who/whom' for people, 'which' for non-essential clauses about things (set off by commas), and 'that' for essential clauses about things (no commas). Do not use 'which' interchangeably with 'that.'" }
+    ]
+  },
+  {
+    "chapter": "grammar-usage",
+    "difficulty": "advanced",
+    "title": "Grammar & Usage",
+    "subtitle": "Rhetorical editing, logical comparisons, and organization",
+    "points": [
+      { "term": "Logical Comparisons", "definition": "Compare like things to like things. 'The population of New York is larger than Los Angeles' is wrong — it should be 'larger than that of Los Angeles' or 'larger than Los Angeles's.' Avoid comparing apples to oranges." },
+      { "term": "Sentence Combining", "definition": "Combine two short sentences into one concise, clear sentence without losing meaning or creating new grammatical errors. Look for the option that flows naturally and avoids redundancy." },
+      { "term": "Rhetorical Revision", "definition": "Questions ask whether to add, delete, or change content based on the writer's goal. Always evaluate whether the change strengthens the argument and fits the passage's purpose and tone." },
+      { "term": "Adding a Sentence for Purpose", "definition": "When asked whether to add a sentence, check if it is relevant to the paragraph's focus, if it supports the main idea, and if it fits logically between the surrounding sentences. Irrelevant details should not be added." },
+      { "term": "Deleting for Concision or Relevance", "definition": "A sentence or phrase should be deleted if it repeats information already stated, introduces an irrelevant tangent, or undermines the passage's focus. Check that deletion does not remove essential meaning." },
+      { "term": "Consistent Tone", "definition": "All word choices in a passage should match the established register — formal vs. casual, objective vs. persuasive. Replacing a word with one that shifts the tone unexpectedly is almost always wrong." },
+      { "term": "Describing Data Accurately", "definition": "When a question asks how to describe a graph or table, choose language that precisely matches the data — not overstated, not understated. Words like 'doubled' or 'decreased' must match the actual numbers." },
+      { "term": "Paragraph Organization", "definition": "Sentences within a paragraph should flow logically. On reordering questions, find the most natural order by identifying the topic sentence, the supporting detail that follows it, and any transitions." },
+      { "term": "Transitional Sentence Between Paragraphs", "definition": "A strong transition sentence bridges the idea at the end of one paragraph and the idea at the start of the next. It must connect both topics without introducing entirely new information." },
+      { "term": "Possessive Pronouns vs. Contractions", "definition": "Possessive pronouns (its, their, your, whose) never take apostrophes. Contractions (it's, they're, you're, who's) always do. The SAT tests this distinction frequently in standard English conventions questions." }
+    ]
+  }
+]
