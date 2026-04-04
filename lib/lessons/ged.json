@@ -1,0 +1,218 @@
+[
+  {
+    "chapter": "math",
+    "difficulty": "beginner",
+    "title": "Mathematical Reasoning",
+    "subtitle": "Number operations, fractions, decimals, and percentages",
+    "points": [
+      { "term": "Order of Operations (PEMDAS)", "definition": "Parentheses, Exponents, Multiply/Divide (left to right), Add/Subtract (left to right). Always follow this order when evaluating any math expression." },
+      { "term": "Fractions — Adding and Subtracting", "definition": "To add or subtract fractions, first find a common denominator, then add or subtract the numerators and keep the denominator the same. Example: 1/4 + 2/4 = 3/4." },
+      { "term": "Fractions — Multiplying", "definition": "Multiply the numerators together and the denominators together. Example: 2/3 × 3/4 = 6/12, which simplifies to 1/2." },
+      { "term": "Simplifying Fractions", "definition": "Divide the numerator and denominator by their greatest common factor (GCF) until no common factor remains. Example: 8/12 simplifies to 2/3 (dividing both by 4)." },
+      { "term": "Decimals", "definition": "A way to write fractions using place value and a decimal point. The places to the right of the decimal are tenths, hundredths, thousandths, and so on (e.g., 0.75 = 75/100)." },
+      { "term": "Percent Conversions", "definition": "To convert a percent to a decimal, divide by 100 (e.g., 45% = 0.45). To convert a decimal to a percent, multiply by 100 (e.g., 0.3 = 30%)." },
+      { "term": "Rounding", "definition": "Look at the digit immediately to the right of the place you are rounding to — if it is 5 or more, round up; if it is 4 or less, keep the digit the same." },
+      { "term": "Estimation", "definition": "Round numbers to simpler values before calculating to get a quick approximate answer. Estimation is useful for checking whether an exact answer is reasonable." },
+      { "term": "Place Value", "definition": "The position of a digit in a number determines its value. In 4,725, the 4 is in the thousands place, 7 in hundreds, 2 in tens, and 5 in ones." },
+      { "term": "Absolute Value", "definition": "The distance a number is from zero on the number line, always expressed as a positive number. |−8| = 8 and |8| = 8." },
+      { "term": "Factors vs. Multiples", "definition": "Factors are numbers that divide evenly into a given number (factors of 12: 1, 2, 3, 4, 6, 12). Multiples are what you get when you multiply a number by whole numbers (multiples of 4: 4, 8, 12, 16...)." }
+    ]
+  },
+  {
+    "chapter": "math",
+    "difficulty": "intermediate",
+    "title": "Mathematical Reasoning",
+    "subtitle": "Variables, equations, ratios, slope, and the coordinate plane",
+    "points": [
+      { "term": "Variables", "definition": "Letters (usually x or y) that represent unknown numbers in an expression or equation. Solving for a variable means finding the value that makes the equation true." },
+      { "term": "Solving One-Step Equations", "definition": "Use the inverse (opposite) operation to isolate the variable. Example: x + 5 = 12 → subtract 5 from both sides → x = 7." },
+      { "term": "Solving Two-Step Equations", "definition": "Undo addition or subtraction first, then undo multiplication or division. Example: 2x + 3 = 11 → subtract 3 → 2x = 8 → divide by 2 → x = 4." },
+      { "term": "Inequalities", "definition": "Statements that compare values using <, >, ≤, or ≥. Solve like an equation, but if you multiply or divide by a negative number, flip the inequality sign." },
+      { "term": "Ratios and Proportions", "definition": "A ratio compares two quantities (e.g., 3:4). A proportion states two ratios are equal (3/4 = 6/8). Cross-multiply to solve for an unknown value in a proportion." },
+      { "term": "Unit Rate", "definition": "A ratio with a denominator of 1, expressing how much of something exists per single unit. Example: 60 miles per 1 hour = a unit rate of 60 mph." },
+      { "term": "Slope (Rise over Run)", "definition": "Slope measures the steepness of a line: slope = (change in y) ÷ (change in x), or rise/run. A positive slope goes up left to right; a negative slope goes down." },
+      { "term": "Slope-Intercept Form (y = mx + b)", "definition": "The equation of a line where m is the slope and b is the y-intercept (where the line crosses the y-axis). Use this form to graph a line or identify its steepness and starting point." },
+      { "term": "Coordinate Plane", "definition": "A grid formed by a horizontal x-axis and a vertical y-axis intersecting at the origin (0, 0). Points are written as ordered pairs (x, y) and plotted by moving right/left then up/down." },
+      { "term": "Exponents", "definition": "A shorthand for repeated multiplication. 3⁴ means 3 × 3 × 3 × 3 = 81. The base is 3 and the exponent (or power) is 4." },
+      { "term": "Square Roots", "definition": "The square root of a number is the value that, when multiplied by itself, gives the original number. √49 = 7 because 7 × 7 = 49." }
+    ]
+  },
+  {
+    "chapter": "math",
+    "difficulty": "advanced",
+    "title": "Mathematical Reasoning",
+    "subtitle": "Geometry, data analysis, probability, and quadratics",
+    "points": [
+      { "term": "Area and Perimeter — Rectangle", "definition": "Perimeter = 2l + 2w (add all four sides). Area = length × width (measured in square units). Always keep the same unit of measurement throughout the calculation." },
+      { "term": "Area — Triangle", "definition": "Area = ½ × base × height. The height must be perpendicular (at a right angle) to the base, not necessarily a side of the triangle." },
+      { "term": "Area and Circumference — Circle", "definition": "Area = πr² and Circumference = 2πr, where r is the radius (half the diameter). Use π ≈ 3.14 unless told otherwise on the GED." },
+      { "term": "Volume — Rectangular Prism", "definition": "Volume = length × width × height, measured in cubic units. Example: a box that is 4 × 3 × 2 feet has a volume of 24 cubic feet." },
+      { "term": "Volume — Cylinder", "definition": "Volume = πr²h, where r is the radius of the circular base and h is the height. Find the area of the circle first, then multiply by the height." },
+      { "term": "Pythagorean Theorem (a² + b² = c²)", "definition": "In a right triangle, the square of the hypotenuse (longest side, c) equals the sum of the squares of the other two sides. Use it to find a missing side length." },
+      { "term": "Mean, Median, Mode", "definition": "Mean is the average (sum ÷ count). Median is the middle value when data is ordered. Mode is the value that appears most often. Outliers affect the mean more than the median." },
+      { "term": "Probability", "definition": "Probability = (number of favorable outcomes) ÷ (total number of possible outcomes), expressed as a fraction, decimal, or percent. A probability of 0 is impossible; 1 is certain." },
+      { "term": "Reading Charts and Graphs", "definition": "Identify the title, axis labels, and scale before drawing conclusions. Bar graphs compare categories, line graphs show change over time, and circle (pie) graphs show parts of a whole." },
+      { "term": "Quadratic Equations", "definition": "Equations in the form ax² + bx + c = 0, producing a parabola when graphed. On the GED, you may be asked to identify solutions (x-intercepts) or the vertex (highest or lowest point) from a graph or table." }
+    ]
+  },
+  {
+    "chapter": "science",
+    "difficulty": "beginner",
+    "title": "Science",
+    "subtitle": "Scientific method, cells, ecosystems, matter, and Earth science",
+    "points": [
+      { "term": "Scientific Method", "definition": "A step-by-step process for investigation: (1) Ask a question, (2) Research, (3) Form a hypothesis, (4) Experiment, (5) Analyze data, (6) Draw a conclusion. It ensures results are reliable and repeatable." },
+      { "term": "Cell Parts — Nucleus", "definition": "The control center of the cell, containing DNA that carries genetic instructions for growth, function, and reproduction. Only eukaryotic cells (plant and animal) have a true nucleus." },
+      { "term": "Cell Parts — Cell Membrane", "definition": "A thin, flexible barrier surrounding every cell that controls what enters and exits. It allows nutrients in and waste products out, maintaining the cell's internal environment." },
+      { "term": "Cell Parts — Mitochondria", "definition": "Often called the 'powerhouse of the cell,' the mitochondria convert glucose and oxygen into energy (ATP) the cell can use. Cells that need a lot of energy (like muscle cells) have more mitochondria." },
+      { "term": "Plant vs. Animal Cells", "definition": "Plant cells have a rigid cell wall, chloroplasts (for photosynthesis), and a large central vacuole — features animal cells lack. Both have a nucleus, membrane, and mitochondria." },
+      { "term": "Food Chain", "definition": "Shows the transfer of energy from one organism to the next: Producers (plants) → Primary consumers (herbivores) → Secondary consumers (carnivores) → Decomposers (fungi, bacteria). Energy decreases at each level." },
+      { "term": "States of Matter", "definition": "Matter exists as solid (fixed shape and volume), liquid (fixed volume, takes shape of container), or gas (expands to fill its container). Heat can cause matter to change from one state to another." },
+      { "term": "Types of Energy", "definition": "Energy exists in many forms: kinetic (energy of motion), potential (stored energy), thermal (heat), chemical (stored in bonds), electrical, and radiant (light). Energy can change forms but is never created or destroyed." },
+      { "term": "Earth's Layers", "definition": "Earth has four main layers: crust (thin outer surface), mantle (thick rock layer), outer core (liquid iron and nickel), and inner core (solid iron and nickel). Temperature and pressure increase toward the center." },
+      { "term": "Water Cycle", "definition": "The continuous movement of water through the environment: evaporation (water rises as vapor), condensation (vapor forms clouds), precipitation (rain or snow falls), and collection (water gathers in oceans, lakes, and groundwater)." }
+    ]
+  },
+  {
+    "chapter": "science",
+    "difficulty": "intermediate",
+    "title": "Science",
+    "subtitle": "Genetics, natural selection, chemistry basics, Newton's laws, and Earth systems",
+    "points": [
+      { "term": "DNA and Heredity", "definition": "DNA (deoxyribonucleic acid) contains the genetic instructions for all living organisms. It is organized into chromosomes inside the nucleus, and segments of DNA called genes determine specific traits." },
+      { "term": "Dominant vs. Recessive Traits", "definition": "A dominant allele (represented by a capital letter) masks a recessive allele (lowercase) when both are present. A recessive trait is only expressed when an organism inherits two recessive alleles." },
+      { "term": "Punnett Squares", "definition": "A grid used to predict the probability of offspring inheriting specific traits from two parents. Each parent contributes one allele per square, and the combinations show possible genotypes." },
+      { "term": "Natural Selection", "definition": "The process by which individuals with traits better suited to their environment survive and reproduce more successfully, passing those advantageous traits to offspring. Over generations, this drives evolution." },
+      { "term": "Chemical vs. Physical Change", "definition": "A physical change alters form or appearance without creating a new substance (e.g., cutting wood, melting ice). A chemical change produces one or more new substances with different properties (e.g., burning, rusting)." },
+      { "term": "Atoms, Elements, and Compounds", "definition": "An atom is the smallest unit of an element. An element is a pure substance made of one type of atom (e.g., oxygen). A compound is two or more elements chemically bonded together (e.g., water, H₂O)." },
+      { "term": "Newton's First Law (Inertia)", "definition": "An object at rest stays at rest, and an object in motion stays in motion at the same speed and direction, unless acted on by an unbalanced force. This is also called the law of inertia." },
+      { "term": "Newton's Second Law (F = ma)", "definition": "Force equals mass times acceleration (F = ma). A greater force produces greater acceleration, and a heavier object requires more force to accelerate at the same rate as a lighter one." },
+      { "term": "Newton's Third Law (Action-Reaction)", "definition": "For every action, there is an equal and opposite reaction. When you push off a wall, the wall pushes back with the same force in the opposite direction." },
+      { "term": "Plate Tectonics", "definition": "Earth's crust is divided into large plates that move slowly over the mantle. Their interactions cause earthquakes, volcanic activity, and the formation of mountains at plate boundaries." },
+      { "term": "Weather vs. Climate", "definition": "Weather is the short-term atmospheric conditions in a specific location (today's temperature, rain). Climate is the long-term average of weather patterns for a region over many years." },
+      { "term": "Greenhouse Effect", "definition": "A natural process where gases like CO₂ and water vapor trap heat from the sun in Earth's atmosphere, keeping the planet warm. Human activity is increasing greenhouse gases, intensifying this effect and causing global warming." }
+    ]
+  },
+  {
+    "chapter": "science",
+    "difficulty": "advanced",
+    "title": "Science",
+    "subtitle": "Photosynthesis, cellular respiration, atomic structure, and experimental design",
+    "points": [
+      { "term": "Photosynthesis", "definition": "The process by which plants use sunlight, water, and carbon dioxide to produce glucose and oxygen: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. It occurs in the chloroplasts and is the foundation of most food chains." },
+      { "term": "Cellular Respiration", "definition": "The process cells use to break down glucose into usable energy (ATP): C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy. It is essentially the reverse of photosynthesis and occurs in the mitochondria." },
+      { "term": "Atomic Structure", "definition": "An atom has a nucleus containing protons (positive charge) and neutrons (no charge), surrounded by electrons (negative charge) in energy shells. The number of protons determines which element an atom is." },
+      { "term": "Atomic Number and Mass", "definition": "The atomic number is the number of protons in an atom and identifies the element. Atomic mass is the total of protons plus neutrons in the nucleus (electrons have negligible mass)." },
+      { "term": "Periodic Table Layout", "definition": "Elements are arranged by increasing atomic number. Rows (periods) indicate the number of electron shells; columns (groups) share similar chemical properties. Metals are on the left, nonmetals on the right, and metalloids form a staircase between them." },
+      { "term": "Electromagnetic Spectrum", "definition": "The full range of electromagnetic radiation ordered by wavelength and frequency, from longest (radio waves) to shortest (gamma rays): radio, microwave, infrared, visible light, ultraviolet, X-ray, gamma ray. Higher frequency = more energy." },
+      { "term": "Control Group", "definition": "In an experiment, the control group is the standard of comparison — it does not receive the experimental treatment. It allows scientists to isolate the effect of the independent variable." },
+      { "term": "Independent Variable", "definition": "The variable that the experimenter deliberately changes or controls to test its effect. Only one independent variable should be changed at a time to ensure valid results." },
+      { "term": "Dependent Variable", "definition": "The variable that is measured and observed during an experiment. It 'depends' on changes made to the independent variable and shows whether the hypothesis is supported." },
+      { "term": "Interpreting Data and Graphs", "definition": "Look for trends (increasing, decreasing, constant), anomalies (data points that don't fit the pattern), and correlations. Always distinguish between correlation (two things are related) and causation (one thing causes the other)." }
+    ]
+  },
+  {
+    "chapter": "social-studies",
+    "difficulty": "beginner",
+    "title": "Social Studies",
+    "subtitle": "Founding documents, government structure, U.S. history, and geography basics",
+    "points": [
+      { "term": "Declaration of Independence (1776)", "definition": "The document in which the American colonies declared their separation from Britain, asserting that all people have unalienable rights including life, liberty, and the pursuit of happiness." },
+      { "term": "The U.S. Constitution", "definition": "The supreme law of the United States, establishing the structure of the federal government and the fundamental rights of citizens. It was ratified in 1788 and remains in effect today." },
+      { "term": "Three Branches of Government", "definition": "The federal government is divided into the Legislative (Congress — makes laws), Executive (President — enforces laws), and Judicial (Supreme Court — interprets laws) branches to prevent any one branch from having too much power." },
+      { "term": "Bill of Rights", "definition": "The first ten amendments to the Constitution, ratified in 1791, guaranteeing individual freedoms such as freedom of speech, religion, and the press (1st), and the right to bear arms (2nd)." },
+      { "term": "American Revolution (1775–1783)", "definition": "The conflict in which the thirteen American colonies fought for and won independence from British rule. Key causes include 'taxation without representation' and restrictive British trade laws." },
+      { "term": "Civil War (1861–1865)", "definition": "A war between the Northern states (Union) and Southern states (Confederacy) primarily over slavery and states' rights. The Union victory preserved the nation and led to the abolition of slavery." },
+      { "term": "Supply and Demand", "definition": "A basic economic principle: when supply of a good increases (or demand decreases), prices tend to fall; when supply decreases (or demand increases), prices tend to rise. Markets balance through this relationship." },
+      { "term": "Types of Maps", "definition": "Political maps show borders and cities; physical maps show terrain and landforms; thematic maps highlight specific data like population or climate. Each map type serves a different purpose for understanding geography." }
+    ]
+  },
+  {
+    "chapter": "social-studies",
+    "difficulty": "intermediate",
+    "title": "Social Studies",
+    "subtitle": "Civil rights, world wars, government processes, and economics",
+    "points": [
+      { "term": "Civil Rights Movement (1950s–1960s)", "definition": "A movement led by African Americans and allies to end racial segregation and discrimination. Key events include the Montgomery Bus Boycott, March on Washington, and passage of the Civil Rights Act of 1964." },
+      { "term": "World War I (1914–1918)", "definition": "A global conflict triggered by the assassination of Archduke Franz Ferdinand, with underlying causes including militarism, alliances, imperialism, and nationalism (MAIN). The Treaty of Versailles ended the war but imposed harsh penalties on Germany." },
+      { "term": "World War II (1939–1945)", "definition": "A worldwide conflict fought between the Allies (U.S., Britain, Soviet Union) and the Axis powers (Germany, Italy, Japan). It ended with Germany's defeat in Europe and Japan's surrender after atomic bombs were dropped on Hiroshima and Nagasaki." },
+      { "term": "Cold War (1947–1991)", "definition": "A period of political and military tension between the United States (capitalism/democracy) and the Soviet Union (communism) that stopped short of direct armed conflict. It featured an arms race, the Space Race, and proxy wars." },
+      { "term": "Democracy vs. Dictatorship", "definition": "In a democracy, citizens elect leaders and power is distributed through checks and balances. In a dictatorship, a single leader or party holds absolute power without free elections or constitutional limits." },
+      { "term": "How a Bill Becomes a Law", "definition": "A bill is introduced in Congress, debated and voted on in both the House and Senate, then sent to the President — who can sign it into law or veto it. Congress can override a veto with a two-thirds vote in both chambers." },
+      { "term": "Electoral College", "definition": "The system used to elect the U.S. President, in which each state is assigned a number of electors roughly proportional to its population. A candidate needs 270 of 538 electoral votes to win." },
+      { "term": "Gross Domestic Product (GDP)", "definition": "The total monetary value of all goods and services produced within a country in a given year. It is the most common measure of a nation's economic output and health." },
+      { "term": "Inflation", "definition": "The general rise in prices over time, which reduces the purchasing power of money. Moderate inflation is normal in a growing economy, but rapid inflation can harm consumers and destabilize the economy." },
+      { "term": "Unemployment Rate", "definition": "The percentage of the labor force that is actively seeking work but unable to find it. High unemployment signals economic distress; very low unemployment can indicate a strong economy or even labor shortages." }
+    ]
+  },
+  {
+    "chapter": "social-studies",
+    "difficulty": "advanced",
+    "title": "Social Studies",
+    "subtitle": "Amendments, Supreme Court cases, economic policy, and historical analysis",
+    "points": [
+      { "term": "13th Amendment (1865)", "definition": "Abolished slavery and involuntary servitude throughout the United States, except as punishment for a crime. It was ratified shortly after the Civil War ended." },
+      { "term": "14th Amendment (1868)", "definition": "Granted citizenship to all persons born or naturalized in the United States and guaranteed equal protection under the law. It became the constitutional basis for many later civil rights cases." },
+      { "term": "15th Amendment (1870)", "definition": "Prohibited the federal government and states from denying the right to vote based on race, color, or previous condition of servitude, giving Black men the legal right to vote." },
+      { "term": "19th Amendment (1920)", "definition": "Granted women the right to vote, stating that voting rights cannot be denied based on sex. It was the result of decades of activism by the women's suffrage movement." },
+      { "term": "Brown v. Board of Education (1954)", "definition": "A landmark Supreme Court case that declared racial segregation in public schools unconstitutional, overturning the 'separate but equal' doctrine established by Plessy v. Ferguson (1896)." },
+      { "term": "Marbury v. Madison (1803)", "definition": "The Supreme Court case that established the principle of judicial review — the Court's power to strike down laws that violate the Constitution. It remains a cornerstone of American constitutional law." },
+      { "term": "Fiscal Policy", "definition": "Government decisions about taxing and spending to influence the economy. During recessions, governments may increase spending or cut taxes (expansionary policy); during inflation, they may do the opposite (contractionary policy)." },
+      { "term": "Monetary Policy", "definition": "Actions taken by a central bank (the Federal Reserve in the U.S.) to control the money supply and interest rates to manage inflation and economic growth. Lowering interest rates encourages borrowing and spending." },
+      { "term": "Primary Source Analysis", "definition": "A primary source is a firsthand document or artifact from the time period being studied (e.g., speeches, letters, photographs). Analyzing it means identifying the author's purpose, audience, perspective, and bias." },
+      { "term": "Cause and Effect in History", "definition": "Historical events have causes (factors that led to the event) and effects (consequences that resulted from it). Strong analysis distinguishes between immediate causes (triggers) and underlying causes (long-term conditions)." }
+    ]
+  },
+  {
+    "chapter": "rla",
+    "difficulty": "beginner",
+    "title": "Reasoning Through Language Arts",
+    "subtitle": "Reading comprehension, parts of speech, grammar, and punctuation basics",
+    "points": [
+      { "term": "Main Idea", "definition": "The central point or message an author is trying to communicate in a passage. It is broader than any single detail and is often stated in the first or last sentence of a paragraph." },
+      { "term": "Supporting Details", "definition": "Facts, examples, reasons, or descriptions that explain and reinforce the main idea. They provide evidence that the main idea is true or important." },
+      { "term": "Context Clues", "definition": "Words and phrases surrounding an unfamiliar word that help you figure out its meaning without a dictionary. Look for definitions, synonyms, antonyms, or examples near the unknown word." },
+      { "term": "Nouns", "definition": "Words that name a person, place, thing, or idea (e.g., teacher, city, book, freedom). Proper nouns name specific people or places and are always capitalized." },
+      { "term": "Verbs", "definition": "Words that express an action (run, write) or a state of being (is, seems, feels). Every complete sentence must contain a verb." },
+      { "term": "Adjectives and Adverbs", "definition": "Adjectives describe or modify nouns (a tall building). Adverbs modify verbs, adjectives, or other adverbs and often end in -ly (she ran quickly; very tall building)." },
+      { "term": "Sentence vs. Fragment", "definition": "A complete sentence has a subject (who or what) and a predicate (verb or action) and expresses a complete thought. A fragment is missing one of these elements and cannot stand alone." },
+      { "term": "Subject-Verb Agreement", "definition": "A singular subject takes a singular verb; a plural subject takes a plural verb. Example: 'She runs every day' (singular) vs. 'They run every day' (plural)." },
+      { "term": "Basic Punctuation", "definition": "Periods end statements, question marks end questions, and exclamation marks end strong expressions. Commas separate items in a list and connect clauses with coordinating conjunctions (for, and, nor, but, or, yet, so — FANBOYS)." },
+      { "term": "Capitalization Rules", "definition": "Capitalize the first word of a sentence, proper nouns (names of specific people, places, and things), titles when used before a name, and the pronoun 'I.' Do not capitalize common nouns unless they start a sentence." },
+      { "term": "Homophones", "definition": "Words that sound alike but have different spellings and meanings. Common examples: their/there/they're, your/you're, its/it's, to/too/two. Context determines which spelling is correct." }
+    ]
+  },
+  {
+    "chapter": "rla",
+    "difficulty": "intermediate",
+    "title": "Reasoning Through Language Arts",
+    "subtitle": "Author's purpose, text structure, essay basics, and grammar rules",
+    "points": [
+      { "term": "Author's Purpose", "definition": "The reason an author writes a text — to inform (explain facts), to persuade (change the reader's opinion), or to entertain (tell a story). Identifying the purpose helps you understand how to evaluate the content." },
+      { "term": "Tone and Mood", "definition": "Tone is the author's attitude toward the subject (formal, sarcastic, optimistic). Mood is the feeling the text creates in the reader. Both are revealed through word choice and style." },
+      { "term": "Compare and Contrast", "definition": "A text structure that examines the similarities (compare) and differences (contrast) between two or more subjects. Signal words include 'similarly,' 'however,' 'on the other hand,' and 'in contrast.'" },
+      { "term": "Thesis Statement", "definition": "A sentence — usually at the end of an introduction — that states the main argument or central claim of an essay. A strong thesis is specific, debatable, and supported by the evidence in the body paragraphs." },
+      { "term": "Paragraph Structure", "definition": "A well-organized paragraph has a topic sentence (main point), supporting sentences (evidence and explanation), and a concluding or transition sentence. Each paragraph should focus on one idea." },
+      { "term": "Comma Rules", "definition": "Use commas to separate items in a list, after introductory phrases, before coordinating conjunctions joining two independent clauses, and to set off nonessential (extra) information within a sentence." },
+      { "term": "Pronoun-Antecedent Agreement", "definition": "A pronoun must agree in number and gender with the noun it replaces (its antecedent). Example: 'The student forgot her book' (singular). Avoid vague pronoun references by making the antecedent clear." },
+      { "term": "Commonly Confused Words", "definition": "Words that are easy to mix up: affect (verb: to influence) vs. effect (noun: the result); than (comparison) vs. then (time); who (subject) vs. whom (object); fewer (countable) vs. less (uncountable)." }
+    ]
+  },
+  {
+    "chapter": "rla",
+    "difficulty": "advanced",
+    "title": "Reasoning Through Language Arts",
+    "subtitle": "Argument analysis, essay structure, advanced grammar, and source evaluation",
+    "points": [
+      { "term": "Argument Structure (Claim, Evidence, Reasoning)", "definition": "A strong argument states a clear claim (position), supports it with evidence (facts, data, examples), and provides reasoning (explanation of how the evidence supports the claim). All three components work together." },
+      { "term": "Logical Fallacies", "definition": "Errors in reasoning that weaken an argument. Common examples: ad hominem (attacking the person rather than the argument), straw man (misrepresenting an opponent's view), and false dichotomy (presenting only two options when more exist)." },
+      { "term": "Essay Structure", "definition": "A formal essay has an introduction (hook, background, thesis), body paragraphs (each with a topic sentence, evidence, and analysis), and a conclusion (restate thesis, summarize key points, closing thought)." },
+      { "term": "Transitions", "definition": "Words and phrases that connect ideas within and between paragraphs. Common transitions: 'furthermore,' 'however,' 'therefore,' 'in contrast,' 'as a result,' and 'for example.' They signal the relationship between ideas." },
+      { "term": "Parallel Structure", "definition": "Using the same grammatical form for all items in a series or comparison. Incorrect: 'She likes running, to swim, and bikes.' Correct: 'She likes running, swimming, and biking.'" },
+      { "term": "Semicolons and Colons", "definition": "A semicolon (;) connects two closely related independent clauses without a conjunction. A colon (:) introduces a list, explanation, or quotation after a complete independent clause." },
+      { "term": "Source Credibility", "definition": "Evaluate sources by considering the author's credentials, the publication's reputation, the date of publication, evidence of bias, and whether claims are supported by data or references. Reliable sources strengthen your argument." },
+      { "term": "Synthesizing Multiple Sources", "definition": "Combining information from two or more texts to form a deeper understanding or a new argument. Look for agreements, contradictions, and gaps between sources, and explain how they connect to your thesis." },
+      { "term": "Extended Response (GED Essay)", "definition": "The GED RLA Extended Response requires you to analyze an argument in a provided passage, write a response supported by evidence from the text, and demonstrate organized, grammatically correct writing within 45 minutes." }
+    ]
+  }
+]
