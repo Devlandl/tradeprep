@@ -279,6 +279,40 @@ export const trades: Trade[] = [
       },
     ],
   },
+  {
+    id: "ged",
+    name: "GED",
+    slug: "ged",
+    description:
+      "Prepare for your GED exam. Covers math, science, social studies, and reasoning through language arts.",
+    color: "text-sky-500",
+    bgColor: "bg-sky-50",
+    icon: "GraduationCap",
+    storeSlug: "tradeprep-ged",
+    storeUrl: "https://tvrapp.app/store/tradeprep-ged",
+    chapters: [
+      {
+        id: "math",
+        name: "Mathematical Reasoning",
+        description: "Number operations, algebra, geometry, data analysis, word problems",
+      },
+      {
+        id: "science",
+        name: "Science",
+        description: "Life science, physical science, earth/space science, scientific reasoning",
+      },
+      {
+        id: "social-studies",
+        name: "Social Studies",
+        description: "US history, civics/government, economics, geography",
+      },
+      {
+        id: "rla",
+        name: "Reasoning Through Language Arts",
+        description: "Reading comprehension, grammar, writing structure, vocabulary in context",
+      },
+    ],
+  },
 ];
 
 export const difficulties = ["beginner", "intermediate", "advanced"] as const;
